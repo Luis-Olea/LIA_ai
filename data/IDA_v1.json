@@ -1,0 +1,822 @@
+{
+    "main_topic": "Reglamento General de Ingreso de Alumnos a la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "objeto_reglamento",
+            "patterns": [
+                "¿Cuál es el objeto del Reglamento General de Ingreso de Alumnos?",
+                "¿Qué define el Artículo 1 del Reglamento de Ingreso?",
+                "¿Qué establece el Artículo 1 sobre el ingreso de alumnos?",
+                "¿Para qué sirve el Reglamento de Ingreso de Alumnos?",
+                "¿Qué regula el Artículo 1 del Reglamento de Ingreso?",
+                "¿Qué propósito tiene el Reglamento de Ingreso de Alumnos?",
+                "¿Qué aspectos cubre el Artículo 1 del Reglamento?",
+                "¿Qué se define en el Artículo 1 del Reglamento de Ingreso?",
+                "¿Qué función tiene el Reglamento de Ingreso de Alumnos?",
+                "¿Qué se establece en el Artículo 1 sobre los criterios de ingreso?"
+            ],
+            "responses": [
+                "📘 El Artículo 1 establece que el Reglamento General de Ingreso de Alumnos tiene por objeto definir los criterios, requisitos y procedimientos para la admisión de alumnos a la Universidad de Guadalajara. 🎓",
+                "🔹 El propósito del Reglamento es regular el proceso de ingreso de alumnos, estableciendo los requisitos y procedimientos necesarios. 📋",
+                "🎯 El Artículo 1 define que el Reglamento se enfoca en los criterios y requisitos para el ingreso de alumnos a la universidad. 🏛️",
+                "📘 El Reglamento de Ingreso de Alumnos sirve para establecer las normas que rigen el proceso de admisión a la Universidad de Guadalajara. ✅",
+                "🔹 El Artículo 1 regula los aspectos relacionados con la admisión de alumnos, incluyendo requisitos y procedimientos. 📜",
+                "🎯 El propósito del Reglamento es garantizar un proceso de ingreso justo y transparente para los aspirantes. ⚖️",
+                "📘 El Artículo 1 cubre los criterios, requisitos y procedimientos para el ingreso de alumnos a la universidad. 🎓",
+                "🔹 En el Artículo 1 se define que el Reglamento establece las normas para la admisión de alumnos. 📋",
+                "🎯 La función del Reglamento de Ingreso es regular el proceso de admisión de alumnos a la Universidad de Guadalajara. 🏛️",
+                "📘 El Artículo 1 establece que el Reglamento define los criterios y requisitos para el ingreso de alumnos. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 1",
+            "topic": "Objeto del Reglamento"
+        },
+        {
+            "tag": "proceso_seleccion",
+            "patterns": [
+                "¿Qué establece el Artículo 2 sobre el proceso de selección?",
+                "¿Qué deben hacer los aspirantes para ingresar a la Universidad según el Artículo 2?",
+                "¿Qué requisitos deben cumplir los aspirantes según el Artículo 2?",
+                "¿Qué dice el Artículo 2 sobre el ingreso de alumnos?",
+                "¿Cómo se lleva a cabo el proceso de selección según el Artículo 2?",
+                "¿Qué condiciones deben cumplir los aspirantes para ingresar a la universidad?",
+                "¿Qué establece el Artículo 2 sobre los requisitos de ingreso?",
+                "¿Qué procedimientos se siguen para el ingreso de alumnos según el Artículo 2?",
+                "¿Qué se requiere para ser admitido en la Universidad según el Artículo 2?",
+                "¿Qué regula el Artículo 2 sobre el ingreso de alumnos?"
+            ],
+            "responses": [
+                "📘 El Artículo 2 establece que los aspirantes deben sujetarse al proceso de selección que la Universidad de Guadalajara lleve a cabo para el nivel correspondiente. 🎓",
+                "🔹 Los aspirantes deben cumplir con los requisitos y condiciones que la universidad establezca para el ingreso. 📋",
+                "🎯 El Artículo 2 menciona que los interesados deben seguir el proceso de selección y cumplir con los requisitos establecidos. 🏛️",
+                "📘 Para ingresar a la universidad, los aspirantes deben participar en el proceso de selección y cumplir con los requisitos. ✅",
+                "🔹 El Artículo 2 regula que el ingreso de alumnos se realiza a través de un proceso de selección y cumplimiento de requisitos. 📜",
+                "🎯 Los aspirantes deben cumplir con las condiciones y requisitos que la universidad establezca para ser admitidos. ⚖️",
+                "📘 El Artículo 2 establece que el proceso de selección es obligatorio para todos los aspirantes. 🎓",
+                "🔹 Los aspirantes deben seguir los procedimientos y requisitos que la universidad defina para el ingreso. 📋",
+                "🎯 El Artículo 2 regula que el ingreso de alumnos depende del cumplimiento de los requisitos y del proceso de selección. 🏛️",
+                "📘 El Artículo 2 establece que los aspirantes deben cumplir con los requisitos y participar en el proceso de selección para ser admitidos. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 2",
+            "topic": "Proceso de Selección"
+        },
+        {
+            "tag": "definicion_aspirante",
+            "patterns": [
+                "¿Qué define el Artículo 3 sobre los aspirantes?",
+                "¿Quién es considerado aspirante según el Artículo 3?",
+                "¿Qué se entiende por aspirante en el Reglamento de Ingreso?",
+                "¿Qué establece el Artículo 3 sobre los trámites de ingreso?",
+                "¿Qué define el Artículo 3 sobre los aspirantes a la universidad?",
+                "¿Qué se requiere para ser considerado aspirante según el Artículo 3?",
+                "¿Qué trámites deben realizar los aspirantes según el Artículo 3?",
+                "¿Qué dice el Artículo 3 sobre los aspirantes y su proceso de ingreso?",
+                "¿Qué se define en el Artículo 3 sobre los aspirantes?",
+                "¿Qué regula el Artículo 3 sobre los aspirantes?"
+            ],
+            "responses": [
+                "📘 El Artículo 3 define que se considera aspirante a la persona que realiza formalmente todos los trámites para ingresar a la Universidad. 🎓",
+                "🔹 Según el Artículo 3, un aspirante es quien completa los trámites necesarios para ser admitido en la universidad. 📋",
+                "🎯 El Artículo 3 establece que un aspirante es quien realiza los trámites formales para ingresar a la Universidad de Guadalajara. 🏛️",
+                "📘 Para ser considerado aspirante, se deben completar todos los trámites de ingreso, según el Artículo 3. ✅",
+                "🔹 El Artículo 3 regula que los aspirantes son quienes realizan los trámites formales para ingresar a la universidad. 📜",
+                "🎯 El Artículo 3 define que los aspirantes deben cumplir con los trámites establecidos para ser admitidos. ⚖️",
+                "📘 Los aspirantes deben realizar los trámites formales de ingreso, según lo establecido en el Artículo 3. 🎓",
+                "🔹 El Artículo 3 menciona que los aspirantes son quienes completan los trámites necesarios para ingresar a la universidad. 📋",
+                "🎯 El Artículo 3 regula que los aspirantes deben cumplir con los trámites formales para ser admitidos. 🏛️",
+                "📘 El Artículo 3 establece que los aspirantes son quienes realizan los trámites de ingreso de manera formal. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 3",
+            "topic": "Definición de Aspirante"
+        },
+        {
+            "tag": "definicion_ingreso_inscripcion",
+            "patterns": [
+                "¿Qué define el Artículo 4 sobre el ingreso?",
+                "¿Qué se entiende por ingreso según el Artículo 4?",
+                "¿Qué establece el Artículo 4 sobre la inscripción?",
+                "¿Qué es la reinscripción según el Artículo 4?",
+                "¿Qué define el Artículo 4 sobre los requisitos para concurso?",
+                "¿Qué son los criterios de selección según el Artículo 4?",
+                "¿Qué se entiende por ingreso, inscripción y reinscripción en el Artículo 4?",
+                "¿Qué regula el Artículo 4 sobre los trámites de ingreso?",
+                "¿Qué establece el Artículo 4 sobre los criterios de selección?",
+                "¿Qué define el Artículo 4 sobre los requisitos para concurso?"
+            ],
+            "responses": [
+                "📘 El Artículo 4 define que el ingreso es el conjunto de trámites que una persona debe realizar para ser admitida en la Universidad. 🎓",
+                "🔹 Según el Artículo 4, la inscripción es el procedimiento administrativo mediante el cual la Universidad registra al alumno en un programa académico. 📋",
+                "🎯 El Artículo 4 establece que la reinscripción es el trámite que realiza un alumno para continuar en el nivel educativo correspondiente. 🏛️",
+                "📘 Los requisitos para concurso son los elementos indispensables que un aspirante debe cumplir para tener derecho a concursar para el ingreso, según el Artículo 4. ✅",
+                "🔹 El Artículo 4 define que los criterios de selección son los elementos a considerar para determinar el ingreso de los aspirantes a un programa académico. 📜",
+                "🎯 El Artículo 4 regula que los criterios de selección deben tener una ponderación y sumar el 100%. ⚖️",
+                "📘 El Artículo 4 define que el ingreso incluye la presentación de solicitudes, documentos y exámenes. 🎓",
+                "🔹 La inscripción, según el Artículo 4, es el registro del alumno en un programa académico específico. 📋",
+                "🎯 El Artículo 4 establece que la reinscripción es el trámite para continuar estudios después de un ciclo escolar. 🏛️",
+                "📘 Los criterios de selección, según el Artículo 4, son los elementos que determinan el ingreso de los aspirantes a un programa académico. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 4",
+            "topic": "Definición de Ingreso, Inscripción y Reinscripción"
+        },
+        {
+            "tag": "calendarios_tramites",
+            "patterns": [
+                "¿Qué establece el Artículo 5 sobre los calendarios de trámites?",
+                "¿Quién emite los lineamientos para los calendarios de trámites según el Artículo 5?",
+                "¿Qué regula el Artículo 5 sobre los trámites de selección?",
+                "¿Qué dice el Artículo 5 sobre los calendarios de trámites?",
+                "¿Quién es responsable de los calendarios de trámites según el Artículo 5?",
+                "¿Qué establece el Artículo 5 sobre los lineamientos para los trámites?",
+                "¿Qué regula el Artículo 5 sobre los procesos de selección?",
+                "¿Qué se define en el Artículo 5 sobre los calendarios de trámites?",
+                "¿Qué establece el Artículo 5 sobre los trámites de ingreso?",
+                "¿Qué dice el Artículo 5 sobre los lineamientos para los calendarios de trámites?"
+            ],
+            "responses": [
+                "📘 El Artículo 5 establece que los calendarios de trámites para la selección de alumnos se realizarán de conformidad con los lineamientos emitidos por el Rector General. 🎓",
+                "🔹 Según el Artículo 5, el Rector General es quien emite los lineamientos para los calendarios de trámites. 📋",
+                "🎯 El Artículo 5 regula que los trámites de selección deben seguir los calendarios establecidos por el Rector General. 🏛️",
+                "📘 Los calendarios de trámites, según el Artículo 5, deben seguir los lineamientos emitidos por el Rector General. ✅",
+                "🔹 El Artículo 5 establece que el Rector General es responsable de emitir los lineamientos para los calendarios de trámites. 📜",
+                "🎯 El Artículo 5 regula que los procesos de selección deben ajustarse a los calendarios de trámites emitidos por el Rector General. ⚖️",
+                "📘 El Artículo 5 define que los calendarios de trámites son responsabilidad del Rector General. 🎓",
+                "🔹 Según el Artículo 5, los trámites de ingreso deben seguir los calendarios establecidos por el Rector General. 📋",
+                "🎯 El Artículo 5 establece que los lineamientos para los calendarios de trámites son emitidos por el Rector General. 🏛️",
+                "📘 El Artículo 5 regula que los calendarios de trámites deben seguir los lineamientos del Rector General. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 5",
+            "topic": "Calendarios de Trámites"
+        },
+        {
+            "tag": "inscripciones_primer_ingreso",
+            "patterns": [
+                "¿Qué establece el Artículo 6 sobre las inscripciones de primer ingreso?",
+                "¿Qué se considera inscripción de primer ingreso según el Artículo 6?",
+                "¿Qué define el Artículo 6 sobre los aspirantes de primer ingreso?",
+                "¿Qué tipos de inscripciones de primer ingreso existen según el Artículo 6?",
+                "¿Qué regula el Artículo 6 sobre los trámites de primer ingreso?",
+                "¿Qué se entiende por inscripción de primer ingreso en el Artículo 6?",
+                "¿Qué establece el Artículo 6 sobre los aspirantes que ingresan por primera vez?",
+                "¿Qué dice el Artículo 6 sobre los aspirantes que cambian de programa?",
+                "¿Qué define el Artículo 6 sobre las inscripciones de primer ingreso?",
+                "¿Qué regula el Artículo 6 sobre los trámites de primer ingreso?"
+            ],
+            "responses": [
+                "📘 El Artículo 6 establece que las inscripciones de primer ingreso son aquellas que se realizan para ingresar por primera vez a la Universidad de Guadalajara o cuando el aspirante cambia de programa educativo. 🎓",
+                "🔹 Según el Artículo 6, se considera inscripción de primer ingreso cuando un aspirante ingresa por primera vez a la universidad o cambia de programa. 📋",
+                "🎯 El Artículo 6 define que las inscripciones de primer ingreso incluyen a los aspirantes que ingresan por primera vez o cambian de programa educativo. 🏛️",
+                "📘 El Artículo 6 establece dos tipos de inscripciones de primer ingreso: ingresar por primera vez a la universidad o cambiar de programa educativo. ✅",
+                "🔹 El Artículo 6 regula que los trámites de primer ingreso se aplican tanto a nuevos aspirantes como a quienes cambian de programa. 📜",
+                "🎯 El Artículo 6 define que las inscripciones de primer ingreso son para quienes ingresan por primera vez o cambian de programa dentro de la universidad. ⚖️",
+                "📘 El Artículo 6 establece que los aspirantes de primer ingreso son aquellos que ingresan por primera vez a la Universidad de Guadalajara. 🎓",
+                "🔹 Según el Artículo 6, los aspirantes que cambian de programa educativo también se consideran de primer ingreso. 📋",
+                "🎯 El Artículo 6 regula que las inscripciones de primer ingreso incluyen a quienes ingresan por primera vez o cambian de programa. 🏛️",
+                "📘 El Artículo 6 establece que los trámites de primer ingreso son para quienes ingresan por primera vez o cambian de programa educativo. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 6",
+            "topic": "Inscripciones de Primer Ingreso"
+        },
+        {
+            "tag": "calidad_alumnos_primer_ingreso",
+            "patterns": [
+                "¿Qué establece el Artículo 7 sobre la calidad de los alumnos de primer ingreso?",
+                "¿Qué tipos de alumnos de primer ingreso existen según el Artículo 7?",
+                "¿Qué define el Artículo 7 sobre los alumnos ordinarios regulares?",
+                "¿Qué son los alumnos ordinarios condicionales según el Artículo 7?",
+                "¿Qué regula el Artículo 7 sobre los alumnos de primer ingreso?",
+                "¿Qué se entiende por alumno ordinario regular en el Artículo 7?",
+                "¿Qué establece el Artículo 7 sobre los alumnos condicionales?",
+                "¿Qué define el Artículo 7 sobre los alumnos de primer ingreso?",
+                "¿Qué regula el Artículo 7 sobre los alumnos ordinarios?",
+                "¿Qué tipos de alumnos de primer ingreso se mencionan en el Artículo 7?"
+            ],
+            "responses": [
+                "📘 El Artículo 7 establece que los alumnos de primer ingreso pueden ser ordinarios regulares u ordinarios condicionales. 🎓",
+                "🔹 Según el Artículo 7, los alumnos ordinarios regulares son aquellos con expediente completo y sin condiciones. 📋",
+                "🎯 El Artículo 7 define que los alumnos ordinarios condicionales son quienes tienen trámites pendientes de revalidación o convalidación. 🏛️",
+                "📘 El Artículo 7 establece que los alumnos ordinarios regulares están inscritos sin condiciones, mientras que los condicionales tienen trámites pendientes. ✅",
+                "🔹 El Artículo 7 regula que los alumnos de primer ingreso pueden ser ordinarios regulares o condicionales, dependiendo de su situación. 📜",
+                "🎯 El Artículo 7 define que los alumnos ordinarios regulares tienen expediente completo y están inscritos sin condiciones. ⚖️",
+                "📘 El Artículo 7 establece que los alumnos condicionales son quienes tienen trámites pendientes de revalidación o convalidación. 🎓",
+                "🔹 Según el Artículo 7, los alumnos ordinarios regulares no tienen condiciones, mientras que los condicionales sí. 📋",
+                "🎯 El Artículo 7 regula que los alumnos de primer ingreso pueden ser ordinarios regulares o condicionales. 🏛️",
+                "📘 El Artículo 7 menciona dos tipos de alumnos de primer ingreso: ordinarios regulares y condicionales. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 7",
+            "topic": "Calidad de los Alumnos de Primer Ingreso"
+        },
+        {
+            "tag": "requisitos_aspirantes",
+            "patterns": [
+                "¿Qué establece el Artículo 8 sobre los requisitos para ser aspirante?",
+                "¿Qué se requiere para ser considerado aspirante según el Artículo 8?",
+                "¿Qué documentos deben presentar los aspirantes según el Artículo 8?",
+                "¿Qué regula el Artículo 8 sobre los requisitos de ingreso?",
+                "¿Qué dice el Artículo 8 sobre los exámenes de ingreso?",
+                "¿Qué establece el Artículo 8 sobre los aranceles de ingreso?",
+                "¿Qué documentos deben presentar los aspirantes al nivel medio superior según el Artículo 8?",
+                "¿Qué documentos deben presentar los aspirantes al nivel superior según el Artículo 8?",
+                "¿Qué regula el Artículo 8 sobre los trámites de ingreso?",
+                "¿Qué establece el Artículo 8 sobre los requisitos para concurso?"
+            ],
+            "responses": [
+                "📘 El Artículo 8 establece que los aspirantes deben cumplir con los requisitos de ingreso, incluyendo la presentación de documentos y exámenes. 🎓",
+                "🔹 Según el Artículo 8, los aspirantes deben presentar documentos como certificados de estudios y acta de nacimiento. 📋",
+                "🎯 El Artículo 8 regula que los aspirantes deben presentar exámenes de ingreso y cubrir los aranceles correspondientes. 🏛️",
+                "📘 El Artículo 8 establece que los aspirantes al nivel medio superior deben presentar el certificado de secundaria. ✅",
+                "🔹 Según el Artículo 8, los aspirantes al nivel superior deben presentar el certificado de educación media superior. 📜",
+                "🎯 El Artículo 8 regula que los aspirantes deben cubrir los aranceles y derechos establecidos para el ingreso. ⚖️",
+                "📘 El Artículo 8 establece que los aspirantes al nivel medio superior deben presentar el certificado de secundaria y acta de nacimiento. 🎓",
+                "🔹 Según el Artículo 8, los aspirantes al nivel superior deben presentar el certificado de bachillerato y acta de nacimiento. 📋",
+                "🎯 El Artículo 8 regula que los aspirantes deben cumplir con los trámites de ingreso, incluyendo la presentación de documentos y exámenes. 🏛️",
+                "📘 El Artículo 8 establece que los aspirantes deben cumplir con los requisitos para concurso, incluyendo documentos y exámenes. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 8",
+            "topic": "Requisitos para Ser Aspirante"
+        },
+        {
+            "tag": "aspirantes_instituciones_externas",
+            "patterns": [
+                "¿Qué establece el Artículo 9 sobre los aspirantes de otras instituciones?",
+                "¿Qué requisitos adicionales deben cumplir los aspirantes de otras instituciones según el Artículo 9?",
+                "¿Qué regula el Artículo 9 sobre los aspirantes extranjeros?",
+                "¿Qué dice el Artículo 9 sobre los aspirantes que provienen de otras instituciones?",
+                "¿Qué normativa aplica a los aspirantes de otras instituciones según el Artículo 9?",
+                "¿Qué establece el Artículo 9 sobre los aspirantes nacionales y extranjeros?",
+                "¿Qué regula el Artículo 9 sobre los trámites de aspirantes de otras instituciones?",
+                "¿Qué se requiere para los aspirantes de otras instituciones según el Artículo 9?",
+                "¿Qué normativa deben seguir los aspirantes de otras instituciones según el Artículo 9?",
+                "¿Qué establece el Artículo 9 sobre los aspirantes que no son de la UdeG?"
+            ],
+            "responses": [
+                "📘 El Artículo 9 establece que los aspirantes de otras instituciones, nacionales o extranjeras, deben cumplir con los requisitos del Reglamento General de Revalidación y Equivalencias de Estudios. 🎓",
+                "🔹 Según el Artículo 9, los aspirantes de otras instituciones deben cumplir con las disposiciones de revalidación y equivalencias. 📋",
+                "🎯 El Artículo 9 regula que los aspirantes extranjeros deben seguir las normas de revalidación y equivalencias de la UdeG. 🏛️",
+                "📘 El Artículo 9 establece que los aspirantes de otras instituciones deben cumplir con los requisitos adicionales de revalidación. ✅",
+                "🔹 Según el Artículo 9, los aspirantes de otras instituciones deben seguir el Reglamento General de Revalidación y Equivalencias. 📜",
+                "🎯 El Artículo 9 regula que los aspirantes nacionales y extranjeros deben cumplir con las normas de revalidación y equivalencias. ⚖️",
+                "📘 El Artículo 9 establece que los aspirantes de otras instituciones deben realizar trámites adicionales de revalidación. 🎓",
+                "🔹 Según el Artículo 9, los aspirantes de otras instituciones deben cumplir con los requisitos de revalidación y equivalencias. 📋",
+                "🎯 El Artículo 9 regula que los aspirantes de otras instituciones deben seguir las normas de revalidación y equivalencias de la UdeG. 🏛️",
+                "📘 El Artículo 9 establece que los aspirantes que no son de la UdeG deben cumplir con los requisitos de revalidación y equivalencias. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 9",
+            "topic": "Aspirantes de Otras Instituciones"
+        },
+        {
+            "tag": "programas_especiales_ingreso",
+            "patterns": [
+                "¿Qué establece el Artículo 9 Bis sobre los programas especiales de ingreso?",
+                "¿Qué pueden aprobar el Consejo General Universitario según el Artículo 9 Bis?",
+                "¿Qué regula el Artículo 9 Bis sobre los requisitos de ingreso?",
+                "¿Qué dice el Artículo 9 Bis sobre los programas especiales?",
+                "¿Qué establece el Artículo 9 Bis sobre la igualdad en el ingreso?",
+                "¿Qué puede dispensar el Consejo General Universitario según el Artículo 9 Bis?",
+                "¿Qué regula el Artículo 9 Bis sobre las condiciones específicas de ingreso?",
+                "¿Qué establece el Artículo 9 Bis sobre los programas especiales de admisión?",
+                "¿Qué puede adicionar el Consejo General Universitario según el Artículo 9 Bis?",
+                "¿Qué regula el Artículo 9 Bis sobre la flexibilidad en los requisitos de ingreso?"
+            ],
+            "responses": [
+                "📘 El Artículo 9 Bis establece que el Consejo General Universitario puede aprobar programas especiales para garantizar la igualdad en el ingreso. 🎓",
+                "🔹 Según el Artículo 9 Bis, el Consejo General Universitario puede adicionar o dispensar requisitos para programas especiales. 📋",
+                "🎯 El Artículo 9 Bis regula que los programas especiales pueden establecer condiciones específicas para el ingreso. 🏛️",
+                "📘 El Artículo 9 Bis establece que los programas especiales buscan garantizar la igualdad en el acceso a la educación. ✅",
+                "🔹 Según el Artículo 9 Bis, el Consejo General Universitario puede aprobar programas que flexibilicen los requisitos de ingreso. 📜",
+                "🎯 El Artículo 9 Bis regula que los programas especiales pueden dispensar algunos requisitos establecidos en el Artículo 8. ⚖️",
+                "📘 El Artículo 9 Bis establece que los programas especiales pueden incluir condiciones específicas para el ingreso. 🎓",
+                "🔹 Según el Artículo 9 Bis, el Consejo General Universitario puede aprobar programas que adicionen requisitos especiales. 📋",
+                "🎯 El Artículo 9 Bis regula que los programas especiales buscan garantizar la igualdad en el ingreso a la universidad. 🏛️",
+                "📘 El Artículo 9 Bis establece que los programas especiales pueden flexibilizar los requisitos de ingreso para garantizar la igualdad. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 9 Bis",
+            "topic": "Programas Especiales de Ingreso"
+        },
+        {
+            "tag": "derecho_seleccion",
+            "patterns": [
+                "¿Qué establece el Artículo 10 sobre el derecho a la selección?",
+                "¿Qué regula el Artículo 10 sobre los requisitos de ingreso?",
+                "¿Qué dice el Artículo 10 sobre el proceso de selección?",
+                "¿Qué establece el Artículo 10 sobre los aspirantes que cumplen los requisitos?",
+                "¿Qué regula el Artículo 10 sobre los criterios de selección?",
+                "¿Qué se requiere para ser considerado en la selección según el Artículo 10?",
+                "¿Qué establece el Artículo 10 sobre los lineamientos de selección?",
+                "¿Qué regula el Artículo 10 sobre los aspirantes que cumplen los requisitos?",
+                "¿Qué dice el Artículo 10 sobre el derecho a ser tomado en cuenta en la selección?",
+                "¿Qué establece el Artículo 10 sobre los requisitos y criterios de selección?"
+            ],
+            "responses": [
+                "📘 El Artículo 10 establece que cumplir con los requisitos de ingreso solo da derecho a ser considerado en el proceso de selección. 🎓",
+                "🔹 Según el Artículo 10, los aspirantes que cumplen los requisitos tienen derecho a ser tomados en cuenta en la selección. 📋",
+                "🎯 El Artículo 10 regula que el cumplimiento de los requisitos no garantiza el ingreso, solo la participación en el proceso de selección. 🏛️",
+                "📘 El Artículo 10 establece que los aspirantes deben cumplir con los requisitos para ser considerados en la selección. ✅",
+                "🔹 Según el Artículo 10, los criterios de selección se basan en los requisitos y lineamientos establecidos. 📜",
+                "🎯 El Artículo 10 regula que los aspirantes deben cumplir con los requisitos para ser tomados en cuenta en la selección. ⚖️",
+                "📘 El Artículo 10 establece que los lineamientos de selección se aplican a los aspirantes que cumplen los requisitos. 🎓",
+                "🔹 Según el Artículo 10, los aspirantes que cumplen los requisitos tienen derecho a participar en el proceso de selección. 📋",
+                "🎯 El Artículo 10 regula que el derecho a ser tomado en cuenta en la selección depende del cumplimiento de los requisitos. 🏛️",
+                "📘 El Artículo 10 establece que los requisitos y criterios de selección son fundamentales para el proceso de ingreso. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 10",
+            "topic": "Derecho a la Selección"
+        },
+        {
+            "tag": "tramites_personalizados",
+            "patterns": [
+                "¿Qué establece el Artículo 11 sobre los trámites de ingreso?",
+                "¿Quién puede realizar los trámites de ingreso según el Artículo 11?",
+                "¿Qué regula el Artículo 11 sobre los trámites de ingreso?",
+                "¿Qué dice el Artículo 11 sobre los trámites personalizados?",
+                "¿Qué establece el Artículo 11 sobre la participación en los trámites de ingreso?",
+                "¿Qué regula el Artículo 11 sobre los trámites de los aspirantes?",
+                "¿Qué se requiere para realizar los trámites de ingreso según el Artículo 11?",
+                "¿Qué establece el Artículo 11 sobre los trámites de los aspirantes?",
+                "¿Qué dice el Artículo 11 sobre la responsabilidad de los trámites de ingreso?",
+                "¿Qué regula el Artículo 11 sobre los trámites de ingreso?"
+            ],
+            "responses": [
+                "📘 El Artículo 11 establece que los trámites de ingreso solo pueden ser realizados por el interesado. 🎓",
+                "🔹 Según el Artículo 11, los trámites de ingreso no pueden ser delegados a terceros. 📋",
+                "🎯 El Artículo 11 regula que los aspirantes deben realizar personalmente los trámites de ingreso. 🏛️",
+                "📘 El Artículo 11 establece que los trámites de ingreso son responsabilidad exclusiva del aspirante. ✅",
+                "🔹 Según el Artículo 11, los trámites de ingreso deben ser realizados directamente por el interesado. 📜",
+                "🎯 El Artículo 11 regula que los trámites de ingreso no pueden ser realizados por representantes o terceros. ⚖️",
+                "📘 El Artículo 11 establece que los aspirantes deben realizar personalmente todos los trámites de ingreso. 🎓",
+                "🔹 Según el Artículo 11, los trámites de ingreso son de responsabilidad personal del aspirante. 📋",
+                "🎯 El Artículo 11 regula que los trámites de ingreso deben ser realizados directamente por el interesado. 🏛️",
+                "📘 El Artículo 11 establece que los trámites de ingreso no pueden ser delegados a otras personas. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 11",
+            "topic": "Trámites Personalizados"
+        },
+        {
+            "tag": "solicitudes_incompletas",
+            "patterns": [
+                "¿Qué establece el Artículo 12 sobre las solicitudes incompletas?",
+                "¿Qué regula el Artículo 12 sobre los trámites incompletos?",
+                "¿Qué dice el Artículo 12 sobre las solicitudes que no cumplen los requisitos?",
+                "¿Qué establece el Artículo 12 sobre el pago de derechos?",
+                "¿Qué regula el Artículo 12 sobre las solicitudes incompletas?",
+                "¿Qué se requiere para que una solicitud sea válida según el Artículo 12?",
+                "¿Qué establece el Artículo 12 sobre los trámites incompletos?",
+                "¿Qué dice el Artículo 12 sobre las solicitudes que no cumplen los requisitos?",
+                "¿Qué regula el Artículo 12 sobre el pago de derechos?",
+                "¿Qué establece el Artículo 12 sobre las solicitudes incompletas?"
+            ],
+            "responses": [
+                "📘 El Artículo 12 establece que las solicitudes incompletas no serán procesadas por la autoridad competente. 🎓",
+                "🔹 Según el Artículo 12, las solicitudes que no cumplen los requisitos no recibirán trámite. 📋",
+                "🎯 El Artículo 12 regula que las solicitudes incompletas o que no cumplen los requisitos serán rechazadas. 🏛️",
+                "📘 El Artículo 12 establece que el pago de derechos es un requisito indispensable para el trámite de ingreso. ✅",
+                "🔹 Según el Artículo 12, las solicitudes que no incluyen el pago de derechos no serán procesadas. 📜",
+                "🎯 El Artículo 12 regula que las solicitudes deben cumplir con todos los requisitos, incluido el pago de derechos. ⚖️",
+                "📘 El Artículo 12 establece que las solicitudes incompletas no serán aceptadas por la autoridad competente. 🎓",
+                "🔹 Según el Artículo 12, las solicitudes que no cumplen los requisitos no serán consideradas. 📋",
+                "🎯 El Artículo 12 regula que las solicitudes deben estar completas y cumplir con los requisitos establecidos. 🏛️",
+                "📘 El Artículo 12 establece que las solicitudes incompletas o sin pago de derechos no serán procesadas. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 12",
+            "topic": "Solicitudes Incompletas"
+        },
+        {
+            "tag": "renuncia_derecho_concurso",
+            "patterns": [
+                "¿Qué establece el Artículo 13 sobre la renuncia al derecho de concurso?",
+                "¿Qué regula el Artículo 13 sobre los trámites no concluidos?",
+                "¿Qué dice el Artículo 13 sobre los aspirantes que no completan los trámites?",
+                "¿Qué establece el Artículo 13 sobre la renuncia al derecho de ingreso?",
+                "¿Qué regula el Artículo 13 sobre los plazos de trámites?",
+                "¿Qué se considera renuncia al derecho de concurso según el Artículo 13?",
+                "¿Qué establece el Artículo 13 sobre los trámites no concluidos?",
+                "¿Qué dice el Artículo 13 sobre los aspirantes que no cumplen los plazos?",
+                "¿Qué regula el Artículo 13 sobre la renuncia al derecho de ingreso?",
+                "¿Qué establece el Artículo 13 sobre los trámites no concluidos?"
+            ],
+            "responses": [
+                "📘 El Artículo 13 establece que los aspirantes que no concluyen los trámites de ingreso renuncian a su derecho de concurso. 🎓",
+                "🔹 Según el Artículo 13, los aspirantes que no cumplen los plazos de trámites pierden su derecho a participar en el concurso. 📋",
+                "🎯 El Artículo 13 regula que los trámites de ingreso deben completarse en las fechas y horarios establecidos. 🏛️",
+                "📘 El Artículo 13 establece que no concluir los trámites de ingreso implica la renuncia al derecho de concurso. ✅",
+                "🔹 Según el Artículo 13, los aspirantes que no cumplen los plazos de trámites pierden su derecho a ser considerados. 📜",
+                "🎯 El Artículo 13 regula que los trámites de ingreso deben realizarse dentro de los plazos establecidos. ⚖️",
+                "📘 El Artículo 13 establece que los aspirantes que no completan los trámites renuncian a su derecho de ingreso. 🎓",
+                "🔹 Según el Artículo 13, los aspirantes que no cumplen los plazos de trámites no serán considerados en el concurso. 📋",
+                "🎯 El Artículo 13 regula que los trámites de ingreso deben concluirse en los plazos establecidos para no perder el derecho de concurso. 🏛️",
+                "📘 El Artículo 13 establece que los aspirantes que no completan los trámites renuncian a su derecho de ingreso. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 13",
+            "topic": "Renuncia al Derecho de Concurso"
+        },
+        {
+            "tag": "criterios_seleccion",
+            "patterns": [
+                "¿Qué establece el Artículo 14 sobre los criterios de selección?",
+                "¿Qué regula el Artículo 14 sobre la capacidad de matrícula?",
+                "¿Qué dice el Artículo 14 sobre los exámenes de aptitud?",
+                "¿Qué establece el Artículo 14 sobre los exámenes de conocimientos?",
+                "¿Qué regula el Artículo 14 sobre los cursos propedéuticos?",
+                "¿Qué se requiere para la selección de alumnos según el Artículo 14?",
+                "¿Qué establece el Artículo 14 sobre los requisitos de ingreso?",
+                "¿Qué dice el Artículo 14 sobre los lineamientos de selección?",
+                "¿Qué regula el Artículo 14 sobre los exámenes de habilidades específicas?",
+                "¿Qué establece el Artículo 14 sobre los criterios de admisión?"
+            ],
+            "responses": [
+                "📘 El Artículo 14 establece que las autoridades universitarias considerarán la capacidad de matrícula y los requisitos de ingreso para la selección de alumnos. 🎓",
+                "🔹 Según el Artículo 14, los aspirantes deben presentar exámenes de aptitud y conocimientos para ser admitidos. 📋",
+                "🎯 El Artículo 14 regula que los aspirantes deben aprobar exámenes de conocimientos y habilidades específicas, si así lo requiere el plan de estudios. 🏛️",
+                "📘 El Artículo 14 establece que los cursos propedéuticos pueden ser requeridos para la admisión, según el plan de estudios. ✅",
+                "🔹 Según el Artículo 14, los aspirantes deben cubrir los requisitos de ingreso, incluyendo la aportación económica correspondiente. 📜",
+                "🎯 El Artículo 14 regula que los criterios de selección incluyen exámenes de aptitud, conocimientos y habilidades específicas. ⚖️",
+                "📘 El Artículo 14 establece que los aspirantes deben cumplir con los requisitos de ingreso y presentar los exámenes correspondientes. 🎓",
+                "🔹 Según el Artículo 14, los lineamientos de selección incluyen la capacidad de matrícula y los resultados de los exámenes. 📋",
+                "🎯 El Artículo 14 regula que los exámenes de habilidades específicas pueden ser requeridos para la admisión. 🏛️",
+                "📘 El Artículo 14 establece que los criterios de admisión incluyen exámenes de aptitud, conocimientos y habilidades específicas. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 14",
+            "topic": "Criterios de Selección"
+        },
+        {
+            "tag": "puntaje_global_admision",
+            "patterns": [
+                "¿Qué establece el Artículo 15 sobre el puntaje global de admisión?",
+                "¿Qué regula el Artículo 15 sobre el promedio de estudios precedentes?",
+                "¿Qué dice el Artículo 15 sobre el examen de aptitud?",
+                "¿Qué establece el Artículo 15 sobre el cálculo del puntaje global?",
+                "¿Qué regula el Artículo 15 sobre los programas académicos no convencionales?",
+                "¿Qué se requiere para calcular el puntaje global según el Artículo 15?",
+                "¿Qué establece el Artículo 15 sobre los exámenes de aptitud?",
+                "¿Qué dice el Artículo 15 sobre los programas de posgrado?",
+                "¿Qué regula el Artículo 15 sobre la ponderación del puntaje?",
+                "¿Qué establece el Artículo 15 sobre el puntaje máximo de admisión?"
+            ],
+            "responses": [
+                "📘 El Artículo 15 establece que el puntaje global de admisión se calcula sumando el promedio de estudios precedentes (50%) y el resultado del examen de aptitud (50%). 🎓",
+                "🔹 Según el Artículo 15, el puntaje máximo de admisión es de 200 puntos. 📋",
+                "🎯 El Artículo 15 regula que los programas académicos no convencionales y los posgrados están exentos de estos criterios. 🏛️",
+                "📘 El Artículo 15 establece que el puntaje global se calcula en una escala de 0 a 100 para cada componente. ✅",
+                "🔹 Según el Artículo 15, los programas no convencionales y posgrados siguen normas específicas para la admisión. 📜",
+                "🎯 El Artículo 15 regula que el puntaje global se basa en el promedio de estudios y el examen de aptitud. ⚖️",
+                "📘 El Artículo 15 establece que los exámenes de aptitud son administrados por las coordinaciones de control escolar. 🎓",
+                "🔹 Según el Artículo 15, los programas de posgrado no están sujetos a los criterios de puntaje global. 📋",
+                "🎯 El Artículo 15 regula que la ponderación del puntaje es del 50% para el promedio de estudios y 50% para el examen de aptitud. 🏛️",
+                "📘 El Artículo 15 establece que el puntaje máximo de admisión es de 200 puntos, sumando ambos componentes. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 15",
+            "topic": "Puntaje Global de Admisión"
+        },
+        {
+            "tag": "beneficios_trabajadores",
+            "patterns": [
+                "¿Qué establece el Artículo 15 Bis sobre los beneficios para trabajadores?",
+                "¿Qué regula el Artículo 15 Bis sobre el cupo de primer ingreso?",
+                "¿Qué dice el Artículo 15 Bis sobre los trabajadores de la universidad?",
+                "¿Qué establece el Artículo 15 Bis sobre los hijos de trabajadores?",
+                "¿Qué regula el Artículo 15 Bis sobre los cónyuges de trabajadores?",
+                "¿Qué se requiere para acceder al beneficio del Artículo 15 Bis?",
+                "¿Qué establece el Artículo 15 Bis sobre los trámites de admisión?",
+                "¿Qué dice el Artículo 15 Bis sobre el porcentaje de cupo para trabajadores?",
+                "¿Qué regula el Artículo 15 Bis sobre los documentos requeridos?",
+                "¿Qué establece el Artículo 15 Bis sobre los trabajadores académicos y administrativos?"
+            ],
+            "responses": [
+                "📘 El Artículo 15 Bis establece que la Universidad puede admitir hasta el 10% del cupo de primer ingreso para trabajadores y sus familiares. 🎓",
+                "🔹 Según el Artículo 15 Bis, los trabajadores con tres años de antigüedad, sus cónyuges e hijos pueden acceder a este beneficio. 📋",
+                "🎯 El Artículo 15 Bis regula que, si el número de solicitudes excede el 10%, se admitirán los aspirantes con mayor puntaje. 🏛️",
+                "📘 El Artículo 15 Bis establece que los trabajadores deben cumplir con todos los trámites de admisión para acceder al beneficio. ✅",
+                "🔹 Según el Artículo 15 Bis, los trabajadores académicos y administrativos deben presentar documentos que acrediten su antigüedad. 📜",
+                "🎯 El Artículo 15 Bis regula que los directivos y trabajadores de confianza deben entregar los documentos directamente en Recursos Humanos. ⚖️",
+                "📘 El Artículo 15 Bis establece que los trabajadores deben presentar copia de su nombramiento y acta de nacimiento o matrimonio. 🎓",
+                "🔹 Según el Artículo 15 Bis, el beneficio aplica para los estudios de nivel medio superior, técnico superior y licenciatura. 📋",
+                "🎯 El Artículo 15 Bis regula que los trabajadores deben acreditar su antigüedad y vigencia de nombramiento. 🏛️",
+                "📘 El Artículo 15 Bis establece que el beneficio es para trabajadores con tres años de antigüedad y sus familiares. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 15 Bis",
+            "topic": "Beneficios para Trabajadores"
+        },
+        {
+            "tag": "lineamientos_generales_admision",
+            "patterns": [
+                "¿Qué establece el Artículo 16 sobre los lineamientos generales de admisión?",
+                "¿Qué regula el Artículo 16 sobre la capacidad de matrícula?",
+                "¿Qué dice el Artículo 16 sobre el orden de admisión?",
+                "¿Qué establece el Artículo 16 sobre los estudiantes extranjeros?",
+                "¿Qué regula el Artículo 16 sobre la inscripción en múltiples programas?",
+                "¿Qué se requiere para la admisión según el Artículo 16?",
+                "¿Qué establece el Artículo 16 sobre el cupo disponible?",
+                "¿Qué dice el Artículo 16 sobre los aspirantes con mayor puntaje?",
+                "¿Qué regula el Artículo 16 sobre los programas educativos simultáneos?",
+                "¿Qué establece el Artículo 16 sobre los estudiantes extranjeros?"
+            ],
+            "responses": [
+                "📘 El Artículo 16 establece que la Universidad admitirá a los aspirantes según su capacidad en planta física, recursos humanos y presupuesto. 🎓",
+                "🔹 Según el Artículo 16, los aspirantes con mayor puntaje serán admitidos primero, en orden descendente. 📋",
+                "🎯 El Artículo 16 regula que se admitirá hasta el 15% del cupo para estudiantes extranjeros. 🏛️",
+                "📘 El Artículo 16 establece que los estudiantes extranjeros deben cumplir con los requisitos de ingreso y los aranceles correspondientes. ✅",
+                "🔹 Según el Artículo 16, los alumnos solo pueden estar inscritos en un programa educativo, a menos que el Consejo General Universitario determine lo contrario. 📜",
+                "🎯 El Artículo 16 regula que la admisión se basa en el puntaje obtenido por los aspirantes. ⚖️",
+                "📘 El Artículo 16 establece que el cupo disponible se cubrirá en orden descendente según el puntaje de los aspirantes. 🎓",
+                "🔹 Según el Artículo 16, los aspirantes con mayor puntaje tendrán prioridad en la admisión. 📋",
+                "🎯 El Artículo 16 regula que los programas educativos simultáneos deben ser autorizados por el Consejo General Universitario. 🏛️",
+                "📘 El Artículo 16 establece que los estudiantes extranjeros deben cumplir con los requisitos de ingreso y los aranceles correspondientes. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 16",
+            "topic": "Lineamientos Generales de Admisión"
+        },
+        {
+            "tag": "supervision_ingreso",
+            "patterns": [
+                "¿Qué establece el Artículo 17 sobre la supervisión del ingreso?",
+                "¿Qué regula el Artículo 17 sobre la Comisión de Educación?",
+                "¿Qué dice el Artículo 17 sobre el dictamen de ingreso?",
+                "¿Qué establece el Artículo 17 sobre la publicación del dictamen?",
+                "¿Qué regula el Artículo 17 sobre la coordinación de control escolar?",
+                "¿Qué se requiere para la supervisión del ingreso según el Artículo 17?",
+                "¿Qué establece el Artículo 17 sobre los aspirantes seleccionados?",
+                "¿Qué dice el Artículo 17 sobre el ciclo escolar de inicio?",
+                "¿Qué regula el Artículo 17 sobre la calidad de alumno admitido?",
+                "¿Qué establece el Artículo 17 sobre la observación del dictamen?"
+            ],
+            "responses": [
+                "📘 El Artículo 17 establece que la Comisión de Educación puede supervisar el procedimiento de ingreso y hacer observaciones al dictamen. 🎓",
+                "🔹 Según el Artículo 17, el dictamen de ingreso debe contener el programa educativo, nombre, código y puntaje de los aspirantes seleccionados. 📋",
+                "🎯 El Artículo 17 regula que el dictamen debe indicar la calidad de alumno en que es admitido (ordinario regular o condicional). 🏛️",
+                "📘 El Artículo 17 establece que el dictamen debe incluir el ciclo escolar en que el alumno iniciará cursos. ✅",
+                "🔹 Según el Artículo 17, la Comisión de Educación puede hacer observaciones al dictamen antes de su publicación. 📜",
+                "🎯 El Artículo 17 regula que la coordinación de control escolar es responsable de emitir el dictamen de ingreso. ⚖️",
+                "📘 El Artículo 17 establece que el dictamen debe contener los nombres y puntajes de los aspirantes seleccionados. 🎓",
+                "🔹 Según el Artículo 17, el dictamen debe indicar el ciclo escolar en que el alumno comenzará sus estudios. 📋",
+                "🎯 El Artículo 17 regula que la calidad de alumno (ordinario regular o condicional) debe ser especificada en el dictamen. 🏛️",
+                "📘 El Artículo 17 establece que la Comisión de Educación puede supervisar y hacer observaciones al dictamen de ingreso. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 17",
+            "topic": "Supervisión del Ingreso"
+        },
+        {
+            "tag": "publicacion_dictamen",
+            "patterns": [
+                "¿Qué establece el Artículo 18 sobre la publicación del dictamen?",
+                "¿Qué regula el Artículo 18 sobre los plazos de publicación?",
+                "¿Qué dice el Artículo 18 sobre la Gaceta Universitaria?",
+                "¿Qué establece el Artículo 18 sobre la difusión del dictamen?",
+                "¿Qué regula el Artículo 18 sobre los centros universitarios?",
+                "¿Qué se requiere para la publicación del dictamen según el Artículo 18?",
+                "¿Qué establece el Artículo 18 sobre el Sistema de Educación Media Superior?",
+                "¿Qué dice el Artículo 18 sobre el plazo de publicación?",
+                "¿Qué regula el Artículo 18 sobre la Gaceta Universitaria?",
+                "¿Qué establece el Artículo 18 sobre la difusión del dictamen?"
+            ],
+            "responses": [
+                "📘 El Artículo 18 establece que los dictámenes de ingreso serán publicados por los centros universitarios o el Sistema de Educación Media Superior. 🎓",
+                "🔹 Según el Artículo 18, los dictámenes deben ser publicados en el plazo establecido en el calendario de trámites. 📋",
+                "🎯 El Artículo 18 regula que la Coordinación de Control Escolar de la Administración General publicará los dictámenes en la Gaceta Universitaria. 🏛️",
+                "📘 El Artículo 18 establece que los dictámenes deben ser dados a conocer en los plazos señalados por el calendario de trámites. ✅",
+                "🔹 Según el Artículo 18, los centros universitarios y el Sistema de Educación Media Superior son responsables de publicar los dictámenes. 📜",
+                "🎯 El Artículo 18 regula que la Gaceta Universitaria es el medio oficial para la difusión de los dictámenes de ingreso. ⚖️",
+                "📘 El Artículo 18 establece que los dictámenes deben ser publicados en los plazos establecidos por el calendario de trámites. 🎓",
+                "🔹 Según el Artículo 18, la Gaceta Universitaria es el medio oficial para la publicación de los dictámenes de ingreso. 📋",
+                "🎯 El Artículo 18 regula que los dictámenes deben ser publicados en los plazos establecidos por el calendario de trámites. 🏛️",
+                "📘 El Artículo 18 establece que los dictámenes de ingreso deben ser publicados en la Gaceta Universitaria. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 18",
+            "topic": "Publicación del Dictamen"
+        },
+        {
+            "tag": "pago_aranceles",
+            "patterns": [
+                "¿Qué establece el Artículo 19 sobre el pago de aranceles?",
+                "¿Qué regula el Artículo 19 sobre los plazos de pago?",
+                "¿Qué dice el Artículo 19 sobre la renuncia al derecho de inscripción?",
+                "¿Qué establece el Artículo 19 sobre la baja del alumno?",
+                "¿Qué regula el Artículo 19 sobre los aranceles de ingreso?",
+                "¿Qué se requiere para mantener la calidad de alumno según el Artículo 19?",
+                "¿Qué establece el Artículo 19 sobre el incumplimiento del pago?",
+                "¿Qué dice el Artículo 19 sobre la baja automática?",
+                "¿Qué regula el Artículo 19 sobre los plazos de pago?",
+                "¿Qué establece el Artículo 19 sobre la renuncia al derecho de inscripción?"
+            ],
+            "responses": [
+                "📘 El Artículo 19 establece que los aspirantes admitidos deben pagar los aranceles correspondientes en el plazo establecido. 🎓",
+                "🔹 Según el Artículo 19, si no se cumple con el pago de aranceles, se entenderá que el aspirante renuncia a su calidad de alumno. 📋",
+                "🎯 El Artículo 19 regula que el incumplimiento del pago de aranceles resultará en la baja automática del aspirante. 🏛️",
+                "📘 El Artículo 19 establece que el pago de aranceles es un requisito indispensable para mantener la calidad de alumno. ✅",
+                "🔹 Según el Artículo 19, los plazos de pago deben ser cumplidos para evitar la baja automática. 📜",
+                "🎯 El Artículo 19 regula que el incumplimiento del pago de aranceles implica la pérdida del derecho de inscripción. ⚖️",
+                "📘 El Artículo 19 establece que el pago de aranceles debe realizarse en los plazos establecidos para mantener la calidad de alumno. 🎓",
+                "🔹 Según el Artículo 19, la falta de pago de aranceles resultará en la baja automática del aspirante. 📋",
+                "🎯 El Artículo 19 regula que los plazos de pago deben ser respetados para evitar la renuncia al derecho de inscripción. 🏛️",
+                "📘 El Artículo 19 establece que el incumplimiento del pago de aranceles implica la renuncia al derecho de inscripción. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 19",
+            "topic": "Pago de Aranceles"
+        },
+        {
+            "tag": "expedicion_identificacion",
+            "patterns": [
+                "¿Qué establece el Artículo 20 sobre la expedición de la identificación escolar?",
+                "¿Qué regula el Artículo 20 sobre la identificación oficial?",
+                "¿Qué dice el Artículo 20 sobre el formato de la identificación?",
+                "¿Qué establece el Artículo 20 sobre los centros universitarios?",
+                "¿Qué regula el Artículo 20 sobre la Coordinación de Control Escolar?",
+                "¿Qué se requiere para la expedición de la identificación según el Artículo 20?",
+                "¿Qué establece el Artículo 20 sobre el Sistema de Educación Media Superior?",
+                "¿Qué dice el Artículo 20 sobre el formato de la identificación escolar?",
+                "¿Qué regula el Artículo 20 sobre la expedición de la identificación?",
+                "¿Qué establece el Artículo 20 sobre la identificación oficial?"
+            ],
+            "responses": [
+                "📘 El Artículo 20 establece que, una vez cubierto el pago de aranceles, el centro universitario expedirá la identificación escolar oficial. 🎓",
+                "🔹 Según el Artículo 20, la identificación escolar debe ser expedida en el formato determinado por la Coordinación de Control Escolar. 📋",
+                "🎯 El Artículo 20 regula que la identificación escolar es responsabilidad del centro universitario o del Sistema de Educación Media Superior. 🏛️",
+                "📘 El Artículo 20 establece que la identificación escolar debe ser expedida en el formato oficial establecido. ✅",
+                "🔹 Según el Artículo 20, la Coordinación de Control Escolar de la Administración General determina el formato de la identificación. 📜",
+                "🎯 El Artículo 20 regula que la expedición de la identificación escolar es un trámite posterior al pago de aranceles. ⚖️",
+                "📘 El Artículo 20 establece que la identificación escolar es expedida por el centro universitario o el Sistema de Educación Media Superior. 🎓",
+                "🔹 Según el Artículo 20, el formato de la identificación escolar es determinado por la Coordinación de Control Escolar. 📋",
+                "🎯 El Artículo 20 regula que la identificación escolar es expedida una vez que se cubren los aranceles de ingreso. 🏛️",
+                "📘 El Artículo 20 establece que la identificación escolar debe ser expedida en el formato oficial establecido por la universidad. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 20",
+            "topic": "Expedición de la Identificación Escolar"
+        },
+        {
+            "tag": "falsedad_documentos",
+            "patterns": [
+                "¿Qué establece el Artículo 21 sobre la falsedad de documentos?",
+                "¿Qué regula el Artículo 21 sobre la cancelación de registros?",
+                "¿Qué dice el Artículo 21 sobre la falsedad de información?",
+                "¿Qué establece el Artículo 21 sobre la investigación de documentos?",
+                "¿Qué regula el Artículo 21 sobre la cancelación de inscripciones?",
+                "¿Qué se requiere para investigar la autenticidad de los documentos según el Artículo 21?",
+                "¿Qué establece el Artículo 21 sobre la responsabilidad del aspirante?",
+                "¿Qué dice el Artículo 21 sobre la cancelación de registros?",
+                "¿Qué regula el Artículo 21 sobre la falsedad de documentos?",
+                "¿Qué establece el Artículo 21 sobre la investigación de documentos?"
+            ],
+            "responses": [
+                "📘 El Artículo 21 establece que si se comprueba la falsedad de documentos o información, se cancelarán los registros generados. 🎓",
+                "🔹 Según el Artículo 21, los titulares de las coordinaciones de control escolar pueden investigar la autenticidad de los documentos presentados. 📋",
+                "🎯 El Artículo 21 regula que, en caso de falsedad, se dejarán sin efecto los actos derivados de los registros o inscripciones. 🏛️",
+                "📘 El Artículo 21 establece que los titulares de control escolar pueden requerir la entrega de documentos originales para su verificación. ✅",
+                "🔹 Según el Artículo 21, la cancelación de registros o inscripciones puede ser resuelta por las autoridades competentes. 📜",
+                "🎯 El Artículo 21 regula que, previo a la cancelación, se debe otorgar al interesado la oportunidad de acreditar la autenticidad de los documentos. ⚖️",
+                "📘 El Artículo 21 establece que la falsedad de documentos puede resultar en la cancelación de registros y responsabilidades adicionales. 🎓",
+                "🔹 Según el Artículo 21, las autoridades pueden investigar la autenticidad de los documentos en cualquier momento. 📋",
+                "🎯 El Artículo 21 regula que la cancelación de registros se realiza previa investigación y notificación al interesado. 🏛️",
+                "📘 El Artículo 21 establece que la falsedad de documentos o información puede resultar en la cancelación de registros y responsabilidades legales. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 21",
+            "topic": "Falsedad de Documentos"
+        },
+        {
+            "tag": "rectificacion_informacion",
+            "patterns": [
+                "¿Qué establece el Artículo 22 sobre la rectificación de información?",
+                "¿Qué regula el Artículo 22 sobre el expediente de los aspirantes?",
+                "¿Qué dice el Artículo 22 sobre la recopilación de información?",
+                "¿Qué establece el Artículo 22 sobre la rectificación de datos?",
+                "¿Qué regula el Artículo 22 sobre la actualización de expedientes?",
+                "¿Qué se requiere para rectificar la información según el Artículo 22?",
+                "¿Qué establece el Artículo 22 sobre la recopilación de datos?",
+                "¿Qué dice el Artículo 22 sobre la rectificación de expedientes?",
+                "¿Qué regula el Artículo 22 sobre la actualización de información?",
+                "¿Qué establece el Artículo 22 sobre la rectificación de datos?"
+            ],
+            "responses": [
+                "📘 El Artículo 22 establece que los centros universitarios o el Sistema de Educación Media Superior pueden recabar o rectificar la información de los expedientes de los aspirantes. 🎓",
+                "🔹 Según el Artículo 22, las autoridades pueden rectificar la información contenida en los expedientes cuando sea necesario. 📋",
+                "🎯 El Artículo 22 regula que la rectificación de información puede ser realizada por las autoridades competentes. 🏛️",
+                "📘 El Artículo 22 establece que los centros universitarios tienen facultades para actualizar o corregir la información de los expedientes. ✅",
+                "🔹 Según el Artículo 22, la rectificación de datos puede ser realizada cuando se considere necesario. 📜",
+                "🎯 El Artículo 22 regula que las autoridades pueden recabar o rectificar la información de los expedientes de los aspirantes. ⚖️",
+                "📘 El Artículo 22 establece que la rectificación de información es responsabilidad de los centros universitarios o el Sistema de Educación Media Superior. 🎓",
+                "🔹 Según el Artículo 22, las autoridades pueden actualizar o corregir la información de los expedientes cuando sea necesario. 📋",
+                "🎯 El Artículo 22 regula que la rectificación de datos puede ser realizada por las autoridades competentes. 🏛️",
+                "📘 El Artículo 22 establece que los centros universitarios pueden rectificar la información de los expedientes de los aspirantes. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 22",
+            "topic": "Rectificación de Información"
+        },
+        {
+            "tag": "condicion_alumno",
+            "patterns": [
+                "¿Qué establece el Artículo 23 sobre la condición de alumno?",
+                "¿Qué regula el Artículo 23 sobre la admisión de alumnos?",
+                "¿Qué dice el Artículo 23 sobre el registro de cursos?",
+                "¿Qué establece el Artículo 23 sobre la calidad de alumno?",
+                "¿Qué regula el Artículo 23 sobre la separación definitiva de alumnos?",
+                "¿Qué se requiere para adquirir la condición de alumno según el Artículo 23?",
+                "¿Qué establece el Artículo 23 sobre la pérdida de la condición de alumno?",
+                "¿Qué dice el Artículo 23 sobre el registro en programas educativos?",
+                "¿Qué regula el Artículo 23 sobre la calidad de alumno?",
+                "¿Qué establece el Artículo 23 sobre la separación definitiva?"
+            ],
+            "responses": [
+                "📘 El Artículo 23 establece que los aspirantes adquieren la condición de alumno al ser admitidos y registrados en un programa educativo. 🎓",
+                "🔹 Según el Artículo 23, la condición de alumno se mantiene mientras no se pierdan las cualidades requeridas o se sea separado definitivamente. 📋",
+                "🎯 El Artículo 23 regula que la condición de alumno se adquiere al ser registrado en cursos del programa educativo correspondiente. 🏛️",
+                "📘 El Artículo 23 establece que la calidad de alumno se pierde si se cometen faltas graves según la Ley Orgánica o el Estatuto General. ✅",
+                "🔹 Según el Artículo 23, la separación definitiva de un alumno puede ocurrir por faltas cometidas según las normas universitarias. 📜",
+                "🎯 El Artículo 23 regula que la condición de alumno se mantiene mientras se cumplan los requisitos y no se cometan faltas graves. ⚖️",
+                "📘 El Artículo 23 establece que la condición de alumno se adquiere al ser admitido y registrado en un programa educativo. 🎓",
+                "🔹 Según el Artículo 23, la pérdida de la condición de alumno puede ocurrir por faltas graves o incumplimiento de normas. 📋",
+                "🎯 El Artículo 23 regula que la calidad de alumno se mantiene mientras no se cometan faltas que justifiquen la separación definitiva. 🏛️",
+                "📘 El Artículo 23 establece que la condición de alumno se pierde si se cometen faltas graves según las normas universitarias. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 23",
+            "topic": "Condición de Alumno"
+        },
+        {
+            "tag": "derechos_obligaciones_alumnos",
+            "patterns": [
+                "¿Qué establece el Artículo 24 sobre los derechos y obligaciones de los alumnos?",
+                "¿Qué regula el Artículo 24 sobre las normas universitarias?",
+                "¿Qué dice el Artículo 24 sobre los derechos de los alumnos?",
+                "¿Qué establece el Artículo 24 sobre las obligaciones de los alumnos?",
+                "¿Qué regula el Artículo 24 sobre el Estatuto General?",
+                "¿Qué se establece en el Artículo 24 sobre los derechos y obligaciones?",
+                "¿Qué dice el Artículo 24 sobre las normas que rigen a los alumnos?",
+                "¿Qué regula el Artículo 24 sobre los derechos de los alumnos?",
+                "¿Qué establece el Artículo 24 sobre las obligaciones de los alumnos?",
+                "¿Qué dice el Artículo 24 sobre el Estatuto General?"
+            ],
+            "responses": [
+                "📘 El Artículo 24 establece que los derechos y obligaciones de los alumnos se encuentran en la Ley Orgánica, el Estatuto General y otros ordenamientos universitarios. 🎓",
+                "🔹 Según el Artículo 24, los alumnos deben cumplir con las normas establecidas en los ordenamientos universitarios. 📋",
+                "🎯 El Artículo 24 regula que los derechos y obligaciones de los alumnos están definidos en la Ley Orgánica y el Estatuto General. 🏛️",
+                "📘 El Artículo 24 establece que los alumnos tienen derechos y obligaciones establecidos en las normas universitarias. ✅",
+                "🔹 Según el Artículo 24, los alumnos deben cumplir con las obligaciones establecidas en el Estatuto General y otros reglamentos. 📜",
+                "🎯 El Artículo 24 regula que los derechos y obligaciones de los alumnos están definidos en los ordenamientos universitarios. ⚖️",
+                "📘 El Artículo 24 establece que los alumnos deben cumplir con las normas establecidas en la Ley Orgánica y el Estatuto General. 🎓",
+                "🔹 Según el Artículo 24, los derechos de los alumnos están establecidos en los ordenamientos universitarios. 📋",
+                "🎯 El Artículo 24 regula que las obligaciones de los alumnos están definidas en el Estatuto General y otros reglamentos. 🏛️",
+                "📘 El Artículo 24 establece que los derechos y obligaciones de los alumnos se rigen por la Ley Orgánica y el Estatuto General. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 24",
+            "topic": "Derechos y Obligaciones de los Alumnos"
+        },
+        {
+            "tag": "sistemas_evaluacion",
+            "patterns": [
+                "¿Qué establece el Artículo 25 sobre los sistemas de evaluación?",
+                "¿Qué regula el Artículo 25 sobre la calificación de los alumnos?",
+                "¿Qué dice el Artículo 25 sobre la acreditación de estudios?",
+                "¿Qué establece el Artículo 25 sobre la promoción de alumnos?",
+                "¿Qué regula el Artículo 25 sobre el egreso y titulación?",
+                "¿Qué se requiere para la evaluación de los alumnos según el Artículo 25?",
+                "¿Qué establece el Artículo 25 sobre los sistemas de calificación?",
+                "¿Qué dice el Artículo 25 sobre la acreditación de estudios?",
+                "¿Qué regula el Artículo 25 sobre la promoción de alumnos?",
+                "¿Qué establece el Artículo 25 sobre el egreso y titulación?"
+            ],
+            "responses": [
+                "📘 El Artículo 25 establece que los sistemas de evaluación, calificación y acreditación de estudios se regirán por los ordenamientos específicos correspondientes. 🎓",
+                "🔹 Según el Artículo 25, la promoción, egreso y titulación de los alumnos se establecerán en los reglamentos específicos. 📋",
+                "🎯 El Artículo 25 regula que los sistemas de evaluación y calificación deben seguir las normas establecidas en los ordenamientos universitarios. 🏛️",
+                "📘 El Artículo 25 establece que la acreditación de estudios se rige por los reglamentos específicos de la universidad. ✅",
+                "🔹 Según el Artículo 25, la promoción de alumnos se regula en los ordenamientos específicos de la universidad. 📜",
+                "🎯 El Artículo 25 regula que el egreso y la titulación de los alumnos se rigen por los reglamentos específicos. ⚖️",
+                "📘 El Artículo 25 establece que los sistemas de calificación y evaluación deben seguir las normas universitarias. 🎓",
+                "🔹 Según el Artículo 25, la acreditación de estudios se establece en los reglamentos específicos de la universidad. 📋",
+                "🎯 El Artículo 25 regula que la promoción de alumnos se rige por los ordenamientos específicos de la universidad. 🏛️",
+                "📘 El Artículo 25 establece que el egreso y la titulación de los alumnos se rigen por los reglamentos específicos. ✅"
+            ],
+            "document": "Reglamento General de Ingreso de Alumnos",
+            "article": "Artículo 25",
+            "topic": "Sistemas de Evaluación, Calificación y Acreditación"
+        }
+
+
+    ]
+}
+
+
+
+
+

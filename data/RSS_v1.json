@@ -1,0 +1,768 @@
+{
+    "main_topic": "Reglamento General para la Prestación del Servicio Social",
+    "intents": [
+        {
+            "tag": "disposiciones_generales",
+            "patterns": [
+                "¿Qué establece el Reglamento General para la Prestación del Servicio Social en la UdeG?",
+                "¿Cuáles son las bases del Reglamento del Servicio Social en la UdeG?",
+                "¿Qué dice el Artículo 1 sobre las disposiciones generales del servicio social?",
+                "¿Qué lineamientos establece el Reglamento para el servicio social en la UdeG?",
+                "¿Cuáles son las disposiciones generales del servicio social en la UdeG?"
+            ],
+            "responses": [
+                "📜 El Reglamento General para la Prestación del Servicio Social establece las bases y fija los lineamientos para la prestación del servicio social.",
+                "⚖️ El Artículo 1 establece las bases y lineamientos del servicio social en la Universidad de Guadalajara.",
+                "📋 El Reglamento fija los lineamientos para la prestación del servicio social en la UdeG.",
+                "🔍 El Artículo 1 del Reglamento establece las disposiciones generales para el servicio social.",
+                "🏛️ Las bases y lineamientos para la prestación del servicio social están establecidos en el Reglamento General."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 1",
+            "topic": "Disposiciones Generales"
+        },
+        {
+            "tag": "programas_educativos",
+            "patterns": [
+                "¿Quiénes están obligados a prestar el servicio social en la UdeG?",
+                "¿Qué alumnos deben prestar el servicio social en la UdeG?",
+                "¿A qué programas educativos aplica la obligación de prestar servicio social?",
+                "¿Qué establece el Artículo 2 sobre los programas educativos para el servicio social?",
+                "¿Qué programas educativos requieren prestar servicio social en la UdeG?"
+            ],
+            "responses": [
+                "🎓 Están obligados a prestar el servicio social los alumnos que realicen estudios en bachillerato técnico terminal, técnico profesional, técnico superior universitario y licenciatura.",
+                "📚 El Artículo 2 establece que los alumnos de programas educativos como bachillerato técnico terminal, técnico profesional, técnico superior universitario y licenciatura deben prestar servicio social.",
+                "🏫 Los alumnos de las instituciones con reconocimiento de validez oficial de estudios por la Universidad de Guadalajara también están obligados.",
+                "📝 El servicio social es obligatorio para los alumnos de programas educativos como bachillerato técnico, técnico profesional, técnico superior y licenciatura.",
+                "🔖 El Artículo 2 menciona los programas educativos cuyos alumnos deben prestar servicio social en la UdeG."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 2",
+            "topic": "Programas Educativos"
+        },
+        {
+            "tag": "definicion_servicio_social",
+            "patterns": [
+                "¿Qué es el servicio social en la UdeG?",
+                "¿Cómo se define el servicio social en la UdeG?",
+                "¿Qué establece el Artículo 3 sobre el servicio social?",
+                "¿Qué actividad es el servicio social según el Reglamento?",
+                "¿Cómo se describe el servicio social en la UdeG?"
+            ],
+            "responses": [
+                "🤝 El servicio social es la actividad formativa y de aplicación de conocimientos que de manera temporal y obligatoria realizan los alumnos o pasantes en beneficio de los diferentes sectores de la sociedad.",
+                "📘 El Artículo 3 define el servicio social como una actividad temporal y obligatoria realizada por alumnos o pasantes en beneficio de la sociedad.",
+                "🌍 El servicio social es una actividad formativa y de aplicación de conocimientos realizada por alumnos o pasantes.",
+                "📌 El Artículo 3 del Reglamento establece que el servicio social beneficia a los diferentes sectores de la sociedad.",
+                "⏳ El servicio social es una actividad obligatoria y temporal para los alumnos y pasantes en la UdeG."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 3",
+            "topic": "Definición de Servicio Social"
+        },
+        {
+            "tag": "objetivos_servicio_social",
+            "patterns": [
+                "¿Cuáles son los objetivos del servicio social en la UdeG?",
+                "¿Qué busca el servicio social en la UdeG?",
+                "¿Qué establece el Artículo 4 sobre los objetivos del servicio social?",
+                "¿Qué fines tiene el servicio social en la UdeG?",
+                "¿Qué objetivos persigue el servicio social según el Reglamento?"
+            ],
+            "responses": [
+                "🎯 Los objetivos del servicio social en la UdeG son extender los beneficios de la educación y la cultura a la sociedad, fomentar una conciencia de servicio y compromiso, y promover la participación en la solución de problemas sociales.",
+                "📜 El Artículo 4 establece que el servicio social busca extender los beneficios de la educación, ciencia y tecnología a la sociedad.",
+                "🌱 El servicio social tiene como objetivos fomentar la participación de los alumnos en la solución de problemas prioritarios estatales y nacionales.",
+                "📊 El Artículo 4 menciona que el servicio social contribuye a la formación académica del prestador y fortalece la vinculación de la Universidad con la sociedad.",
+                "💡 Los objetivos del servicio social incluyen promover actitudes reflexivas y críticas ante la problemática social y estimular la participación activa de los alumnos."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 4",
+            "topic": "Objetivos del Servicio Social"
+        },
+        {
+            "tag": "requisito_titulacion",
+            "patterns": [
+                "¿Es obligatorio el servicio social para titularse en la UdeG?",
+                "¿Qué requisito es indispensable para la titulación en la UdeG?",
+                "¿Qué establece el Artículo 5 sobre la titulación?",
+                "¿Es necesario realizar el servicio social para titularse en la UdeG?",
+                "¿Qué dice el Reglamento sobre el servicio social y la titulación?"
+            ],
+            "responses": [
+                "📜 La prestación del servicio social es un requisito indispensable para la titulación de los programas educativos referidos en el Artículo 2.",
+                "⚖️ El Artículo 5 establece que el servicio social es obligatorio para la titulación en los programas educativos mencionados.",
+                "🎓 El servicio social es un requisito necesario para titularse en la Universidad de Guadalajara.",
+                "✅ Para titularse en la UdeG, es obligatorio realizar el servicio social.",
+                "📋 El Reglamento menciona que el servicio social es un requisito indispensable para la titulación."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 5",
+            "topic": "Requisito para Titulación"
+        },
+        {
+            "tag": "relacion_laboral",
+            "patterns": [
+                "¿El servicio social genera una relación laboral en la UdeG?",
+                "¿Qué tipo de relación se establece durante el servicio social en la UdeG?",
+                "¿Qué establece el Artículo 6 sobre la relación laboral?",
+                "¿Existe una relación laboral entre el prestador del servicio social y la UdeG?",
+                "¿Qué dice el Reglamento sobre la relación laboral en el servicio social?"
+            ],
+            "responses": [
+                "🚫 La prestación del servicio social universitario no genera una relación de tipo laboral entre el prestador y la dependencia de adscripción.",
+                "📜 El Artículo 6 establece que no existe relación laboral durante el servicio social universitario.",
+                "⚖️ El servicio social no crea una relación de tipo laboral entre el prestador y la UdeG.",
+                "👔 No hay relación laboral entre el prestador del servicio social y la dependencia de adscripción.",
+                "📋 El Reglamento establece que el servicio social no genera una relación laboral."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 6",
+            "topic": "Relación Laboral"
+        },
+        {
+            "tag": "numero_horas",
+            "patterns": [
+                "¿Cuántas horas de servicio social deben completar los alumnos en la UdeG?",
+                "¿Qué establece el Artículo 7 sobre el número de horas del servicio social?",
+                "¿Cuántas horas de servicio social son necesarias en la UdeG?",
+                "¿Cuál es el número de horas requeridas para el servicio social en la UdeG?",
+                "¿Cuántas horas deben dedicar al servicio social los estudiantes de diferentes programas educativos en la UdeG?"
+            ],
+            "responses": [
+                "⏰ Los alumnos o pasantes deben dedicar 240 horas en estudios de bachillerato técnico terminal, 480 horas en técnico profesional medio, técnico superior universitario y licenciatura, y un año en las licenciaturas de medicina, odontología, enfermería, nutrición y enfermería del nivel técnico.",
+                "📜 El Artículo 7 establece que los alumnos deben dedicar 240 horas en bachillerato técnico terminal, 480 horas en técnico profesional y licenciatura, y un año en medicina, odontología, enfermería, nutrición y enfermería técnica.",
+                "📊 Los estudios de bachillerato técnico terminal requieren 240 horas de servicio social.",
+                "⏳ El servicio social en técnico profesional medio, técnico superior universitario y licenciatura requiere 480 horas.",
+                "🏥 Las licenciaturas en medicina, odontología, enfermería, nutrición y enfermería del nivel técnico requieren un año de servicio social."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 7",
+            "topic": "Número de Horas"
+        },
+        {
+            "tag": "inicio_servicio_social",
+            "patterns": [
+                "¿Cuándo pueden los alumnos iniciar el servicio social en la UdeG?",
+                "¿Qué establece el Artículo 8 sobre el inicio del servicio social?",
+                "¿Cuándo pueden empezar a prestar el servicio social los estudiantes en la UdeG?",
+                "¿Qué requisitos deben cumplir los alumnos para iniciar el servicio social en la UdeG?",
+                "¿Qué criterios se establecen para el inicio del servicio social en la UdeG?"
+            ],
+            "responses": [
+                "📅 Los alumnos pueden iniciar el servicio social cuando hayan cubierto al menos el 60% de los créditos en bachillerato técnico terminal, técnico profesional medio, técnico superior universitario y licenciatura, el 70% en derecho y psicología, y el 100% en medicina, odontología, enfermería, nutrición y técnico superior universitario del área de la salud.",
+                "📜 El Artículo 8 establece que los estudiantes deben haber cubierto al menos el 60% de los créditos en bachillerato técnico terminal, técnico profesional y licenciatura, el 70% en derecho y psicología, y el 100% en medicina y áreas de la salud.",
+                "🎓 Los estudiantes de bachillerato técnico terminal, técnico profesional y licenciatura pueden iniciar el servicio social al cubrir el 60% de los créditos.",
+                "⚖️ En los planes de estudio de derecho y psicología, los estudiantes deben haber cubierto el 70% de los créditos para iniciar el servicio social.",
+                "🏥 Los estudiantes de medicina, odontología, enfermería, nutrición y técnico superior universitario del área de la salud deben haber cubierto el 100% de los créditos para iniciar el servicio social."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 8",
+            "topic": "Inicio del Servicio Social"
+        },
+        {
+            "tag": "programas_servicio_social",
+            "patterns": [
+                "¿Cómo se orientan los programas de servicio social en la UdeG?",
+                "¿Qué deben contener los programas de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 9 sobre los programas de servicio social?",
+                "¿Qué criterios deben seguir los programas de servicio social en la UdeG?",
+                "¿Qué elementos deben incluir los programas de servicio social según el Reglamento?"
+            ],
+            "responses": [
+                "📋 Los programas de servicio social se orientan a las políticas y criterios establecidos en el Plan de Desarrollo Institucional y deben contener elementos como denominación, justificación, objetivos, descripción, lugar de realización, duración, programas educativos, número y perfil de participantes, recursos necesarios, asesor de instancias receptoras y criterios de evaluación.",
+                "📜 El Artículo 9 establece que los programas de servicio social deben orientarse a las políticas del Plan de Desarrollo Institucional y contener elementos como objetivos, lugar de realización y criterios de evaluación.",
+                "📝 Los programas de servicio social deben incluir denominación, justificación, objetivos, descripción de elementos formativos, lugar de realización y duración.",
+                "🏛️ El servicio social debe contemplar elementos como programas educativos, número y perfil de participantes, recursos necesarios y asesor de instancias receptoras.",
+                "🔍 Los programas de servicio social en la UdeG deben seguir los criterios establecidos en el Plan de Desarrollo Institucional y contener elementos específicos como objetivos y criterios de evaluación."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 9",
+            "topic": "Programas de Servicio Social"
+        },
+        {
+            "tag": "programa_institucional",
+            "patterns": [
+                "¿Qué establece el Artículo 10 sobre el Programa Institucional de Servicio Social en la UdeG?",
+                "¿Quién integra el Programa Institucional de Servicio Social en la UdeG?",
+                "¿Cómo se elabora el Programa Institucional de Servicio Social en la UdeG?",
+                "¿Qué dice el Artículo 10 del Reglamento sobre el Programa Institucional de Servicio Social?",
+                "¿Qué procedimientos se siguen para la aprobación del Programa Institucional de Servicio Social en la UdeG?"
+            ],
+            "responses": [
+                "🏛️ La Vicerrectoría Ejecutiva integrará anualmente el Programa Institucional de Servicio Social de la UdeG, a partir de los programas específicos aprobados por los Consejos de Centro, Sistemas y la Coordinación General de Extensión.",
+                "📜 El Artículo 10 establece que el Programa Institucional de Servicio Social será sometido al pleno del H. Consejo General Universitario para su aprobación definitiva.",
+                "📋 La Vicerrectoría Ejecutiva elabora el Programa Institucional de Servicio Social anualmente, a partir de los programas específicos aprobados por los respectivos Consejos y la Coordinación General de Extensión.",
+                "⚖️ El Programa Institucional de Servicio Social es integrado anualmente por la Vicerrectoría Ejecutiva y sometido al H. Consejo General Universitario para su aprobación definitiva.",
+                "🔍 El Artículo 10 del Reglamento establece que la Vicerrectoría Ejecutiva integra el Programa Institucional de Servicio Social a partir de los programas específicos aprobados por los Consejos de Centro, Sistemas y la Coordinación General de Extensión."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 10",
+            "topic": "Programa Institucional de Servicio Social"
+        },
+        {
+            "tag": "publicacion_programas",
+            "patterns": [
+                "¿Cómo se publican los programas de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 11 sobre la publicación de los programas de servicio social?",
+                "¿Dónde se publican los programas de servicio social aprobados en la UdeG?",
+                "¿Qué procedimiento se sigue para la publicación de los programas de servicio social en la UdeG?",
+                "¿Qué dice el Artículo 11 del Reglamento sobre la publicación de los programas de servicio social?"
+            ],
+            "responses": [
+                "📢 La Universidad, a través de la Coordinación General de Extensión, publicará semestralmente en los medios impresos y electrónicos el listado de los programas de servicio social aprobados y la correspondiente convocatoria.",
+                "📜 El Artículo 11 establece que la Coordinación General de Extensión publicará semestralmente el listado de los programas de servicio social aprobados en medios impresos y electrónicos.",
+                "📰 Los programas de servicio social aprobados se publican semestralmente en los medios impresos y electrónicos de la Institución.",
+                "🏛️ La Coordinación General de Extensión se encarga de la publicación semestral de los programas de servicio social aprobados y la convocatoria correspondiente.",
+                "🔍 El Artículo 11 del Reglamento establece que la publicación de los programas de servicio social se realiza semestralmente en los medios impresos y electrónicos de la UdeG."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 11",
+            "topic": "Publicación de Programas"
+        },
+        {
+            "tag": "evaluacion_programas",
+            "patterns": [
+                "¿Quién evalúa los programas de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 12 sobre la evaluación de los programas de servicio social?",
+                "¿Qué dice el Reglamento sobre la evaluación de los programas de servicio social en la UdeG?",
+                "¿Qué funciones tiene el Consejo Técnico de Servicio Social Universitario en la UdeG?",
+                "¿Cómo se evalúan los programas de servicio social en la UdeG?"
+            ],
+            "responses": [
+                "🔍 El Consejo Técnico de Servicio Social Universitario evaluará los programas de servicio social de la Red Universitaria con el propósito de fomentarlos y proponer su modificación, suspensión o cancelación.",
+                "📜 El Artículo 12 establece que el Consejo Técnico de Servicio Social Universitario se encarga de evaluar los programas de servicio social y proponer su modificación, suspensión o cancelación.",
+                "⚖️ El Consejo Técnico de Servicio Social Universitario tiene la función de evaluar los programas de servicio social para fomentar su desarrollo y proponer cambios a las autoridades competentes.",
+                "📋 El Artículo 12 del Reglamento menciona que el Consejo Técnico de Servicio Social Universitario evaluará los programas de servicio social de la Red Universitaria.",
+                "🔄 La evaluación de los programas de servicio social en la UdeG está a cargo del Consejo Técnico de Servicio Social Universitario, que propone modificaciones, suspensiones o cancelaciones según sea necesario."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 12",
+            "topic": "Evaluación de Programas"
+        },
+        {
+            "tag": "suspension_cancelacion",
+            "patterns": [
+                "¿En qué casos se pueden suspender o cancelar los programas de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 13 sobre la suspensión o cancelación de los programas de servicio social?",
+                "¿Qué dice el Reglamento sobre la suspensión o cancelación de los programas de servicio social en la UdeG?",
+                "¿Cuáles son los motivos para la suspensión o cancelación de los programas de servicio social en la UdeG?",
+                "¿Qué criterios se siguen para suspender o cancelar los programas de servicio social en la UdeG?"
+            ],
+            "responses": [
+                "🚫 Los programas de servicio social podrán suspenderse o cancelarse cuando no constituyan una experiencia formativa, no se obtengan los recursos indispensables, lo soliciten justificadamente los receptores o responsables, no se firme el convenio, la instancia receptora lucre con el servicio social o los receptores no se sujeten a lo establecido en el convenio o programa.",
+                "📜 El Artículo 13 establece que los programas de servicio social pueden suspenderse o cancelarse si no constituyen una experiencia formativa o no se obtienen los recursos indispensables.",
+                "⚖️ Los programas de servicio social pueden suspenderse o cancelarse cuando lo soliciten justificadamente los receptores o responsables, no se firme el convenio, la instancia receptora lucre con el servicio social o los receptores no se sujeten a lo establecido.",
+                "🔍 El Artículo 13 menciona que la suspensión o cancelación de los programas de servicio social puede ocurrir en varios casos, como la falta de recursos o el lucro de la instancia receptora.",
+                "📌 Los criterios para suspender o cancelar los programas de servicio social incluyen la falta de experiencia formativa, recursos insuficientes y solicitudes justificadas de los receptores o responsables."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 13",
+            "topic": "Suspensión o Cancelación de Programas"
+        },
+        {
+            "tag": "cancelacion_suspension",
+            "patterns": [
+                "¿Qué pasa si se cancela o suspende un programa de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 14 sobre la cancelación o suspensión de programas de servicio social?",
+                "¿Qué deben hacer los titulares de las Unidades de Servicio Social si se suspende un programa?",
+                "¿Cómo se contabilizan las horas si se cancela un programa de servicio social en la UdeG?",
+                "¿Qué dice el Artículo 14 del Reglamento sobre la suspensión de programas de servicio social?"
+            ],
+            "responses": [
+                "🔄 Cuando se cancele o suspenda un programa de servicio social por causa no imputable al prestador, los titulares de las Unidades de Servicio Social deberán autorizar su incorporación a otro programa, contabilizando las horas dedicadas al programa cancelado o suspendido.",
+                "📜 El Artículo 14 establece que los titulares de las Unidades de Servicio Social deben autorizar la incorporación a otro programa y contabilizar las horas cuando se cancele o suspenda un programa.",
+                "⚖️ Si se suspende un programa de servicio social, los titulares de las Unidades de Servicio Social deben autorizar la incorporación a otro programa y contabilizar las horas dedicadas.",
+                "⏳ Las horas dedicadas a un programa de servicio social cancelado o suspendido serán contabilizadas, y los titulares de las Unidades de Servicio Social deben autorizar la incorporación a otro programa.",
+                "🔍 El Artículo 14 menciona que, en caso de cancelación o suspensión de un programa, se debe autorizar la incorporación a otro programa y contabilizar las horas dedicadas."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 14",
+            "topic": "Cancelación o Suspensión del Programa"
+        },
+        {
+            "tag": "reconocimiento_validez_oficial",
+            "patterns": [
+                "¿Cómo se realiza el servicio social en instituciones con reconocimiento de validez oficial en la UdeG?",
+                "¿Qué establece el Artículo 15 sobre el servicio social en instituciones con reconocimiento de validez oficial?",
+                "¿Qué disposiciones deben seguir los alumnos de instituciones con reconocimiento de validez oficial para el servicio social?",
+                "¿Qué dice el Reglamento sobre el servicio social en instituciones con reconocimiento de validez oficial en la UdeG?",
+                "¿Cómo se regula el servicio social en instituciones cuyos estudios tienen reconocimiento de validez oficial por la UdeG?"
+            ],
+            "responses": [
+                "🏛️ El servicio social que presten los alumnos y pasantes de instituciones con reconocimiento de validez oficial por parte de la UdeG debe realizarse conforme a las disposiciones del Reglamento y los programas establecidos por la Coordinación General de Extensión.",
+                "📜 El Artículo 15 establece que el servicio social de las instituciones con reconocimiento de validez oficial se realizará conforme a las disposiciones del Reglamento y los programas de la Coordinación General de Extensión.",
+                "⚖️ Los alumnos de instituciones con reconocimiento de validez oficial deben seguir las disposiciones del Reglamento y los programas de la Coordinación General de Extensión para realizar el servicio social.",
+                "📋 El Reglamento menciona que el servicio social en instituciones con reconocimiento de validez oficial debe cumplir con las disposiciones del presente Reglamento y los programas de la Coordinación General de Extensión.",
+                "🔍 El servicio social en instituciones cuyos estudios tienen reconocimiento de validez oficial por la UdeG debe seguir las disposiciones del Reglamento y los programas establecidos por la Coordinación General de Extensión."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 15",
+            "topic": "Servicio Social en Instituciones con Reconocimiento de Validez Oficial"
+        },
+        {
+            "tag": "determinacion_numero_alumnos",
+            "patterns": [
+                "¿Cómo se determina el número de alumnos y pasantes que prestarán servicio social en instituciones con reconocimiento de validez oficial en la UdeG?",
+                "¿Qué establece el Artículo 16 sobre la determinación del número de alumnos y pasantes en el servicio social?",
+                "¿Quién determina el número de alumnos que prestarán servicio social en instituciones con reconocimiento de validez oficial?",
+                "¿Qué dice el Reglamento sobre la determinación del número de alumnos y pasantes para el servicio social en la UdeG?",
+                "¿Cómo se verifica la condición de los alumnos para prestar servicio social en instituciones con reconocimiento de validez oficial en la UdeG?"
+            ],
+            "responses": [
+                "📊 El número de alumnos y pasantes de instituciones con reconocimiento de validez oficial que prestarán servicio social será determinado por la Coordinación de Estudios Incorporados, una vez verificada su condición en el sistema de control escolar.",
+                "📜 El Artículo 16 establece que la Coordinación de Estudios Incorporados determina el número de alumnos y pasantes que prestarán servicio social después de verificar su condición en el sistema de control escolar.",
+                "🔍 La Coordinación de Estudios Incorporados verifica la condición de los alumnos en el sistema de control escolar y determina el número de alumnos que prestarán servicio social.",
+                "📋 El Reglamento menciona que la Coordinación de Estudios Incorporados es responsable de determinar el número de alumnos y pasantes que prestarán servicio social después de verificar su condición.",
+                "⚖️ El Artículo 16 del Reglamento establece que la Coordinación de Estudios Incorporados determinará el número de alumnos y pasantes que prestarán servicio social una vez verificada su condición en el sistema de control escolar."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 16",
+            "topic": "Determinación del Número de Alumnos y Pasantes"
+        },
+        {
+            "tag": "documentacion_servicio_social",
+            "patterns": [
+                "¿Qué documentación se debe remitir para el servicio social en la UdeG?",
+                "¿Quién remite la documentación del servicio social de los alumnos en la UdeG?",
+                "¿Qué establece el Artículo 17 sobre la documentación del servicio social?",
+                "¿Cómo se notifican las asignaciones y terminaciones de servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre la documentación relativa al servicio social en la UdeG?"
+            ],
+            "responses": [
+                "📄 La Coordinación de Estudios Incorporados remitirá a la Coordinación General de Extensión la documentación relativa al servicio social de los alumnos y pasantes, quien emitirá los oficios de comisión de conformidad con el Reglamento.",
+                "📜 El Artículo 17 establece que la Coordinación de Estudios Incorporados remite la documentación del servicio social a la Coordinación General de Extensión, que emite los oficios de comisión.",
+                "🏛️ La Coordinación de Estudios Incorporados es responsable de remitir la documentación del servicio social a la Coordinación General de Extensión.",
+                "📋 El Reglamento menciona que la Coordinación General de Extensión emitirá los oficios de comisión y notificará la relación de asignación y terminación de servicio social a la Coordinación de Estudios Incorporados.",
+                "🔍 El Artículo 17 establece que la Coordinación de Estudios Incorporados remite la documentación relativa al servicio social y la Coordinación General de Extensión emite los oficios de comisión y notifica las asignaciones y terminaciones de servicio."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 17",
+            "topic": "Documentación del Servicio Social"
+        },
+        {
+            "tag": "convenios_servicio_social",
+            "patterns": [
+                "¿Quién celebra los convenios de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 18 sobre los convenios de servicio social?",
+                "¿Qué dice el Reglamento sobre la celebración de convenios de servicio social en la UdeG?",
+                "¿Quién se encarga de celebrar los convenios correspondientes al servicio social en la UdeG?",
+                "¿Qué dice el Artículo 18 del Reglamento sobre los convenios?"
+            ],
+            "responses": [
+                "🤝 El Rector General, de conformidad con los artículos 3 y 7 de este ordenamiento, celebrará los convenios correspondientes.",
+                "📜 El Artículo 18 establece que el Rector General celebra los convenios de servicio social en la UdeG.",
+                "🏛️ El Rector General es el encargado de celebrar los convenios de servicio social conforme a los artículos 3 y 7 del Reglamento.",
+                "📋 El Reglamento menciona que el Rector General celebrará los convenios correspondientes al servicio social.",
+                "🔍 El Artículo 18 del Reglamento establece que el Rector General celebrará los convenios de conformidad con los artículos 3 y 7."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 18",
+            "topic": "Convenios de Servicio Social"
+        },
+        {
+            "tag": "requisitos_sectores",
+            "patterns": [
+                "¿Cuáles son los requisitos para los sectores social, público y privado en los convenios de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 19 sobre los requisitos para los sectores social, público y privado?",
+                "¿Qué deben hacer los sectores social, público y privado para celebrar convenios de servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre los requisitos para los sectores social, público y privado en los convenios de servicio social?",
+                "¿Qué disposiciones establece el Artículo 19 para los sectores social, público y privado en los convenios de servicio social?"
+            ],
+            "responses": [
+                "📋 Los sectores social, público y privado que pretendan celebrar convenio en materia de servicio social con la UdeG deben presentar el programa de servicio social, dar a conocer la cooperación de la UdeG a la opinión pública, contar con un responsable directo, notificar cambios, facilitar la supervisión y evaluación, presentar informes, garantizar un trato digno, respetar la normatividad universitaria, designar tareas conforme al perfil profesional y notificar irregularidades.",
+                "📜 El Artículo 19 establece que los sectores social, público y privado deben cumplir con varios requisitos, incluyendo la presentación del programa de servicio social y la notificación de cambios.",
+                "⚖️ Los sectores social, público y privado deben presentar el programa de servicio social en los plazos determinados, garantizar un trato digno a los prestadores y facilitar la supervisión y evaluación.",
+                "📋 El Reglamento menciona que los sectores social, público y privado deben cumplir con requisitos específicos para celebrar convenios de servicio social con la UdeG.",
+                "🔍 El Artículo 19 del Reglamento establece varios requisitos para los sectores social, público y privado que pretendan celebrar convenios de servicio social, como presentar informes y notificar irregularidades."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 19",
+            "topic": "Requisitos para los Sectores Social, Público y Privado"
+        },
+        {
+            "tag": "solicitud_inscripcion",
+            "patterns": [
+                "¿Cómo se inscriben los alumnos al programa de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 20 sobre la inscripción al servicio social?",
+                "¿Cuándo deben inscribirse los alumnos al programa de servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre la inscripción al servicio social en la UdeG?",
+                "¿Qué plazos y términos se establecen para la inscripción al servicio social en la UdeG?"
+            ],
+            "responses": [
+                "📝 Los alumnos o pasantes presentarán su solicitud de inscripción al programa de Servicio Social aprobado en los Centros Universitarios, Sistemas o la Coordinación General de Extensión en los plazos y términos que determine la convocatoria.",
+                "📜 El Artículo 20 establece que los alumnos deben presentar su solicitud de inscripción al programa de Servicio Social en los plazos y términos determinados por la convocatoria.",
+                "🏛️ Los alumnos deben inscribirse al programa de Servicio Social en los Centros Universitarios, Sistemas o la Coordinación General de Extensión en los plazos y términos establecidos.",
+                "📋 El Reglamento menciona que los alumnos deben presentar su solicitud de inscripción al programa de Servicio Social en los plazos y términos que determine la convocatoria.",
+                "🔍 El Artículo 20 del Reglamento establece que la inscripción al servicio social debe realizarse en los plazos y términos que determine la convocatoria."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 20",
+            "topic": "Solicitud de Inscripción"
+        },
+        {
+            "tag": "contenido_solicitud",
+            "patterns": [
+                "¿Qué debe contener la solicitud de inscripción al servicio social en la UdeG?",
+                "¿Qué establece el Artículo 21 sobre el contenido de la solicitud de inscripción?",
+                "¿Qué información se requiere en la solicitud de inscripción al servicio social en la UdeG?",
+                "¿Qué datos deben incluirse en la solicitud de inscripción al servicio social?",
+                "¿Qué dice el Reglamento sobre el contenido de la solicitud de inscripción al servicio social en la UdeG?"
+            ],
+            "responses": [
+                "📄 La solicitud de inscripción debe contener datos generales y matrícula del solicitante, Centro Universitario, División, Departamento o Sistema, el programa educativo que curse o haya cursado, nombre del programa en que desee participar y vinculación con las actividades propias del perfil profesional.",
+                "📜 El Artículo 21 establece que la solicitud de inscripción debe incluir datos generales y matrícula del solicitante, Centro Universitario, División, Departamento, programa educativo y nombre del programa en que desee participar.",
+                "🔍 La solicitud de inscripción debe contener la información del solicitante, el Centro Universitario o Sistema, el programa educativo y el nombre del programa en que desee participar.",
+                "📋 El Reglamento menciona que la solicitud de inscripción al servicio social debe incluir datos generales, matrícula, Centro Universitario, programa educativo y nombre del programa.",
+                "⚖️ El Artículo 21 del Reglamento establece que la solicitud de inscripción debe contener datos generales del solicitante, el programa educativo y el nombre del programa en que desee participar."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 21",
+            "topic": "Contenido de la Solicitud de Inscripción"
+        },
+        {
+            "tag": "constancia_creditos",
+            "patterns": [
+                "¿Qué se debe acompañar junto con la solicitud de inscripción al servicio social en la UdeG?",
+                "¿Qué establece el Artículo 22 sobre la constancia de créditos?",
+                "¿Qué documentación se requiere junto con la solicitud de inscripción al servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre la constancia de créditos en la UdeG?",
+                "¿Qué se debe acreditar junto con la solicitud de inscripción al servicio social?"
+            ],
+            "responses": [
+                "📑 Junto con la solicitud de inscripción se debe acompañar la constancia oficial donde se acredite que se han cubierto los porcentajes de los créditos del plan de estudios correspondiente.",
+                "📜 El Artículo 22 establece que se debe presentar una constancia oficial acreditando los porcentajes de créditos cubiertos junto con la solicitud de inscripción.",
+                "🔍 La solicitud de inscripción al servicio social debe ir acompañada de una constancia oficial que acredite los porcentajes de créditos cubiertos.",
+                "📋 El Reglamento menciona que se debe presentar una constancia oficial de los créditos cubiertos junto con la solicitud de inscripción al servicio social.",
+                "⚖️ El Artículo 22 del Reglamento establece que junto con la solicitud se debe acompañar la constancia oficial que acredite los porcentajes de créditos cubiertos del plan de estudios."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 22",
+            "topic": "Constancia de Créditos"
+        },
+        {
+            "tag": "reporte_bimestral",
+            "patterns": [
+                "¿Qué deben entregar los prestadores de servicio social cada bimestre en la UdeG?",
+                "¿Qué establece el Artículo 23 sobre el reporte bimestral de actividades?",
+                "¿Qué información debe contener el reporte bimestral de actividades en la UdeG?",
+                "¿Qué dice el Reglamento sobre el reporte bimestral de actividades en la UdeG?",
+                "¿Cuándo deben entregar los prestadores de servicio social el reporte de actividades en la UdeG?"
+            ],
+            "responses": [
+                "📅 Los prestadores de servicio social deben entregar un reporte bimestral de actividades realizadas, que conste los días y horas de la carga horaria asignada, con el nombre y firma del asesor y el sello de la institución receptora; en el área de Ciencias de la Salud el reporte debe ser trimestral.",
+                "📜 El Artículo 23 establece que los prestadores de servicio social deben entregar un reporte bimestral de actividades realizadas, con la firma y sello del asesor y de la institución receptora, y en el área de Ciencias de la Salud, el reporte debe ser trimestral.",
+                "🔍 El reporte bimestral de actividades debe constar los días y horas de la carga horaria asignada, incluir el nombre y firma del asesor, y el sello de la institución receptora.",
+                "📋 El Reglamento menciona que los prestadores de servicio social deben entregar un reporte bimestral de actividades realizadas, y trimestral en el área de Ciencias de la Salud.",
+                "⚖️ El Artículo 23 establece que el reporte bimestral de actividades debe incluir los días y horas de la carga horaria, el nombre y firma del asesor, y el sello de la institución receptora; en el área de Ciencias de la Salud el reporte es trimestral."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 23",
+            "topic": "Reporte Bimestral de Actividades"
+        },
+        {
+            "tag": "reporte_final",
+            "patterns": [
+                "¿Qué deben presentar los prestadores de servicio social al finalizar la carga horaria en la UdeG?",
+                "¿Qué establece el Artículo 24 sobre el reporte final de actividades?",
+                "¿Qué documentación se requiere al finalizar el servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre el reporte final de actividades en la UdeG?",
+                "¿Qué se debe entregar al completar la carga horaria del servicio social en la UdeG?"
+            ],
+            "responses": [
+                "📄 Los prestadores que hayan cumplido con la carga horaria asignada deben presentar un reporte final de actividades realizadas con la firma y sello de la instancia receptora.",
+                "📜 El Artículo 24 establece que los prestadores de servicio social deben presentar un reporte final de actividades realizadas, firmado y sellado por la instancia receptora, al cumplir con la carga horaria asignada.",
+                "🔍 El reporte final de actividades debe tener la firma y sello de la instancia receptora y debe ser presentado por los prestadores de servicio social que hayan cumplido con la carga horaria asignada.",
+                "📋 El Reglamento menciona que los prestadores que hayan cumplido con la carga horaria asignada deben presentar un reporte final de actividades realizadas con la firma y sello de la instancia receptora.",
+                "⚖️ El Artículo 24 establece que al completar la carga horaria del servicio social, se debe presentar un reporte final de actividades realizadas, firmado y sellado por la instancia receptora."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 24",
+            "topic": "Reporte Final de Actividades"
+        },
+        {
+            "tag": "contenido_reporte_final",
+            "patterns": [
+                "¿Qué debe contener el reporte final del servicio social en la UdeG?",
+                "¿Qué establece el Artículo 25 sobre el contenido del reporte final del servicio social?",
+                "¿Qué información se requiere en el reporte final del servicio social en la UdeG?",
+                "¿Qué datos deben incluirse en el reporte final del servicio social?",
+                "¿Qué dice el Reglamento sobre el contenido del reporte final del servicio social en la UdeG?"
+            ],
+            "responses": [
+                "📝 El reporte final del servicio social debe ser individual y contener los datos incluidos en el oficio de comisión, así como los objetivos del programa, actividades realizadas, metas alcanzadas, metodología utilizada y descripción de la innovación aportada, y conclusiones y propuestas.",
+                "📜 El Artículo 25 establece que el reporte final del servicio social debe incluir los objetivos del programa, actividades realizadas, metas alcanzadas, metodología utilizada y descripción de la innovación aportada, y conclusiones y propuestas.",
+                "🔍 El reporte final del servicio social debe contener los datos del oficio de comisión, objetivos del programa, actividades realizadas, metas alcanzadas, metodología utilizada, innovación aportada, y conclusiones y propuestas.",
+                "📋 El Reglamento menciona que el reporte final del servicio social debe incluir los objetivos del programa, actividades realizadas, metas alcanzadas, metodología utilizada, innovación aportada, y conclusiones y propuestas.",
+                "⚖️ El Artículo 25 establece que el reporte final del servicio social debe contener los objetivos del programa, actividades realizadas, metas alcanzadas, metodología utilizada, descripción de la innovación aportada y conclusiones y propuestas."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 25",
+            "topic": "Contenido del Reporte Final"
+        },
+        {
+            "tag": "constancia_conclusion",
+            "patterns": [
+                "¿Qué reciben los prestadores que cumplen con el programa de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 26 sobre la constancia de conclusión de carga horaria?",
+                "¿Qué documentación reciben los prestadores al finalizar el servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre la constancia de conclusión de carga horaria en la UdeG?",
+                "¿Qué establece el Artículo 26 del Reglamento sobre la conclusión del servicio social?"
+            ],
+            "responses": [
+                "📜 Los prestadores que hayan cumplido con el programa correspondiente recibirán una constancia que acredite la conclusión de la carga horaria asignada, estableciendo fecha de inicio y terminación, así como la autorización del reporte final.",
+                "📜 El Artículo 26 establece que los prestadores recibirán una constancia de conclusión de carga horaria con fecha de inicio y terminación y autorización del reporte final.",
+                "🔍 Al finalizar el servicio social, los prestadores recibirán una constancia que acredite la conclusión de la carga horaria asignada, estableciendo fecha de inicio y terminación.",
+                "📋 El Reglamento menciona que los prestadores recibirán una constancia de conclusión de carga horaria con la autorización del reporte final.",
+                "⚖️ El Artículo 26 del Reglamento establece que los prestadores recibirán una constancia de conclusión de carga horaria al cumplir con el programa correspondiente."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 26",
+            "topic": "Constancia de Conclusión de Carga Horaria"
+        },
+        {
+            "tag": "entrega_documentos",
+            "patterns": [
+                "¿A quién se entregan los documentos al finalizar el servicio social en la UdeG?",
+                "¿Qué establece el Artículo 27 sobre la entrega de documentos?",
+                "¿Qué documentación se entrega al titular de la Unidad de Servicio Social en la UdeG?",
+                "¿Qué dice el Reglamento sobre la entrega de documentos al finalizar el servicio social?",
+                "¿Qué establece el Artículo 27 del Reglamento sobre la entrega de documentos?"
+            ],
+            "responses": [
+                "📂 Los documentos señalados en el artículo anterior se entregarán al titular de la Unidad de Servicio Social del Centro, Sistemas o de Atención a Escuelas Incorporadas, para la expedición de la constancia de terminación.",
+                "📜 El Artículo 27 establece que los documentos se entregarán al titular de la Unidad de Servicio Social para la expedición de la constancia de terminación.",
+                "🔍 La documentación se entregará al titular de la Unidad de Servicio Social del Centro, Sistemas o de Atención a Escuelas Incorporadas, para la expedición de la constancia de terminación.",
+                "📋 El Reglamento menciona que los documentos se entregarán al titular de la Unidad de Servicio Social para la expedición de la constancia de terminación expedida por la Secretaría o Dirección Administrativa.",
+                "⚖️ El Artículo 27 del Reglamento establece que los documentos se entregarán al titular de la Unidad de Servicio Social para la expedición de la constancia de terminación."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 27",
+            "topic": "Entrega de Documentos"
+        },
+        {
+            "tag": "plazo_prestacion",
+            "patterns": [
+                "¿Cuál es el plazo para la prestación del servicio social en la UdeG?",
+                "¿Qué establece el Artículo 28 sobre el plazo para la prestación del servicio social?",
+                "¿Cuánto tiempo debe durar el servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre el plazo para la prestación del servicio social en la UdeG?",
+                "¿Qué establece el Artículo 28 del Reglamento sobre el plazo del servicio social?"
+            ],
+            "responses": [
+                "⏳ El plazo para la prestación del servicio social será continuo y deberá realizarse en un término no menor de seis meses ni mayor de dos años. Están exceptuadas las personas mayores de sesenta años y aquellas con impedimentos que les impidan la prestación del servicio social.",
+                "📜 El Artículo 28 establece que el plazo del servicio social debe ser continuo y realizarse en un término no menor de seis meses ni mayor de dos años.",
+                "🔍 El servicio social debe realizarse en un término no menor de seis meses ni mayor de dos años, de forma continua.",
+                "📋 El Reglamento menciona que las personas mayores de sesenta años y aquellas con impedimentos están exceptuadas de prestar servicio social.",
+                "⚖️ El Artículo 28 establece que el plazo para la prestación del servicio social será continuo y deberá realizarse en un término de seis meses a dos años."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 28",
+            "topic": "Plazo para la Prestación del Servicio Social"
+        },
+        {
+            "tag": "sanciones_negativa",
+            "patterns": [
+                "¿Qué pasa si los alumnos se niegan a prestar servicio social en la UdeG?",
+                "¿Qué establece el Artículo 29 sobre las sanciones por negarse a prestar servicio social?",
+                "¿Qué sanciones se aplican a los alumnos que no prestan servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre la negativa a prestar servicio social en la UdeG?",
+                "¿Qué establece el Artículo 29 del Reglamento sobre las sanciones por no prestar servicio social?"
+            ],
+            "responses": [
+                "🚫 Los alumnos que sin causa justificada se nieguen a prestar el servicio social serán sancionados con amonestación y apercibimiento; en caso de reincidencia, serán expulsados definitivamente de la Universidad.",
+                "📜 El Artículo 29 establece que los alumnos que se nieguen a prestar servicio social serán sancionados con amonestación y apercibimiento, y en caso de reincidencia, serán expulsados definitivamente.",
+                "⚖️ Los alumnos que no presten servicio social sin causa justificada recibirán sanciones que van desde la amonestación hasta la expulsión definitiva en caso de reincidencia.",
+                "📋 El Reglamento menciona que los alumnos que se nieguen a prestar servicio social serán sancionados y, en caso de reincidencia, expulsados definitivamente de la Universidad.",
+                "🔍 El Artículo 29 establece que los alumnos que se nieguen a prestar servicio social sin justificación serán sancionados con amonestación y apercibimiento, y expulsados en caso de reincidencia."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 29",
+            "topic": "Sanciones por Negarse a Prestar Servicio Social"
+        },
+        {
+            "tag": "derechos_prestadores",
+            "patterns": [
+                "¿Cuáles son los derechos de los prestadores de servicio social en la UdeG?",
+                "¿Qué derechos tienen los prestadores de servicio social según el Artículo 30?",
+                "¿Qué establece el Reglamento sobre los derechos de los prestadores de servicio social en la UdeG?",
+                "¿Qué derechos tienen los prestadores de servicio social en la Universidad de Guadalajara?",
+                "¿Qué dice el Artículo 30 del Reglamento sobre los derechos de los prestadores de servicio social?"
+            ],
+            "responses": [
+                "📜 Los prestadores de servicio social tienen derecho a recibir información del programa, asesoría adecuada y oportuna, realizar actividades acordes con su preparación profesional, contar con los recursos necesarios para el desarrollo de sus actividades, manifestar sus puntos de vista, gozar de permisos justificados, presentar constancia médica, solicitar baja temporal o definitiva, solicitar reasignación a otro programa, recibir compensaciones, y recibir la constancia que acredite la realización del servicio social al término del mismo.",
+                "📜 El Artículo 30 establece que los prestadores de servicio social tienen derecho a recibir información, asesoría adecuada y oportuna, y realizar actividades acordes con su preparación profesional, entre otros derechos.",
+                "🔍 Los prestadores de servicio social tienen derecho a contar con los recursos necesarios para sus actividades, manifestar sus puntos de vista, y gozar de permisos justificados, entre otros derechos.",
+                "📋 El Reglamento menciona que los prestadores de servicio social tienen derecho a recibir asesoría, solicitar baja temporal o definitiva, y recibir compensaciones, entre otros derechos.",
+                "⚖️ El Artículo 30 establece que los prestadores de servicio social tienen varios derechos, incluyendo recibir información del programa, realizar actividades acordes con su preparación profesional, y recibir la constancia de realización del servicio social."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 30",
+            "topic": "Derechos de los Prestadores de Servicio Social"
+        },
+        {
+            "tag": "obligaciones_prestadores",
+            "patterns": [
+                "¿Cuáles son las obligaciones de los prestadores de servicio social en la UdeG?",
+                "¿Qué obligaciones tienen los prestadores de servicio social según el Artículo 31?",
+                "¿Qué establece el Reglamento sobre las obligaciones de los prestadores de servicio social en la UdeG?",
+                "¿Qué deben cumplir los prestadores de servicio social en la Universidad de Guadalajara?",
+                "¿Qué dice el Artículo 31 del Reglamento sobre las obligaciones de los prestadores de servicio social?"
+            ],
+            "responses": [
+                "📜 Los prestadores de servicio social deben cumplir el reglamento, realizar trámites administrativos, inscribirse en programas aprobados, presentarse en el lugar asignado, cumplir con las actividades asignadas, observar las normas de la institución receptora, guardar disciplina, responsabilizarse por el buen uso del material, cumplir con dedicación e interés las actividades del servicio social, cuidar la imagen de la Universidad de Guadalajara, asistir a eventos de apoyo a los programas, elaborar un reporte final, participar en actividades de capacitación, presentar reportes bimestrales, y las demás que confiera la normatividad aplicable.",
+                "📜 El Artículo 31 establece que los prestadores de servicio social deben cumplir el reglamento, realizar trámites administrativos, inscribirse en programas aprobados y presentarse en el lugar asignado, entre otras obligaciones.",
+                "🔍 Los prestadores de servicio social deben cumplir con las actividades asignadas, observar las normas de la institución receptora, y guardar disciplina y buen desempeño en las tareas encomendadas.",
+                "📋 El Reglamento menciona que los prestadores de servicio social deben responsabilizarse por el buen uso del material, cumplir con dedicación e interés las actividades relativas al servicio social, y cuidar la imagen de la Universidad de Guadalajara.",
+                "⚖️ El Artículo 31 establece que los prestadores de servicio social deben cumplir varias obligaciones, incluyendo asistir a eventos de apoyo a los programas, elaborar un reporte final, y participar en actividades de capacitación."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 31",
+            "topic": "Obligaciones de los Prestadores de Servicio Social"
+        },
+        {
+            "tag": "procedimiento_baja",
+            "patterns": [
+                "¿En qué casos se da de baja a un prestador de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 32 sobre la baja del programa de servicio social?",
+                "¿Cuándo se suspende a un prestador de servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre la baja del programa de servicio social en la UdeG?",
+                "¿Qué determina el Artículo 32 sobre la baja de un prestador de servicio social?"
+            ],
+            "responses": [
+                "🚫 El prestador será dado de baja del programa cuando no se presente en la fecha señalada, renuncie, acumule tres faltas consecutivas o cinco alternadas sin causa justificada, no cumpla con las actividades asignadas, deje inconclusas las actividades injustificadamente, o lo determine alguna autoridad universitaria competente.",
+                "📜 El Artículo 32 establece que se dará de baja al prestador que no se presente en la fecha señalada, renuncie, acumule faltas sin justificación, no cumpla con las actividades asignadas, deje inconclusas las actividades, o lo determine una autoridad universitaria.",
+                "🔍 Un prestador de servicio social será dado de baja si no se presenta en la fecha señalada, renuncia, acumula faltas sin causa justificada, no cumple con las actividades, deja inconclusas las actividades, o lo determina una autoridad competente.",
+                "📋 El Reglamento menciona que el prestador será dado de baja del programa de servicio social en varios casos, como no presentarse en la fecha señalada o acumular faltas sin justificación.",
+                "⚖️ El Artículo 32 establece que un prestador de servicio social será dado de baja si no se presenta, renuncia, acumula faltas, no cumple con las actividades, deja inconclusas las actividades, o lo determina una autoridad competente."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 32",
+            "topic": "Procedimiento de Baja"
+        },
+        {
+            "tag": "suspension_reincorporacion",
+            "patterns": [
+                "¿Qué pasa si un prestador es dado de baja del programa de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 33 sobre la suspensión y reincorporación del servicio social?",
+                "¿Qué debe hacer un prestador de servicio social dado de baja en la UdeG?",
+                "¿Qué dice el Reglamento sobre la reincorporación al servicio social en la UdeG?",
+                "¿Qué establece el Artículo 33 del Reglamento sobre la suspensión del servicio social?"
+            ],
+            "responses": [
+                "🔄 Cuando el prestador sea dado de baja del programa, se suspenderá la prestación del servicio social y podrá reincorporarse al siguiente ciclo escolar, contabilizando las horas prestadas por el titular de la dependencia receptora.",
+                "📜 El Artículo 33 establece que al ser dado de baja, se suspenderá la prestación del servicio social y el prestador podrá reincorporarse al siguiente ciclo escolar, con la contabilización de las horas prestadas.",
+                "🔍 Si un prestador es dado de baja del programa, se suspenderá el servicio social y podrá reincorporarse al siguiente ciclo escolar con la contabilización de las horas prestadas.",
+                "📋 El Reglamento menciona que los prestadores dados de baja del programa podrán reincorporarse al siguiente ciclo escolar, contabilizando las horas prestadas por el titular de la dependencia receptora.",
+                "⚖️ El Artículo 33 establece que al ser dado de baja, el prestador podrá reincorporarse al siguiente ciclo escolar, contabilizando las horas prestadas."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 33",
+            "topic": "Suspensión y Reincorporación"
+        },
+        {
+            "tag": "aplicacion_disposiciones",
+            "patterns": [
+                "¿Quién aplica las disposiciones sobre la baja del servicio social en la UdeG?",
+                "¿Qué establece el Artículo 34 sobre la aplicación de las disposiciones de baja?",
+                "¿Qué dice el Reglamento sobre la aplicación de las disposiciones de baja en la UdeG?",
+                "¿Quién se encarga de aplicar las disposiciones contenidas en el Artículo 32 en la UdeG?",
+                "¿Qué establece el Artículo 34 del Reglamento sobre la aplicación de disposiciones de baja?"
+            ],
+            "responses": [
+                "🏛️ Los titulares de las Unidades de Servicio Social de los Centros, Sistemas y de Atención a Escuelas Incorporadas aplicarán las disposiciones contenidas en el Artículo 32 de este Reglamento.",
+                "📜 El Artículo 34 establece que los titulares de las Unidades de Servicio Social aplicarán las disposiciones sobre la baja del servicio social.",
+                "🔍 Los titulares de las Unidades de Servicio Social se encargan de aplicar las disposiciones contenidas en el Artículo 32 del Reglamento.",
+                "📋 El Reglamento menciona que los titulares de las Unidades de Servicio Social de los Centros, Sistemas y de Atención a Escuelas Incorporadas aplicarán las disposiciones de baja.",
+                "⚖️ El Artículo 34 establece que los titulares de las Unidades de Servicio Social aplicarán las disposiciones contenidas en el Artículo 32 del Reglamento."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 34",
+            "topic": "Aplicación de Disposiciones"
+        },
+        {
+            "tag": "notificacion_baja",
+            "patterns": [
+                "¿Cómo se notifica la baja a un prestador de servicio social en la UdeG?",
+                "¿Qué establece el Artículo 35 sobre la notificación de baja?",
+                "¿Qué procedimiento se sigue para notificar la baja del servicio social en la UdeG?",
+                "¿Qué dice el Reglamento sobre la notificación de baja en la UdeG?",
+                "¿Qué establece el Artículo 35 del Reglamento sobre la notificación de baja del servicio social?"
+            ],
+            "responses": [
+                "📩 La baja respectiva se notificará por escrito al prestador de servicio de manera personal, en un término de 5 días hábiles contados a partir de la notificación de la resolución.",
+                "📜 El Artículo 35 establece que la baja se notificará por escrito al prestador de servicio de manera personal, en un término de 5 días hábiles contados desde la notificación de la resolución.",
+                "🔍 La baja del prestador de servicio social se notificará por escrito de manera personal en un término de 5 días hábiles a partir de la notificación de la resolución.",
+                "📋 El Reglamento menciona que la notificación de baja se realizará de manera personal y por escrito en un término de 5 días hábiles desde la notificación de la resolución.",
+                "⚖️ El Artículo 35 establece que la baja respectiva se notificará por escrito al prestador de servicio de manera personal en un término de 5 días hábiles contados desde la notificación de la resolución."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 35",
+            "topic": "Notificación de Baja"
+        },
+        {
+            "tag": "recurso_revision",
+            "patterns": [
+                "¿Quiénes pueden interponer un recurso de revisión en la UdeG?",
+                "¿Qué establece el Artículo 36 sobre el recurso de revisión?",
+                "¿En qué casos se puede interponer un recurso de revisión en la UdeG?",
+                "¿Qué dice el Reglamento sobre el recurso de revisión en la UdeG?",
+                "¿Qué establece el Artículo 36 del Reglamento sobre el recurso de revisión?"
+            ],
+            "responses": [
+                "⚖️ Podrán interponer recurso de revisión los alumnos y pasantes de la Universidad a quienes se niegue la constancia que acredite la conclusión de la carga horaria establecida en el oficio de comisión y el reporte final de las actividades realizadas.",
+                "📜 El Artículo 36 establece que los alumnos y pasantes a quienes se niegue la constancia de conclusión de carga horaria y el reporte final pueden interponer un recurso de revisión.",
+                "🔍 Los alumnos y pasantes que no reciban la constancia de conclusión de carga horaria y el reporte final de actividades pueden interponer un recurso de revisión.",
+                "📋 El Reglamento menciona que los alumnos y pasantes pueden interponer un recurso de revisión si se les niega la constancia de conclusión de carga horaria y el reporte final.",
+                "⚖️ El Artículo 36 establece que los alumnos y pasantes a quienes se niegue la constancia y el reporte final de actividades pueden interponer un recurso de revisión."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 36",
+            "topic": "Recurso de Revisión"
+        },
+        {
+            "tag": "procedimiento_revision",
+            "patterns": [
+                "¿Cómo se interpone un recurso de revisión en la UdeG?",
+                "¿Qué establece el Artículo 37 sobre el procedimiento para el recurso de revisión?",
+                "¿Qué procedimiento se sigue para interponer un recurso de revisión en la UdeG?",
+                "¿Qué dice el Reglamento sobre el procedimiento del recurso de revisión en la UdeG?",
+                "¿Qué establece el Artículo 37 del Reglamento sobre el procedimiento para el recurso de revisión?"
+            ],
+            "responses": [
+                "📄 El recurso de revisión deberá interponerse por escrito ante los Rectores de los Centros Universitarios y de la Universidad Virtual, Director General del Sistema de Educación Media Superior y Coordinador General de Extensión, quienes podrán solicitar documentación necesaria antes de emitir la resolución en un plazo máximo de quince días hábiles.",
+                "📜 El Artículo 37 establece que el recurso de revisión se interpone por escrito ante los Rectores de los Centros Universitarios y de la Universidad Virtual, Director General del Sistema de Educación Media Superior y Coordinador General de Extensión.",
+                "🔍 El recurso de revisión se debe interponer por escrito y los rectores y directores correspondientes podrán solicitar documentación antes de emitir la resolución.",
+                "📋 El Reglamento menciona que el recurso de revisión se interpone por escrito y la resolución se expedirá en un plazo máximo de quince días hábiles.",
+                "⚖️ El Artículo 37 establece que el recurso de revisión se interpone por escrito ante los rectores y directores correspondientes, quienes pueden solicitar documentación necesaria antes de emitir la resolución en quince días hábiles."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 37",
+            "topic": "Procedimiento para el Recurso de Revisión"
+        },
+        {
+            "tag": "responsabilidades_sanciones",
+            "patterns": [
+                "¿Cómo se investigan y sancionan las infracciones al Reglamento en la UdeG?",
+                "¿Qué establece el Artículo 38 sobre responsabilidades y sanciones?",
+                "¿Qué dice el Reglamento sobre la investigación y sanción de infracciones en la UdeG?",
+                "¿Qué procedimientos se siguen para sancionar infracciones al Reglamento en la UdeG?",
+                "¿Qué establece el Artículo 38 del Reglamento sobre las responsabilidades y sanciones?"
+            ],
+            "responses": [
+                "⚖️ La infracción a las disposiciones contenidas en este ordenamiento será investigada y, en su caso, sancionada de conformidad con lo establecido en la Ley Orgánica y el Estatuto General de la Universidad de Guadalajara.",
+                "📜 El Artículo 38 establece que las infracciones serán investigadas y sancionadas conforme a la Ley Orgánica y el Estatuto General de la UdeG.",
+                "🔍 Las infracciones al Reglamento serán investigadas y sancionadas según lo establecido en la Ley Orgánica y el Estatuto General de la UdeG.",
+                "📋 El Reglamento menciona que las infracciones a sus disposiciones serán investigadas y sancionadas de conformidad con la Ley Orgánica y el Estatuto General de la Universidad.",
+                "⚖️ El Artículo 38 establece que las infracciones serán investigadas y sancionadas según la Ley Orgánica y el Estatuto General de la UdeG."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 38",
+            "topic": "Responsabilidades y Sanciones"
+        }
+
+
+
+    ]
+}

@@ -1,0 +1,486 @@
+{
+    "main_topic": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+    "intents": [
+        {
+            "tag": "objeto_reglamento_estimulos_estudiantes",
+            "patterns": [
+                "¿Cuál es el objetivo de este reglamento?",
+                "¿A qué estudiantes está dirigido este programa?",
+                "¿Qué tipos de estudios cubre este estímulo?",
+                "¿El programa incluye a estudiantes de posgrado?",
+                "¿Qué beneficios ofrece este estímulo?"
+            ],
+            "responses": [
+                "🎯 El objetivo es otorgar estímulos económicos a estudiantes sobresalientes de la UdeG (Art. 1).",
+                "📚 Está dirigido a alumnos de bachillerato, carrera técnica y licenciatura (Art. 3).",
+                "🏫 Cubre educación media superior, técnica superior universitaria y licenciatura (Art. 3).",
+                "❌ No, solo para niveles medio superior y superior (Art. 3).",
+                "💰 Apoyo económico mensual + integración a actividades extracurriculares (Art. 2)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículos 1-3",
+            "topic": "Objetivo y alcance"
+        },
+        {
+            "tag": "monto_estimulo",
+            "patterns": [
+                "¿Cuánto dinero reciben los estudiantes?",
+                "¿Hay diferencia en el monto por nivel educativo?",
+                "¿El monto se actualiza cada año?",
+                "¿Se paga durante vacaciones?",
+                "¿El estímulo es compatible con otras becas?"
+            ],
+            "responses": [
+                "💵 Media Superior: 0.75 SM / Superior: 1 SM de ZMG (Art. 4).",
+                "📊 Sí, licenciatura recibe más que bachillerato (Art. 4).",
+                "🔄 Sí, según incremento al salario mínimo (Transitorio 4º).",
+                "📅 Sí, dura 12 meses continuos (Art. 4).",
+                "⚠️ No se permite con otras becas federales (Art. 16-II)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 4",
+            "topic": "Monto y duración"
+        },
+        {
+            "tag": "presupuesto_estimulos",
+            "patterns": [
+                "¿Cómo se determina el número de estímulos a otorgar?",
+                "¿Quién aprueba el presupuesto para los estímulos?",
+                "¿Puede variar la cantidad de estímulos cada año?",
+                "¿Qué es el Subprograma Estudiantes Sobresalientes?",
+                "¿La Rectoría puede modificar los montos de los estímulos?"
+            ],
+            "responses": [
+                "📊 Según el techo presupuestal anual asignado al Subprograma (Art. 5).",
+                "🏛️ El Consejo General Universitario (Art. 8-I).",
+                "🔄 Sí, depende del presupuesto disponible (Art. 5).",
+                "💰 Es el programa que gestiona estos estímulos (Art. 5).",
+                "✏️ Solo puede ajustar el número, no el monto base (Art. 9-II)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 5",
+            "topic": "Asignación presupuestal"
+        },
+        {
+            "tag": "modalidades_participacion",
+            "patterns": [
+                "¿En qué modalidades puedo participar?",
+                "¿El Rector puede crear nuevas modalidades?",
+                "¿Hay estímulos específicos para deportistas?",
+                "¿Puedo cambiar de modalidad después de aplicar?",
+                "¿La modalidad de investigación requiere promedio mayor?"
+            ],
+            "responses": [
+                "🎯 8 opciones: investigación, deporte, bibliotecas, etc. (Art. 6).",
+                "✅ Sí, con aprobación del Rector (Art. 6-VIII).",
+                "🏅 Sí, 'Deporte de Alto Rendimiento' (Art. 6-VI).",
+                "🚫 No, solo 1 modalidad por año (Art. 18).",
+                "📚 No, mismo promedio mínimo (90) (Art. 16-III)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 6",
+            "topic": "Opciones de participación"
+        },
+        {
+            "tag": "autoridades_competentes",
+            "patterns": [
+                "¿Quiénes deciden sobre los estímulos?",
+                "¿Qué hace el Consejo General Universitario?",
+                "¿El Rector puede cancelar un estímulo?",
+                "¿Quién resuelve los recursos de inconformidad?",
+                "¿Qué centros participan en la evaluación?"
+            ],
+            "responses": [
+                "🏛️ 4 autoridades: Consejo, Rector, Comité Técnico, etc. (Art. 7).",
+                "📜 Aprueba presupuesto y modifica reglamento (Art. 8).",
+                "⚖️ Sí, en casos específicos (Art. 9-VI).",
+                "📢 Comisión de Condonaciones y Becas (Art. 8-III).",
+                "🎓 Todos los centros universitarios y EMS (Art. 7-III)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículos 7-9",
+            "topic": "Estructura de autoridades"
+        },
+        {
+            "tag": "atribuciones_consejos",
+            "patterns": [
+                "¿Cómo evalúan los Consejos de Centro las solicitudes?",
+                "¿Dónde se publican los resultados preliminares?",
+                "¿Puedo saber mi puntaje exacto?",
+                "¿Quién asigna a los estudiantes a dependencias?",
+                "¿Los Consejos pueden cancelar estímulos?"
+            ],
+            "responses": [
+                "📝 Según reglamento y convocatoria (Art. 10-I).",
+                "📢 En la Gaceta Universitaria (Art. 10-II).",
+                "🔢 Sí, aparecen en orden decreciente (Art. 10-II).",
+                "🏫 Los Consejos según modalidad (Art. 10-IV).",
+                "✅ Sí, por incumplimiento (Art. 10-VI)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 10",
+            "topic": "Funciones de los Consejos"
+        },
+        {
+            "tag": "conflictos_interes",
+            "patterns": [
+                "¿Qué pasa si un evaluador conoce al aspirante?",
+                "¿Pueden evaluar familiares de docentes?",
+                "¿Cómo se reemplaza a un evaluador que se excusa?",
+                "¿Qué relaciones personales son conflictivas?",
+                "¿Los suplentes tienen las mismas restricciones?"
+            ],
+            "responses": [
+                "🚫 Deben excusarse (Art. 11).",
+                "👨👦 No, si son padres, hermanos, hijos o cónyuge (Art. 11-II).",
+                "🔄 Con su suplente designado (Art. 11).",
+                "💑 Familia directa o relación sentimental (Art. 11-II).",
+                "✅ Sí, aplican las mismas reglas (Art. 11)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 11",
+            "topic": "Ética en evaluación"
+        },
+        {
+            "tag": "comite_tecnico",
+            "patterns": [
+                "¿Qué hace el Comité Técnico?",
+                "¿Quién lo preside?",
+                "¿Cómo se toman las decisiones?",
+                "¿Rinden informes anuales?",
+                "¿Supervisan todas las modalidades?"
+            ],
+            "responses": [
+                "🔍 Vigila cumplimiento del reglamento (Art. 12-I).",
+                "👔 Coordinador de Servicios a Universitarios (Art. 13-I).",
+                "🗳️ Por mayoría, con voto de calidad en empate (Art. 14-VI).",
+                "📄 Sí, al Rector General (Art. 12-III).",
+                "🌐 Sí, todas las aprobadas (Art. 12-II)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículos 12-14",
+            "topic": "Rol del Comité Técnico"
+        },
+        {
+            "tag": "convocatoria_estimulos_estudiantes",
+            "patterns": [
+                "¿Qué información debe tener la convocatoria?",
+                "¿Dónde se publica?",
+                "¿Hay fechas fijas para aplicar?",
+                "¿Puedo ver los requisitos antes de publicarse?",
+                "¿La convocatoria incluye plazos para recursos?"
+            ],
+            "responses": [
+                "📜 9 elementos: montos, requisitos, plazos, etc. (Art. 15).",
+                "🏫 Gaceta Universitaria + lugares visibles (Art. 15).",
+                "🗓️ Las define cada convocatoria (Art. 15-III).",
+                "📋 No, se anuncian al publicarse (Art. 15).",
+                "⚖️ Sí, plazos para inconformidades (Art. 15-VII)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 15",
+            "topic": "Proceso de convocatoria estimulos"
+        },
+        {
+            "tag": "requisitos_academicos",
+            "patterns": [
+                "¿Qué promedio mínimo necesito?",
+                "¿Aplican requisitos diferentes para deportistas?",
+                "¿Cómo compruebo mi situación económica?",
+                "¿Puedo participar en primer ingreso?",
+                "¿Qué significa 'alumno ordinario regular'?"
+            ],
+            "responses": [
+                "📚 90 (85 para deporte) (Art. 16-III).",
+                "🏅 Sí: promedio 85 y estar en selección UdeG (Art. 16-V).",
+                "💳 Con estudio socioeconómico (Art. 17).",
+                "✅ Sí, con promedio de estudios anteriores (Art. 16-III).",
+                "🎓 Sin adeudos y con carga académica completa (Art. 16-IV)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículos 16-17",
+            "topic": "Requisitos académicos"
+        },
+        {
+            "tag": "solicitud_estimulos_estudiantes",
+            "patterns": [
+                "¿Qué documentos debo presentar?",
+                "¿Necesito cartas de recomendación?",
+                "¿Puedo adjuntar otros méritos?",
+                "¿Dónde entrego mi solicitud?",
+                "¿Hay un formato oficial?"
+            ],
+            "responses": [
+                "📄 5 documentos: constancia, cartas, etc. (Art. 18).",
+                "✉️ Sí, 2 (de profesores o entrenadores) (Art. 18-III).",
+                "🏆 Sí, para sumar puntos (Art. 18-V).",
+                "🏛️ En tu centro/escuela (Art. 18).",
+                "📝 Sí, lo proporciona la universidad (Art. 18)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 18",
+            "topic": "Proceso de solicitud"
+        },
+        {
+            "tag": "tabla_evaluacion",
+            "patterns": [
+                "¿Cómo se asigna el puntaje?",
+                "¿Cuánto vale mi promedio?",
+                "¿Los idiomas extranjeros suman puntos?",
+                "¿Qué actividades extracurriculares cuentan?",
+                "¿Puedo perder puntos por extraordinarios?"
+            ],
+            "responses": [
+                "🧾 Máx 360 pts (académicos + económicos) (Art. 19).",
+                "⭐ Hasta 100 pts (según rango) (Tabla Art. 19).",
+                "🌎 Sí, hasta 30 pts por idioma (Tabla Art. 19).",
+                "🏅 Voluntariado, premios, eventos académicos (Tabla Art. 19).",
+                "⏬ Sí, -10 pts por extraordinario (Tabla Art. 19)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 19",
+            "topic": "Sistema de puntuación"
+        },
+        {
+            "tag": "recurso_inconformidad",
+            "patterns": [
+                "¿Qué hago si no estoy de acuerdo con mi evaluación?",
+                "¿Cuánto tiempo tengo para apelar?",
+                "¿Dónde presento el recurso?",
+                "¿Quién lo resuelve?",
+                "¿Puedo agregar nuevas evidencias?"
+            ],
+            "responses": [
+                "⚖️ Presenta recurso de inconformidad (Art. 20).",
+                "⏱️ 3 días hábiles post-publicación (Art. 20).",
+                "📨 En la Secretaría Académica de tu centro (Art. 20).",
+                "🏛️ Comisión de Condonaciones del Consejo General (Art. 20).",
+                "📂 Sí, anexando documentos probatorios (Art. 20)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 20",
+            "topic": "Apelaciones"
+        },
+        {
+            "tag": "resolucion_inconformidad",
+            "patterns": [
+                "¿Qué pasa después de resolver mi recurso de inconformidad?",
+                "¿Quién recibe la resolución de mi apelación?",
+                "¿Cuánto tiempo tardan en devolver mi expediente?",
+                "¿Debo firmar algún acuse de recibo?",
+                "¿Puedo ver el expediente después del recurso?"
+            ],
+            "responses": [
+                "📄 El expediente se devuelve con la resolución al Secretario Académico (Art. 21).",
+                "🏫 A tu centro educativo para que acaten lo resuelto (Art. 21).",
+                "⏱️ Al día siguiente de la resolución (Art. 21).",
+                "✍️ No se especifica, pero queda registrado.",
+                "📂 Sí, tu centro debe tenerlo disponible."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 21",
+            "topic": "Seguimiento a recursos"
+        },      
+        {
+            "tag": "derechos_beneficiarios",
+            "patterns": [
+                "¿Qué derechos tengo como beneficiario?",
+                "¿Dónde recibo el pago mensual?",
+                "¿Me asignarán un tutor?",
+                "¿Puedo cambiar de modalidad después?",
+                "¿Qué apoyo adicional ofrece la universidad?"
+            ],
+            "responses": [
+                "📜 4 derechos: pago, actividades claras, etc. (Art. 22).",
+                "🏦 En la dependencia asignada (Art. 22-II).",
+                "👨🏫 Sí, la dependencia asignada te guiará (Art. 22-III).",
+                "🔄 No, debes cumplir con la modalidad asignada (Art. 18).",
+                "🛠️ Recibirás lo necesario para tus actividades (Art. 22-IV)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 22",
+            "topic": "Derechos beneficiarios"
+        },
+        {
+            "tag": "obligaciones_beneficiarios",
+            "patterns": [
+                "¿Qué debo hacer para mantener el estímulo?",
+                "¿Cuántas horas debo dedicar a las actividades?",
+                "¿Debo presentar informes periódicos?",
+                "¿Qué pasa si bajo mi promedio?",
+                "¿Puedo renunciar al estímulo?"
+            ],
+            "responses": [
+                "📌 10 obligaciones: mantener promedio, informes, etc. (Art. 23).",
+                "⏱️ El tiempo que firmaste en tu carta compromiso (Art. 23-VI).",
+                "📅 Sí, informes semestrales (Art. 23-VII).",
+                "⚠️ Cancelación si no mantienes el mínimo (Art. 25-V).",
+                "✅ Sí, con renuncia escrita (Art. 25-II)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 23",
+            "topic": "Obligaciones beneficiarios"
+        },
+        {
+            "tag": "base_cancelacion",
+            "patterns": [
+                "¿La universidad puede cancelar mi estímulo sin motivo?",
+                "¿Qué fundamento legal tiene la cancelación?",
+                "¿Necesitan avisarme antes de cancelar?",
+                "¿Puedo ser cancelado por bajo rendimiento académico?",
+                "¿Hay sanciones adicionales a la cancelación?"
+            ],
+            "responses": [
+                "🚫 No, solo por incumplimiento al reglamento (Art. 24).",
+                "📜 Este reglamento (Art. 24) y su Artículo 25.",
+                "ℹ️ Sí, notificación previa en algunos casos (Art. 27).",
+                "📉 Sí, si bajas tu promedio mínimo requerido (Art. 25-V).",
+                "⚖️ Solo cancelación, a menos que haya fraude."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 24",
+            "topic": "Marco legal para cancelación estimulo"
+        },
+        {
+            "tag": "causales_cancelacion",
+            "patterns": [
+                "¿Qué conductas pueden hacerme perder el estímulo?",
+                "¿Pueden cancelarme si me embarazo?",
+                "¿Qué pasa si repruebo una materia?",
+                "¿El servicio social afecta mi estímulo?",
+                "¿Puedo ser cancelado por faltar a actividades?"
+            ],
+            "responses": [
+                "❌ 9 causales: desde fallecimiento hasta incumplimiento (Art. 25 I-IX).",
+                "🤰 No, a menos que abandones estudios (Art. 25-III).",
+                "⚠️ Solo si pierdes el promedio mínimo (Art. 25-V).",
+                "🔄 No, si mantienes tus obligaciones (Art. 23).",
+                "⏰ Sí, si incumples tareas asignadas (Art. 25-VII)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 25",
+            "topic": "Motivos de cancelación estimulo"
+        },
+        {
+            "tag": "cancelacion_automatica",
+            "patterns": [
+                "¿En qué casos se cancela automáticamente el estímulo?",
+                "¿Qué documentación necesitan para cancelar por fallecimiento?",
+                "¿Cómo notifico mi renuncia voluntaria?",
+                "¿Qué pasa si no me presento a mis actividades?",
+                "¿Quién ejecuta la cancelación en estos casos?"
+            ],
+            "responses": [
+                "⚡ 3 casos: fallecimiento, renuncia o inasistencia inicial (Art. 26).",
+                "☠️ Certificado de defunción (Art. 26).",
+                "📝 Carta formal a tu dependencia (Art. 26).",
+                "🚫 Cancelación inmediata (Art. 25-VI + 26).",
+                "👔 Rectoría mediante Coordinación de Servicios (Art. 26)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 26",
+            "topic": "Procedimiento rápido de cancelación"
+        },
+        {
+            "tag": "proceso_cancelacion",
+            "patterns": [
+                "¿Cómo es el proceso de cancelación por bajo rendimiento?",
+                "¿Tengo derecho a defenderme?",
+                "¿Cuánto tiempo tengo para presentar mis pruebas?",
+                "¿Qué pasa si no respondo a la notificación?",
+                "¿Quién toma la decisión final?"
+            ],
+            "responses": [
+                "📌 Notificación + 10 días para alegatos (Art. 27).",
+                "🗣️ Sí, verbalmente o por escrito (Art. 27).",
+                "⏳ 10 días hábiles tras notificación (Art. 27).",
+                "😶 Se dan por ciertos los hechos imputados (Art. 27).",
+                "🏛️ Consejo Universitario via Comisión (Art. 27)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 27",
+            "topic": "Cancelación con derecho a defensa"
+        },
+        {
+            "tag": "recurso_revision",
+            "patterns": [
+                "¿Cómo apelo una cancelación injusta?",
+                "¿Ante quién presento el recurso?",
+                "¿Qué debe contener mi escrito?",
+                "¿Pueden pedirme más información?",
+                "¿Cuándo recibiré respuesta?"
+            ],
+            "responses": [
+                "⚖️ Con recurso de revisión en 10 días (Art. 28).",
+                "📨 Comisión de Condonaciones del Consejo General (Art. 28).",
+                "📝 Motivos + documentos probatorios (Art. 28).",
+                "🔄 Sí, la Comisión puede solicitarla (Art. 28).",
+                "⏱️ Resolución en ≤15 días hábiles (Art. 28)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 28",
+            "topic": "Apelación de cancelación"
+        },
+        {
+            "tag": "vacantes",
+            "patterns": [
+                "¿Qué pasa si quedan lugares disponibles?",
+                "¿Puedo aplicar fuera de la convocatoria anual?",
+                "¿Cómo me entero de vacantes?",
+                "¿Los dictámenes complementarios son definitivos?",
+                "¿Hay lista de espera?"
+            ],
+            "responses": [
+                "🔄 Se llenan con dictámenes complementarios (Art. 29).",
+                "📅 Sí, durante la vigencia de la promoción (Art. 29).",
+                "📢 Por comunicación de tu centro universitario (Art. 29).",
+                "✅ Sí, una vez notificados (Art. 29).",
+                "📋 No mencionado, pero puedes preguntar en tu centro."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 29",
+            "topic": "Proceso de vacantes"
+        },
+        {
+            "tag": "obligaciones_dependencias",
+            "patterns": [
+                "¿Qué deben hacer las dependencias cuando reciben a los estudiantes beneficiados?",
+                "¿En qué plazo reportan mi ingreso a actividades?",
+                "¿Quién recibe los informes de mi desempeño?",
+                "¿Las dependencias pueden retrasar el pago de mi estímulo?",
+                "¿Qué pasa si la dependencia no envía los informes a tiempo?"
+            ],
+            "responses": [
+                "📋 Reportar tu asistencia y supervisar tus actividades (Art. 30).",
+                "⏱️ 5 días hábiles desde tu incorporación (Art. 30-I).",
+                "📊 Rectoría y Consejos universitarios (Art. 30-II).",
+                "🚫 No, el pago depende de tu reporte inicial (Art. 30-I).",
+                "⚠️ Podría afectar la continuidad del programa en esa dependencia."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 30",
+            "topic": "Responsabilidades de las dependencias receptoras"
+        },
+        {
+            "tag": "prohibicion_actividades",
+            "patterns": [
+                "¿Me pueden asignar tareas no relacionadas con mi modalidad?",
+                "¿Qué hago si me piden hacer labores distintas?",
+                "¿Hay sanciones para dependencias que incumplan esta regla?",
+                "¿Puedo realizar voluntariamente otras actividades?",
+                "¿Dónde denuncio asignaciones inadecuadas?"
+            ],
+            "responses": [
+                "🚫 Prohibido por el reglamento (Art. 31).",
+                "📢 Reporta al Comité Técnico o a Servicios a Universitarios (Art. 12).",
+                "⚖️ Sí, aunque no se especifica la sanción en el reglamento.",
+                "✅ Sí, si no afectan tus obligaciones principales (Art. 23).",
+                "🏛️ En la Coordinación de Servicios a Universitarios (Art. 9-V)."
+            ],
+            "document": "Reglamento de Estímulos Económicos para Estudiantes Sobresalientes",
+            "article": "Artículo 31",
+            "topic": "Límites a las actividades asignadas"
+        }
+
+    ]
+}

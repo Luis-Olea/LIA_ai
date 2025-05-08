@@ -1,0 +1,1086 @@
+{
+    "main_topic": "Reglamento de Becas de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "objeto_del_reglamento_becas",
+            "patterns": [
+                "¿Cuál es el objetivo del Reglamento de Becas según el artículo 1?",
+                "¿Qué establece el artículo 1 del Reglamento de Becas?",
+                "¿Para qué sirve el Reglamento de Becas de la UdeG?",
+                "¿Qué regula el artículo 1 de este reglamento?",
+                "¿Qué bases y criterios menciona el artículo 1?"
+            ],
+            "responses": [
+                "📘 El artículo 1 establece las bases, criterios y procedimientos para otorgar becas en la Universidad de Guadalajara.",
+                "🔹 Su objetivo es regular el otorgamiento de becas para estudios de posgrado (maestría/doctorado).",
+                "🎯 Define los lineamientos generales para que la comunidad universitaria acceda a becas.",
+                "📜 Regula los procesos de selección, requisitos y beneficios de las becas.",
+                "⚖️ Establece el marco jurídico para garantizar transparencia en el otorgamiento."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento becas"
+        },
+        {
+            "tag": "objetivos_del_otorgamiento",
+            "patterns": [
+                "¿Qué objetivos tiene el otorgamiento de becas según el artículo 2?",
+                "¿Por qué la UdeG otorga becas?",
+                "¿Qué busca la universidad con las becas (artículo 2)?",
+                "¿Cuáles son los dos objetivos principales de las becas?",
+                "¿Cómo fortalecen las becas a la universidad?"
+            ],
+            "responses": [
+                "📘 El artículo 2.1 indica que las becas buscan formar recursos humanos de alto nivel para fortalecer actividades académicas y administrativas.",
+                "🔹 También coadyuvan a la superación académica de trabajadores y egresados.",
+                "🎯 Objetivo I: Alinear becas con el Plan Institucional de Desarrollo de la UdeG.",
+                "📜 Objetivo II: Mejorar la capacitación del personal y egresados.",
+                "🏛️ Las becas son una herramienta para el crecimiento institucional."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 2",
+            "topic": "Objetivos del otorgamiento"
+        },
+        {
+            "tag": "tipos_de_estudios_cubiertos",
+            "patterns": [
+                "¿Qué estudios cubren las becas según el artículo 3?",
+                "¿Para qué niveles académicos se otorgan becas?",
+                "¿Las becas aplican para licenciatura?",
+                "¿Qué dice el artículo 3 sobre maestrías y doctorados?",
+                "¿Puedo obtener beca para un diplomado?"
+            ],
+            "responses": [
+                "📘 El artículo 3 establece que las becas son para estudios de maestría y doctorado.",
+                "🔹 No aplican para licenciatura, diplomados u otros niveles.",
+                "🎯 Solo programas de posgrado reconocidos por la UdeG.",
+                "📜 Deben alinearse con los planes de desarrollo institucional.",
+                "❌ Los diplomados no están incluidos en este reglamento."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 3",
+            "topic": "Tipos de estudios cubiertos"
+        },
+        {
+            "tag": "definicion_de_beca",
+            "patterns": [
+                "¿Cómo define el artículo 4 a una beca?",
+                "¿Qué significa 'beca' según este reglamento?",
+                "¿Las becas son préstamos o apoyos económicos?",
+                "¿Qué características tiene la beca según el artículo 4?",
+                "¿La beca es un derecho o un préstamo?"
+            ],
+            "responses": [
+                "📘 El artículo 4 define la beca como un monto económico otorgado en préstamo por la UdeG.",
+                "🔹 No es un derecho, sino un beneficio condicionado al cumplimiento de obligaciones.",
+                "🎯 El préstamo puede condonarse si el becario se reincorpora a la universidad.",
+                "📜 Está destinado exclusivamente a estudios de posgrado.",
+                "⚖️ Tiene carácter crediticio (debe devolverse si no se cumplen los términos)."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 4",
+            "topic": "Definición de beca"
+        },
+        {
+            "tag": "sujetos_de_beneficio",
+            "patterns": [
+                "¿Quiénes pueden recibir becas según el artículo 5?",
+                "¿Qué requisitos generales exige el artículo 5?",
+                "¿Los egresados pueden ser beneficiarios?",
+                "¿El personal administrativo aplica para becas?",
+                "¿Hay restricciones para ser becario?"
+            ],
+            "responses": [
+                "📘 El artículo 5 establece que pueden ser beneficiarios quienes cumplan los requisitos del reglamento.",
+                "🔹 Incluye académicos, administrativos y egresados de la UdeG.",
+                "🎯 Deben cumplir normas jurídicas aplicables y los criterios de selección.",
+                "📜 No hay restricciones de edad, pero sí de antigüedad (ej. 2 años para trabajadores).",
+                "✅ Egresados deben tener promedio superior al mínimo requerido."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 5",
+            "topic": "Sujetos de beneficio"
+        },
+        {
+            "tag": "autoridad_otorgamiento",
+            "patterns": [
+                "¿Quién decide el otorgamiento de becas según el artículo 6?",
+                "¿Qué instancias participan en la asignación de becas?",
+                "¿Cómo se asignan los recursos para becas?",
+                "¿Qué papel juegan los Consejos de Centros Universitarios?",
+                "¿Se consideran los planes de desarrollo en la asignación?"
+            ],
+            "responses": [
+                "📘 El artículo 6 establece que el Consejo General Universitario y los Consejos de Centros Universitarios deciden el otorgamiento, basándose en recursos presupuestarios.",
+                "🔹 Las Comisiones de Condonaciones y Becas evalúan las solicitudes.",
+                "🎯 Se priorizan los programas de formación del personal académico/administrativo.",
+                "📜 Los recursos no pueden transferirse a otras partidas presupuestales.",
+                "⚖️ Se consideran los planes de desarrollo de las dependencias universitarias."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 6",
+            "topic": "Autoridades competentes para otorgamiento"
+        },
+        {
+            "tag": "programas_formacion_personal",
+            "patterns": [
+                "¿Qué deben incluir los programas de formación según el artículo 7?",
+                "¿Qué aspectos considera la UdeG al planear becas?",
+                "¿Cómo se vinculan las becas con la investigación?",
+                "¿Qué prioridades tienen las dependencias universitarias?",
+                "¿Por qué son importantes los cuerpos académicos?"
+            ],
+            "responses": [
+                "📘 El artículo 7 exige que los programas de formación consideren: necesidades del personal, fortalecimiento de investigación/docencia, y participación de egresados.",
+                "🔹 Deben alinearse con los programas de desarrollo institucional.",
+                "🎯 Priorizan fortalecer cuerpos académicos con egresados en posgrados.",
+                "📜 La investigación y extensión son campos clave para becas.",
+                "🏛️ Los egresados en posgrados contribuyen a la calidad académica."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 7",
+            "topic": "Programas de formación del personal"
+        },
+        {
+            "tag": "presupuesto_becas",
+            "patterns": [
+                "¿Cómo se maneja el presupuesto para becas (artículo 8)?",
+                "¿Los recursos para becas pueden usarse para otros fines?",
+                "¿Qué dice el artículo 8 sobre transferencias presupuestales?",
+                "¿La UdeG garantiza fondos para becas?",
+                "¿Qué pasa si no hay recursos suficientes?"
+            ],
+            "responses": [
+                "📘 El artículo 8 obliga a prever recursos para becas en el presupuesto universitario, según las posibilidades financieras.",
+                "🔹 Los fondos no pueden transferirse a otras partidas.",
+                "🎯 No hay garantía de becas si no hay recursos autorizados.",
+                "📜 La asignación depende de la disponibilidad presupuestal anual.",
+                "❌ Si no hay fondos, no se otorgan becas, aunque se cumplan requisitos."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 8",
+            "topic": "Presupuesto y recursos"
+        },
+        {
+            "tag": "autoridades_competentes",
+            "patterns": [
+                "¿Quiénes son autoridades en materia de becas (artículo 9)?",
+                "¿El Rector General participa en decisiones de becas?",
+                "¿Qué roles tienen los Rectores de Centros Universitarios?",
+                "¿El Sistema de Educación Media Superior tiene voz?",
+                "¿Quién resuelve conflictos sobre becas?"
+            ],
+            "responses": [
+                "📘 El artículo 9 lista como autoridades al Consejo General Universitario, Rector General, y Consejos de Centros Universitarios.",
+                "🔹 Los Rectores de Centros y el Director del SEMS también intervienen.",
+                "🎯 El Rector General coordina acciones a través de la Vicerrectoría Ejecutiva.",
+                "📜 Los conflictos se resuelven por las Comisiones de Condonaciones y Becas.",
+                "⚖️ Las decisiones son jerárquicas (desde Consejos hasta Rectores)."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 9",
+            "topic": "Autoridades competentes"
+        },
+        {
+            "tag": "atribuciones_consejo_general",
+            "patterns": [
+                "¿Qué atribuciones tiene el Consejo General (artículo 10)?",
+                "¿Puede el Consejo modificar el presupuesto de becas?",
+                "¿Cómo se manejan las apelaciones?",
+                "¿Quién resuelve solicitudes de becas especiales?",
+                "¿Qué pasa con situaciones no previstas en el reglamento?"
+            ],
+            "responses": [
+                "📘 El artículo 10 otorga al Consejo General atribuciones como aprobar el presupuesto de becas y fijar bases generales.",
+                "🔹 Conoce apelaciones contra dictámenes de otros Consejos.",
+                "🎯 Resuelve solicitudes de becas para personal de administración general y egresados.",
+                "📜 También decide sobre situaciones no previstas en el reglamento.",
+                "⚖️ Su resolución es vinculante para casos excepcionales."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 10",
+            "topic": "Atribuciones del Consejo General"
+        },
+        {
+            "tag": "atribuciones_rector_general",
+            "patterns": [
+                "¿Qué atribuciones tiene el Rector General en becas según el artículo 11?",
+                "¿Quién coordina los servicios de apoyo académico para becas?",
+                "¿El Rector General gestiona becas con instituciones externas?",
+                "¿Qué papel juega la Vicerrectoría Ejecutiva en las becas?",
+                "¿Quién actualiza los tabuladores de becas?"
+            ],
+            "responses": [
+                "📘 El artículo 11 establece que el Rector General, a través de la Vicerrectoría Ejecutiva, coordina servicios de apoyo académico y gestiona financiamiento externo para becas.",
+                "🔹 Ofrece orientación sobre becas internas y externas a la comunidad universitaria.",
+                "🎯 Gestiona solicitudes de financiamiento para posgrados y actualización académica.",
+                "📜 Formula y actualiza los tabuladores de becas (montos y conceptos cubiertos).",
+                "⚖️ También supervisa programas de formación en la Red Universitaria."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 11",
+            "topic": "Atribuciones del Rector General"
+        },
+        {
+            "tag": "atribuciones_consejos_centros",
+            "patterns": [
+                "¿Qué deciden los Consejos de Centros Universitarios sobre becas (artículo 12)?",
+                "¿Pueden los Centros Universitarios establecer criterios propios para becas?",
+                "¿Quién resuelve las solicitudes de prórroga de becas?",
+                "¿Qué autoridades pueden cancelar una beca?",
+                "¿Los criterios para becas son iguales en todos los centros?"
+            ],
+            "responses": [
+                "📘 El artículo 12 otorga a los Consejos de Centros Universitarios la facultad de establecer prioridades y criterios particulares para becas en su ámbito.",
+                "🔹 Resuelven solicitudes de becas, prórrogas, y pueden cancelar beneficios si se incumple el reglamento.",
+                "🎯 Cada centro puede definir criterios adicionales, pero deben apegarse al reglamento general.",
+                "📜 Las cancelaciones se basan en causales como bajo rendimiento o incumplimiento de obligaciones.",
+                "⚖️ No, los criterios pueden variar según los programas de desarrollo de cada centro."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 12",
+            "topic": "Atribuciones de los Consejos de Centros"
+        },
+        {
+            "tag": "atribuciones_rectores_centros",
+            "patterns": [
+                "¿Qué hace el Rector de un Centro Universitario en becas (artículo 13)?",
+                "¿Quién emite las convocatorias para becas?",
+                "¿El Rector del Centro puede solicitar informes académicos de becarios?",
+                "¿Quién ejecuta los dictámenes de becas?",
+                "¿Los Directores del SEMS participan en el proceso?"
+            ],
+            "responses": [
+                "📘 El artículo 13 asigna al Rector del Centro Universitario la emisión de convocatorias y ejecución de dictámenes de becas.",
+                "🔹 Debe solicitar informes académicos periódicos de los becarios a la institución donde estudian.",
+                "🎯 En el SEMS, el Director General tiene las mismas atribuciones.",
+                "📜 Las convocatorias deben alinearse con los recursos autorizados y el reglamento.",
+                "✅ Sí, los Directores del SEMS tienen funciones equivalentes en su ámbito."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 13",
+            "topic": "Atribuciones de Rectores de Centros"
+        },
+        {
+            "tag": "criterios_otorgamiento",
+            "patterns": [
+                "¿Qué criterios usan las autoridades para otorgar becas (artículo 14)?",
+                "¿Cómo influye el presupuesto en la asignación de becas?",
+                "¿Qué se considera sobre la calidad académica del posgrado?",
+                "¿Las becas para estudios no presenciales son iguales?",
+                "¿Priorizan programas de dedicación exclusiva?"
+            ],
+            "responses": [
+                "📘 El artículo 14 lista criterios como: alineación con programas de formación, presupuesto autorizado, y contribución al área de conocimiento del becario.",
+                "🔹 La calidad académica de la institución y programa es clave (según lineamientos del Rector).",
+                "🎯 Programas no presenciales solo pueden cubrir matrícula, sin licencia con goce de sueldo.",
+                "📜 Se priorizan programas de dedicación exclusiva y modalidad presencial.",
+                "⚖️ El cumplimiento del artículo 20 (requisitos) es obligatorio."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 14",
+            "topic": "Criterios para el otorgamiento"
+        },
+        {
+            "tag": "becas_egresados",
+            "patterns": [
+                "¿Qué condiciones aplican a becas para egresados (artículo 14 Bis)?",
+                "¿Un egresado puede obtener beca para maestría semiescolarizada?",
+                "¿Los egresados deben estudiar en modalidad presencial?",
+                "¿Hay restricciones para egresados en programas no presenciales?",
+                "¿Qué pasa si un egresado no cumple con la dedicación exclusiva?"
+            ],
+            "responses": [
+                "📘 El artículo 14 Bis establece que los egresados solo reciben becas para programas de dedicación exclusiva y modalidad presencial.",
+                "🔹 No aplican para programas semiescolarizados, en línea o a distancia.",
+                "🎯 Deben cumplir con todos los requisitos del artículo 20 (promedio, carta de apoyo, etc.).",
+                "📜 Si el programa no es presencial, solo podrían cubrirse matrículas (no manutención).",
+                "❌ Incumplir la dedicación exclusiva puede cancelar la beca."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 14 Bis",
+            "topic": "Becas para egresados"
+        },
+        {
+            "tag": "duracion_becas",
+            "patterns": [
+                "¿Cuánto dura una beca de maestría o doctorado (artículo 15)?",
+                "¿Pueden extenderse las becas más allá del plazo establecido?",
+                "¿Qué pasa si no termino mi posgrado en el tiempo de la beca?",
+                "¿La duración de la beca incluye el tiempo para titulación?",
+                "¿Hay diferencias entre becas nacionales e internacionales?"
+            ],
+            "responses": [
+                "📘 El artículo 15 fija duración máxima: 2 años para maestría y 5 para doctorado.",
+                "🔹 Las prórrogas (1 año adicional) son excepcionales y requieren promedio de 85/100.",
+                "🎯 Si no se termina en el plazo, se debe reembolsar el monto recibido.",
+                "📜 El tiempo para titulación no está incluido, salvo en prórrogas justificadas.",
+                "⚖️ No hay distinción en duración por ubicación geográfica."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 15",
+            "topic": "Duración de las becas"
+        },
+        {
+            "tag": "beneficio_no_exclusivo",
+            "patterns": [
+                "¿Qué significa que las becas no sean de beneficio exclusivo (artículo 16)?",
+                "¿Puedo solicitar beca para un posgrado que solo me beneficie a mí?",
+                "¿Cómo debe vincularse el posgrado con la universidad?",
+                "¿Qué ejemplos hay de becas no exclusivas?",
+                "¿Qué pasa si no justifico el beneficio institucional?"
+            ],
+            "responses": [
+                "📘 El artículo 16 prohíbe becas para estudios que solo beneficien al solicitante (deben impactar a la UdeG).",
+                "🔹 El posgrado debe fortalecer áreas académicas, investigación o gestión universitaria.",
+                "🎯 Ejemplo: Una maestría en educación para mejorar la docencia en la UdeG.",
+                "📜 La carta de apoyo debe especificar cómo beneficiará a la dependencia postulante.",
+                "❌ Si no hay beneficio institucional, la solicitud se rechaza."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 16",
+            "topic": "Beneficio no exclusivo"
+        },
+        {
+            "tag": "convocatorias_becas",
+            "patterns": [
+                "¿Cómo se publican las convocatorias para becas (artículo 17)?",
+                "¿Quién evalúa las solicitudes de becas inicialmente?",
+                "¿Qué pasa después del plazo de recepción de documentos?",
+                "¿Puedo solicitar beca fuera de convocatoria?",
+                "¿Qué revisa la Comisión de Condonaciones y Becas?"
+            ],
+            "responses": [
+                "📘 El artículo 17 exige publicar convocatorias con anticipación a ciclos escolares.",
+                "🔹 La Secretaría Académica o Coordinación General Académica hace evaluación preliminar.",
+                "🎯 La Comisión de Condonaciones y Becas revisa solicitudes y emite dictámenes.",
+                "📜 No se aceptan solicitudes fuera de convocatoria, salvo programas especiales.",
+                "⚖️ La Comisión analiza pertinencia, requisitos y recursos disponibles."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 17",
+            "topic": "Convocatorias"
+        },
+        {
+            "tag": "analisis_pertinencia",
+            "patterns": [
+                "¿Qué es el análisis de pertinencia para becas (artículo 18)?",
+                "¿Cómo deciden qué becas aprobar?",
+                "¿Qué planes considera la Comisión de Becas?",
+                "¿Pueden rechazar una beca aunque cumpla requisitos?",
+                "¿Qué peso tiene el programa de desarrollo institucional?"
+            ],
+            "responses": [
+                "📘 El artículo 18 establece que la Comisión de Becas debe evaluar la pertinencia de cada solicitud.",
+                "🔹 Considera planes de desarrollo institucional y necesidades de formación.",
+                "🎯 Pueden rechazar solicitudes si no hay alineación con prioridades universitarias.",
+                "📜 Cumplir requisitos no garantiza aprobación si los recursos son limitados.",
+                "⚖️ Los programas de desarrollo son clave para priorizar becas."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 18",
+            "topic": "Análisis de pertinencia"
+        },
+        {
+            "tag": "candidatos_beca",
+            "patterns": [
+                "¿Quiénes pueden ser candidatos a becas (artículo 19)?",
+                "¿Qué antigüedad necesitan los académicos de asignatura?",
+                "¿Los administrativos temporales pueden aplicar?",
+                "¿Cómo se define 'egresado' para becas?",
+                "¿Hay preferencia por promedios altos en egresados?"
+            ],
+            "responses": [
+                "📘 El artículo 19 permite candidaturas a: académicos de carrera (2+ años de antigüedad), académicos de asignatura (2+ años), personal administrativo definitivo (2+ años), y egresados.",
+                "🔹 Egresados deben tener título de licenciatura de la UdeG y no ser trabajadores/alumnos activos.",
+                "🎯 Se prioriza a egresados con promedios superiores al mínimo (80/100).",
+                "📜 Los administrativos temporales o con menos de 2 años no aplican.",
+                "✅ Sí, los egresados con mejores promedios tienen ventaja."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 19",
+            "topic": "Candidatos a becas"
+        },
+        {
+            "tag": "requisitos_candidatos",
+            "patterns": [
+                "¿Qué requisitos deben cumplir los candidatos (artículo 20)?",
+                "¿Aceptan acta de titulación en lugar de título?",
+                "¿Qué promedio mínimo necesito para una beca?",
+                "¿Quién debe emitir la carta de apoyo?",
+                "¿Necesito dominio de idioma para becas en el extranjero?"
+            ],
+            "responses": [
+                "📘 El artículo 20 exige: nacionalidad mexicana, título de licenciatura (o acta de titulación), promedio mínimo de 80/100, carta de apoyo del titular de la dependencia, y aceptación en la institución educativa.",
+                "🔹 Para becas en el extranjero, se requiere dominio del idioma local.",
+                "🎯 Los académicos adscritos a departamentos necesitan visto bueno del Colegio Departamental.",
+                "📜 La carta de apoyo debe justificar el vínculo entre el posgrado y las necesidades universitarias.",
+                "✅ Sí, sin certificado de idioma no se aprueban becas internacionales."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 20",
+            "topic": "Requisitos para candidatos"
+        },
+        {
+            "tag": "licencia_becarios",
+            "patterns": [
+                "¿Los trabajadores deben solicitar licencia para becas (artículo 21)?",
+                "¿La licencia para becas es con o sin goce de sueldo?",
+                "¿Quién recomienda el tipo de licencia para becarios?",
+                "¿Qué consideran para otorgar licencia con goce de salario?",
+                "¿La licencia afecta mi antigüedad en la universidad?"
+            ],
+            "responses": [
+                "📘 El artículo 21 establece que los trabajadores deben solicitar licencia para becas, la cual puede ser con o sin goce de salario.",
+                "🔹 La Comisión de Becas o Coordinación General Académica recomienda el tipo de licencia según el programa y circunstancias del becario.",
+                "🎯 La licencia con goce de salario depende de la disponibilidad presupuestal y necesidades institucionales.",
+                "📜 El tiempo de beca cuenta para antigüedad universitaria si hay licencia con goce.",
+                "⚖️ Sin licencia, el trabajador no puede ausentarse para estudios."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 21",
+            "topic": "Licencia para becarios"
+        },
+        {
+            "tag": "carta_apoyo_beneficios",
+            "patterns": [
+                "¿Qué debe incluir la carta de apoyo para becas (artículo 22)?",
+                "¿Cómo justifico los beneficios de mi beca para la universidad?",
+                "¿Quién debe firmar la carta de apoyo?",
+                "¿La carta de apoyo es obligatoria para todos los candidatos?",
+                "¿Qué pasa si no se especifican los beneficios en la carta?"
+            ],
+            "responses": [
+                "📘 El artículo 22 exige que las dependencias postulantes detallen en la carta de apoyo los beneficios que obtendrán con la formación del candidato.",
+                "🔹 Debe vincularse con el programa de formación de recursos humanos de la dependencia.",
+                "🎯 Es obligatoria para trabajadores y egresados (firmada por el titular de la dependencia).",
+                "📜 Sin justificación clara de beneficios, la solicitud puede rechazarse.",
+                "❌ Las cartas genéricas sin especificaciones no son válidas."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 22",
+            "topic": "Contenido de la carta de apoyo"
+        },
+        {
+            "tag": "destinatario_carta_apoyo",
+            "patterns": [
+                "¿A quién debe dirigirse la carta de apoyo (artículo 23)?",
+                "¿La carta de apoyo para becas va al Rector General?",
+                "¿Qué pasa si la carta no está firmada por el titular?",
+                "¿Los egresados también necesitan carta de apoyo?",
+                "¿Puede ser rechazada una carta de apoyo mal dirigida?"
+            ],
+            "responses": [
+                "📘 El artículo 23 indica que la carta de apoyo debe dirigirse al Rector General, Rector del Centro Universitario o Director del SEMS, según corresponda.",
+                "🔹 Debe estar firmada por el titular de la dependencia postulante.",
+                "🎯 Para egresados, la carta la emite la dependencia postulante (no su jefe inmediato).",
+                "📜 Cartas no firmadas por el titular o mal dirigidas son inválidas.",
+                "✅ Sí, es causal de rechazo si no cumple formalidades."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 23",
+            "topic": "Destinatario de la carta de apoyo"
+        },
+        {
+            "tag": "compromiso_reincorporacion",
+            "patterns": [
+                "¿Qué compromiso adquiere la dependencia con el becario (artículo 24)?",
+                "¿Deben reincorporar al trabajador después de su beca?",
+                "¿Qué pasa si la dependencia no cumple con reincorporar?",
+                "¿Este compromiso aplica para egresados?",
+                "¿Cómo se formaliza el compromiso de reincorporación?"
+            ],
+            "responses": [
+                "📘 El artículo 24 obliga a las dependencias a comprometerse por escrito a reincorporar al trabajador becario una vez concluidos sus estudios.",
+                "🔹 No aplica para egresados (solo para personal activo).",
+                "🎯 Incumplir este compromiso puede afectar futuras solicitudes de becas de la dependencia.",
+                "📜 Se formaliza en el documento de postulación y el convenio-crédito.",
+                "⚖️ Es un requisito para la condonación de la beca."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 24",
+            "topic": "Compromiso de reincorporación"
+        },
+        {
+            "tag": "procedimiento_asignacion",
+            "patterns": [
+                "¿Cómo es el proceso de asignación de becas (artículo 25)?",
+                "¿Qué hace la Coordinación General Académica con las solicitudes?",
+                "¿Cuánto tiempo tengo para completar mi expediente si está incompleto?",
+                "¿Recibir mi solicitud garantiza la beca?",
+                "¿Quién emite el dictamen final de becas?"
+            ],
+            "responses": [
+                "📘 El artículo 25 describe el proceso: recepción de solicitudes por la Coordinación General Académica, revisión de expedientes en 5 días hábiles, y 2 días hábiles para correcciones.",
+                "🔹 La recepción no garantiza aprobación; es solo el primer paso.",
+                "🎯 La Comisión de Condonaciones y Becas emite el dictamen final.",
+                "📜 Si no se completan documentos en plazo, se da por desistida la solicitud.",
+                "⚖️ El dictamen considera requisitos y recursos disponibles."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 25",
+            "topic": "Procedimiento de asignación"
+        },
+        {
+            "tag": "convenio_credito",
+            "patterns": [
+                "¿Qué es el convenio-crédito para becas (artículo 26)?",
+                "¿Qué debe incluir el convenio-crédito?",
+                "¿Hay intereses si debo reembolsar la beca?",
+                "¿Cuándo se firma el convenio-crédito?",
+                "¿Puedo negociar los términos del convenio?"
+            ],
+            "responses": [
+                "📘 El artículo 26 establece que el becario debe firmar un convenio-crédito con la UdeG, detallando derechos, obligaciones y causales de rescisión.",
+                "🔹 Incluye montos, plazos, intereses por reembolso, y condiciones de condonación.",
+                "🎯 Los intereses aplican si no se cumple la reincorporación o se cancela la beca.",
+                "📜 Se firma antes de recibir el primer pago.",
+                "❌ No, los términos son estándar según el reglamento."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 26",
+            "topic": "Convenio-crédito"
+        },
+        {
+            "tag": "contenido_convocatorias",
+            "patterns": [
+                "¿Qué debe incluir una convocatoria de becas (artículo 27)?",
+                "¿Quién emite las convocatorias para becas?",
+                "¿Las convocatorias son iguales para todos los centros?",
+                "¿Deben publicarse plazos y lugares para entrega de documentos?",
+                "¿Pueden incluir requisitos adicionales?"
+            ],
+            "responses": [
+                "📘 El artículo 27 exige que las convocatorias especifiquen: dependencias beneficiadas, campos del conocimiento, requisitos, plazos, y lugares para documentación.",
+                "🔹 Las emite el Rector General, Rector del Centro o Director del SEMS.",
+                "🎯 Cada centro puede añadir criterios particulares, pero sin contravenir el reglamento.",
+                "📜 Los plazos y horarios para documentación son obligatorios.",
+                "✅ Sí, pueden incluir requisitos adicionales según programas específicos."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 27",
+            "topic": "Contenido de convocatorias"
+        },
+        {
+            "tag": "documentacion_solicitud",
+            "patterns": [
+                "¿Qué documentos necesito para solicitar beca (artículo 30)?",
+                "¿Hay un formato oficial para solicitudes de beca?",
+                "¿Debo presentar constancia de aceptación del posgrado?",
+                "¿Qué información debe tener el CV para la beca?",
+                "¿Necesito demostrar dominio de idioma para becas nacionales?"
+            ],
+            "responses": [
+                "📘 El artículo 30 lista los documentos: CV, nombre/nivel del posgrado, constancia de aceptación, datos de la institución, justificación de vínculo académico, carta de apoyo, y certificados de estudios.",
+                "🔹 Las solicitudes deben usar el formato oficial de la UdeG.",
+                "🎯 La constancia de aceptación debe incluir fechas de inicio/término.",
+                "📜 El CV debe destacar experiencia relevante al posgrado.",
+                "❌ Solo se pide idioma para becas en el extranjero."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 30",
+            "topic": "Documentación para solicitud"
+        },
+        {
+            "tag": "registro_solicitudes",
+            "patterns": [
+                "¿Quién registra las solicitudes de beca (artículo 31)?",
+                "¿A dónde se envían las solicitudes después de recibirlas?",
+                "¿La Coordinación General Académica revisa mi solicitud?",
+                "¿Qué pasa si mi solicitud no llega a la Comisión de Becas?",
+                "¿Hay un plazo para enviar las solicitudes a la Comisión?"
+            ],
+            "responses": [
+                "📘 El artículo 31 establece que la Coordinación General Académica o Secretaría Académica registra las solicitudes y las envía al Presidente de la Comisión de Condonaciones y Becas.",
+                "🔹 No revisan el contenido, solo verifican que estén completas.",
+                "🎯 Todas las solicitudes válidas se envían a la Comisión para dictaminación.",
+                "📜 Si no se registra correctamente, puedes presentar un reclamo ante la misma dependencia.",
+                "⚖️ No hay plazo específico, pero debe ser dentro del proceso de convocatoria."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 31",
+            "topic": "Registro de solicitudes"
+        },
+        {
+            "tag": "tipos_becas",
+            "patterns": [
+                "¿Qué tipos de becas existen (artículo 34)?",
+                "¿Qué cubre una beca completa?",
+                "¿Cuándo otorgan becas complementarias?",
+                "¿Las becas complementarias cubren manutención?",
+                "¿Qué pasa si tengo otra fuente de financiamiento?"
+            ],
+            "responses": [
+                "📘 El artículo 34 clasifica becas en: completas (sin otro financiamiento) y complementarias (cubren gastos no soportados por otras fuentes).",
+                "🔹 Las completas incluyen matrícula, manutención, seguro médico, etc.",
+                "🎯 Las complementarias solo cubren diferencias respecto al tabulador autorizado.",
+                "📜 Si tienes licencia con goce de sueldo, la manutención se considera cubierta.",
+                "⚖️ Debes declarar otros apoyos económicos al solicitar la beca."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 34",
+            "topic": "Tipos de becas"
+        },
+        {
+            "tag": "naturaleza_crediticia",
+            "patterns": [
+                "¿Por qué las becas son créditos (artículo 35)?",
+                "¿Cuánto tiempo debo trabajar en la UdeG para condonar la beca?",
+                "¿Qué pasa si no me reincorporo después de la beca?",
+                "¿Puedo pagar la beca en lugar de trabajar?",
+                "¿Hay excepciones al plazo de reembolso?"
+            ],
+            "responses": [
+                "📘 El artículo 35 establece que las becas son préstamos: si no te reincorporas, debes reembolsar el monto recibido.",
+                "🔹 Debes trabajar al menos el mismo tiempo que duró la beca para condonarla.",
+                "🎯 Si no te reincorporas, tienes 1 año para devolver el dinero (con intereses).",
+                "📜 Sí, pero el Rector General puede autorizar plazos mayores excepcionalmente.",
+                "⚖️ La condonación aplica solo si cumples con la reincorporación."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 35",
+            "topic": "Naturaleza crediticia"
+        },
+        {
+            "tag": "vigencia_convenios",
+            "patterns": [
+                "¿Cuánto dura el convenio-crédito de la beca (artículo 36)?",
+                "¿Pueden renovarse los convenios de beca?",
+                "¿Qué cubre la renovación del convenio?",
+                "¿La renovación aplica para obtener el grado?",
+                "¿Hay requisitos especiales para renovar?"
+            ],
+            "responses": [
+                "📘 El artículo 36 indica que los convenios tienen vigencia igual al periodo de estudios (2 años maestría/5 años doctorado).",
+                "🔹 Pueden renovarse por 1 año adicional solo para obtención del grado.",
+                "🎯 La renovación no cubre manutención, solo tiempo para trámites de titulación.",
+                "📜 Debes cumplir con el artículo 50 (prórrogas) para renovar.",
+                "✅ Sí: promedio de 85/100 y justificación de la institución."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 36",
+            "topic": "Vigencia de convenios"
+        },
+        {
+            "tag": "monto_becas",
+            "patterns": [
+                "¿Quién define el monto de las becas (artículo 37)?",
+                "¿Qué conceptos puede cubrir una beca?",
+                "¿Hay un tope máximo para los montos?",
+                "¿Puedo solicitar más dinero si mi programa es muy costoso?",
+                "¿Los montos son iguales para todos los becarios?"
+            ],
+            "responses": [
+                "📘 El artículo 37 señala que la Comisión Permanente de Condonaciones y Becas fija los montos, basados en el tabulador del Rector General.",
+                "🔹 Cubre: inscripción, colegiatura, manutención, seguro médico, transporte, etc.",
+                "🎯 No puede exceder los montos aprobados en el tabulador anual.",
+                "📜 No, los montos son fijos según el programa y ubicación geográfica.",
+                "⚖️ Varían por tipo de posgrado, institución y dedicación (completa/complementaria)."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 37",
+            "topic": "Monto de becas"
+        },
+        {
+            "tag": "seguro_medico_becas",
+            "patterns": [
+                "¿La beca incluye seguro médico (artículo 39)?",
+                "¿Qué pasa si ya tengo seguro de otra institución?",
+                "¿El seguro médico cubre a familiares del becario?",
+                "¿Cómo se contrata el seguro para becas en el extranjero?",
+                "¿Debo presentar comprobantes del seguro?"
+            ],
+            "responses": [
+                "📘 El artículo 39 establece que la beca cubre seguro médico si el becario no tiene cobertura de otra institución.",
+                "🔹 Si ya tienes IMSS, ISSSTE, u otro, no se duplica el beneficio.",
+                "🎯 No incluye familiares (solo al becario).",
+                "📜 La UdeG contrata el seguro según el país de destino.",
+                "✅ Sí, debes entregar facturas y comprobantes a la Secretaría Académica."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 39",
+            "topic": "Seguro médico"
+        },
+        {
+            "tag": "transporte_becas",
+            "patterns": [
+                "¿La beca cubre gastos de transporte (artículo 40)?",
+                "¿Qué cubre el apoyo de transporte para becas en el extranjero?",
+                "¿Hay apoyo para transporte nacional?",
+                "¿Debo obtener el grado para recibir el transporte de regreso?",
+                "¿Cómo solicitó el reembolso de transporte?"
+            ],
+            "responses": [
+                "📘 El artículo 40 indica que la UdeG puede cubrir total o parcialmente transporte al extranjero (ida y vuelta), solo si se obtiene el grado.",
+                "🔹 Para becas nacionales, el monto lo define el tabulador vigente.",
+                "🎯 El apoyo de regreso aplica solo con grado obtenido y comprobantes de gastos.",
+                "📜 No se cubre transporte para familiares o acompañantes.",
+                "⚖️ Debes presentar boletos y facturas a la Comisión de Becas."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 40",
+            "topic": "Transporte"
+        },
+        {
+            "tag": "pago_montos_beca",
+            "patterns": [
+                "¿Cómo se pagan los montos de la beca (artículo 41)?",
+                "¿La manutención se deposita en mi cuenta bancaria?",
+                "¿Cada cuándo recibo los pagos de manutención?",
+                "¿Qué pasa si no tengo cuenta bancaria?",
+                "¿Hay plazos para comprobar gastos de colegiatura?"
+            ],
+            "responses": [
+                "📘 El artículo 41 establece que la manutención se paga mensualmente por depósito bancario en la cuenta que designe la UdeG.",
+                "🔹 Otros conceptos (matrícula, seguro) se pagan según plazos de la Comisión de Becas.",
+                "🎯 Debes entregar comprobantes de gastos (ej. colegiatura) en un plazo de 10 días después del pago.",
+                "📜 Si no tienes cuenta, la UdeG te asignará una en la institución bancaria que elija.",
+                "⚖️ Sin comprobantes, pueden suspender pagos futuros."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 41",
+            "topic": "Pago de montos"
+        },
+        {
+            "tag": "beneficio_exclusivo_becario",
+            "patterns": [
+                "¿La beca cubre gastos de familiares o acompañantes (artículo 42)?",
+                "¿Puedo solicitar ayuda adicional para mi familia con la beca?",
+                "¿Qué significa que la beca sea en beneficio exclusivo del becario?",
+                "¿Hay excepciones para becarios con hijos?",
+                "¿La universidad ofrece otros apoyos para familiares de becarios?"
+            ],
+            "responses": [
+                "📘 El artículo 42 establece que las becas son en beneficio exclusivo del seleccionado y no incluyen ayudas para acompañantes o familiares.",
+                "🔹 No se otorgan apoyos adicionales para manutención familiar, seguro médico o transporte de terceros.",
+                "🎯 El becario debe cubrir todos los gastos personales de sus familiares.",
+                "📜 No hay excepciones en este reglamento para padres/madres becarios.",
+                "❌ La UdeG no ofrece programas complementarios para familiares bajo este esquema."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 42",
+            "topic": "Beneficio exclusivo del becario"
+        },
+        {
+            "tag": "comprobacion_gastos",
+            "patterns": [
+                "¿Cómo debo comprobar los gastos de colegiatura (artículo 43)?",
+                "¿Qué documentos necesito entregar después de pagar mi matrícula?",
+                "¿Hay un plazo para entregar facturas de gastos educativos?",
+                "¿Qué pasa si no entrego los comprobantes a tiempo?",
+                "¿Aceptan facturas digitales para comprobar pagos?"
+            ],
+            "responses": [
+                "📘 El artículo 43 exige entregar facturas y comprobantes oficiales de pagos (matrícula, colegiatura) en un plazo de 10 días hábiles.",
+                "🔹 Los documentos deben ser originales o copias certificadas por la institución educativa.",
+                "🎯 Sin comprobantes, la UdeG puede suspender pagos futuros o exigir reembolso.",
+                "📜 Facturas digitales son válidas si cumplen con normatividad fiscal mexicana.",
+                "⚖️ Debes entregarlos a la Secretaría Académica o Coordinación General Académica."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 43",
+            "topic": "Comprobación de gastos"
+        },
+        {
+            "tag": "condonacion_trabajadores",
+            "patterns": [
+                "¿Cómo se condona la beca a trabajadores (artículo 44)?",
+                "¿Qué necesito para que mi beca sea condonada?",
+                "¿El tiempo de reincorporación debe ser continuo?",
+                "¿Puedo condonar parcialmente la beca?",
+                "¿Qué pasa si trabajo menos tiempo que el becado?"
+            ],
+            "responses": [
+                "📘 El artículo 44 establece que la beca se condona si el trabajador se reincorpora y labora por un tiempo igual al de la beca.",
+                "🔹 Debes obtener el grado y presentar documentos comprobatorios.",
+                "🎯 El tiempo de trabajo puede ser parcial (condonación proporcional).",
+                "📜 Si trabajas menos del 100% pero más de 1 año, se condona parcialmente.",
+                "⚖️ Si no cumples, debes reembolsar el monto proporcional no condonado."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 44",
+            "topic": "Condonación para trabajadores"
+        },
+        {
+            "tag": "condonacion_egresados",
+            "patterns": [
+                "¿Cómo condonan la beca a egresados (artículo 45)?",
+                "¿Qué opciones tengo para condonar mi beca como egresado?",
+                "¿Debo obtener una plaza académica para condonar?",
+                "¿Puedo condonar si entro como administrativo?",
+                "¿Qué pasa si no me contrata la UdeG después de mi beca?"
+            ],
+            "responses": [
+                "📘 El artículo 45 permite condonación a egresados si: obtienen plaza académica, ingresan como administrativos, o son contratados en puestos de confianza.",
+                "🔹 Debes concursar y ganar la plaza bajo normatividad universitaria vigente.",
+                "🎯 También aplica si entras como administrativo (según contrato colectivo).",
+                "📜 Si no logras incorporarte, debes reembolsar el 100% de la beca.",
+                "⚖️ Tienes 1 año post-beca para cumplir con alguna de las opciones."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 45",
+            "topic": "Condonación para egresados"
+        },
+        {
+            "tag": "condonacion_parcial",
+            "patterns": [
+                "¿Existe condonación parcial de becas (artículo 46)?",
+                "¿Cómo calculan la condonación si trabajo menos tiempo?",
+                "¿Quién lleva el control de los convenios de condonación?",
+                "¿Puedo condonar 50% de mi beca?",
+                "¿Qué pasa si trabajo exactamente 1 año?"
+            ],
+            "responses": [
+                "📘 El artículo 46 establece condonación parcial proporcional al tiempo trabajado (ej. si trabajas 2 años de 4 requeridos, se condona 50%).",
+                "🔹 El cálculo es: (Tiempo trabajado / Tiempo becado) x Monto total.",
+                "🎯 La Coordinación General Académica y Dirección de Finanzas supervisan los convenios.",
+                "📜 Si trabajas exactamente 1 año, se condona el equivalente (ej. 25% para beca de 4 años).",
+                "⚖️ Menos de 1 año no genera condonación; debe reembolsarse el 100%."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 46",
+            "topic": "Condonación parcial"
+        },
+        {
+            "tag": "reembolso_trabajadores",
+            "patterns": [
+                "¿Cuándo debo reembolsar mi beca como trabajador (artículo 47)?",
+                "¿Qué pasa si no obtengo el grado después de la beca?",
+                "¿Hay intereses sobre el monto a reembolsar?",
+                "¿Qué causales obligan al reembolso total?",
+                "¿Puedo pagar en parcialidades?"
+            ],
+            "responses": [
+                "📘 El artículo 47 exige reembolso si: no te reincorporas, no obtienes el grado en 2 años, o cancelan tu beca por incumplimiento.",
+                "🔹 El convenio-crédito especifica intereses y modalidades de pago.",
+                "🎯 Debes liquidar el 100% en un plazo máximo de 1 año post-beca.",
+                "📜 Las cancelaciones por bajo rendimiento (artículo 56) generan reembolso.",
+                "⚖️ Sí, pero debe acordarse con la Dirección de Finanzas."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 47",
+            "topic": "Reembolso para trabajadores"
+        },
+        {
+            "tag": "reembolso_egresados",
+            "patterns": [
+                "¿Cuándo debe un egresado reembolsar la beca (artículo 47 Bis)?",
+                "¿Tengo plazo para incorporarme a la UdeG como egresado?",
+                "¿Qué pasa si no obtengo el grado en el plazo establecido?",
+                "¿Las causales de reembolso son iguales para egresados y trabajadores?",
+                "¿Puedo reembolsar parcialmente?"
+            ],
+            "responses": [
+                "📘 El artículo 47 Bis obliga a egresados a reembolsar si: no se incorporan a la UdeG en 1 año, no obtienen el grado en 2 años, o incumplen el reglamento.",
+                "🔹 Debes incorporarte como académico, administrativo o por contrato de confianza.",
+                "🎯 Si no logras el grado, debes devolver el 100% + intereses.",
+                "📜 No aplica condonación parcial para egresados (sí para trabajadores).",
+                "⚖️ El pago puede ser en parcialidades según el convenio."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 47 Bis",
+            "topic": "Reembolso para egresados"
+        },
+        {
+            "tag": "reembolso_por_cancelacion",
+            "patterns": [
+                "¿Cuánto debo reembolsar si cancelan mi beca (artículo 48)?",
+                "¿Qué causales de cancelación generan reembolso?",
+                "¿Hay diferencias entre cancelación voluntaria e involuntaria?",
+                "¿Cómo calculan el monto a devolver?",
+                "¿Puedo apelar el reembolso?"
+            ],
+            "responses": [
+                "📘 El artículo 48 establece que, si cancelan tu beca por incumplimiento (artículo 56), debes reembolsar el 100% de lo recibido.",
+                "🔹 Causales: bajo rendimiento, abandono, expulsión, o no entregar informes.",
+                "🎯 Renunciar voluntariamente a la beca también obliga al reembolso total.",
+                "📜 El cálculo es: suma de todos los pagos recibidos + intereses.",
+                "⚖️ Puedes apelar ante el Consejo Universitario en 15 días hábiles."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 48",
+            "topic": "Reembolso por cancelación"
+        },
+        {
+            "tag": "prorrogas_becas",
+            "patterns": [
+                "¿Cómo solicito prórroga de mi beca (artículo 50)?",
+                "¿Qué requisitos necesito para una prórroga?",
+                "¿Cuánto tiempo puede extenderse una beca?",
+                "¿Debo enviar informes académicos para la prórroga?",
+                "¿Quién aprueba las prórrogas?"
+            ],
+            "responses": [
+                "📘 El artículo 50 permite prórrogas excepcionales por 1 año adicional, con promedio mínimo de 85/100 y justificación de la institución.",
+                "🔹 Debes enviar informe de calificaciones y actividades avalado por tu institución.",
+                "🎯 Máximo: 1 año adicional (3 años para maestría, 6 para doctorado).",
+                "📜 La Comisión de Becas evalúa y aprueba las prórrogas.",
+                "✅ Sí, sin informes académicos no se aprueba."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 50",
+            "topic": "Prórrogas"
+        },
+        {
+            "tag": "derechos_becarios",
+            "patterns": [
+                "¿Qué derechos tengo como becario según el artículo 51?",
+                "¿Los becarios recibimos los pagos de manera oportuna?",
+                "¿Cómo afecta la beca a mi antigüedad como trabajador?",
+                "¿Puedo solicitar aumentos en el monto de mi beca?",
+                "¿Tengo derecho a prórroga si cumplo los requisitos?"
+            ],
+            "responses": [
+                "📘 El artículo 51 garantiza derechos como: recibir pagos oportunos, mantener antigüedad laboral (para trabajadores), y solicitar prórrogas o ajustes de montos.",
+                "🔹 Los pagos se realizan según lo establecido en el dictamen de beca.",
+                "🎯 El tiempo de beca cuenta para tu antigüedad si eres trabajador con licencia.",
+                "📜 Puedes solicitar aumentos si justificas necesidades no cubiertas y la Comisión de Becas lo aprueba.",
+                "✅ Sí, siempre que cumplas con promedio de 85/100 y otros requisitos del artículo 50."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 51",
+            "topic": "Derechos de los becarios"
+        },
+        {
+            "tag": "garantia_reincorporacion",
+            "patterns": [
+                "¿Cómo garantiza la UdeG la reincorporación de becarios (artículo 53)?",
+                "¿Qué pasa con mi puesto mientras estoy de beca?",
+                "¿Pueden reemplazarme totalmente durante mi ausencia?",
+                "¿Cómo se manejan las horas clase de académicos becarios?",
+                "¿Quién autoriza sustituciones durante mi beca?"
+            ],
+            "responses": [
+                "📘 El artículo 53 establece que los dictámenes de beca deben especificar qué categorías de puestos quedan en receso durante la ausencia del becario.",
+                "🔹 Para académicos, solo se pueden sustituir las horas clase vacantes (no el puesto completo).",
+                "🎯 La sustitución requiere aprobación de las autoridades de la dependencia y justificación de necesidad.",
+                "📜 Tu puesto base (para trabajadores) está protegido durante la beca.",
+                "⚖️ El reemplazo temporal no afecta tus derechos laborales al regresar."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 53",
+            "topic": "Garantía de reincorporación"
+        },
+        {
+            "tag": "obligaciones_becarios",
+            "patterns": [
+                "¿Qué obligaciones tengo como becario (artículo 54)?",
+                "¿Debo enviar informes académicos periódicos?",
+                "¿Qué promedio mínimo debo mantener?",
+                "¿Puedo trabajar mientras tengo beca?",
+                "¿Qué pasa si no cumplo mis obligaciones?"
+            ],
+            "responses": [
+                "📘 El artículo 54 lista obligaciones: mantener promedio de 85/100, enviar informes semestrales, no realizar actividades no autorizadas, y obtener el grado.",
+                "🔹 Debes dar crédito a la UdeG en publicaciones derivadas de tu beca.",
+                "🎯 No puedes trabajar (remunerado o no) si distrae tus estudios.",
+                "📜 Incumplir puede cancelar la beca y exigir reembolso.",
+                "⚖️ Entregar tesis y documentos finales es obligatorio."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 54",
+            "topic": "Obligaciones de becarios"
+        },
+        {
+            "tag": "cancelacion_general",
+            "patterns": [
+                "¿En qué casos generales pueden cancelar mi beca (artículo 55)?",
+                "¿La universidad puede revocar becas unilateralmente?",
+                "¿Qué normativas aplican para la cancelación de becas?",
+                "¿Hay diferencias entre cancelación y revocación?",
+                "¿Puedo ser sancionado además de perder la beca?"
+            ],
+            "responses": [
+                "📘 El artículo 55 autoriza a la UdeG a cancelar o revocar becas si el becario incumple el reglamento o normativas aplicables.",
+                "🔹 Es un proceso formal que sigue los artículos 56-58 (notificación, derecho a descargo, etc.).",
+                "🎯 Cancelación y revocación son equivalentes en este reglamento.",
+                "📜 No hay sanciones adicionales, pero sí obligación de reembolso en casos aplicables.",
+                "❌ No afecta tu estatus académico/laboral, salvo para futuras solicitudes de beca."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 55",
+            "topic": "Cancelación general de becas"
+        },
+        {
+            "tag": "causales_cancelacion",
+            "patterns": [
+                "¿Por qué pueden cancelar mi beca (artículo 56)?",
+                "¿Qué pasa si bajo mi promedio durante la beca?",
+                "¿Puedo perder la beca por trabajar mientras estudio?",
+                "¿Cómo notifican la cancelación de una beca?",
+                "¿Hay derecho a defenderse antes de la cancelación?"
+            ],
+            "responses": [
+                "📘 El artículo 56 lista causales como: promedio bajo (<80/100), expulsión de la institución, no entregar informes, o incumplir obligaciones.",
+                "🔹 Sí, si tu promedio baja o pierdes la condición de alumno regular.",
+                "🎯 Trabajar sin autorización puede cancelar la beca (excepto actividades académicas).",
+                "📜 La Comisión notifica por escrito y da oportunidad de descargo.",
+                "⚖️ Tienes 15 días hábiles para apelar después de la notificación."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 56",
+            "topic": "Causales de cancelación"
+        },
+        {
+            "tag": "proceso_cancelacion",
+            "patterns": [
+                "¿Cómo es el proceso de cancelación de beca (artículo 57)?",
+                "¿Me notifican antes de cancelar mi beca?",
+                "¿Puedo presentar pruebas para defenderme?",
+                "¿Qué pasa si no me presento al proceso de descargo?",
+                "¿Quién toma la decisión final?"
+            ],
+            "responses": [
+                "📘 El artículo 57 establece que la Comisión de Becas notifica al becario, lo escucha (personalmente o por escrito), y luego emite el dictamen.",
+                "🔹 Tienes derecho a presentar pruebas y justificaciones.",
+                "🎯 Si no te presentas, se dan por ciertos los hechos imputados.",
+                "📜 La decisión final la toma el Consejo Universitario respectivo.",
+                "⚖️ El acuerdo de cancelación es inapelable, salvo por error de procedimiento."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 57",
+            "topic": "Proceso de cancelación"
+        },
+        {
+            "tag": "consecuencias_cancelacion",
+            "patterns": [
+                "¿Qué pasa si cancelan mi beca (artículo 58)?",
+                "¿Puedo volver a solicitar beca después de una cancelación?",
+                "¿La cancelación afecta mi récord académico?",
+                "¿Qué documentos necesito para probar una defunción?",
+                "¿Hay sanciones adicionales por cancelación?"
+            ],
+            "responses": [
+                "📘 El artículo 58 indica que la cancelación implica pérdida total de beneficios y obligación de reembolso (excepto por muerte o incapacidad).",
+                "🔹 No puedes solicitar otra beca en el futuro si fue por incumplimiento.",
+                "🎯 No afecta tu récord, pero queda registro administrativo.",
+                "📜 Para defunción: copia certificada del acta de defunción.",
+                "⚖️ No hay sanciones adicionales, pero debes devolver los fondos."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 58",
+            "topic": "Consecuencias de cancelación"
+        },
+        {
+            "tag": "apelacion_resoluciones",
+            "patterns": [
+                "¿Puedo apelar una resolución de beca (artículo 59)?",
+                "¿Cuánto tiempo tengo para apelar?",
+                "¿Ante quién se presenta la apelación?",
+                "¿Qué resoluciones son apelables?",
+                "¿Necesito un abogado para apelar?"
+            ],
+            "responses": [
+                "📘 El artículo 59 permite apelar resoluciones ante el Consejo Universitario en 15 días hábiles post-notificación.",
+                "🔹 Solo aplica para dictámenes de cancelación o negativas de beca.",
+                "🎯 No se requiere abogado, pero debes fundamentar por escrito.",
+                "📜 El Consejo puede confirmar, modificar o revocar la resolución.",
+                "⚖️ No son apelables las decisiones sobre montos o prórrogas denegadas."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 59",
+            "topic": "Apelación de resoluciones"
+        }
+
+    ]
+}

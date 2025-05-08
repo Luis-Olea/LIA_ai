@@ -1,0 +1,965 @@
+{
+    "main_topic": "Preguntas Relevantes",
+    "intents": [
+        {
+            "tag": "conducta1",
+            "patterns": [
+                "¿Qué pasa si alguien no sigue las reglas del codigo de conducta?",
+                "Qué para si no sigo las reglas del codigo de conducta?"
+
+            ],
+            "responses": [
+                "📋 Si un proveedor, contratista o colaborador incumple las normas, la universidad puede reconsiderar o cancelar convenios con ellos y si es un alumno el involucrado se promueve denunciar actos ilegales o violentos ante las autoridades competentes"
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 2",
+            "topic": "Preguntas Codigo de Conducta"
+        },
+        {
+            "tag": "conducta2",
+            "patterns": [
+                "¿Cómo afecta el codigo de conducta a los estudiantes?"
+            ],
+            "responses": [
+                "⚖️ Todos deben aplicar los principios del código en su conducta diaria (ej.: respeto, igualdad, sustentabilidad)."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 4",
+            "topic": "Preguntas Codigo de Conducta"
+        },
+        {
+            "tag": "conducta3",
+            "patterns": [
+                "¿Qué se considera 'violencia' o 'acoso'?",
+                "¿Qué se considera violencia?",
+                "¿Qué se considera violencia de genero?",
+                "¿Qué se considera acoso?"
+            ],
+            "responses": [
+                "📜 **Articulo 3.XII**: Incluye cualquier acción que dañe la dignidad, integridad o libertad de otra persona (acoso laboral, sexual, cibernético, etc.).\n📜 **Articulo 3.XIII**:Violencia de género: actos basados en desigualdad de género (ej.: comentarios sexistas, discriminación por identidad de género)."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 3",
+            "topic": "Preguntas Codigo de Conducta"
+        },
+        {
+            "tag": "conducta4",
+            "patterns": [
+                "¿Qué apoyo hay si soy víctima de algo mencionado en el código de conducta?"
+            ],
+            "responses": [
+                "📜 **Articulo 13.V-VII**:  Puedes denunciar ante autoridades universitarias (Artículo 18) como la Contraloría General."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 13",
+            "topic": "Preguntas Codigo de Conducta"
+        },
+        {
+            "tag": "etica1",
+            "patterns": [
+                "¿Qué establece el Código de Ética de la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📜 El Código de Ética de la Universidad de Guadalajara establece los principios y valores que rigen a la institución y que toda la comunidad universitaria está obligada a cumplir."
+            ],
+            "document": "Código de Etica",
+            "article": "Artículo 1",
+            "topic": "Preguntas Codigo de Etica"
+        },
+        {
+            "tag": "etica2",
+            "patterns": [
+                "¿Quiénes están obligados a cumplir el Codigo de Etica?"
+            ],
+            "responses": [
+                "📜 Todos los integrantes de la comunidad universitaria deben observar y cumplir este Código de manera general y obligatoria.."
+            ],
+            "document": "Código de Etica",
+            "article": "Artículo 3",
+            "topic": "Preguntas Codigo de Etica"
+        },
+        {
+            "tag": "etica3",
+            "patterns": [
+                "¿Cuáles son los principios y valores que deben regir la conducta universitaria?"
+            ],
+            "responses": [
+                "📌 Democracia, desarrollo sustentable, diversidad, educación para la paz, equidad, honestidad, igualdad, justicia, legalidad, libertad, respeto, responsabilidad y solidaridad."
+            ],
+            "document": "Código de Etica",
+            "article": "Artículo 4",
+            "topic": "Preguntas Codigo de Etica"
+        },
+        {
+            "tag": "etica4",
+            "patterns": [
+                " ¿Qué significa el valor de 'Educación para la Paz' según el codigo de etica?"
+            ],
+            "responses": [
+                "📜 Significa promover relaciones pacíficas, inclusivas y basadas en el respeto, privilegiando el diálogo, la resolución pacífica de conflictos y el respeto a las normas."
+            ],
+            "document": "Código de Etica",
+            "article": "Artículo 4",
+            "topic": "Preguntas Codigo de Etica"
+        },
+        {
+            "tag": "etica5",
+            "patterns": [
+                "¿Qué autoridades se encargan de velar por la ética en la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📜  El Consejo General Universitario, la Contraloría General y las demás que reconozca la normatividad universitaria."
+            ],
+            "document": "Código de Etica",
+            "article": "Artículo 5",
+            "topic": "Preguntas Codigo de Etica"
+        },
+        {
+            "tag": "etica6",
+            "patterns": [
+                "¿A quién más se aplica este Código además de a la comunidad universitaria?"
+            ],
+            "responses": [
+                "📜 También se aplica a los particulares que tienen relación con la Institución, en todos los ámbitos de la vida universitaria."
+            ],
+            "document": "Código de Etica",
+            "article": "Artículo 6",
+            "topic": "Preguntas Codigo de Etica"
+        },
+        {
+            "tag": "leyorganica1",
+            "patterns": [
+                "¿Qué es la Universidad de Guadalajara según su Ley Orgánica?"
+            ],
+            "responses": [
+                "📜 Es un organismo público descentralizado del Gobierno del Estado de Jalisco, con autonomía, personalidad jurídica y patrimonio propios."
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 1",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "leyorganica2",
+            "patterns": [
+                "¿Qué garantiza el Estado a la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📜 Garantiza su autonomía, libertad de cátedra e investigación, libre discusión de ideas y la administración de su patrimonio."
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 3",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "leyorganica3",
+            "patterns": [
+                "¿Cuáles son los fines principales de la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📜 Formación de recursos humanos, investigación científica y cultural, conservación y difusión de la cultura, y apoyo a la educación media superior y superior."
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 5",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "leyorganica4",
+            "patterns": [
+                "¿Cuáles son algunas de las atribuciones de la Universidad?"
+            ],
+            "responses": [
+                "📜 Organizarse internamente, expedir títulos, admitir estudiantes, establecer criterios académicos, y crear programas generadores de recursos, entre otras."
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 6",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "leyorganica5",
+            "patterns": [
+                "¿Qué principios guían las funciones universitarias?"
+            ],
+            "responses": [
+                "📜 Solidaridad social, libertad académica, participación comunitaria, vinculación entre funciones y no discriminación"
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 9",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "leyorganica6",
+            "patterns": [
+                "¿Quiénes integran la comunidad universitaria?"
+            ],
+            "responses": [
+                "📜Personal académico, administrativo, alumnos, egresados, jubilados, pensionados y autoridades."
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 10",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "leyorganica7",
+            "patterns": [
+                "¿Qué derechos tienen los alumnos en la Universidad?"
+            ],
+            "responses": [
+                "📜 Recibir enseñanza, obtener títulos, participar en órganos de gobierno, expresar opiniones, y recibir apoyos en caso de necesidad económica."
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 21",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "leyorganica8",
+            "patterns": [
+                "¿Cuál es la estructura organizativa de la Universidad?"
+            ],
+            "responses": [
+                "📜 Se organiza como una red universitaria compuesta por centros universitarios, el sistema de educación media superior y la administración general."
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 23",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "leyorganica9",
+            "patterns": [
+                "¿Quién es la máxima autoridad de la Universidad?"
+            ],
+            "responses": [
+                "📜 El Consejo General Universitario, seguido por el Rector General."
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 24",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "leyorganica9",
+            "patterns": [
+                "¿Cómo se elige al Rector General?"
+            ],
+            "responses": [
+                "📜 Mediante votación del Consejo General Universitario, en un proceso organizado por una comisión electoral."
+            ],
+            "document": "Ley Organica",
+            "article": "Artículo 33",
+            "topic": "Preguntas Ley Organica"
+        },
+        {
+            "tag": "reglamento_becas1",
+            "patterns": [
+                "¿Cuál es el objetivo principal del Reglamento de Becas?"
+            ],
+            "responses": [
+                "📜 Establecer las bases, criterios y procedimientos para el otorgamiento de becas en la Universidad de Guadalajara."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 1",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "reglamento_becas2",
+            "patterns": [
+                "¿A quiénes están dirigidas estas becas?"
+            ],
+            "responses": [
+                "📜 A miembros de la comunidad universitaria —académicos, administrativos y egresados— para realizar estudios de maestría y doctorado."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 3 y 5",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "reglamento_becas3",
+            "patterns": [
+                "¿Qué tipo de beca ofrece la Universidad?"
+            ],
+            "responses": [
+                "📜  La Universidad otorga becas-crédito, lo que significa que deben ser reembolsadas si no se cumplen ciertos compromisos."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 35",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "reglamento_becas4",
+            "patterns": [
+                "¿Qué requisitos debe cumplir un egresado para obtener una beca?"
+            ],
+            "responses": [
+                "📜 Tener promedio mínimo de 80, haber sido aceptado por una institución de posgrado, y contar con carta de apoyo institucional, entre otros requisitos."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 20",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "reglamento_becas5",
+            "patterns": [
+                "¿Qué duración tienen las becas?"
+            ],
+            "responses": [
+                "📜 Máximo 2 años para maestrías y hasta 5 años para doctorados."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 15",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "reglamento_becas6",
+            "patterns": [
+                "¿Qué ocurre si un becario no se reincorpora a trabajar en la Universidad al terminar su posgrado?"
+            ],
+            "responses": [
+                "📜  Está obligado a reembolsar el monto otorgado por la Universidad en un plazo máximo de un año."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 35",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "reglamento_becas7",
+            "patterns": [
+                "¿Qué tipo de apoyos pueden incluir las becas?"
+            ],
+            "responses": [
+                "📜  Inscripción, colegiatura, manutención, transporte, seguro médico, material bibliográfico, etc., según el tabulador aprobado."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 37",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "reglamento_becas8",
+            "patterns": [
+                "¿Cuándo se puede cancelar una beca?"
+            ],
+            "responses": [
+                "📜 Por causas como no mantener promedio mínimo, abandonar estudios, no entregar informes, o incumplir condiciones del convenio."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 56",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "reglamento_becas9",
+            "patterns": [
+                "¿Puede un becario extender la duración de la beca?"
+            ],
+            "responses": [
+                "📜 Sí, por un año adicional si mantiene promedio mayor a 85 y la institución justifica la necesidad. "
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 50",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "reglamento_becas10",
+            "patterns": [
+                "¿Qué derechos tienen los becarios?"
+            ],
+            "responses": [
+                "📜 Recibir pagos puntuales, conservar su antigüedad laboral, reincorporarse con condiciones previas, y acceso a prórrogas y ampliaciones justificadas."
+            ],
+            "document": "Reglamento de Becas",
+            "article": "Artículo 51",
+            "topic": "Preguntas Reglamento de Becas"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos1",
+            "patterns": [
+                "¿Cuál es el objetivo del reglamento de promocion y evaluacion de alumnos?"
+            ],
+            "responses": [
+                "📜 Regular la evaluación del proceso enseñanza-aprendizaje de los alumnos conforme a los planes de estudio de la Universidad de Guadalajara."
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 1",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos2",
+            "patterns": [
+                " ¿Para qué sirve la evaluación en la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📜 Sirve para medir la eficiencia del proceso enseñanza-aprendizaje, conocer el rendimiento de los alumnos y certificar su preparación académica. "
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 2",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos3",
+            "patterns": [
+                "¿Cómo se expresan los resultados de las evaluaciones?"
+            ],
+            "responses": [
+                "📜 Se usan calificaciones numéricas del 0 al 100, siendo 60 la mínima aprobatoria.\nLas materias sin medición cuantitativa se califican como **Acreditado (A)** o **No Acreditado (NA)**."
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 5",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos4",
+            "patterns": [
+                "¿Qué tipos de exámenes existen en el proceso de evaluación?"
+            ],
+            "responses": [
+                "📘 Los principales son:\n\n 🔹**Exámenes parciales**, para verificar el aprendizaje en periodos específicos.\n🔹**Exámenes globales**, que cubren el contenido total de una materia."
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 15",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos5",
+            "patterns": [
+                "Qué requisitos debe cumplir un alumno para ser evaluado en el período ordinario?"
+            ],
+            "responses": [
+                "📜 Debe estar inscrito en el plan de estudios correspondiente y haber asistido al menos al 80% de las clases. ✅ "
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 20",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos6",
+            "patterns": [
+                "¿Se puede justificar la falta de asistencia a clases?"
+            ],
+            "responses": [
+                "✅ Sí, por enfermedad, comisiones universitarias o causas de fuerza mayor.\nSin embargo, el máximo de faltas justificadas es el 20% del total de horas de clase. 🏥"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 53",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos7",
+            "patterns": [
+                "¿Qué pasa si un estudiante no aprueba una materia en evaluación ordinaria y extraordinaria?"
+            ],
+            "responses": [
+                "📘 Deberá repetir el curso en el siguiente ciclo escolar en que se imparta. Si no la acredita nuevamente, podría ser dado de baja. ❌"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 33",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos8",
+            "patterns": [
+                "¿Se puede acreditar una materia sin cursarla?"
+            ],
+            "responses": [
+                "✅ Sí, mediante un examen de acreditación de competencias, si el alumno puede demostrar conocimiento suficiente por experiencia laboral o estudios previos. 🏆"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 37",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos9",
+            "patterns": [
+                "¿Existe un examen especial para estudiantes de posgrado?"
+            ],
+            "responses": [
+                "✅ Si, el examen de recuperación, que se aplica si un alumno de posgrado no aprobó la evaluación regular.\n\n🔹Solo se puede presentar una vez. 🎓"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 30",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "evaluacion_promocion_alumnos10",
+            "patterns": [
+                "¿Cómo puede un alumno solicitar la revisión de su evaluación o examen?"
+            ],
+            "responses": [
+                "📘  Debe presentar una solicitud escrita y justificada dentro de los tres días hábiles posteriores a la publicación de los resultados. 📄"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 49",
+            "topic": "Preguntas Evaluacion y Promocion de Alumnos"
+        },
+        {
+            "tag": "revalidaciones_equivalencias1",
+            "patterns": [
+                "¿Cuál es el objetivo del reglamento de revalidaciones?"
+            ],
+            "responses": [
+                "📜 Regular la revalidación, el establecimiento de equivalencias y la acreditación de estudios de nivel medio superior y superior en la Universidad de Guadalajara. 🏛️"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 1",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "revalidaciones_equivalencias2",
+            "patterns": [
+                "¿Qué es la revalidación de estudios?"
+            ],
+            "responses": [
+                "📘 Es la validez oficial que la Universidad de Guadalajara otorga a estudios realizados en instituciones que no forman parte del Sistema Educativo Nacional. 📜"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 3",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "revalidaciones_equivalencias3",
+            "patterns": [
+                "¿Cuáles son los criterios para revalidar estudios?"
+            ],
+            "responses": [
+                "📘 Los estudios deben ser equiparables con los vigentes en la Universidad de Guadalajara y pueden revalidarse por niveles educativos, grados escolares o asignaturas. 🎓"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 5 y 6",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "revalidaciones_equivalencias4",
+            "patterns": [
+                "¿Cuáles son los requisitos para solicitar una revalidación de estudios?"
+            ],
+            "responses": [
+                "📘 Se deben presentar documentos como certificados de estudios, planes de estudio y programas académicos de la institución de origen. 📄"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 11",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "revalidaciones_equivalencias5",
+            "patterns": [
+                "¿Cuál es el procedimiento para solicitar una revalidación de estudios?"
+            ],
+            "responses": [
+                "📄 Para revalidar estudios en la UDG, el proceso implica la entrega de documentación a la Coordinación de Control Escolar, incluyendo un oficio del coordinador de carrera y un dictamen de la Comisión de Revalidación de Estudios, Títulos y Grados.\n\n**Pasos a seguir para la revalidación de estudios en la UDG**:\n🔹Solicita el tramite en SIATCE\n🔹Solicita a tu coordinador el Oficio de Igualdad Académica\n🔹Entrega los documentos en la Coordinacion de Control Escolar\n🔹Espera la evaluación por la Comisión\n🔹Revisa el dictamen e ingresa a SIIAU para verificar las materias revalidadas"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 9, 12 y 13",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "revalidaciones_equivalencias6",
+            "patterns": [
+                "¿Qué diferencia hay entre revalidación total y parcial?"
+            ],
+            "responses": [
+                "📄 La revalidación parcial permite concluir estudios en la Universidad de Guadalajara, mientras que la total es para ingreso a licenciatura o posgrado y efectos de registro oficial. ✅"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 7",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "revalidaciones_equivalencias7",
+            "patterns": [
+                "¿Qué porcentaje de créditos pueden ser revalidados en el caso de una revalidación parcial?"
+            ],
+            "responses": [
+                "📘 La revalidación parcial debe estar entre el 10% y 40% del total de créditos del plan de estudios correspondiente. 📊"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 17",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "revalidaciones_equivalencias8",
+            "patterns": [
+                "¿Qué es el establecimiento de equivalencias de estudios?"
+            ],
+            "responses": [
+                "📘 Es la declaración de igualdad académica entre estudios realizados en instituciones del Sistema Educativo Nacional y los impartidos en la Universidad de Guadalajara. ⚖️"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 21",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "revalidaciones_equivalencias9",
+            "patterns": [
+                "¿Cómo funciona la acreditación de estudios dentro de la Universidad?"
+            ],
+            "responses": [
+                "📘 Permite a egresados de la Universidad cursar una segunda carrera o a estudiantes que hayan cambiado de programa o centro universitario validar materias previamente cursadas. 🎓"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 34",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "revalidaciones_equivalencias10",
+            "patterns": [
+                "¿Cuál es el límite máximo de créditos que pueden acreditarse en una segunda carrera dentro de la Universidad?"
+            ],
+            "responses": [
+                "📘 Las acreditaciones pueden cubrir hasta el 75% del total de créditos del plan de estudios que se desea cursar. 📈"
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 42",
+            "topic": "Preguntas Revalidaciones, Equivalencias y Acreditacion de Estudios"
+        },
+        {
+            "tag": "reglamento_serviciosocial1",
+            "patterns": [
+                "¿Cuál es el objetivo del reglamento del servicio social?"
+            ],
+            "responses": [
+                "📘 Establecer las bases y los lineamientos para la prestación y acreditación del servicio social en la Universidad de Guadalajara. 🏛️"
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 1",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_serviciosocial2",
+            "patterns": [
+                "¿Quiénes deben realizar el servicio social en la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📘 Es obligatorio para estudiantes de programas de Bachillerato Técnico, Carreras Técnicas, Tecnólogo Profesional, Bachillerato Tecnológico, Bachillerato Intercultural Tecnológico, Técnico Superior Universitario y Licenciatura. 🎓"
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 5",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_serviciosocial3",
+            "patterns": [
+                "¿Cuál es el tiempo mínimo y máximo para la prestación del servicio social?"
+            ],
+            "responses": [
+                "📘 Debe realizarse de manera continua por un periodo no menor a seis meses ni mayor a dos años. ⏳"
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 8",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_serviciosocial4",
+            "patterns": [
+                "¿Por qué el servicio social es obligatorio?"
+            ],
+            "responses": [
+                "📘 Es un requisito indispensable para la obtención del título en los programas "
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 6",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_serviciosocial5",
+            "patterns": [
+                "¿Cuántas horas deben dedicarse al servicio social según el tipo de programa?"
+            ],
+            "responses": [
+                "📘 Depende del nivel educativo:\n\n**Bachillerato Técnico, Carreras Técnicas, Bachillerato Tecnológico e Intercultural Tecnológico:** 240 horas.\n**Tecnólogo Profesional, Técnico Superior Universitario y Licenciatura:** 480 horas.\n**Carrera en Enfermería y licenciaturas en Medicina, Odontología, Enfermería y Nutrición:** Un año."
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 14",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_serviciosocial6",
+            "patterns": [
+                "¿Cómo se acredita el servicio social?"
+            ],
+            "responses": [
+                "📘 Mediante la generación y validación de un reporte parcial y un reporte final, y la expedición de la constancia de término de servicio social universitario. 📄"
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 15 y 16",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_serviciosocial7",
+            "patterns": [
+                "Quiénes están exceptuados de realizar el servicio social?"
+            ],
+            "responses": [
+                "📘 Personas mayores de 60 años o aquellas con enfermedades graves, presentando documentación médica y una solicitud formal. 🚑"
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 20",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_serviciosocial8",
+            "patterns": [
+                "¿Cómo puede solicitarse la baja del servicio social?"
+            ],
+            "responses": [
+                "📄 Se puede pedir baja temporal (con acreditación de horas realizadas) o baja definitiva ante la persona responsable del servicio social. ❌"
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 26",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_serviciosocial9",
+            "patterns": [
+                "¿Se puede exentar el servicio social en casos de discapacidad?"
+            ],
+            "responses": [
+                "📘 Sí, si la discapacidad impide su realización o si la Universidad no ofrece un programa adaptado a sus necesidades. 🏥"
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 19",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_serviciosocial10",
+            "patterns": [
+                "¿Cuáles son las causas justificadas para cambiar de programa de servicio social?"
+            ],
+            "responses": [
+                "📄 Acoso, falta de condiciones adecuadas, inseguridad o cualquier situación grave que afecte la integridad de la persona prestadora de servicio social. ⚠️"
+            ],
+            "document": "Reglamento General para la Prestación del Servicio Social",
+            "article": "Artículo 27",
+            "topic": "Preguntas Reglamento Servicio Social"
+        },
+        {
+            "tag": "reglamento_titulacion1",
+            "patterns": [
+                "¿Cuál es el objetivo del reglamento de titulacion?"
+            ],
+            "responses": [
+                "📄 Establecer las normas generales que regulan los procedimientos de evaluación para la titulación de técnico superior universitario, licenciatura y nivel profesional del tipo medio superior. 🏛️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 1",
+            "topic": "Preguntas Reglamento Titulacion"
+        },
+        {
+            "tag": "reglamento_titulacion2",
+            "patterns": [
+                "¿Cuáles son los objetivos generales de los exámenes de titulación?"
+            ],
+            "responses": [
+                "📄 Permiten evaluar si el pasante es capaz de ejercer su profesión, valorar la calidad del curriculum y acreditar los conocimientos adquiridos por los egresados. 🎓"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 2",
+            "topic": "Preguntas Reglamento Titulacion"
+        },
+        {
+            "tag": "reglamento_titulacion3",
+            "patterns": [
+                "Qué modalidades de titulación reconoce la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📘 Se reconocen 5 modalidades principales:\n\n🔹Desempeño Académico Sobresaliente \n🔹Exámenes \n🔹Producción de Materiales Educativos \n🔹Investigación y Posgrado \n🔹Tesis, Tesina o Informes."
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 8",
+            "topic": "Preguntas Reglamento Titulacion"
+        },
+        {
+            "tag": "reglamento_titulacion4",
+            "patterns": [
+                "¿Qué opciones existen dentro de la titulación por desempeño académico sobresaliente?"
+            ],
+            "responses": [
+                "🔹**Excelencia académica:** Promedio mínimo de 95 con máximo 10% de asignaturas en período extraordinario.\n🔹**Titulación por promedio:** Promedio mínimo de 90, acreditando todas las asignaturas en períodos ordinarios. "
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 9",
+            "topic": "Preguntas Reglamento Titulacion"
+        },
+        {
+            "tag": "reglamento_titulacion5",
+            "patterns": [
+                "¿Cuáles son las opciones de titulación por exámenes?"
+            ],
+            "responses": [
+                "🔹Examen global teórico-práctico\n🔹Examen global teórico\n🔹Examen general de certificación profesional (CENEVAL)\n🔹Examen de capacitación profesional o técnico-profesional\n🔹Réplica verbal o por escrito"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 10",
+            "topic": "Preguntas Reglamento Titulacion"
+        },
+        {
+            "tag": "reglamento_titulacion6",
+            "patterns": [
+                "¿Cómo se puede titular un estudiante mediante producción de materiales educativos?"
+            ],
+            "responses": [
+                "🔹Guías comentadas o ilustradas\n🔹Paquete didáctico\n🔹Propuesta pedagógica "
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 11",
+            "topic": "Preguntas Reglamento Titulacion"
+        },
+        {
+            "tag": "reglamento_titulacion7",
+            "patterns": [
+                "¿Qué opciones existen dentro de la titulación por investigación y estudios de posgrado?"
+            ],
+            "responses": [
+                "🔹Cursos o créditos de maestría o doctorado\n🔹Trabajo monográfico de actualización\n🔹Seminario de investigación\n🔹Seminario de titulación\n🔹Diseño o rediseño de equipo, aparato o maquinaria "
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 12",
+            "topic": "Preguntas Reglamento Titulacion"
+        },
+        {
+            "tag": "reglamento_titulacion8",
+            "patterns": [
+                "¿Cuáles son los requisitos para obtener el título universitario"
+            ],
+            "responses": [
+                "🔹Aprobar todas las materias o créditos establecidos en el plan de estudios.\n🔹Acreditar el servicio social.\n🔹Cumplir con la modalidad de titulación correspondiente. "
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 15",
+            "topic": "Preguntas Reglamento Titulacion"
+        },
+        {
+            "tag": "reglamento_titulacion9",
+            "patterns": [
+                "¿Cómo se estructura el Comité de Titulación en la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📄 Está conformado por directivos y profesores, y su función es gestionar el proceso de titulación, asignar temas de tesis y evaluar los criterios de titulación. 🏫"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 18",
+            "topic": "Preguntas Reglamento Titulacion"
+        },
+        {
+            "tag": "reglamento_posgrado1",
+            "patterns": [
+                "¿Cuál es el objetivo del reglamento de posgrados?"
+            ],
+            "responses": [
+                "📄 Establecer los criterios y lineamientos para el desarrollo del Posgrado, su organización y funcionamiento. 🏛️"
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 1",
+            "topic": "Preguntas Reglamento Posgrados"
+        },
+        {
+            "tag": "reglamento_posgrado2",
+            "patterns": [
+                "¿Qué son los estudios de posgrado en la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📄 Son programas académicos diseñados para la formación de recursos humanos de alto nivel, con capacidad para aplicar, ampliar, profundizar e innovar el conocimiento en diversas áreas. 🎓"
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 2",
+            "topic": "Preguntas Reglamento Posgrados"
+        },
+        {
+            "tag": "reglamento_posgrado3",
+            "patterns": [
+                "¿Cuáles son los niveles educativos del posgrado en la Universidad de Guadalajara?"
+            ],
+            "responses": [
+                "📄 Se ofrecen programas en los siguientes niveles:\n\n🔹**Especialización**\n🔹**Maestría**\n🔹**Doctorado**\n"
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 3",
+            "topic": "Preguntas Reglamento Posgrados"
+        },
+        {
+            "tag": "reglamento_posgrado4",
+            "patterns": [
+                "¿Cuáles son los objetivos de la Especialización?"
+            ],
+            "responses": [
+                "🔹Profundizar en un área específica dentro de una profesión.\n🔹Habilitar al alumno para solucionar problemas concretos en su espacio ocupacional.\n🔹Desarrollar conocimientos y habilidades aplicables a una profesión determinada.\n "
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 4",
+            "topic": "Preguntas Reglamento Posgrados"
+        },
+        {
+            "tag": "reglamento_posgrado5",
+            "patterns": [
+                "¿Cuáles son los objetivos de la Maestría?"
+            ],
+            "responses": [
+                "🔹Proporcionar conocimientos en una disciplina o área interdisciplinaria.\n🔹Profundizar en aspectos teóricos, metodológicos y tecnológicos para la investigación o aplicación profesional.\n🔹Proponer soluciones a problemas científicos y sociales.\n "
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 5",
+            "topic": "Preguntas Reglamento Posgrados"
+        },
+        {
+            "tag": "reglamento_posgrado6",
+            "patterns": [
+                "¿Cuál es el propósito del Doctorado?"
+            ],
+            "responses": [
+                "📄 Formar recursos humanos capaces de generar conocimientos científicos, tecnológicos y humanísticos que contribuyan al desarrollo sustentable, aplicando el conocimiento de manera original e innovadora 🚀🚀"
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 6",
+            "topic": "Preguntas Reglamento Posgrados"
+        },
+        {
+            "tag": "reglamento_posgrado7",
+            "patterns": [
+                "¿Cuáles son las modalidades en que pueden ofrecerse los programas de posgrado?"
+            ],
+            "responses": [
+                "🔹Escolarizada\n🔹Semiescolarizada\n🔹Abierta\n🔹A distancia\n🔹Mixta\n "
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 7",
+            "topic": "Preguntas Reglamento Posgrados"
+        },
+        {
+            "tag": "reglamento_posgrado8",
+            "patterns": [
+                "¿Cuáles son los requisitos para ingresar a un programa de posgrado?"
+            ],
+            "responses": [
+                "🔹Contar con título de Licenciatura para Especialización y Maestría\n🔹Tener el grado de Maestro para Doctorado.\n🔹Promedio mínimo de 80 en estudios previos.\n🔹Aprobar examen de lectocomprensión en un idioma extranjero.\n🔹Presentar carta de exposición de motivos\n"
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 50",
+            "topic": "Preguntas Reglamento Posgrados"
+        },
+        {
+            "tag": "reglamento_posgrado9",
+            "patterns": [
+                "¿Cómo se estructura la evaluación en los programas de posgrado?"
+            ],
+            "responses": [
+                "🔹Se expresan en una escala de 0 a 100.\n🔹Calificación mínima aprobatoria: 60.\n🔹Promedio mínimo de 80 para optar por el grado.\n"
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 65",
+            "topic": "Preguntas Reglamento Posgrados"
+        },
+        {
+            "tag": "reglamento_posgrado10",
+            "patterns": [
+                "¿Cuáles son los requisitos para obtener el grado de Doctor?"
+            ],
+            "responses": [
+                "🔹Concluir el programa de Doctorado.\n🔹Cumplir con los requisitos del plan de estudios.\n🔹Presentar, defender y aprobar una tesis de grado.\n🔹No tener adeudos administrativos.\n🔹Cubrir los aranceles correspondientes.\n"
+            ],
+            "document": "Reglamento General de Posgrados",
+            "article": "Artículo 77",
+            "topic": "Preguntas Reglamento Posgrados"
+        }
+
+
+
+    ]
+}
+
+
+
+

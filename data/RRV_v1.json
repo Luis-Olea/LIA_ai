@@ -1,0 +1,2647 @@
+{
+    "main_topic": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "objeto_del_reglamento_responsabilidades",
+            "patterns": [
+                "¿Cuál es el objetivo del Reglamento según el artículo 1?",
+                "¿Qué regula el artículo 1 de este reglamento?",
+                "¿Para qué sirve este reglamento según el artículo 1?",
+                "¿Qué aspectos cubre el artículo 1?",
+                "¿Qué tipo de responsabilidades establece el artículo 1?"
+            ],
+            "responses": [
+                "📘 El artículo 1 establece que el reglamento tiene por objeto definir autoridades competentes, faltas, sanciones y procedimientos por incumplimientos vinculados a recursos universitarios. 🏛️",
+                "🔹 Regula responsabilidades por mal uso de recursos materiales, humanos o financieros de la Universidad. 💼",
+                "🎯 Su propósito es garantizar el cumplimiento de la normativa universitaria en el manejo de recursos públicos. ⚖️",
+                "📘 Cubre faltas administrativas y sanciones aplicables a la comunidad universitaria. 📜",
+                "🔹 Establece responsabilidades por actos u omisiones que afecten recursos de la Universidad. 🚨"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento resposabilidades"
+        },
+        {
+            "tag": "ambito_de_aplicacion",
+            "patterns": [
+                "¿A quiénes aplica este reglamento según el artículo 2?",
+                "¿Quiénes están obligados a cumplir con este reglamento?",
+                "¿El artículo 2 incluye a estudiantes?",
+                "¿Qué personal universitario debe seguir estas normas?",
+                "¿Los contratistas externos están sujetos a este reglamento?"
+            ],
+            "responses": [
+                "📘 El artículo 2 aplica a toda la comunidad universitaria (autoridades, académicos, administrativos y alumnos) que administren o gestionen recursos de la Universidad. 👥",
+                "🔹 Es obligatorio para quienes tengan bajo su responsabilidad recursos materiales, humanos o financieros de la UdeG. 💰",
+                "🎯 Sí, los estudiantes están incluidos si manejan recursos universitarios (ej. fondos de sociedades de alumnos). 🎓",
+                "📘 Personal académico, directivo y administrativo deben cumplirlo al interactuar con recursos públicos. 🏢",
+                "🔹 No aplica directamente a contratistas, pero sí a universitarios que los supervisen o contraten. 📝"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 2",
+            "topic": "Ámbito de aplicación"
+        },
+        {
+            "tag": "definiciones_clave",
+            "patterns": [
+                "¿Qué se considera 'recursos de la Universidad' según el artículo 8?",
+                "¿Qué incluyen los recursos materiales según el artículo 8?",
+                "¿Los salarios del personal son recursos financieros?",
+                "¿Qué son recursos humanos en este reglamento?",
+                "¿Las donaciones entran en recursos financieros?"
+            ],
+            "responses": [
+                "📘 El artículo 8 define recursos universitarios como: materiales (bienes muebles/inmuebles), humanos (personal) y financieros (presupuesto y fondos extraordinarios). 📊",
+                "🔹 Recursos materiales: equipos, edificios, vehículos y cualquier bien patrimonial. 🖥️🏠",
+                "🎯 Sí, los salarios son parte de los recursos financieros al venir del presupuesto universitario. 💵",
+                "📘 Recursos humanos: personal académico, administrativo y directivo contratado por la Universidad. 👩‍🏫👨‍💼",
+                "🔹 Sí, las donaciones son recursos financieros 'no regularizables' según el artículo 8.4. 🎁"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 8",
+            "topic": "Definiciones de recursos universitarios"
+        },
+        {
+            "tag": "principios_eticos",
+            "patterns": [
+                "¿Qué principios deben seguir los sujetos obligados según el artículo 9?",
+                "¿Qué dice el artículo 9 sobre conflictos de interés?",
+                "¿Puedo contratar a un familiar según este reglamento?",
+                "¿Qué conductas prohíbe el artículo 9?",
+                "¿Cómo evitar conflictos de interés según el artículo 9?"
+            ],
+            "responses": [
+                "📘 El artículo 9 exige honradez, imparcialidad, transparencia y evitar conflictos de interés. Principios clave: legalidad, rendición de cuentas y eficiencia. 🌟",
+                "🔹 Prohíbe beneficiar a familiares (hasta 4° grado) o socios con recursos universitarios. Ej: contrataciones o compras preferenciales. 🚫",
+                "🎯 No, es falta grave designar familiares (Art. 9.XII). Debes excusarte de participar en esos procesos. ⚠️",
+                "📘 Prohibido aceptar dádivas, usar información privilegiada, simular actos legales o retrasar investigaciones. 📛",
+                "🔹 Debes declarar activos/inversiones que generen conflicto y separarte de decisiones vinculadas (Art. 9.XI). 📄"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 9",
+            "topic": "Principios éticos y prohibiciones"
+        },
+        {
+            "tag": "faltas_no_graves",
+            "patterns": [
+                "¿Qué conductas se consideran faltas no graves según el artículo 11?",
+                "¿No rendir cuentas sobre recursos es falta no grave?",
+                "¿Qué pasa si no denuncio una irregularidad que veo?",
+                "¿Es falta no grave perder documentos universitarios?",
+                "¿Qué obligaciones menciona el artículo 11?"
+            ],
+            "responses": [
+                "📘 El artículo 11 lista faltas no graves como: no denunciar irregularidades (I), no presentar declaraciones patrimoniales (II), negligencia en custodia de documentos (III), o no supervisar al personal a cargo (IV). 📋",
+                "🔹 Sí, no rendir cuentas sobre el uso de recursos (Art. 11.V) es falta no grave. Sanciones: amonestación o suspensión ≤8 días. ⚠️",
+                "🎯 Sí, omitir denunciar actos irregulares vinculados a recursos (Art. 11.I) es falta no grave. Debes reportarlo a la Contraloría. 🚨",
+                "📘 Sí, si pierdes documentos por negligencia (Art. 11.III) es falta no grave, pero si es intencional, puede ser grave (Art. 14.XIV). 📂",
+                "🔹 Obligaciones clave: denunciar irregularidades, custodiar documentos, colaborar en investigaciones y evitar conflictos de interés (Art. 11). ✅"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 11",
+            "topic": "Faltas no graves"
+        },
+        {
+            "tag": "daños_culposos",
+            "patterns": [
+                "¿Qué dice el artículo 12 sobre daños culposos?",
+                "¿Puedo ser sancionado por un error no intencional?",
+                "¿Qué pasa si causo daño a un recurso sin querer?",
+                "¿Hay excepciones para sancionar daños culposos?",
+                "¿Qué es el límite de 2,000 UMAs en el artículo 12?"
+            ],
+            "responses": [
+                "📘 El artículo 12 establece que daños culposos o negligentes a recursos universitarios (sin ser falta grave) son faltas no graves. Ej: romper equipo por descuido. 💻",
+                "🔹 Sí, pero si el daño es ≤2,000 UMAs y se repara, la Autoridad Resolutora puede omitir la sanción (Art. 12.2). 🔧",
+                "🎯 Debes reportarlo y repararlo. Si es menor a 2,000 UMAs, posiblemente evites sanción (Art. 12.2). Si es mayor, habrá amonestación. ⚖️",
+                "📘 Sí, si el daño es mínimo (≤2,000 UMAs) y se resarce, la sanción puede no aplicarse (Art. 12.2). 📉",
+                "🔹 Es el monto máximo de daño culposo para evitar sanción. Equivale a ~$200,000 MXN (2024). Si supera esto, aplican sanciones. 💰"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 12",
+            "topic": "Daños culposos"
+        },
+        {
+            "tag": "faltas_graves",
+            "patterns": [
+                "¿Qué son faltas graves según el artículo 14?",
+                "¿Aceptar un soborno es falta grave?",
+                "¿Qué pasa si desvío recursos universitarios?",
+                "¿Es grave contratar a un familiar?",
+                "¿Ocultar información en una investigación es falta grave?"
+            ],
+            "responses": [
+                "📘 El artículo 14 define faltas graves: corrupción (sobornos, Art. 14.I), desvío de recursos (IV), contratar familiares (XVI), ocultar pruebas (XIV), o usar información privilegiada (VI). 🚨",
+                "🔹 Sí, aceptar beneficios indebidos (dinero, regalos) por tus funciones es falta grave (Art. 14.I). Sanción: separación definitiva e inhabilitación. ⛔",
+                "🎯 Sí, desviar recursos sin fundamento jurídico (Art. 14.IV) es grave. Además, puede ser delito penal. ⚖️",
+                "📘 Sí, designar familiares hasta 4° grado (Art. 14.XVI) es falta grave. Incluye cónyuges, hijos, hermanos, etc. 👨‍👩‍👧‍👦",
+                "🔹 Sí, ocultar o destruir pruebas deliberadamente (Art. 14.XIV) es falta grave. También retrasar investigaciones (Art. 14.XV). 🕵️‍♂️"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 14",
+            "topic": "Faltas graves"
+        },
+        {
+            "tag": "sanciones_faltas_no_graves",
+            "patterns": [
+                "¿Qué sanciones hay para faltas no graves según el artículo 15?",
+                "¿Me pueden suspender por una falta no grave?",
+                "¿Qué es un apercibimiento?",
+                "¿Las sanciones por faltas no graves son acumulativas?",
+                "¿Pueden despedirme por una falta no grave?"
+            ],
+            "responses": [
+                "📘 El artículo 15.1 establece sanciones para faltas no graves: amonestación (I), apercibimiento (II) o suspensión ≤8 días (III). 📜",
+                "🔹 Sí, la suspensión (máximo 8 días naturales) aplica para faltas no graves recurrentes o con daño significativo (Art. 15.1.III). ⏸️",
+                "🎯 Es una advertencia formal por escrito que queda en tu expediente. Precisa la conducta a corregir (Art. 15.1.II). ✉️",
+                "📘 No, pero reincidir en la misma falta puede agravar la sanción (Art. 16.3). Ej: de amonestación a suspensión. 🔄",
+                "🔹 No, el despido solo aplica para faltas graves (Art. 15.2). Para no graves, máximo es suspensión temporal. ✅"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 15 (párrafo 1)",
+            "topic": "Sanciones para faltas no graves"
+        },
+        {
+            "tag": "sanciones_faltas_graves",
+            "patterns": [
+                "¿Qué sanciones hay para faltas graves según el artículo 15?",
+                "¿Pueden inhabilitarme para trabajar en la UdeG?",
+                "¿Qué significa 'separación definitiva'?",
+                "¿Las sanciones graves son independientes de lo penal?",
+                "¿Pueden multarme por una falta grave?"
+            ],
+            "responses": [
+                "📘 El artículo 15.2 impone para faltas graves: separación definitiva del cargo (I) e inhabilitación para trabajar en la Universidad (II). Ej: corrupción o desvío de fondos. ⛔",
+                "🔹 Sí, la inhabilitación (Art. 15.2.II) te impide ocupar otro puesto en la UdeG. Duración: depende de la gravedad (ej. 5-10 años por fraude). 🚫",
+                "🎯 Es el despido inmediato y permanente de tu puesto actual (Art. 15.2.I). No aplica para reingresar incluso si pagas reparación. 💼",
+                "📘 Sí, las sanciones administrativas (Art. 15.3) son aparte de posibles demandas penales o civiles. Ej: puedes ser despedido y luego demandado. ⚖️",
+                "🔹 No, este reglamento no contempla multas económicas. Las sanciones son laborales (despido/inhabilitación). 💰"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 15 (párrafos 2-3)",
+            "topic": "Sanciones para faltas graves"
+        },
+        {
+            "tag": "criterios_imposicion_sanciones",
+            "patterns": [
+                "¿Qué criterios usan para sancionar según el artículo 16?",
+                "¿Cómo deciden si una sanción es leve o grave?",
+                "¿Qué es la 'reincidencia' en el artículo 16?",
+                "¿Influye mi puesto en la sanción?",
+                "¿Puedo reducir mi sanción reparando el daño?"
+            ],
+            "responses": [
+                "📘 El artículo 16 lista criterios: gravedad de la falta (I), intención (dolo/culpa) (II), daño causado (IV), reparación del daño (V), reincidencia (VI) y nivel jerárquico (VII). ⚖️",
+                "🔹 Se evalúa el daño patrimonial (Art. 16.IV), si hubo dolo (Art. 16.II) y antecedentes (Art. 16.VI). Ej: negligencia leve vs. corrupción. 📊",
+                "🎯 Es cuando ya fuiste sancionado antes por la misma conducta (Art. 16.3). Agrava la sanción actual. Ej: de suspensión a despido. 🔄",
+                "📘 Sí, a mayor jerarquía (ej. directivo vs. administrativo), mayor responsabilidad y sanción (Art. 16.VII). 👔",
+                "🔹 Sí, aceptar reparar el daño (Art. 16.V) puede reducir la sanción, pero no en faltas graves (Art. 15.2). 🛠️"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 16",
+            "topic": "Criterios para imposición de sanciones"
+        },
+        {
+            "tag": "etapas_procedimiento_sancionador",
+            "patterns": [
+                "¿Cuáles son las etapas del procedimiento según el artículo 17?",
+                "¿Quién investiga las faltas en la UdeG?",
+                "¿Qué pasa en la etapa de substanciación?",
+                "¿Cómo se decide la sanción?",
+                "¿Puedo defenderme durante el procedimiento?"
+            ],
+            "responses": [
+                "📘 El artículo 17 establece 3 etapas: investigación (Contraloría recaba pruebas), substanciación (audiencias y defensa) y resolución (dictamen final). 🔍⚖️📜",
+                "🔹 La Unidad de Investigación de la Contraloría General (Art. 17.I) recibe denuncias, investiga y emite informe preliminar. 🕵️‍♂️",
+                "🎯 Incluye: notificación al implicado, audiencia inicial, ofrecimiento de pruebas, alegatos y cierre de instrucción (Art. 17.II). 🗣️",
+                "📘 La Autoridad Resolutora (Contraloría para faltas no graves, Consejos Universitarios para graves) valora pruebas y emite resolución (Art. 17.III). 🏛️",
+                "🔹 Sí, tienes derecho a presentar pruebas, declarar y nombrar un abogado (Art. 126-127). El silencio no es admisión de culpabilidad (Art. 69). 🛡️"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 17",
+            "topic": "Etapas del procedimiento sancionador"
+        },
+        {
+            "tag": "autoridades_competentes_faltas_no_graves",
+            "patterns": [
+                "¿Quién resuelve faltas no graves según el artículo 18?",
+                "¿La Contraloría puede sancionar directamente?",
+                "¿Qué hace la Unidad de Substanciación y Resolución?",
+                "¿Puedo apelar una sanción por falta no grave?",
+                "¿Dónde se presentan denuncias por faltas no graves?"
+            ],
+            "responses": [
+                "📘 El artículo 18 asigna a la Contraloría General: su Unidad de Investigación investiga (I) y su Unidad de Substanciación y Resolución decide la sanción (II). 🏢",
+                "🔹 Sí, para faltas no graves, la Unidad de Substanciación y Resolución de la Contraloría emite la resolución final (Art. 18.II). 📝",
+                "🎯 Dirige el procedimiento: notifica, realiza audiencias, admite pruebas y elabora la resolución (Art. 18.II). ⚖️",
+                "📘 Sí, con recurso de reclamación (Art. 138) o revisión (Art. 133). Plazo: 5 días hábiles tras notificación. ⏳",
+                "🔹 En la Unidad de Investigación de la Contraloría, física o electrónicamente (Art. 34). Puede ser anónima. 🖥️"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 18",
+            "topic": "Autoridades para faltas no graves"
+        },
+        {
+            "tag": "autoridades_competentes_faltas_graves",
+            "patterns": [
+                "¿Quién decide sobre faltas graves según el artículo 19?",
+                "¿Qué Consejos universitarios intervienen en faltas graves?",
+                "¿Qué hace la Comisión de Responsabilidades?",
+                "¿El Consejo General puede atraer cualquier caso?",
+                "¿Dónde se investigan las faltas graves?"
+            ],
+            "responses": [
+                "📘 El artículo 19 designa: Contraloría investiga (I), Comisiones de Responsabilidades de los Consejos (ej. Centros Universitarios) substancian (II), y los Consejos en pleno resuelven (III). 🏛️",
+                "🔹 Depende de la adscripción del implicado: Consejos de Centros, SEMS, Universidad Virtual o Consejo General (Art. 20). 🎓",
+                "🎯 Actúa como Autoridad Substanciadora: organiza audiencias, recibe pruebas y elabora el dictamen para el pleno del Consejo (Art. 19.II). 📑",
+                "📘 Sí, el Consejo General puede atraer casos graves de otros Consejos por su trascendencia (Art. 21). Ej: corrupción en múltiples dependencias. 🌐",
+                "🔹 La Unidad de Investigación de la Contraloría inicia el proceso (Art. 19.I), luego pasa a la Comisión de Responsabilidades del Consejo competente. 🔎"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 19",
+            "topic": "Autoridades para faltas graves"
+        },
+        {
+            "tag": "distribucion_competencias_faltas_graves",
+            "patterns": [
+                "¿Qué casos ve el Consejo del SEMS según el artículo 20?",
+                "¿Quién sanciona a un director de Centro Universitario?",
+                "¿El Consejo General puede sancionar a cualquier empleado?",
+                "¿Qué pasa si una falta grave involucra a varias dependencias?",
+                "¿Quién decide la inhabilitación universitaria?"
+            ],
+            "responses": [
+                "📘 El Consejo del SEMS (Art. 20.I) resuelve faltas graves de personal académico/administrativo adscrito a educación media superior. Ej: prepas. 🏫",
+                "🔹 El Consejo de su Centro Universitario (Art. 20.II.b) si es director regional; el Consejo General (Art. 20.IV.b) si es de la Administración Central. 👨‍💼",
+                "🎯 Sí, en casos de inhabilitación (Art. 20.IV.c) o cuando ejerce facultad de atracción (Art. 20.IV.d). 🌟",
+                "📘 El Consejo General atrae el caso (Art. 21) y unifica el procedimiento para evitar contradicciones. ⚖️",
+                "🔹 Solo el Consejo General Universitario (Art. 20.IV.c). Ej: inhabilitar por 10 años a un funcionario corrupto. 🚫"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 20",
+            "topic": "Distribución de competencias para faltas graves"
+        },
+        {
+            "tag": "facultad_atraccion_consejo_general",
+            "patterns": [
+                "¿Qué es la facultad de atracción del Consejo General según el artículo 21?",
+                "¿El Consejo General puede tomar casos de otros consejos?",
+                "¿Cómo se solicita la atracción de un caso grave?",
+                "¿Qué pasa si el Consejo General atrae mi caso?",
+                "¿Puedo oponerme a la atracción de mi caso?"
+            ],
+            "responses": [
+                "📘 El artículo 21 permite al Consejo General Universitario (CGU) atraer casos graves de otros consejos (ej. Centros Universitarios) por su interés o trascendencia. 🌐",
+                "🔹 Sí, el CGU puede avocarse a casos originalmente competencia de otros consejos (Art. 21.1), como corrupción en múltiples dependencias. 🏛️",
+                "🎯 Puede iniciarse de oficio por el CGU o a solicitud de la Contraloría/otros consejos (Art. 21.2-4). Se notifica a las partes y se suspende el procedimiento previo. 📝",
+                "📘 Tu caso será analizado y resuelto directamente por el CGU (Art. 21.3). Sus resoluciones son definitivas. ⚖️",
+                "🔹 No, la decisión de atracción es irrevocable (Art. 21.5). Pero puedes defenderte en el nuevo procedimiento. 🛡️"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 21",
+            "topic": "Facultad de atracción del Consejo General"
+        },
+        {
+            "tag": "medidas_cautelares_generales",
+            "patterns": [
+                "¿Qué son las medidas cautelares según el artículo 22?",
+                "¿Quién puede pedir una medida cautelar?",
+                "¿Pueden suspenderme preventivamente?",
+                "¿Qué objetivos tienen las medidas cautelares?",
+                "¿Hay límites para decretar medidas cautelares?"
+            ],
+            "responses": [
+                "📘 El artículo 22 define medidas cautelares como mecanismos para evitar daños irreparables durante una investigación o procedimiento. Ej: suspensión temporal. ⚠️",
+                "🔹 La Autoridad Investigadora/Substanciadora (Art. 22.1) o las partes (ej. denunciante) pueden solicitarlas. Deben justificar su necesidad. 📄",
+                "🎯 Sí, la suspensión temporal es una medida cautelar posible (Art. 23.I), pero no implica culpabilidad (Art. 24). ⏸️",
+                "📘 Evitar ocultamiento de pruebas (Art. 22.3.I), frenar efectos perjudiciales (II) o proteger el patrimonio universitario (IV). 🛡️",
+                "🔹 Sí, no deben contravenir el interés social u orden público (Art. 22.4). Ej: no se puede decomisar propiedad sin fundamento. 🚫"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 22",
+            "topic": "Medidas cautelares generales"
+        },
+        {
+            "tag": "tipos_medidas_cautelares",
+            "patterns": [
+                "¿Qué medidas cautelares específicas existen según el artículo 23?",
+                "¿Me pueden prohibir entrar a la universidad durante una investigación?",
+                "¿Qué significa 'exhibición de documentos' como medida cautelar?",
+                "¿Pueden prohibirme hablar con otros implicados?",
+                "¿Las medidas cautelares son públicas?"
+            ],
+            "responses": [
+                "📘 El artículo 23 lista medidas: suspensión temporal (I), exhibición de documentos (II), apercibimiento de no contactar implicados (III), prohibición de ingreso a instalaciones (IV), entre otras. 📋",
+                "🔹 Sí, si hay riesgo de alteración de pruebas (Art. 23.IV). Debe notificarse por escrito y ser proporcional (Art. 30). 🚧",
+                "🎯 Es entregar originales de documentos vinculados al caso (Art. 23.II). Ej: facturas o contratos bajo investigación. 📂",
+                "📘 Sí, el apercibimiento (Art. 23.III) puede prohibirte contacto físico/digital con otros involucrados para evitar colusión. 📵",
+                "🔹 No, el artículo 24 exige confidencialidad hasta que haya resolución definitiva para proteger tu presunción de inocencia. 🤫"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 23",
+            "topic": "Tipos de medidas cautelares"
+        },
+        {
+            "tag": "presuncion_inocencia_medidas_cautelares",
+            "patterns": [
+                "¿Las medidas cautelares significan que soy culpable según el artículo 24?",
+                "¿Deben ocultar mi nombre si me aplican una medida cautelar?",
+                "¿Qué derechos tengo durante una medida cautelar?",
+                "¿Puedo trabajar en otra área si me suspenden temporalmente?",
+                "¿Cómo protege el reglamento mi imagen pública?"
+            ],
+            "responses": [
+                "📘 No, el artículo 24 enfatiza que las medidas cautelares NO son indicio de culpabilidad. Son preventivas y reversible. ✅",
+                "🔹 Sí, tu identidad no debe divulgarse hasta que haya resolución definitiva (Art. 24.1). Ej: comunicados internos sin nombres. 🕵️",
+                "🎯 Derechos clave: confidencialidad (Art. 24), proporcionalidad (Art. 30), y solicitar revisión/modificación (Art. 28). ⚖️",
+                "📘 No, la suspensión temporal (Art. 23.I) te inhabilita para cualquier función universitaria durante su vigencia. ⏸️",
+                "🔹 El artículo 24 obliga a las autoridades a evitar señalarte públicamente como responsable durante el proceso. 🛡️"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 24",
+            "topic": "Presunción de inocencia y medidas cautelares"
+        },
+        {
+            "tag": "tramitacion_medidas_cautelares",
+            "patterns": [
+                "¿Cómo se tramita una medida cautelar según el artículo 25?",
+                "¿Qué es el 'peligro en la demora' para medidas cautelares?",
+                "¿Necesito un abogado para solicitar una medida cautelar?",
+                "¿Qué debe incluir mi solicitud de medida cautelar?",
+                "¿Puedo pedir medidas cautelares contra mi jefe?"
+            ],
+            "responses": [
+                "📘 Si la pide una parte (no autoridad), se tramita incidentalmente (Art. 25.1). Debes probar 'apariencia de buen derecho' y 'peligro en la demora'. ⏳",
+                "🔹 Es el riesgo de que, sin medida urgente, se oculten pruebas o agrave el daño (Art. 25.1). Ej: testigos amenazados. 🚨",
+                "🎯 No es obligatorio, pero es recomendable. El escrito puede presentarlo cualquier persona con interés legítimo (Art. 25). ⚖️",
+                "📘 Razones de la solicitud (Art. 25.2), lo que se busca proteger (ej. documentos) y pruebas de urgencia (ej. emails de amenazas). 📄",
+                "🔹 Sí, si tienes pruebas de que puede alterar evidencias (Art. 25). La Autoridad Substanciadora evaluará su pertinencia. 👨‍⚖️"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 25",
+            "topic": "Tramitación de medidas cautelares"
+        },
+        {
+            "tag": "plazo_resolucion_medidas_cautelares",
+            "patterns": [
+                "¿En cuánto tiempo resuelven una medida cautelar según el artículo 26?",
+                "¿Qué pasa si no resuelven mi solicitud en 5 días?",
+                "¿Pueden negar mi medida cautelar sin justificación?",
+                "¿La resolución de medidas cautelares es apelable?",
+                "¿Cómo me notifican la decisión sobre medidas cautelares?"
+            ],
+            "responses": [
+                "📘 La Autoridad tiene 5 días hábiles para resolver (Art. 26). Ej: si solicitas prohibición de contacto, deberán decidir en ese plazo. ⏱️",
+                "🔹 Si no hay resolución en plazo, se entiende negada (silencio administrativo negativo). Puedes insistir con nuevos argumentos. 🤷‍♂️",
+                "🎯 No, deben fundamentar la negativa (Art. 26). Ej: si no acreditaste 'peligro en la demora', lo explicarán por escrito. 📜",
+                "📘 Sí, con recurso de reclamación (Art. 138) en 3 días hábiles. Pero no suspende la medida ya decretada. ⚖️",
+                "🔹 Por escrito, personalmente o vía electrónica si autorizaste este medio (Art. 27). También se notifica a autoridades involucradas. 📩"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 26",
+            "topic": "Plazo para resolución de medidas cautelares"
+        },
+        {
+            "tag": "notificacion_medidas_cautelares",
+            "patterns": [
+                "¿Cómo se notifican las medidas cautelares según el artículo 27?",
+                "¿Debo firmar la notificación de una medida cautelar?",
+                "¿Qué pasa si no estoy en mi domicilio para la notificación?",
+                "¿Pueden notificarme por correo electrónico?",
+                "¿Quién más recibe copia de la notificación?"
+            ],
+            "responses": [
+                "📘 Se notifican personalmente o por medios electrónicos (Art. 27), detallando la medida y su duración. Ej: suspensión por 15 días. ✉️",
+                "🔹 Sí, pero si te niegas, el notificador levantará acta con testigos (Art. 61). Tu negativa no invalida la medida. 🖊️",
+                "🎯 Dejarán citatorio para el día siguiente (Art. 62.1). Si no atiendes, fijarán el aviso en tu domicilio y harán acta. 🏠",
+                "📘 Sí, si previamente autorizaste este medio (Art. 58.I). La notificación electrónica es válida al día hábil siguiente. 📧",
+                "🔹 Se notifica a autoridades universitarias responsables de ejecutarla (Art. 27). Ej: RRHH si es suspensión. 👥"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 27",
+            "topic": "Notificación de medidas cautelares"
+        },
+        {
+            "tag": "suspension_medidas_cautelares",
+            "patterns": [
+                "¿Puedo pedir que levanten una medida cautelar según el artículo 28?",
+                "¿Qué razones justifican suspender una medida cautelar?",
+                "¿En cuánto tiempo resuelven mi solicitud de levantamiento?",
+                "¿Puedo apelar si niegan mi solicitud de levantamiento?",
+                "¿Qué pasa si la medida cautelar era innecesaria?"
+            ],
+            "responses": [
+                "📘 Sí, en cualquier momento (Art. 28). Debes probar que ya no es necesaria (ej. pruebas aseguradas o daño reparado). 🛠️",
+                "🔹 Que se eliminó el riesgo (ej. documentos ya resguardados) o que la medida es desproporcionada (Art. 28). 📉",
+                "🎯 No hay plazo fijo, pero debe ser razonable. La autoridad puede modificar/revocar la medida de oficio (Art. 22.2). ⏳",
+                "📘 No, el artículo 28 establece que la negativa es inapelable. Pero puedes solicitar revisión si hay nuevos argumentos. ⚖️",
+                "🔹 No hay sanción para la autoridad, pero puedes usarlo en tu defensa (ej. alegar exceso en el procedimiento). 📌"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 28",
+            "topic": "Suspensión de medidas cautelares"
+        },
+        {
+            "tag": "supervision_medidas_cautelares",
+            "patterns": [
+                "¿Quién supervisa el cumplimiento de medidas cautelares según el artículo 29?",
+                "¿Qué pasa si no cumplo una medida cautelar?",
+                "¿Pueden auditar mi área por una medida cautelar?",
+                "¿Cómo reportan el incumplimiento de una medida?",
+                "¿Qué autoridad ejecuta la prohibición de ingreso?"
+            ],
+            "responses": [
+                "📘 La autoridad universitaria designada (Art. 29). Ej: Contraloría para suspensión, Seguridad Universitaria para prohibición de ingreso. 👮‍♂️",
+                "🔹 Es falta grave (Art. 14.VII) y puede agravar tu sanción definitiva. Ej: si contactas a testigos prohibidos. ⚠️",
+                "🎯 Sí, si la medida lo permite (Art. 29). Ej: inspección de documentos en tu oficina. 🕵️‍♀️",
+                "📘 La autoridad ejecutora informa por escrito a quien decretó la medida (Art. 29), quien decidirá acciones. 📝",
+                "🔹 Seguridad Universitaria, con base en la resolución notificada (Art. 27). Debe identificarte sin divulgación pública. 🚧"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 29",
+            "topic": "Supervisión de medidas cautelares"
+        },
+        {
+            "tag": "duracion_medidas_cautelares",
+            "patterns": [
+                "¿Cuánto duran las medidas cautelares según el artículo 30?",
+                "¿Pueden extenderse las medidas cautelares?",
+                "¿Qué significa 'proporcionalidad' en la duración?",
+                "¿La suspensión temporal tiene un máximo de días?",
+                "¿Cómo sabré cuándo termina una medida cautelar?"
+            ],
+            "responses": [
+                "📘 La resolución que las decreta debe señalar su duración (Art. 30), proporcional a la posible sanción. Ej: suspensión ≤30 días si la falta amerita despido. ⏳",
+                "🔹 Sí, si la autoridad lo justifica (Art. 30). Ej: si la investigación se alarga por complejidad. 🔄",
+                "🎯 Que la medida no exceda lo necesario. Ej: prohibición de ingreso no puede durar más que la investigación. ⚖️",
+                "📘 No hay máximo general, pero debe ser razonable (Art. 30). Usualmente ≤60 días en casos complejos. 📅",
+                "🔹 La notificación inicial incluye la duración (Art. 27). También te notificarán el levantamiento. ✉️"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 30",
+            "topic": "Duración de medidas cautelares"
+        },
+        {
+            "tag": "principios_investigacion",
+            "patterns": [
+                "¿Qué principios rigen las investigaciones según el artículo 31?",
+                "¿La Autoridad Investigadora puede ser parcial?",
+                "¿Qué significa 'verdad material' en una investigación?",
+                "¿Deben respetar mis derechos humanos durante la investigación?",
+                "¿Quién garantiza la integridad del expediente de investigación?"
+            ],
+            "responses": [
+                "📘 El artículo 31 establece principios para investigaciones: legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a derechos humanos. ⚖️",
+                "🔹 No, debe ser imparcial (Art. 31.1). Si hay conflicto de interés, puede ser recusada (Art. 119). 🚫",
+                "🎯 Es la obligación de investigar los hechos reales, no solo lo que las partes aleguen (Art. 31.1). La Autoridad debe buscar pruebas por sí misma. 🔍",
+                "📘 Sí, el artículo 31.1 exige respetar tus derechos humanos durante todo el proceso. Ej: derecho a defensa y presunción de inocencia. 🛡️",
+                "🔹 La Autoridad Investigadora (Art. 31.2). Debe resguardar el expediente y garantizar su integridad. 📂"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 31",
+            "topic": "Principios de la investigación"
+        },
+        {
+            "tag": "atribuciones_autoridad_investigadora",
+            "patterns": [
+                "¿Qué puede hacer la Autoridad Investigadora según el artículo 32?",
+                "¿Pueden iniciar una investigación sin denuncia?",
+                "¿Me pueden obligar a entregar documentos privados?",
+                "¿La Autoridad Investigadora puede pedir medidas cautelares?",
+                "¿Qué pasa si no colaboro con la investigación?"
+            ],
+            "responses": [
+                "📘 Según el artículo 32, puede: recibir denuncias (I), investigar de oficio (II), solicitar información (III), calificar faltas (IV) y pedir medidas cautelares (VI). 🕵️‍♂️",
+                "🔹 Sí, puede iniciar de oficio o por auditorías (Art. 32.II). No siempre requiere denuncia previa. 📢",
+                "🎯 Sí, si son relevantes para la investigación (Art. 32.III). Incluso información confidencial (Art. 40), bajo reserva. 🔐",
+                "📘 Sí, puede imponerlas provisionalmente (Art. 32.VI) o solicitarlas en el Informe de Presunta Responsabilidad (VII). ⚠️",
+                "🔹 Es falta no grave (Art. 11.VI) y puede agravar tu situación. La Autoridad puede insistir vía oficios o requerimientos. ⏳"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 32",
+            "topic": "Atribuciones de la Autoridad Investigadora"
+        },
+        {
+            "tag": "inicio_investigacion",
+            "patterns": [
+                "¿Cómo inicia una investigación según el artículo 33?",
+                "¿Puedo denunciar anónimamente?",
+                "¿Qué pasa si mi denuncia es anónima?",
+                "¿Las auditorías pueden derivar en investigaciones?",
+                "¿Pueden investigarme sin avisarme?"
+            ],
+            "responses": [
+                "📘 El artículo 33 permite iniciar investigaciones: por denuncia (anónima o no), de oficio o por hallazgos en auditorías. 🚦",
+                "🔹 Sí, el artículo 33.2 acepta denuncias anónimas o con identidad confidencial. 🎭",
+                "🎯 Se investigará igual, pero no podrás ser notificado de resultados ni participar como parte. 📜",
+                "📘 Sí, si la auditoría revela posibles faltas (Art. 33.1). Ej: irregularidades en comprobación de gastos. 📊",
+                "🔹 Sí, en etapa inicial. Pero al abrirse procedimiento formal, se te notificará (Art. 49). 📩"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 33",
+            "topic": "Inicio de la investigación"
+        },
+        {
+            "tag": "presentacion_denuncias",
+            "patterns": [
+                "¿Qué debe contener una denuncia según el artículo 34?",
+                "¿Dónde presento una denuncia por mal uso de recursos?",
+                "¿Puedo denunciar por correo electrónico?",
+                "¿Necesito pruebas para denunciar?",
+                "¿Qué pasa si mi denuncia está incompleta?"
+            ],
+            "responses": [
+                "📘 El artículo 34 exige: datos del denunciante (si no es anónima), narración detallada de hechos, nombres de involucrados y pruebas disponibles (si las hay). 📄",
+                "🔹 En la Autoridad Investigadora (Unidad de Investigación de la Contraloría), física o electrónicamente (Art. 34.2). 🏢",
+                "🎯 Sí, la Universidad habilitará sistemas electrónicos (Art. 34.2). Debes ratificarla después. 💻",
+                "📘 No, pero ayuda a que avance la investigación (Art. 34.3.VI). La Autoridad puede recabar pruebas por su cuenta. 🔎",
+                "🔹 Te pedirán aclararla en 5 días hábiles (Art. 35). Si no lo haces, se archivará. ⏳"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 34",
+            "topic": "Presentación de denuncias"
+        },
+        {
+            "tag": "requerimiento_aclaracion_denuncia",
+            "patterns": [
+                "¿Pueden pedirme que aclare mi denuncia según el artículo 35?",
+                "¿Cuánto tiempo tengo para aclarar una denuncia?",
+                "¿Qué pasa si no aclaro mi denuncia a tiempo?",
+                "¿Puedo agregar más pruebas después de aclarar?",
+                "¿La Autoridad puede rechazar mi denuncia?"
+            ],
+            "responses": [
+                "📘 Sí, si es confusa o falta información esencial (Art. 35). La Autoridad te dará 5 días hábiles para complementarla. 📝",
+                "🔹 5 días hábiles desde que te notifiquen (Art. 35). Pasado ese plazo, se archiva. ⏳",
+                "🎯 Se tendrá por no interpuesta (Art. 35). Pero puedes presentar una nueva con los elementos faltantes. 🔄",
+                "📘 Sí, durante la investigación (Art. 40). Pero es mejor incluirlas desde el inicio. 🧾",
+                "🔹 Sí, si tras aclaración no hay elementos suficientes (Art. 35). Debe notificarte. 🚫"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 35",
+            "topic": "Requerimiento de aclaración de denuncia"
+        },
+        {
+            "tag": "ratificacion_denuncia",
+            "patterns": [
+                "¿Cuándo debo ratificar mi denuncia según el artículo 36?",
+                "¿Qué pasa si no ratifico mi denuncia electrónica?",
+                "¿Cómo ratifico una denuncia sin firma?",
+                "¿Puedo retractarme de mi denuncia después de ratificarla?",
+                "¿La ratificación es obligatoria para denuncias presenciales?"
+            ],
+            "responses": [
+                "📘 Si la presentaste electrónicamente o sin firma/huella, tienes 5 días hábiles para ratificarla (Art. 36). ✍️",
+                "🔹 Se tendrá por no presentada (Art. 36). Pero puedes volver a denunciar. 🔄",
+                "🎯 Compareciendo personalmente ante la Autoridad o enviando firma autógrafa/huella digital (Art. 36). 🖋️",
+                "📘 No está regulado, pero puedes solicitar desistimiento. Sin embargo, la Autoridad puede continuar de oficio si hay indicios. ⚖️",
+                "🔹 No, solo si faltó firma/huella inicial (Art. 36.II). Las presenciales con firma no requieren ratificación. ✅"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 36",
+            "topic": "Ratificación de la denuncia"
+        },
+        {
+            "tag": "servicios_traductores",
+            "patterns": [
+                "¿La Universidad proporciona intérpretes según el artículo 37?",
+                "¿Qué idiomas cubren los traductores?",
+                "¿Cómo solicito un intérprete para mi denuncia?",
+                "¿Hay costo por el servicio de traducción?",
+                "¿Puedo llevar mi propio traductor?"
+            ],
+            "responses": [
+                "📘 Sí, el artículo 37 obliga a la Autoridad Investigadora a facilitar intérpretes/traductores gratuitos si el denunciante lo necesita. 🗣️",
+                "🔹 Cualquier idioma o lengua indígena. También para personas con discapacidad auditiva (lengua de señas). 🌐",
+                "🎯 Al presentar la denuncia, indica tu necesidad. La Autoridad gestionará el servicio (Art. 37). 📢",
+                "📘 No, es gratuito (Art. 37). La Universidad lo cubre. 💰",
+                "🔹 Sí, pero el intérprete oficial de la Universidad debe validar la traducción. 📝"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 37",
+            "topic": "Intérprete o traductor gratuito"
+        },
+        {
+            "tag": "investigacion_oficio",
+            "patterns": [
+                "¿Qué es una investigación de oficio según el artículo 38?",
+                "¿Qué motiva una investigación de oficio?",
+                "¿Pueden investigarme sin que nadie me denuncie?",
+                "¿Cómo me entero de una investigación de oficio?",
+                "¿Las auditorías rutinarias pueden derivar en sanciones?"
+            ],
+            "responses": [
+                "📘 Es una investigación iniciada por la Autoridad sin denuncia previa (Art. 38), basada en hallazgos o indicios. Ej: irregularidades en auditorías. 🔍",
+                "🔹 Hallazgos en auditorías, quejas informales o indicios de faltas (Art. 38). Debe estar fundada y motivada. 📌",
+                "🎯 Sí, si la Autoridad detecta posibles irregularidades (Art. 38). Pero se te notificará al abrirse el procedimiento. 📩",
+                "📘 Cuando se te notifique el inicio del procedimiento (Art. 49) o se te requiera información (Art. 41). ✉️",
+                "🔹 Sí, si descubren faltas graves (Art. 38). Ej: uso personal de recursos en comprobación de viáticos. ⚠️"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 38",
+            "topic": "Investigación de oficio"
+        },
+        {
+            "tag": "identificacion_faltas_delitos",
+            "patterns": [
+                "¿Qué hace la Autoridad si encuentra un delito según el artículo 39?",
+                "¿Pueden denunciarme penalmente por una falta universitaria?",
+                "¿Qué pasa si mi caso es remitido a la Abogacía General?",
+                "¿Puedo ser sancionado en la Universidad y también penalmente?",
+                "¿Cómo sé si mi caso se derivó al Ministerio Público?"
+            ],
+            "responses": [
+                "📘 Deriva el caso a la Oficina de la Abogacía General para acciones legales (Art. 39.1). Ej: desvío de fondos → denuncia penal. ⚖️",
+                "🔹 Sí, si la falta también es delito (Art. 39.1). La Universidad está obligada a reportarlo. 🚨",
+                "🎯 Evaluarán si hay elementos para denuncia penal. Se te notificará cualquier acción en tu contra. 📜",
+                "📘 Sí, son procedimientos independientes (Art. 15.3). Ej: despido por corrupción + juicio penal. ⏳",
+                "🔹 La Autoridad debe notificarte (Art. 39). También puedes ser citado por el MP. 📩"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 39",
+            "topic": "Identificación de faltas y delitos"
+        },
+        {
+            "tag": "acceso_informacion_reservada",
+            "patterns": [
+                "¿Pueden acceder a mi información confidencial según el artículo 40?",
+                "¿Qué información puede solicitar la Autoridad Investigadora?",
+                "¿Cómo protegen mis datos personales durante la investigación?",
+                "¿Puedo negarme a entregar información bancaria?",
+                "¿Qué pasa si la Autoridad filtra información reservada?"
+            ],
+            "responses": [
+                "📘 Sí, si es relevante para la investigación (Art. 40.1), incluso información reservada (ej. estados de cuenta). Bajo confidencialidad. 🔐",
+                "🔹 Cualquier documento, dato o testimonio vinculado a la presunta falta (Art. 40.1). Ej: correos, contratos, nóminas. 📧",
+                "🎯 El artículo 40.2 exige a la Autoridad resguardar y mantener secrecía. Filtraciones son falta grave (Art. 14.XIV). 🤐",
+                "📘 No, si la solicitud es fundada (Art. 41). Negarte es falta no grave (Art. 11.VI). ⚠️",
+                "🔹 Es responsabilidad de la Autoridad (Art. 40.2). Puedes denunciarlo y pedir medidas contra los responsables. 🚨"
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 40",
+            "topic": "Acceso a información reservada"
+        },
+        {
+            "tag": "solicitud_informacion_investigacion",
+            "patterns": [
+                "¿Puede la Autoridad Investigadora pedirme documentos según el artículo 41?",
+                "¿Cuánto tiempo tengo para responder un requerimiento de información?",
+                "¿Qué pasa si no entrego la información solicitada?",
+                "¿Puedo pedir más tiempo para cumplir un requerimiento?",
+                "¿Deben decirme para qué quieren la información?"
+            ],
+            "responses": [
+                "📘 **Sí**, la Autoridad Investigadora puede requerirte información/documentos vinculados a la investigación (Art. 41.1). Debes entregarlos en un plazo de **5 a 15 días hábiles** (ampliable a 7 días más con justificación).",
+                "🔹 **Plazo base**: 5-15 días hábiles (Art. 41.4). Si pides ampliación, no puede exceder la mitad del plazo original (ej. de 10 días → máximo 5 adicionales).",
+                "🎯 **Negarte es falta no grave** (Art. 11.VI). La Autoridad puede insistir o usarlo en tu contra en la resolución final.",
+                "📘 **Sí**, puedes solicitar ampliación por escrito, justificando el motivo (Art. 41.4). Ej: documentos en trámite externo.",
+                "🔹 **Sí**, el requerimiento debe estar **fundado y motivado** (Art. 41.1), explicando su relevancia para la investigación."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 41",
+            "topic": "Solicitud de información en la investigación"
+        },
+        {
+            "tag": "conclusion_investigacion",
+            "patterns": [
+                "¿Cómo termina una investigación según el artículo 42?",
+                "¿Qué hace la Autoridad con la información recabada?",
+                "¿Pueden archivarla si no encuentran pruebas?",
+                "¿Me notifican si cierran la investigación?",
+                "¿Qué pasa si hay pruebas en mi contra?"
+            ],
+            "responses": [
+                "📘 **3 pasos**: 1) Recopilación de pruebas, 2) Análisis de la información, 3) Decisión si hay elementos para proceder o archivar (Art. 42).",
+                "🔹 **Evalúa si hay indicios de falta**: Si los hay, elabora el **Informe de Presunta Responsabilidad** (Art. 43). Si no, archiva (Art. 44).",
+                "🎯 **Sí**, si no hay elementos suficientes (Art. 44). Se te notificará en **10 días hábiles** (Art. 44.2).",
+                "📘 **Sí**, si fuiste sujeto de investigación (Art. 44.2). El denunciante también puede ser notificado si es posible.",
+                "🔹 **Se inicia procedimiento sancionador**: El Informe de Presunta Responsabilidad se envía a la Autoridad Substanciadora (Art. 43)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 42",
+            "topic": "Conclusión de la investigación"
+        },
+        {
+            "tag": "calificacion_faltas",
+            "patterns": [
+                "¿Cómo se califican las faltas según el artículo 43?",
+                "¿Qué es el Informe de Presunta Responsabilidad?",
+                "¿Puedo ver el informe antes de que lo envíen?",
+                "¿Qué pasa si no estoy de acuerdo con la calificación?",
+                "¿Quién admite o rechaza el informe?"
+            ],
+            "responses": [
+                "📘 **La Autoridad Investigadora determina** si es falta **no grave** (Art. 11) o **grave** (Art. 14), y lo incluye en el Informe de Presunta Responsabilidad (Art. 43.1-2).",
+                "🔹 **Documento clave**: Describe hechos, pruebas, fundamentos y la calificación de la falta. Se envía a la Autoridad Substanciadora para iniciar el procedimiento (Art. 43.2).",
+                "🎯 **No**, pero una vez admitido el informe, tienes acceso al expediente en la etapa de substanciación (Art. 126-127).",
+                "📘 **Puedes impugnar** durante el procedimiento, ofreciendo pruebas y alegatos (Art. 126.VI). También con recurso de inconformidad (Art. 134).",
+                "🔹 **La Autoridad Substanciadora** (Art. 43.3). Tiene **3 días hábiles** para admitirlo o pedir correcciones."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 43",
+            "topic": "Calificación de las faltas"
+        },
+        {
+            "tag": "archivo_asunto",
+            "patterns": [
+                "¿Cuándo archivan una investigación según el artículo 44?",
+                "¿Pueden reabrirla después de archivarla?",
+                "¿Me notifican si la archivan?",
+                "¿Qué significa 'facultad para sancionar prescrita'?",
+                "¿El archivo borra mi expediente?"
+            ],
+            "responses": [
+                "📘 **Cuando no hay elementos** para probar la falta (Art. 44.1). Ej: pruebas insuficientes o contradicciones graves.",
+                "🔹 **Sí**, si aparecen **nuevas pruebas** y no ha prescrito la facultad sancionadora (Art. 44.1). Plazos: **3 años** (no graves) o **7 años** (graves) (Art. 115).",
+                "🎯 **Sí**, en **10 días hábiles** (Art. 44.2). Si eres el denunciante y no eras anónimo, también te notificarán.",
+                "📘 **Que el plazo para sancionar ya venció** (Art. 115). No pueden sancionarte, aunque se reabra.",
+                "🔹 **No**, se conserva pero se marca como archivado. Puede usarse en futuras investigaciones si hay reincidencia."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 44",
+            "topic": "Archivo del asunto"
+        },
+        {
+            "tag": "elementos_informe_presunta_responsabilidad",
+            "patterns": [
+                "¿Qué debe contener el Informe de Presunta Responsabilidad según el artículo 45?",
+                "¿Quién firma el informe?",
+                "¿Puedo saber qué pruebas incluyeron?",
+                "¿El informe puede pedir medidas cautelares?",
+                "¿Qué pasa si el informe está mal elaborado?"
+            ],
+            "responses": [
+                "📘 **9 elementos**: Datos de la Autoridad, nombre del implicado, narración de hechos, falta atribuida, pruebas, solicitud de medidas cautelares (si aplica) y firma (Art. 45).",
+                "🔹 **La Autoridad Investigadora** (Art. 45.IX). Ej: titular de la Unidad de Investigación de la Contraloría.",
+                "🎯 **Sí**, en la etapa de substanciación (Art. 126). El informe debe listar pruebas ofrecidas por el denunciante y recabadas en la investigación (Art. 45.VI-VII).",
+                "📘 **Sí**, si hay riesgo de daño irreparable (Art. 45.VIII). Ej: suspensión temporal para evitar alteración de pruebas.",
+                "🔹 **Se previene para corregir en 3 días hábiles** (Art. 46). Si no se subsana, se tiene por no presentado (pero puede reintentarse)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 45",
+            "topic": "Elementos del Informe de Presunta Responsabilidad"
+        },
+        {
+            "tag": "prevencion_informe",
+            "patterns": [
+                "¿Qué es una prevención al Informe según el artículo 46?",
+                "¿Cuánto tiempo tienen para corregir el informe?",
+                "¿Pueden rechazarlo definitivamente?",
+                "¿Qué pasa si reintentan el informe después de rechazado?",
+                "¿Me notifican de las prevenciones?"
+            ],
+            "responses": [
+                "📘 **Aviso de corrección**: Si el informe tiene errores u omisiones, la Autoridad Substanciadora da **3 días hábiles** para subsanarlo (Art. 46.1).",
+                "🔹 **3 días hábiles** (Art. 46.1). Si no se corrige, se archiva el informe (pero no el caso).",
+                "🎯 **Sí**, si no se corrige en plazo (Art. 46.2). Pero la investigación sigue abierta y puede presentarse un nuevo informe.",
+                "📘 **Sí**, si la facultad sancionadora no ha prescrito (Art. 46.2). Ej: presentar nueva versión con pruebas adicionales.",
+                "🔹 **No directamente**, pero al ser parte del expediente, puedes acceder a ello en la etapa de substanciación."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 46",
+            "topic": "Prevención respecto del Informe de Presunta Responsabilidad"
+        },
+        {
+            "tag": "notificacion_calificacion",
+            "patterns": [
+                "¿Me notifican si califican mi falta como no grave según el artículo 47?",
+                "¿Qué información incluye la notificación?",
+                "¿Puedo impugnar la calificación?",
+                "¿El denunciante también es notificado?",
+                "¿En qué plazo me notifican?"
+            ],
+            "responses": [
+                "📘 **Sí**, en **3 días hábiles** tras la calificación (Art. 47). Incluye el tipo de falta y cómo acceder al expediente.",
+                "🔹 **La calificación (no grave/grave)**, fundamentos y acceso al expediente (Art. 47).",
+                "🎯 **Sí**, con recurso de inconformidad en **5 días hábiles** (Art. 134). Se suspende el procedimiento hasta resolver.",
+                "📘 **Solo si es posible ubicarlo** (Art. 47). Denunciantes anónimos no son notificados.",
+                "🔹 **3 días hábiles** tras la calificación (Art. 47). Si no lo hacen, puedes reclamar ante la Contraloría."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 47",
+            "topic": "Notificación de la calificación a la persona denunciante"
+        },
+        {
+            "tag": "abstencion_procedimiento",
+            "patterns": [
+                "¿Cuándo pueden abstenerse de sancionarme según el artículo 48?",
+                "¿Qué es un 'error manifiesto' para abstenciones?",
+                "¿Puedo alegar que mi falta fue corregida?",
+                "¿Me notifican si se abstienen?",
+                "¿El denunciante puede impugnar la abstención?"
+            ],
+            "responses": [
+                "📘 **2 supuestos**: 1) Tu conducta fue un **error opinable** (Art. 48.I), o 2) **Reparaste el daño espontáneamente** (Art. 48.II).",
+                "🔹 **Equivocación evidente sin intención**. Ej: error de cálculo en un informe que luego corregiste.",
+                "🎯 **Sí**, si el daño fue resarcido y desaparecieron sus efectos (Art. 48.II). Adjunta pruebas de la corrección.",
+                "📘 **Sí**, en **3 días hábiles** (Art. 48.2). También al denunciante, si lo ubican.",
+                "🔹 **Sí**, con recurso de inconformidad en **5 días hábiles** (Art. 134)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 48",
+            "topic": "Abstención de iniciar el procedimiento o imposición de sanción"
+        },
+        {
+            "tag": "inicio_procedimiento_responsabilidad",
+            "patterns": [
+                "¿Cuándo inicia formalmente el procedimiento según el artículo 49?",
+                "¿Qué pasa después de que admiten el informe?",
+                "¿Me notifican el inicio?",
+                "¿Puedo defenderme desde el primer día?",
+                "¿Qué autoridad inicia el procedimiento?"
+            ],
+            "responses": [
+                "📘 **Tras admitir el Informe de Presunta Responsabilidad** (Art. 49). La Autoridad Substanciadora notificará al implicado para emplazarlo a audiencia.",
+                "🔹 **Etapa de substanciación**: Notificación, audiencia inicial, ofrecimiento de pruebas, alegatos y resolución (Art. 126-127).",
+                "🎯 **Sí**, con el **emplazamiento a audiencia inicial** (Art. 126.I). Incluye actos imputados y derechos.",
+                "📘 **Sí**, en la audiencia inicial puedes presentar declaración y pruebas (Art. 126.IV). También nombrar abogado.",
+                "🔹 **La Autoridad Substanciadora**: Contraloría (faltas no graves) o Comisión de Responsabilidades del Consejo competente (graves) (Art. 18-19)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 49",
+            "topic": "Inicio del procedimiento de responsabilidad"
+        },
+        {
+            "tag": "existencia_otras_faltas",
+            "patterns": [
+                "¿Qué pasa si descubren más faltas durante el procedimiento según el artículo 50?",
+                "¿Pueden acusarme de algo no mencionado en el informe inicial?",
+                "¿Cómo se tramitan las faltas supervenientes?",
+                "¿Pueden acumularme varios procedimientos?",
+                "¿Tengo derecho a defenderme de las nuevas faltas?"
+            ],
+            "responses": [
+                "📘 **Se investigan por separado** (Art. 50), pero pueden acumularse al procedimiento actual si están vinculadas (Art. 113).",
+                "🔹 **Sí**, pero deben notificarte y dar oportunidad de defenderte (Art. 50). No puede ser sorpresiva.",
+                "🎯 **Igual que el principal**: Investigación, informe, calificación y substanciación independiente (Art. 50).",
+                "📘 **Sí**, si las faltas están relacionadas (Art. 113). Ej: desvío de recursos y contratación irregular de un mismo proveedor.",
+                "🔹 **Sí**, con los mismos derechos: acceso a pruebas, audiencia y ofrecimiento de pruebas (Art. 126-127)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 50",
+            "topic": "Existencia de otras faltas durante el procedimiento"
+        },
+        {
+            "tag": "dias_horarios_habilies",
+            "patterns": [
+                "¿Qué días y horarios se consideran hábiles según el artículo 51?",
+                "¿Pueden habilitar días inhábiles para trámites?",
+                "¿Los sábados son días hábiles en este reglamento?",
+                "¿Qué pasa si una diligencia cae en día festivo?",
+                "¿Pueden citarme a una audiencia fuera del horario hábil?"
+            ],
+            "responses": [
+                "📘 **Días hábiles**: Lunes a viernes no festivos (Art. 51.1). **Horario hábil**: 7:00 a 20:00 hrs (Art. 51.1).",
+                "🔹 **Sí**, las autoridades pueden habilitar días/horas inhábiles si el caso lo requiere (Art. 51.2). Ej: audiencia urgente un sábado.",
+                "🎯 **No**, salvo habilitación expresa (Art. 51.2). Los plazos que terminen en sábado se corren al lunes siguiente.",
+                "📘 **Se corre al siguiente día hábil** (Art. 51.1). Las actuaciones en festivos son nulas, salvo habilitación.",
+                "🔹 **Sí**, con habilitación previa (Art. 51.2). Deben notificarte el cambio con anticipación."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 51",
+            "topic": "Días y horarios hábiles"
+        },
+        {
+            "tag": "principios_procedimiento",
+            "patterns": [
+                "¿Qué principios rigen el procedimiento según el artículo 52?",
+                "¿Tengo derecho a la presunción de inocencia?",
+                "¿Qué significa 'verdad material' en el procedimiento?",
+                "¿Las autoridades deben ser imparciales?",
+                "¿Pueden negarme acceso a las pruebas?"
+            ],
+            "responses": [
+                "📘 **7 principios**: Legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, verdad material y respeto a DDHH (Art. 52).",
+                "🔹 **Sí**, hasta que se demuestre tu responsabilidad (Art. 52). Tu silencio no es admisión de culpabilidad (Art. 69).",
+                "🎯 **Que la autoridad debe buscar los hechos reales**, no limitarse a lo que las partes aleguen (Art. 52).",
+                "📘 **Sí**, deben actuar sin favorecer a ninguna parte (Art. 52). Si hay parcialidad, puedes recusarlas (Art. 119).",
+                "🔹 **No**, tienes derecho a conocer y controvertir todas las pruebas (Art. 52 y 64)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 52",
+            "topic": "Principios del procedimiento"
+        },
+        {
+            "tag": "partes_procedimiento",
+            "patterns": [
+                "¿Quiénes son partes en el procedimiento según el artículo 53?",
+                "¿El denunciante puede participar activamente?",
+                "¿Puedo ser parte si el procedimiento me afecta indirectamente?",
+                "¿Qué derechos tengo como parte?",
+                "¿Puedo nombrar un representante legal?"
+            ],
+            "responses": [
+                "📘 **3 partes**: 1) Autoridad Investigadora, 2) Persona señalada como responsable, y 3) Terceros afectados (incluido el denunciante) (Art. 53).",
+                "🔹 **Sí**, puede ofrecer pruebas, participar en audiencias e impugnar resoluciones (Art. 53.III).",
+                "🎯 **Sí**, si la resolución puede perjudicarte (Art. 53.III). Ej: testigo cuya declaración está en disputa.",
+                "📘 **Derechos clave**: Acceso a pruebas, ofrecer evidencias, defensa técnica (abogado) y ser notificado (Art. 126-127).",
+                "🔹 **Sí**, mediante autorización por escrito (Art. 54). Debe ser abogado o licenciado en derecho (Art. 56)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 53",
+            "topic": "Partes en el procedimiento"
+        },
+        {
+            "tag": "representantes_autorizados",
+            "patterns": [
+                "¿Puedo nombrar un representante según el artículo 54?",
+                "¿Qué poderes debe tener mi representante?",
+                "¿Puede ser cualquier persona?",
+                "¿Cómo se formaliza la autorización?",
+                "¿Puedo cambiar de representante?"
+            ],
+            "responses": [
+                "📘 **Sí**, puedes autorizar a una o más personas (abogados preferentemente) para tu defensa (Art. 54.1).",
+                "🔹 **Debes especificar sus facultades**: Desde solo recibir notificaciones hasta presentar pruebas y alegatos (Art. 54.1).",
+                "🎯 **No**, si ejerce defensa activa debe ser abogado o licenciado en derecho (Art. 56.1). Para notificaciones, cualquier mayor de edad.",
+                "📘 **Por escrito**, señalando alcance de facultades (Art. 55.1). La Autoridad Substanciadora debe aprobarlo.",
+                "🔹 **Sí**, con nuevo escrito de autorización. El anterior puede renunciar (Art. 57.2)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 54",
+            "topic": "Representantes autorizados"
+        },
+        {
+            "tag": "requisitos_representantes",
+            "patterns": [
+                "¿Qué requisitos debe cumplir mi representante según el artículo 56?",
+                "¿Debe mostrar su cédula profesional?",
+                "¿Qué pasa si mi representante no es abogado?",
+                "¿Puede un pasante representarme?",
+                "¿Mi familiar puede ser mi representante?"
+            ],
+            "responses": [
+                "📘 **Para defensa activa**: Cédula profesional o carta de pasante vigente en derecho (Art. 56.1). Para notificaciones, solo identificación.",
+                "🔹 **Sí**, debe exhibirla en cada diligencia (Art. 56.1). Si no lo hace, pierde facultades de defensa (solo notificaciones).",
+                "🎯 **Solo podrá recibir notificaciones** (Art. 56.2). No podrá ofrecer pruebas o alegatos en tu nombre.",
+                "📘 **Sí**, si tiene carta de pasante vigente (Art. 56.1). Debe acreditarlo ante la autoridad.",
+                "🔹 **Sí**, pero si ejerce defensa activa debe ser abogado (Art. 56). Para notificaciones, no hay restricción."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 56",
+            "topic": "Requisitos de los representantes"
+        },
+        {
+            "tag": "notificaciones_electronicas",
+            "patterns": [
+                "¿Puedo recibir notificaciones por correo según el artículo 58?",
+                "¿Cómo autorizo notificaciones electrónicas?",
+                "¿Qué pasa si cambio de correo electrónico?",
+                "¿Son válidas las notificaciones por WhatsApp?",
+                "¿Cuándo se consideran recibidas?"
+            ],
+            "responses": [
+                "📘 **Sí**, si lo solicitas por escrito y proporcionas un correo electrónico válido (Art. 58.I).",
+                "🔹 **Mediante escrito formal** ante la Autoridad Substanciadora, indicando el correo autorizado (Art. 58.I-II).",
+                "🎯 **Debes notificar el cambio por escrito** (Art. 58.II). Hasta entonces, se enviarán al correo registrado.",
+                "📘 **No**, solo por correo electrónico oficial de la autoridad (Art. 58.IV). WhatsApp no está contemplado.",
+                "🔹 **Al día hábil siguiente** de enviadas (Art. 59). Ej: si se envía el lunes, se entiende recibida el martes."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 58",
+            "topic": "Notificaciones electrónicas"
+        },
+        {
+            "tag": "efectos_notificaciones",
+            "patterns": [
+                "¿Cuándo surten efectos las notificaciones según el artículo 59?",
+                "¿Cuento los plazos desde el envío o recepción?",
+                "¿Qué pasa si no reviso mi correo electrónico?",
+                "¿Puedo alegar que no recibí una notificación electrónica?",
+                "¿Las notificaciones personales son más rápidas?"
+            ],
+            "responses": [
+                "📘 **Al día hábil siguiente** de su envío (electrónicas) o realización (personales) (Art. 59-60).",
+                "🔹 **Desde el día hábil siguiente** a la notificación (Art. 59). Ej: notificación el lunes → plazo empieza el martes.",
+                "🎯 **No es excusa**, se consideran recibidas al día siguiente (Art. 59). Configura alertas en tu correo.",
+                "📘 **Solo si demuestras fallas técnicas** (ej. servidor caído). La carga de prueba es tuya (Art. 58).",
+                "🔹 **No**, ambas surten efectos al día siguiente (Art. 59-60). Pero las personales tienen mayor formalidad."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 59",
+            "topic": "Efectos de las notificaciones"
+        },
+        {
+            "tag": "notificaciones_personales",
+            "patterns": [
+                "¿Cómo se hacen las notificaciones personales según el artículo 60?",
+                "¿Debo firmar el acuse de recibo?",
+                "¿Qué pasa si no quiero recibir la notificación?",
+                "¿Pueden notificarme en mi trabajo?",
+                "¿Necesitan testigos si no estoy en mi domicilio?"
+            ],
+            "responses": [
+                "📘 **Entrega física del documento**, verificando tu identidad. Debes firmar el acuse de recibo con fecha (Art. 60).",
+                "🔹 **Sí**, pero si te niegas, el notificador levantará acta con testigos (Art. 61). Tu negativa no invalida la notificación.",
+                "🎯 **Se levantará acta con testigos** (Art. 61). Se considerará válida y los plazos comenzarán igual.",
+                "📘 **Sí**, si es tu domicilio registrado. Puede ser en tu área de trabajo, no necesariamente ante tu jefe.",
+                "🔹 **Sí**, si no estás en el primer intento, dejarán citatorio. Si tampoco en el segundo, fijarán aviso y harán acta con 2 testigos (Art. 62)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 60",
+            "topic": "Notificaciones personales"
+        },
+        {
+            "tag": "reglas_notificaciones_personales",
+            "patterns": [
+                "¿Qué reglas aplican a notificaciones personales según el artículo 61?",
+                "¿Cómo verifican mi identidad?",
+                "¿Qué incluye el acta si me niego a firmar?",
+                "¿Pueden tomar fotos como prueba?",
+                "¿Qué pasa si el notificador no sigue estas reglas?"
+            ],
+            "responses": [
+                "📘 **3 reglas clave**: 1) Verificar identidad, 2) Firmar acuse de recibo, 3) Si te niegas, levantar acta con testigos (Art. 61).",
+                "🔹 **Con INE o credencial universitaria** (Art. 61). Si no tienes, pueden usar testigos que te conozcan.",
+                "🎯 **Circunstancias de modo, tiempo y lugar** (Art. 61). Ej: *El notificador X acudió a las 10:00 hrs al domicilio Y, pero el destinatario se negó a firmar*.",
+                "📘 **Sí**, pueden adjuntar fotografías al acta como prueba de la diligencia (Art. 61).",
+                "🔹 **Puedes impugnar la notificación** (Art. 112). Si se declara inválida, se repetirá la diligencia."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 61",
+            "topic": "Reglas para notificaciones personales"
+        },
+        {
+            "tag": "citatorio_notificacion",
+            "patterns": [
+                "¿Qué es un citatorio para notificar según el artículo 62?",
+                "¿Cuántos intentos hacen antes de fijar el aviso?",
+                "¿Pueden notificar a mi familia?",
+                "¿El aviso en mi puerta cuenta como notificación válida?",
+                "¿Qué debe decir el acta de notificación?"
+            ],
+            "responses": [
+                "📘 **Documento que dejan en tu domicilio** cuando no estás. Indica día/hora para un segundo intento (usualmente al día siguiente) (Art. 62.1).",
+                "🔹 **2 intentos**: 1) Visita inicial, 2) Citatorio. Si no atiendes el citatorio, fijan aviso y levantan acta (Art. 62.2).",
+                "🎯 **Sí**, si están en tu domicilio y aceptan recibirla (Art. 62.2). Deben declarar su relación contigo.",
+                "📘 **Sí**, si se acompañó de acta con testigos (Art. 62.2). Es válida aunque no lo veas personalmente.",
+                "🔹 **Lugar, fecha, hora, nombre del notificador/testigos**, y descripción de lo ocurrido (Art. 61-62)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 62",
+            "topic": "Citatorio para notificación"
+        },
+        {
+            "tag": "licitud_probatoria",
+            "patterns": [
+                "¿Qué pruebas son válidas según el artículo 63?",
+                "¿Pueden usar pruebas obtenidas ilegalmente?",
+                "¿Hay algún tipo de prueba prohibida?",
+                "¿Puedo negarme a declarar en mi contra?",
+                "¿Qué significa 'licitud probatoria'?"
+            ],
+            "responses": [
+                "📘 **Todas las pruebas obtenidas lícitamente** (Art. 63.1). Ej: documentos, testimonios, peritajes, inspecciones. Excluye confesiones bajo presión (Art. 63.2).",
+                "🔹 **No**, las pruebas obtenidas violando derechos humanos o leyes son nulas (Art. 63.1). Ej: allanamiento sin orden.",
+                "🎯 **Sí**: Confesiones por coacción (Art. 63.2) y pruebas ilegales (Art. 63.1). Tampoco valen pruebas irrelevantes.",
+                "📘 **Sí**, tienes derecho a no autoincriminarte (Art. 69.2). Tu silencio no se usará en tu contra.",
+                "🔹 **Que las pruebas deben obtenerse sin violar leyes**. La Autoridad debe garantizar métodos éticos (Art. 63)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 63",
+            "topic": "Licitud de las pruebas"
+        },
+        {
+            "tag": "derecho_ofrecer_pruebas",
+            "patterns": [
+                "¿Puedo presentar pruebas en mi defensa según el artículo 64?",
+                "¿Qué pruebas puedo ofrecer?",
+                "¿El denunciante también presenta pruebas?",
+                "¿Hay un límite de pruebas?",
+                "¿Puedo presentar pruebas después del plazo?"
+            ],
+            "responses": [
+                "📘 **Sí**, en la audiencia inicial o cuando se te permita (Art. 64.1). Es un derecho fundamental.",
+                "🔹 **Documentos, testigos, peritos, inspecciones**, etc. (Art. 71). Incluso pruebas digitales (Art. 71.VI).",
+                "🎯 **Sí**, en su denuncia o durante el procedimiento (Art. 64.2). Ambas partes tienen igualdad de oportunidades.",
+                "📘 **No**, pero la Autoridad puede limitar testigos redundantes (Art. 81.2). Deben ser relevantes.",
+                "🔹 **Solo pruebas supervenientes** (Art. 67): las que no existían antes o no podías conocer. Debes justificarlo bajo protesta."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 64",
+            "topic": "Derecho a ofrecer pruebas"
+        },
+        {
+            "tag": "principio_inmediacion",
+            "patterns": [
+                "¿Qué es el principio de inmediación según el artículo 65?",
+                "¿Puede un asistente recibir las pruebas por la Autoridad?",
+                "¿Por qué es importante este principio?",
+                "¿Cómo se aplica en las declaraciones?",
+                "¿Qué pasa si no se cumple?"
+            ],
+            "responses": [
+                "📘 **Que la Autoridad Resolutora debe presenciar directamente** las pruebas (declaraciones, peritajes, etc.) para valorarlas mejor (Art. 65).",
+                "🔹 **No**, el titular debe estar presente (Art. 65). Delegarlo invalida la prueba.",
+                "🎯 **Para evitar tergiversaciones**. Ej: el juez ve al testigo titubear, lo que no se capta en un escrito.",
+                "📘 **Declarando en audiencia ante la Autoridad** (Art. 65). No vale solo enviar un escrito.",
+                "🔹 **Puedes impugnar la prueba** (Art. 79). Si se acepta, se repetirá la diligencia."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 65",
+            "topic": "Principio de inmediación"
+        },
+        {
+            "tag": "plazos_ofrecer_pruebas",
+            "patterns": [
+                "¿Cuándo debo presentar mis pruebas según el artículo 66?",
+                "¿Pueden rechazar mis pruebas por llegar tarde?",
+                "¿Qué pasa si ofrezco pruebas en la audiencia inicial?",
+                "¿Hay excepciones para pruebas fuera de plazo?",
+                "¿Cómo sé qué plazos aplican?"
+            ],
+            "responses": [
+                "📘 **En la audiencia inicial** (Art. 126.IV) o cuando la Autoridad lo permita. Fuera de plazo, se desechan (Art. 66.2).",
+                "🔹 **Sí**, salvo que sean supervenientes (Art. 67). Ej: un documento que recién obtuviste.",
+                "🎯 **Es el momento ideal** (Art. 126.IV). Exhibe originales o acredita que las solicitaste.",
+                "📘 **Sí**, las pruebas supervenientes (Art. 67). Debes explicar por qué no se ofrecieron antes.",
+                "🔹 **Te los notificarán**. Para faltas no graves: 10-15 días entre emplazamiento y audiencia (Art. 126.III)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 66",
+            "topic": "Plazos para ofrecer pruebas"
+        },
+        {
+            "tag": "pruebas_supervenientes",
+            "patterns": [
+                "¿Qué son pruebas supervenientes según el artículo 67?",
+                "¿Cómo justifico que una prueba es superveniente?",
+                "¿Puedo presentar un testigo que antes no conocía?",
+                "¿Qué hace la Autoridad con estas pruebas?",
+                "¿Las demás partes pueden objetarlas?"
+            ],
+            "responses": [
+                "📘 **Las que no existían al plazo inicial o no podías conocer** (Art. 67.1). Ej: un email recién descubierto.",
+                "🔹 **Bajo protesta de decir verdad** (Art. 67.1). Explica por qué no la incluiste antes (ej: *El testigo se contactó ayer*).",
+                "🎯 **Sí**, si antes no sabías de su existencia o relevancia (Art. 67). Justifica por qué no lo mencionaste en la audiencia inicial.",
+                "📘 **Da 3 días hábiles a las otras partes** para que se pronuncien (Art. 67.2). Luego decide si admite.",
+                "🔹 **Sí**, pueden argumentar que no son supervenientes o irrelevantes (Art. 67.2)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 67",
+            "topic": "Pruebas supervenientes"
+        },
+        {
+            "tag": "admision_pruebas",
+            "patterns": [
+                "¿Quién decide qué pruebas se admiten según el artículo 68?",
+                "¿En cuánto tiempo resuelven sobre mis pruebas?",
+                "¿Pueden rechazar una prueba sin explicación?",
+                "¿Qué pasa si no me notifican la decisión?",
+                "¿Puedo impugnar la no admisión?"
+            ],
+            "responses": [
+                "📘 **La Autoridad Substanciadora**, en **15 días hábiles** post-audiencia inicial (Art. 68). Notifica día/hora para desahogarlas.",
+                "🔹 **15 días hábiles** tras la audiencia inicial (Art. 68). Si no hay resolución, insiste por escrito.",
+                "🎯 **No**, deben fundamentar el rechazo (Art. 68). Ej: *El documento no está relacionado con los hechos*.",
+                "📘 **Es irregular**. Reclama por escrito. Si persiste, úsalo en un recurso (Art. 138).",
+                "🔹 **Sí**, con recurso de reclamación en **3 días hábiles** (Art. 79)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 68",
+            "topic": "Admisión de pruebas"
+        },
+        {
+            "tag": "presuncion_inocencia",
+            "patterns": [
+                "¿Cómo protege el artículo 69 mi presunción de inocencia?",
+                "¿Pueden obligarme a declarar en mi contra?",
+                "¿Qué significa 'más allá de duda razonable'?",
+                "¿Quién debe probar mi responsabilidad?",
+                "¿Mi silencio me perjudica?"
+            ],
+            "responses": [
+                "📘 **Establece que eres inocente hasta que se pruebe lo contrario** (Art. 69.1). La carga de la prueba es de la Autoridad Investigadora.",
+                "🔹 **No**, tienes derecho a no declarar (Art. 69.2). Ni tu silencio ni tu negativa pueden usarse contra ti.",
+                "🎯 **Que las pruebas deben ser contundentes**. No basta con sospechas (Art. 69.1). Ej: testigos contradictorios no son suficientes.",
+                "📘 **La Autoridad Investigadora** (Art. 69.3). Tú no tienes que probar tu inocencia.",
+                "🔹 **No**, el artículo 69.2 prohíbe usarlo como indicio de culpabilidad."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 69",
+            "topic": "Presunción de inocencia y carga de la prueba"
+        },
+        {
+            "tag": "derecho_declarar",
+            "patterns": [
+                "¿Puedo declarar en mi defensa según el artículo 70?",
+                "¿Es obligatorio que declare?",
+                "¿Cómo preparo mi declaración?",
+                "¿Puedo declarar por escrito?",
+                "¿Qué pasa si miento en mi declaración?"
+            ],
+            "responses": [
+                "📘 **Sí**, es tu derecho (Art. 70). Puedes negar los hechos, explicar tu versión o callarte sin consecuencias.",
+                "🔹 **No**, es voluntario (Art. 69.2). Pero si decides hacerlo, debe ser bajo protesta de decir verdad.",
+                "🎯 **Por escrito** (Art. 126.IV) o verbal en audiencia. Incluye hechos, fechas, documentos y testigos que respalden tu dicho.",
+                "📘 **Sí**, en la audiencia inicial (Art. 126.IV). Es lo recomendable para mayor precisión.",
+                "🔹 **Es falta grave** (Art. 14.XI). Puede agravar tu situación y derivar en denuncia penal por falso testimonio."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 70",
+            "topic": "Derecho a declarar"
+        },
+        {
+            "tag": "tipos_pruebas_admisibles",
+            "patterns": [
+                "¿Qué tipos de pruebas aceptan según el artículo 71?",
+                "¿Puedo presentar mensajes de WhatsApp como prueba?",
+                "¿Sirven los testimonios de mis compañeros?",
+                "¿Necesito originales de los documentos?",
+                "¿Pueden rechazar una prueba por ser digital?"
+            ],
+            "responses": [
+                "📘 **6 tipos de pruebas**: Declaración del implicado (I), testimonial (II), documental (III), pericial (IV), inspección (V) y medios electrónicos (VI) (Art. 71).",
+                "🔹 **Sí**, los mensajes electrónicos son prueba válida si son relevantes (Art. 71.VI). Debes mostrar el dispositivo o capturas autenticadas.",
+                "🎯 **Sí**, los testimonios son pruebas admisibles (Art. 71.II). La Autoridad valorará su credibilidad (Art. 72).",
+                "📘 **Para documentos privados**: Sí (Art. 93). Públicos: copias certificadas (Art. 71.III).",
+                "🔹 **No**, las pruebas digitales tienen el mismo valor (Art. 71.VI). Deben garantizar su autenticidad (Art. 111)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 71",
+            "topic": "Tipos de pruebas admisibles"
+        },
+        {
+            "tag": "valoracion_pruebas",
+            "patterns": [
+                "¿Cómo valoran las pruebas según el artículo 72?",
+                "¿Qué es la 'sana crítica' para valorar pruebas?",
+                "¿Tienen más valor los documentos públicos?",
+                "¿Pueden descartar mi prueba sin explicación?",
+                "¿Qué pruebas son 'plenas'?"
+            ],
+            "responses": [
+                "📘 **Con lógica, experiencia y sana crítica** (Art. 72.1). La Autoridad debe justificar el peso dado a cada prueba (Art. 72.2).",
+                "🔹 **Evaluar coherencia y verosimilitud**. Ej: un testigo con detalles precisos tiene más peso que uno vago (Art. 72.1).",
+                "🎯 **Sí**, tienen valor probatorio pleno (Art. 72.3). Solo se cuestionan si demuestras falsedad.",
+                "📘 **No**, deben explicar por qué (Art. 72.2). Ej: *'El testigo no presenció los hechos directamente'*.",
+                "🔹 **Documentos públicos** (Art. 72.3) y otras que generen convicción por su consistencia (Art. 72.4)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 72",
+            "topic": "Valoración de las pruebas"
+        },
+        {
+            "tag": "diligencias_mejor_proveer",
+            "patterns": [
+                "¿Qué son diligencias para mejor proveer según el artículo 73?",
+                "¿Puede la Autoridad buscar pruebas por su cuenta?",
+                "¿Puedo oponerme a estas diligencias?",
+                "¿Cómo me afectan?",
+                "¿Tengo derecho a replicar?"
+            ],
+            "responses": [
+                "📘 **Actividades que ordena la Autoridad para clarificar hechos**. Ej: ampliar un peritaje o citar a un testigo adicional (Art. 73.1).",
+                "🔹 **Sí**, sin reabrir la investigación (Art. 73.1). Puede pedir documentos o declaraciones complementarias.",
+                "🎯 **Sí**, alegando irrelevancia o ilegalidad (Art. 73.2). Tienes 3 días hábiles para manifestarte.",
+                "📘 **Pueden incluir pruebas en tu contra o favor**. Se te notificará para que respondas (Art. 73.2).",
+                "🔹 **Sí**, en **3 días hábiles** tras la notificación (Art. 73.2). Presenta argumentos o pruebas contrarias."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 73",
+            "topic": "Diligencias para mejor proveer"
+        },
+        {
+            "tag": "solicitud_documentos",
+            "patterns": [
+                "¿Puede la Autoridad pedir documentos a otras áreas según el artículo 74?",
+                "¿Qué hago si la Universidad no me entrega un documento?",
+                "¿Hay plazos para que respondan?",
+                "¿Pueden negarse a proporcionarlos?",
+                "¿Qué documentos pueden solicitar?"
+            ],
+            "responses": [
+                "📘 **Sí**, si tú lo solicitas o la Autoridad lo considera necesario (Art. 74). Ej: contratos o nóminas archivadas.",
+                "🔹 **Pide a la Autoridad que los requiera** (Art. 74). Ellos tienen facultad para exigirlos.",
+                "🎯 **No está especificado**, pero debe ser razonable. Insiste si hay demora injustificada.",
+                "📘 **Solo si son irrelevantes o confidenciales por ley**. La Autoridad decidirá (Art. 74).",
+                "🔹 **Cualquier documento vinculado al caso** (Art. 74). Incluye correos, contratos, estados de cuenta."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 74",
+            "topic": "Solicitud de documentos o informes"
+        },
+        {
+            "tag": "colaboracion_comunidad",
+            "patterns": [
+                "¿Quiénes están obligados a colaborar según el artículo 75?",
+                "¿Pueden obligar a un testigo a declarar?",
+                "¿Qué pasa si un familiar no quiere declarar?",
+                "¿Puedo negarme a ser testigo?",
+                "¿Los estudiantes deben colaborar?"
+            ],
+            "responses": [
+                "📘 **Todo el personal universitario** (Art. 75.1). Los estudiantes también pueden ser requeridos (Art. 75.2).",
+                "🔹 **Sí**, salvo familiares directos o con secreto profesional (Art. 75.3). Multa o sanción si se niegan sin causa.",
+                "🎯 **No están obligados** si son cónyuge, ascendientes, descendientes o tienen secreto profesional (Art. 75.3).",
+                "📘 **Depende**: Si no tienes relación familiar/profesional con el implicado, sí puedes ser obligado (Art. 75.1).",
+                "🔹 **Sí**, si la Autoridad lo solicita (Art. 75.2). Ej: para declarar sobre uso irregular de instalaciones."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 75",
+            "topic": "Colaboración de la comunidad universitaria"
+        },
+        {
+            "tag": "hechos_notorios",
+            "patterns": [
+                "¿Qué son hechos notorios según el artículo 76?",
+                "¿Pueden usarlos en mi contra sin probarlos?",
+                "¿Cómo sé si algo es 'notorio'?",
+                "¿Puedo impugnar un hecho notorio?",
+                "¿Ejemplos de hechos notorios?"
+            ],
+            "responses": [
+                "📘 **Hechos de conocimiento público e indiscutible** (Art. 76). No requieren prueba. Ej: fechas oficiales de eventos universitarios.",
+                "🔹 **Sí**, si cumplen con la definición (Art. 76). Pero puedes argumentar que no aplican a tu caso.",
+                "🎯 **Si es conocido por la mayoría y no hay duda**. La Autoridad debe declararlo expresamente.",
+                "📘 **Sí**, demostrando que no es de dominio público o es discutible (Art. 76).",
+                "🔹 **Fechas de calendario oficial, leyes públicas, desastres naturales reconocidos**, etc. (Art. 76)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 76",
+            "topic": "Hechos notorios"
+        },
+        {
+            "tag": "apoyo_instancias",
+            "patterns": [
+                "¿Puede la Autoridad pedir ayuda a otras áreas según el artículo 77?",
+                "¿Qué tipo de apoyo pueden solicitar?",
+                "¿Puedo oponerme a esta intervención?",
+                "¿Quién paga los costos?",
+                "¿Ejemplos de apoyo?"
+            ],
+            "responses": [
+                "📘 **Sí**, para preparar o desahogar pruebas (Art. 77). Ej: que Informática recupere correos electrónicos.",
+                "🔹 **Técnico, logístico o pericial** (Art. 77). Desde traducciones hasta análisis forenses.",
+                "🎯 **Solo si afecta tus derechos**. Ej: si el perito no es imparcial.",
+                "📘 **La Universidad** (Art. 77). No puedes ser cobrado por estos trámites.",
+                "🔹 **Recuperación de datos, traducciones, asesoría legal interna**, etc. (Art. 77)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 77",
+            "topic": "Apoyo de otras instancias"
+        },
+        {
+            "tag": "habilitacion_horas_inhabiles",
+            "patterns": [
+                "¿Pueden citarme a desahogar pruebas en horario inhábil según el artículo 78?",
+                "¿Qué se considera horario inhábil?",
+                "¿Puedo negarme a asistir?",
+                "¿Necesitan mi consentimiento?",
+                "¿Ejemplos de casos urgentes?"
+            ],
+            "responses": [
+                "📘 **Sí**, si la Autoridad lo justifica (Art. 78). Ej: testigo que solo está disponible en fin de semana.",
+                "🔹 **Fuera de 7:00-20:00 hrs o días festivos** (Art. 51). Pero pueden habilitarlos (Art. 78).",
+                "🎯 **Sí**, pero puede interpretarse como falta de colaboración (Art. 75). Pide reprogramación.",
+                "📘 **No**, pero deben notificarte con anticipación (Art. 78).",
+                "🔹 **Testigos que viajan, pruebas perecederas o riesgo de destrucción de evidencias** (Art. 78)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 78",
+            "topic": "Habilitación de días/horas inhábiles"
+        },
+        {
+            "tag": "impugnacion_pruebas",
+            "patterns": [
+                "¿Puedo impugnar pruebas según el artículo 79?",
+                "¿Qué pruebas puedo cuestionar?",
+                "¿Cuánto tiempo tengo para impugnar?",
+                "¿Qué debo incluir en mi impugnación?",
+                "¿Puedo impugnar el valor que dieron a mis pruebas?"
+            ],
+            "responses": [
+                "📘 **Sí**, en **3 días hábiles** tras notificación del acuerdo de admisión (Art. 79). Usa el recurso de reclamación.",
+                "🔹 **Admisión, desechamiento, alcance o valoración** (Art. 79). Ej: un documento que consideras falso.",
+                "🎯 **3 días hábiles** (Art. 79). Pasado este plazo, se acepta la decisión inicial.",
+                "📘 **Argumentos legales y pruebas** que respalden tu impugnación (Art. 79). Ej: certificado de falsedad.",
+                "🔹 **Sí**, alegando que no aplicaron sana crítica (Art. 72 + 79). Debes fundamentarlo."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 79",
+            "topic": "Impugnación de pruebas"
+        },
+        {
+            "tag": "declaracion_implicado",
+            "patterns": [
+                "¿Cómo se toma mi declaración según el artículo 80?",
+                "¿Puedo leer un escrito preparado?",
+                "¿Me pueden interrogar?",
+                "¿Qué pasa si me contradigo?",
+                "¿Puedo negarme a responder preguntas?"
+            ],
+            "responses": [
+                "📘 **Libremente y por escrito o verbalmente** (Art. 80). La Autoridad puede hacer preguntas claras (no insidiosas).",
+                "🔹 **Sí**, en la audiencia inicial (Art. 126.IV). Es lo recomendable para evitar omisiones.",
+                "🎯 **Sí**, pero las preguntas deben ser claras y relevantes (Art. 80). Puedes negarte si son engañosas.",
+                "📘 **Puede afectar tu credibilidad** (Art. 72). La Autoridad lo considerará al valorar pruebas.",
+                "🔹 **Sí**, es tu derecho (Art. 69.2). Pero responde lo que no te perjudique para aclarar hechos."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 80",
+            "topic": "Declaración de la persona implicada"
+        },
+        {
+            "tag": "prueba_testimonial",
+            "patterns": [
+                "¿Puedo ofrecer testigos según el artículo 81?",
+                "¿Cuántos testigos puedo presentar?",
+                "¿Qué pasa si no se presentan mis testigos?",
+                "¿Puede la Autoridad limitar mis testigos?",
+                "¿Deben ser miembros de la Universidad?"
+            ],
+            "responses": [
+                "📘 **Sí**, puedes ofrecer testigos para apoyar tu defensa (Art. 81).",
+                "🔹 No hay límite, pero la Autoridad puede restringirlos si repiten información (Art. 81.2).",
+                "🎯 Debes asegurar su asistencia. Si no vienen, no se considerarán sus declaraciones (Art. 82).",
+                "📘 **Sí**, si sus testimonios son redundantes (Art. 81.2). Debe justificarlo.",
+                "🔹 **No necesariamente**. Cualquier persona con conocimiento de los hechos puede ser testigo (Art. 83)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 81",
+            "topic": "Prueba testimonial"
+        },
+        {
+            "tag": "presentacion_testigos",
+            "patterns": [
+                "¿Quién debe asegurar la presencia de los testigos según el artículo 82?",
+                "¿Puede la Autoridad citar a mis testigos si no pueden asistir?",
+                "¿Qué pasa si mi testigo vive fuera de Guadalajara?",
+                "¿Debo pagar los gastos de mis testigos?",
+                "¿Pueden declarar por escrito?"
+            ],
+            "responses": [
+                "📘 **Tú**, como parte que los ofrece (Art. 82.1).",
+                "🔹 **Sí**, si justificas la imposibilidad (Art. 82.2).",
+                "🎯 Pueden declarar por videollamada o la Autoridad puede acudir a su domicilio (Art. 84).",
+                "📘 **Sí**, salvo que la Autoridad decida cubrirlos (Art. 82 no lo prohíbe, pero no lo obliga).",
+                "🔹 **No**, deben declarar oralmente en audiencia (Art. 81-89), salvo casos excepcionales (Art. 85)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 82",
+            "topic": "Presentación de testigos"
+        },
+        {
+            "tag": "obligacion_testimoniar",
+            "patterns": [
+                "¿Está obligado el personal universitario a declarar según el artículo 83?",
+                "¿Qué pasa si un testigo se niega a declarar?",
+                "¿Hay excepciones para no declarar?",
+                "¿Pueden sancionar a un testigo que miente?",
+                "¿Deben declarar familiares del implicado?"
+            ],
+            "responses": [
+                "📘 **Sí**, si conocen los hechos (Art. 83). Es una obligación.",
+                "🔹 Puede ser sancionado administrativamente (Art. 83 + normativa universitaria).",
+                "🎯 **Sí**, si son familiares hasta 4° grado o tienen secreto profesional (Art. 75.3).",
+                "📘 **Sí**, es falso testimonio (Art. 86 + normativa penal).",
+                "🔹 **No están obligados** (Art. 75.3). Pueden excusarse."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 83",
+            "topic": "Obligación de rendir testimonio"
+        },
+        {
+            "tag": "testigo_imposibilitado",
+            "patterns": [
+                "¿Qué pasa si mi testigo no puede asistir por salud según el artículo 84?",
+                "¿Puede la Autoridad ir a su domicilio?",
+                "¿Quién elige a los funcionarios que toman la declaración?",
+                "¿Puedo estar presente en esa diligencia?",
+                "¿Se graba la declaración?"
+            ],
+            "responses": [
+                "📘 La Autoridad puede acudir a su domicilio (Art. 84.1).",
+                "🔹 **Sí**, si es necesario (Art. 84.1).",
+                "🎯 La Autoridad Substanciadora designa a sus integrantes (Art. 84.2).",
+                "📘 **Sí**, como parte del procedimiento (Art. 84 + principios de contradicción).",
+                "🔹 No se menciona, pero el acta escrita es obligatoria (Art. 89)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 84",
+            "topic": "Testigo imposibilitado"
+        },
+        {
+            "tag": "declaracion_por_oficio",
+            "patterns": [
+                "¿Pueden los titulares de dependencias declarar por oficio según el artículo 85?",
+                "¿Cómo se envían las preguntas?",
+                "¿Puedo repreguntar por escrito?",
+                "¿Qué plazo tienen para responder?",
+                "¿Es igual de válida que una declaración oral?"
+            ],
+            "responses": [
+                "📘 **Sí**, mediante preguntas escritas (Art. 85).",
+                "🔹 Por escrito, a través de la Autoridad Substanciadora (Art. 85).",
+                "🎯 **Sí**, debes enviar tus repreguntas por el mismo medio (Art. 85).",
+                "📘 No se especifica, pero debe ser 'razonable' (Art. 85 + principios generales).",
+                "🔹 **Sí**, tiene el mismo valor probatorio (Art. 85 + 72)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 85",
+            "topic": "Declaración por oficio"
+        },
+        {
+            "tag": "protesta_verdad",
+            "patterns": [
+                "¿Se les toma protesta a los testigos según el artículo 86?",
+                "¿Qué información debe constar en el acta?",
+                "¿Puede un testigo negarse a firmar?",
+                "¿Qué pasa si hay error en el acta?",
+                "¿Se puede usar traductor?"
+            ],
+            "responses": [
+                "📘 **Sí**, deben jurar o prometer decir verdad (Art. 86.1).",
+                "🔹 Nombre, domicilio, relación con las partes y declaración literal (Art. 86.2 + 89).",
+                "🎯 **Sí**, pero se hará constar en el acta (Art. 89.3).",
+                "📘 Puedes solicitar correcciones antes de firmar (Art. 89.4).",
+                "🔹 **Sí**, para testigos que no hablen español (Art. 89.5)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 86",
+            "topic": "Protesta de decir verdad"
+        },
+        {
+            "tag": "interrogatorio_testigos",
+            "patterns": [
+                "¿Cómo se interrogue a los testigos según el artículo 87?",
+                "¿Puedo hacer preguntas directamente?",
+                "¿Pueden comunicarse entre testigos?",
+                "¿La Autoridad puede hacer preguntas?",
+                "¿Qué tipo de preguntas están prohibidas?"
+            ],
+            "responses": [
+                "📘 **Por separado** y sin comunicación entre ellos (Art. 87.1).",
+                "🔹 **Sí**, tras la parte que lo ofreció (Art. 87.2).",
+                "🎯 **No**, se evita para no influir en sus declaraciones (Art. 87.1).",
+                "📘 **Sí**, para esclarecer hechos (Art. 87.3).",
+                "🔹 **Insidiosas, capciosas o irrelevantes** (Art. 88.2)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 87",
+            "topic": "Interrogatorio a testigos"
+        },
+        {
+            "tag": "formulacion_preguntas",
+            "patterns": [
+                "¿Cómo deben ser las preguntas a testigos según el artículo 88?",
+                "¿Puedo preguntar sobre rumores?",
+                "¿Qué pasa si mi pregunta es desechada?",
+                "¿Puedo reformular una pregunta?",
+                "¿Deben ser preguntas cerradas?"
+            ],
+            "responses": [
+                "📘 **Claras, directas y relacionadas con los hechos** (Art. 88.1-2).",
+                "🔹 **No**, solo sobre hechos que conozcan directamente (Art. 88.1).",
+                "🎯 Se asienta en el acta y puedes insistir con otra redacción (Art. 88.3).",
+                "📘 **Sí**, si la primera fue desechada (Art. 88.3).",
+                "🔹 **No necesariamente**, pero deben ser precisas (Art. 88.2)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 88",
+            "topic": "Formulación de preguntas"
+        },
+        {
+            "tag": "acta_testimonial",
+            "patterns": [
+                "¿Qué debe contener el acta de declaración según el artículo 89?",
+                "¿Qué pasa si no sé firmar?",
+                "¿Puedo pedir que lean el acta antes de firmar?",
+                "¿Se puede usar huella digital?",
+                "¿Qué pasa si me niego a firmar?"
+            ],
+            "responses": [
+                "📘 **Preguntas, respuestas textuales y firmas** (Art. 89.1-2).",
+                "🔹 **Huella digital** ante dos testigos (Art. 89.2).",
+                "🎯 **Sí**, es tu derecho (Art. 89.4).",
+                "📘 **Sí**, si no puedes firmar (Art. 89.2).",
+                "🔹 Se hará constar tu negativa en el acta (Art. 89.3)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 89",
+            "topic": "Acta de declaración testimonial"
+        },
+        {
+            "tag": "prueba_documental",
+            "patterns": [
+                "¿Qué se considera prueba documental según el artículo 90?",
+                "¿Puedo presentar videos o audios?",
+                "¿Qué pasa si no tengo el equipo para reproducirla?",
+                "¿Deben ser documentos originales?",
+                "¿Pueden ser en otro idioma?"
+            ],
+            "responses": [
+                "📘 **Cualquier soporte con información escrita, visual o auditiva** (Art. 90.1).",
+                "🔹 **Sí**, son válidos (Art. 90.1).",
+                "🎯 La Autoridad puede solicitar equipos o facilitarlos (Art. 90.2).",
+                "📘 **Sí**, salvo que sean expedientes completos (Art. 93).",
+                "🔹 **Sí**, pero con traducción al español (Art. 92)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 90",
+            "topic": "Prueba documental"
+        },
+        {
+            "tag": "documental_publica_privada",
+            "patterns": [
+                "¿Qué se considera prueba documental pública según el artículo 91?",
+                "¿Un contrato firmado con un proveedor es documento público o privado?",
+                "¿Tienen más valor los documentos públicos?",
+                "¿Puedo impugnar un documento público?",
+                "¿Qué pasa si no tengo el original de un documento privado?"
+            ],
+            "responses": [
+                "📘 **La expedida por autoridades en ejercicio de sus funciones** (Art. 91.1). Ej: oficios universitarios.",
+                "🔹 **Privado**, porque no lo emite una autoridad (Art. 91.2).",
+                "🎯 **Sí**, tienen valor probatorio pleno salvo prueba en contrario (Art. 72.3).",
+                "📘 **Sí**, demostrando falsedad o ilegalidad (Art. 72.3 + 79).",
+                "🔹 Debes justificar su ausencia y presentar copia (Art. 93)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 91",
+            "topic": "Documental pública y privada"
+        },
+        {
+            "tag": "formalidades_documental",
+            "patterns": [
+                "¿Deben los documentos estar en español según el artículo 92?",
+                "¿Quién paga la traducción de un documento extranjero?",
+                "¿Puedo objetar una traducción?",
+                "¿Qué pasa si la traducción es incorrecta?",
+                "¿Se admiten documentos en lenguas indígenas?"
+            ],
+            "responses": [
+                "📘 **Sí**, o con traducción oficial adjunta (Art. 92.1).",
+                "🔹 **La parte que lo presenta**, salvo que la Autoridad designe peritos (Art. 92.1).",
+                "🎯 **Sí**, en un incidente (Art. 92.2).",
+                "📘 La Autoridad resolverá la objeción (Art. 92.2).",
+                "🔹 **Sí**, pero con traducción al español (Art. 92.1)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 92",
+            "topic": "Formalidades de la prueba documental"
+        },
+        {
+            "tag": "cotejo_documentos_privados",
+            "patterns": [
+                "¿Debo presentar originales de documentos privados según el artículo 93?",
+                "¿Qué pasa si el documento es parte de un expediente grande?",
+                "¿Puedo presentar copias certificadas?",
+                "¿Cómo se coteja un documento privado?",
+                "¿Qué pasa si pierdo el original?"
+            ],
+            "responses": [
+                "📘 **Sí**, salvo que sea parte de un expediente (Art. 93).",
+                "🔹 Exhibes el expediente y señalas la parte relevante (Art. 93).",
+                "🎯 **Sí**, si justificas la falta del original (Art. 93 + principios generales).",
+                "📘 La Autoridad compara el original con copias o versiones previas (Art. 93).",
+                "🔹 Debes explicarlo y presentar pruebas de su existencia (Art. 93)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 93",
+            "topic": "Cotejo de documentos privados"
+        },
+        {
+            "tag": "cotejo_firmas",
+            "patterns": [
+                "¿Puedo pedir cotejo de firmas según el artículo 94?",
+                "¿Cómo se coteja una firma cuestionada?",
+                "¿Qué son los documentos indubitados?",
+                "¿Puedo negarme a cotejar mi firma?",
+                "¿Qué pasa si el autor de la firma ha fallecido?"
+            ],
+            "responses": [
+                "📘 **Sí**, si dudas de su autenticidad (Art. 94.1).",
+                "🔹 Comparándola con otra firma reconocida o hecha ante la Autoridad (Art. 94.2).",
+                "🎯 **Los reconocidos o declarados auténticos** (Art. 95). Ej: firmas en actas anteriores.",
+                "📘 **No**, si la Autoridad lo ordena (Art. 94.2).",
+                "🔹 Se usan otros medios (ej. peritaje caligráfico) (Art. 94 + 97)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 94",
+            "topic": "Cotejo de firmas, letras o huellas"
+        },
+        {
+            "tag": "documentos_indubitados",
+            "patterns": [
+                "¿Qué documentos son indubitados según el artículo 95?",
+                "¿Una firma en mi DNI cuenta como indubitada?",
+                "¿Puedo impugnar un documento indubitado?",
+                "¿Qué pasa si el documento indubitado fue firmado bajo presión?",
+                "¿Las huellas digitales pueden ser indubitadas?"
+            ],
+            "responses": [
+                "📘 **Los reconocidos, declarados auténticos o firmados ante la Autoridad** (Art. 95).",
+                "🔹 **Sí**, si lo reconoces como tuyo (Art. 95.I).",
+                "🎯 **Sí**, demostrando vicios (ej. falsedad) (Art. 95 + 79).",
+                "📘 Debes probar la coacción con otras pruebas (Art. 95 + 72).",
+                "🔹 **Sí**, si fueron registradas ante autoridad (Art. 95.IV)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 95",
+            "topic": "Documentos indubitados"
+        },
+        {
+            "tag": "verificacion_autenticidad",
+            "patterns": [
+                "¿Puede la Autoridad verificar documentos según el artículo 96?",
+                "¿Qué métodos puede usar?",
+                "¿Puedo solicitar un peritaje adicional?",
+                "¿Quién paga estos análisis?",
+                "¿Qué pasa si el documento es falso?"
+            ],
+            "responses": [
+                "📘 **Sí**, por cualquier medio lícito (Art. 96).",
+                "🔹 **Peritajes, tecnología forense, consultas a registros** (Art. 96).",
+                "🎯 **Sí**, como prueba superveniente (Art. 67 + 97).",
+                "📘 **La Universidad**, salvo que lo solicites tú (Art. 96 + 105).",
+                "🔹 Puede denunciarse el delito ante el MP (Art. 6 + 96)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 96",
+            "topic": "Verificación de autenticidad"
+        },
+        {
+            "tag": "prueba_pericial",
+            "patterns": [
+                "¿Cuándo se usa la prueba pericial según el artículo 97?",
+                "¿Puedo ofrecer un perito sin título?",
+                "¿Debe el perito ser externo a la Universidad?",
+                "¿Qué debe incluir el objeto del peritaje?",
+                "¿Puede la Autoridad rechazar mi perito?"
+            ],
+            "responses": [
+                "📘 **Cuando se necesiten conocimientos especializados** (Art. 97.1). Ej: contabilidad, informática.",
+                "🔹 **Sí**, si la Autoridad acepta su experiencia (Art. 98.2).",
+                "🎯 **No necesariamente**, pero debe ser imparcial (Art. 97 + 98).",
+                "📘 **Preguntas claras sobre hechos controvertidos** (Art. 97.2).",
+                "🔹 **Sí**, si no cumple requisitos (Art. 98)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 97",
+            "topic": "Prueba pericial"
+        },
+        {
+            "tag": "requisitos_peritos",
+            "patterns": [
+                "¿Qué requisitos debe cumplir un perito según el artículo 98?",
+                "¿Un estudiante puede ser perito?",
+                "¿Puede la Autoridad designar su propio perito?",
+                "¿Qué pasa si mi perito no tiene cédula profesional?",
+                "¿Puedo usar un perito extranjero?"
+            ],
+            "responses": [
+                "📘 **Título oficial o experiencia reconocida** (Art. 98.1-2).",
+                "🔹 **Sí**, si la Autoridad acepta sus conocimientos (Art. 98.2).",
+                "🎯 **Sí**, para contrastar resultados (Art. 104).",
+                "📘 La Autoridad puede rechazarlo (Art. 98.1), pero no es automático (Art. 98.2).",
+                "🔹 **Sí**, si cumple los requisitos y hay traducción (Art. 98 + 92)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 98",
+            "topic": "Requisitos de peritos"
+        },
+        {
+            "tag": "protesta_cargo_perito",
+            "patterns": [
+                "¿Qué es la protesta de cargo del perito según el artículo 99?",
+                "¿Qué pasa si mi perito no se presenta?",
+                "¿Puede renunciar después de aceptar?",
+                "¿Debe firmar algún documento?",
+                "¿Qué implica la protesta?"
+            ],
+            "responses": [
+                "📘 **Su juramento o promesa de actuar con objetividad** (Art. 99).",
+                "🔹 **Se tiene por no ofrecida la prueba** (Art. 99).",
+                "🎯 **Sí**, pero debe justificarlo (Art. 99 + principios generales).",
+                "📘 **Sí**, el acta de aceptación y protesta (Art. 99).",
+                "🔹 **Compromiso de veracidad y ética** (Art. 99 + 86)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 99",
+            "topic": "Protesta de cargo del perito"
+        },
+        {
+            "tag": "ampliacion_peritaje",
+            "patterns": [
+                "¿Puedo ampliar los puntos del peritaje según el artículo 100?",
+                "¿Cuánto tiempo tengo para proponerlo?",
+                "¿La Autoridad puede negarse?",
+                "¿Puede el perito rechazar puntos adicionales?",
+                "¿Quién paga los honorarios por ampliación?"
+            ],
+            "responses": [
+                "📘 **Sí**, en 3 días hábiles tras la admisión (Art. 100).",
+                "🔹 **3 días hábiles** (Art. 100).",
+                "🎯 **Sí**, si son irrelevantes o dilatorios (Art. 100).",
+                "📘 **No**, debe cubrir lo ordenado (Art. 100 + 97).",
+                "🔹 **La parte que solicita la ampliación** (Art. 100 + 105)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 100",
+            "topic": "Ampliación de puntos a dictaminar"
+        },
+        {
+            "tag": "plazo_dictamen_pericial",
+            "patterns": [
+                "¿Cuánto tiempo tiene el perito para entregar su dictamen según el artículo 101?",
+                "¿Qué pasa si el perito no cumple el plazo?",
+                "¿Se puede ampliar el plazo del peritaje?",
+                "¿Quién decide la duración del plazo?",
+                "¿Puedo impugnar un dictamen presentado fuera de plazo?"
+            ],
+            "responses": [
+                "📘 **El plazo lo fija la Autoridad según la complejidad** (Art. 101.1).",
+                "🔹 **Se declara desierta la prueba** (Art. 101.2).",
+                "🎯 **Sí**, si el perito lo solicita y la Autoridad lo aprueba (Art. 101.1).",
+                "📘 **La Autoridad Substanciadora** (Art. 101.1).",
+                "🔹 **Sí**, por irregularidad (Art. 101.2 + 79)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 101",
+            "topic": "Plazo para dictamen pericial"
+        },
+        {
+            "tag": "perito_contraparte",
+            "patterns": [
+                "¿Puedo designar mi propio perito para contradecir al otro según el artículo 102?",
+                "¿Tiene plazo para presentar su dictamen?",
+                "¿Debe seguir los mismos puntos del peritaje original?",
+                "¿Puede entrevistar a los mismos testigos?",
+                "¿Quién paga a este perito?"
+            ],
+            "responses": [
+                "📘 **Sí**, para cuestionar o ampliar el dictamen existente (Art. 102).",
+                "🔹 **El mismo plazo que el perito inicial** (Art. 102 + 101).",
+                "🎯 **Sí**, pero puede agregar puntos adicionales (Art. 102).",
+                "📘 **Sí**, si la Autoridad lo autoriza (Art. 102 + 87).",
+                "🔹 **La parte que lo designa** (Art. 102 + 105)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 102",
+            "topic": "Perito de la contraparte"
+        },
+        {
+            "tag": "aclaracion_peritaje",
+            "patterns": [
+                "¿Puedo pedir aclaraciones al perito según el artículo 103?",
+                "¿Cómo se solicita una aclaración?",
+                "¿El perito está obligado a responder?",
+                "¿Puedo cuestionar sus métodos en la audiencia?",
+                "¿Qué pasa si el perito no asiste a la audiencia?"
+            ],
+            "responses": [
+                "📘 **Sí**, en audiencia convocada para ello (Art. 103).",
+                "🔹 **Durante la audiencia o por escrito antes** (Art. 103).",
+                "🎯 **Sí**, es parte de su cargo (Art. 103 + 99).",
+                "📘 **Sí**, con fundamentos técnicos o legales (Art. 103).",
+                "🔹 **Su dictamen pierde peso probatorio** (Art. 103 + 72)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 103",
+            "topic": "Aclaración de peritaje"
+        },
+        {
+            "tag": "perito_autoridad",
+            "patterns": [
+                "¿Puede la Autoridad designar su propio perito según el artículo 104?",
+                "¿En qué casos lo hace?",
+                "¿Puedo impugnar sus conclusiones?",
+                "¿Quién paga sus honorarios?",
+                "¿Debe ser imparcial?"
+            ],
+            "responses": [
+                "📘 **Sí**, para esclarecer hechos (Art. 104.1).",
+                "🔹 **Cuando las pruebas sean contradictorias o insuficientes** (Art. 104.1).",
+                "🎯 **Sí**, con pruebas o argumentos técnicos (Art. 104 + 79).",
+                "📘 **La Universidad** (Art. 104 + 105).",
+                "🔹 **Sí**, debe ser neutral (Art. 104 + 31)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 104",
+            "topic": "Perito designado por la Autoridad"
+        },
+        {
+            "tag": "honorarios_peritos",
+            "patterns": [
+                "¿Quién paga los honorarios del perito según el artículo 105?",
+                "¿Puedo reclamar costos si gano el caso?",
+                "¿Hay un límite para los honorarios?",
+                "¿Debe el perito dar factura?",
+                "¿Qué pasa si no puedo pagar un perito?"
+            ],
+            "responses": [
+                "📘 **La parte que lo ofrece**, salvo que sea designado por la Autoridad (Art. 105).",
+                "🔹 **No**, es un gasto propio (Art. 105).",
+                "🎯 **No se especifica**, pero deben ser razonables (Art. 105).",
+                "📘 **Sí**, para comprobar el pago (Art. 105).",
+                "🔹 **Puedes solicitar que la Autoridad designe uno** (Art. 104 + 105)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 105",
+            "topic": "Honorarios de peritos"
+        },
+        {
+            "tag": "prueba_inspeccion",
+            "patterns": [
+                "¿Qué es la prueba de inspección según el artículo 106?",
+                "¿Puedo solicitar una inspección?",
+                "¿La Autoridad puede negarse?",
+                "¿Quién realiza la diligencia?",
+                "¿Puedo estar presente?"
+            ],
+            "responses": [
+                "📘 **Observación directa de objetos, lugares o hechos** (Art. 106.1).",
+                "🔹 **Sí**, si es relevante para el caso (Art. 106.1).",
+                "🎯 **Sí**, si es improcedente o dilatoria (Art. 106.1).",
+                "📘 **Integrantes de la Autoridad Substanciadora** (Art. 106.3).",
+                "🔹 **Sí**, como parte del procedimiento (Art. 106 + 120)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 106",
+            "topic": "Prueba de inspección"
+        },
+        {
+            "tag": "objeto_inspeccion",
+            "patterns": [
+                "¿Qué debo especificar al pedir una inspección según el artículo 107?",
+                "¿Puedo incluir fotos o videos como guía?",
+                "¿La inspección puede ser en lugar privado?",
+                "¿Qué pasa si el lugar ha sido alterado?",
+                "¿Puedo pedir inspección sin aviso previo?"
+            ],
+            "responses": [
+                "📘 **Los objetos, lugares o hechos a observar, con precisión** (Art. 107).",
+                "🔹 **Sí**, como apoyo a tu solicitud (Art. 107 + 90).",
+                "🎯 **Sí**, con consentimiento del dueño u orden judicial (Art. 107 + 106).",
+                "📘 **Debes denunciarlo; puede ser falta grave** (Art. 107 + 14.XIV).",
+                "🔹 **No**, se notifica a las partes (Art. 106.2)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 107",
+            "topic": "Objeto de la inspección"
+        },
+        {
+            "tag": "vista_inspeccion",
+            "patterns": [
+                "¿Pueden las partes opinar sobre la inspección según el artículo 108?",
+                "¿Qué plazo hay para manifestarse?",
+                "¿Puedo agregar más puntos a inspeccionar?",
+                "¿La Autoridad puede modificar lo solicitado?",
+                "¿Qué pasa si no me notifican?"
+            ],
+            "responses": [
+                "📘 **Sí**, antes de que se admita (Art. 108).",
+                "🔹 **3 días hábiles tras la notificación** (Art. 108).",
+                "🎯 **Sí**, si son relevantes (Art. 108).",
+                "📘 **Sí**, para ajustarlo a lo procedente (Art. 108).",
+                "🔹 **Puedes impugnar la diligencia** (Art. 108 + 79)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 108",
+            "topic": "Vista previa a la inspección"
+        },
+        {
+            "tag": "desahogo_inspeccion",
+            "patterns": [
+                "¿Cómo se desarrolla la inspección según el artículo 109?",
+                "¿Puedo tomar mis propias fotos durante la diligencia?",
+                "¿Qué debe contener el acta?",
+                "¿Puedo rechazar firmar el acta?",
+                "¿Qué pasa si hay errores en el acta?"
+            ],
+            "responses": [
+                "📘 **Con observaciones de las partes y levantamiento de acta** (Art. 109.1-2).",
+                "🔹 **Sí**, si no interfiere (Art. 109.1 + 90).",
+                "🎯 **Descripción de lo observado y firmas** (Art. 109.2).",
+                "📘 **Sí**, pero se hará constar tu negativa (Art. 109.3).",
+                "🔹 **Solicita correcciones antes de firmar** (Art. 109.4)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 109",
+            "topic": "Desahogo de la inspección"
+        },
+        {
+            "tag": "prueba_medios_electronicos",
+            "patterns": [
+                "¿Se admiten correos o chats como prueba según el artículo 110?",
+                "¿Debo presentar el dispositivo original?",
+                "¿Cómo acredito que un mensaje es auténtico?",
+                "¿Puedo usar grabaciones de llamadas?",
+                "¿Qué pasa si la otra parte niega su validez?"
+            ],
+            "responses": [
+                "📘 **Sí**, si son obtenidos lícitamente (Art. 110.1).",
+                "🔹 **No necesariamente**, con copias auténticas basta (Art. 110.1 + 93).",
+                "🎯 **Con peritaje o metadatos** (Art. 110.2 + 97).",
+                "📘 **Sí**, si eres parte de la conversación (Art. 110.3).",
+                "🔹 **La Autoridad valorará su fiabilidad** (Art. 110.2 + 72)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 110",
+            "topic": "Prueba en medios electrónicos"
+        },
+
+        {
+            "tag": "valor_medios_electronicos",
+            "patterns": [
+                "¿Cómo valora la Autoridad las pruebas electrónicas según el artículo 111?",
+                "¿Qué es un 'método fiable' para generar información electrónica?",
+                "¿Puedo presentar capturas de pantalla como prueba?",
+                "¿Se admiten mensajes borrados o recuperados?",
+                "¿Qué pasa si la otra parte manipula la prueba electrónica?"
+            ],
+            "responses": [
+                "📘 **Analizando su fiabilidad y autenticidad** (Art. 111.1). Ej: metadatos, cadena de custodia.",
+                "🔹 **Sistemas con registro de integridad** (Art. 111.2). Ej: correos institucionales con sellos digitales.",
+                "🎯 **Sí**, pero deben acompañarse de peritaje si hay duda (Art. 111.1 + 97).",
+                "📘 **Sí**, si se acredita su recuperación legal (Art. 111.2).",
+                "🔹 **Puedes solicitar peritaje para detectar alteraciones** (Art. 111.1 + 97)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 111",
+            "topic": "Valor probatorio de medios electrónicos"
+        },
+        {
+            "tag": "incidentes_procedimiento",
+            "patterns": [
+                "¿Qué puedo impugnar mediante incidente según el artículo 112?",
+                "¿Cómo presento un incidente?",
+                "¿Qué plazo tengo para hacerlo?",
+                "¿Puedo adjuntar pruebas al incidente?",
+                "¿Qué pasa si mi incidente es muy genérico?"
+            ],
+            "responses": [
+                "📘 **Objeciones a pruebas, tacha de testigos o defectos en notificaciones** (Art. 112.1).",
+                "🔹 **Por escrito, con razones y pruebas** (Art. 112.2).",
+                "🎯 **Depende del tipo de incidente** (Art. 112.2). Ej: 3 días para tacha de testigos.",
+                "📘 **Sí**, son esenciales para fundamentarlo (Art. 112.2).",
+                "🔹 **Será desechado si no se precisa** (Art. 112.3)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 112",
+            "topic": "Incidentes en el procedimiento"
+        },
+        {
+            "tag": "acumulacion_procedimientos",
+            "patterns": [
+                "¿Cuándo se pueden acumular procedimientos según el artículo 113?",
+                "¿Pueden acumularse si los implicados son de distintos centros universitarios?",
+                "¿Quién decide la acumulación?",
+                "¿Puedo oponerme a la acumulación?",
+                "¿Qué pasa si ya hay resoluciones contradictorias?"
+            ],
+            "responses": [
+                "📘 **Cuando las faltas estén relacionadas o involucren a las mismas personas** (Art. 113).",
+                "🔹 **Sí**, si el Consejo General ejerce facultad de atracción (Art. 113.II + 21).",
+                "🎯 **La Autoridad Substanciadora competente** (Art. 113.1).",
+                "📘 **Sí**, alegando falta de conexión (Art. 113 + 112).",
+                "🔹 **Prevalece la resolución del órgano de mayor jerarquía** (Art. 114.1)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 113",
+            "topic": "Acumulación de procedimientos"
+        },
+        {
+            "tag": "competencia_acumulacion",
+            "patterns": [
+                "¿Quién resuelve si hay conflicto de competencia según el artículo 114?",
+                "¿El Consejo General puede atraer cualquier caso?",
+                "¿Puedo solicitar la acumulación?",
+                "¿Qué pasa si se acumulan casos graves y no graves?",
+                "¿Se unifican las sanciones?"
+            ],
+            "responses": [
+                "📘 **El Consejo General Universitario** (Art. 114.2).",
+                "🔹 **Sí, si es de interés institucional** (Art. 114.2 + 21).",
+                "🎯 **Sí**, mediante escrito fundamentado (Art. 114 + 112).",
+                "📘 **Se rigen por el procedimiento más severo** (Art. 114.1).",
+                "🔹 **No, cada falta mantiene su sanción** (Art. 114 + 15)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 114",
+            "topic": "Competencia en acumulación"
+        },
+        {
+            "tag": "prescripcion_faltas",
+            "patterns": [
+                "¿Cuándo prescribe una falta según el artículo 115?",
+                "¿Cómo se calcula el plazo de prescripción?",
+                "¿Puede interrumpirse la prescripción?",
+                "¿Qué pasa si la falta es continua?",
+                "¿Dónde puedo consultar si ya prescribió?"
+            ],
+            "responses": [
+                "📘 **3 años para faltas no graves; 7 para graves** (Art. 115.1).",
+                "🔹 **Desde el día siguiente a la comisión o cese de la falta** (Art. 115.1).",
+                "🎯 **Sí, con la admisión del Informe de Presunta Responsabilidad** (Art. 116).",
+                "📘 **El plazo inicia cuando cesa la conducta** (Art. 115.1).",
+                "🔹 **En la Contraloría General o Abogacía General** (Art. 115 + 4)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 115",
+            "topic": "Prescripción de faltas"
+        },
+        {
+            "tag": "interrupcion_prescripcion",
+            "patterns": [
+                "¿Qué actos interrumpen la prescripción según el artículo 116?",
+                "¿Vuelve a correr el plazo si se archiva el caso?",
+                "¿Puede interrumpirse varias veces?",
+                "¿La denuncia anónima interrumpe la prescripción?",
+                "¿Qué pasa si la investigación se alarga años?"
+            ],
+            "responses": [
+                "📘 **La admisión del Informe de Presunta Responsabilidad** (Art. 116).",
+                "🔹 **No, el plazo se reinicia desde cero** (Art. 116).",
+                "🎯 **Sí, cada vez que se admita un nuevo informe** (Art. 116).",
+                "📘 **Sí, si inicia una investigación formal** (Art. 116 + 34).",
+                "🔹 **El plazo se mantiene interrumpido** (Art. 116)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 116",
+            "topic": "Interrupción de la prescripción"
+        },
+        {
+            "tag": "improcedencia_procedimiento",
+            "patterns": [
+                "¿Cuándo se declara improcedente un procedimiento según el artículo 117?",
+                "¿Puedo alegar improcedencia si ya hay una resolución previa?",
+                "¿Qué pasa si la Autoridad no es competente?",
+                "¿Cómo se notifica la improcedencia?",
+                "¿Puedo reabrir un caso archivado por improcedencia?"
+            ],
+            "responses": [
+                "📘 **Por prescripción, incompetencia, resolución previa o falta de fundamento** (Art. 117.I-IV).",
+                "🔹 **Sí, si es sobre los mismos hechos y persona** (Art. 117.III).",
+                "🎯 **Se remite a la autoridad competente** (Art. 117.II).",
+                "📘 **Por escrito a las partes** (Art. 117 + 58).",
+                "🔹 **Sí, con nuevos elementos** (Art. 117 + 44)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 117",
+            "topic": "Causas de improcedencia"
+        },
+        {
+            "tag": "sobreseimiento_procedimiento",
+            "patterns": [
+                "¿Qué es el sobreseimiento según el artículo 118?",
+                "¿Puede decretarse si el responsable fallece?",
+                "¿Cómo se solicita?",
+                "¿Puedo oponerme al sobreseimiento?",
+                "¿Qué efectos tiene?"
+            ],
+            "responses": [
+                "📘 **La conclusión del procedimiento por causas legales** (Art. 118.1). Ej: muerte del implicado.",
+                "🔹 **Sí, es causal automática** (Art. 118.1.III).",
+                "🎯 **Por las partes o de oficio por la Autoridad** (Art. 118.2).",
+                "📘 **Sí, alegando que no aplican las causales** (Art. 118.2).",
+                "🔹 **Extingue el procedimiento, pero no necesariamente la responsabilidad civil/penal** (Art. 118)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 118",
+            "topic": "Sobreseimiento"
+        },
+        {
+            "tag": "excusas_recusacion",
+            "patterns": [
+                "¿Cuándo puedo recusar a un investigador según el artículo 119?",
+                "¿Qué debo probar para recusar?",
+                "¿Quién resuelve la recusación?",
+                "¿Puedo recusar a un perito?",
+                "¿Qué pasa si me niegan la recusación?"
+            ],
+            "responses": [
+                "📘 **Por conflicto de interés o falta de imparcialidad** (Art. 119.1).",
+                "🔹 **Vínculos personales, económicos o actuaciones previas parciales** (Art. 119.1).",
+                "🎯 **El Titular de la Contraloría o la Comisión de Responsabilidades** (Art. 119.2).",
+                "📘 **Sí, si no es imparcial** (Art. 119 + 98).",
+                "🔹 **Puedes insistir con nuevas pruebas o impugnar la resolución** (Art. 119 + 138)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 119",
+            "topic": "Excusas y recusación"
+        },
+        {
+            "tag": "audiencias_privadas",
+            "patterns": [
+                "¿Las audiencias son públicas según el artículo 120?",
+                "¿Puedo grabar la audiencia?",
+                "¿Qué pasa si alguien interrumpe?",
+                "¿Debe levantarse acta?",
+                "¿Puedo llevar acompañante?"
+            ],
+            "responses": [
+                "📘 **No, son privadas** (Art. 120.I).",
+                "🔹 **No, salvo autorización expresa** (Art. 120.II).",
+                "🎯 **Puede ser desalojado** (Art. 120.II).",
+                "📘 **Sí, con detalles de participantes y hechos** (Art. 120.III).",
+                "🔹 **Sí, si es tu autorizado o abogado** (Art. 120 + 54)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 120",
+            "topic": "Audiencias privadas"
+        },
+        {
+            "tag": "orden_audiencias",
+            "patterns": [
+                "¿Quién mantiene el orden en las audiencias según el artículo 121?",
+                "¿Pueden sacarme de la audiencia si interrumpo?",
+                "¿Qué conductas se sancionan durante la audiencia?",
+                "¿Puedo grabar la audiencia si la Autoridad no lo permite?",
+                "¿Qué pasa si un testigo se niega a responder?"
+            ],
+            "responses": [
+                "📘 **Quien preside la audiencia** (Art. 121.1).",
+                "🔹 **Sí, por alterar el orden o faltar al respeto** (Art. 121.2).",
+                "🎯 **Interrupciones, insultos o desacatos** (Art. 121.2). Pueden derivar en sanciones administrativas.",
+                "📘 **No, es una audiencia privada** (Art. 120.I + 121.2).",
+                "🔹 **Se le apercibe y puede ser sancionado** (Art. 121.2 + 83)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 121",
+            "topic": "Orden en las audiencias"
+        },
+        {
+            "tag": "tipos_resoluciones",
+            "patterns": [
+                "¿Qué tipos de resoluciones existen según el artículo 122?",
+                "¿Un auto preparatorio puede ser impugnado?",
+                "¿Qué diferencia hay entre un auto y una resolución definitiva?",
+                "¿Puedo pedir copia de las resoluciones intermedias?",
+                "¿Quién firma las resoluciones definitivas?"
+            ],
+            "responses": [
+                "📘 **Acuerdos, autos provisionales, autos preparatorios, interlocutorias y definitivas** (Art. 122.I-V).",
+                "🔹 **Sí, si afecta derechos fundamentales** (Art. 122.III + 138).",
+                "🎯 **Los autos son decisiones parciales; las definitivas resuelven el fondo** (Art. 122).",
+                "📘 **Sí, son parte del expediente** (Art. 122 + 31).",
+                "🔹 **El titular de la Autoridad o el presidente/secretario del órgano colegiado** (Art. 123)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 122",
+            "topic": "Tipos de resoluciones"
+        },
+        {
+            "tag": "firma_resoluciones",
+            "patterns": [
+                "¿Quién debe firmar las resoluciones según el artículo 123?",
+                "¿Qué pasa si un integrante del órgano colegiado no firma?",
+                "¿Puede ser digital la firma?",
+                "¿Las resoluciones sin firma son válidas?",
+                "¿Cómo se acredita la firma en actas de sesiones?"
+            ],
+            "responses": [
+                "📘 **El titular de la Autoridad o presidente/secretario del órgano colegiado** (Art. 123.1).",
+                "🔹 **Debe justificarse; de lo contrario, puede anularse** (Art. 123.2).",
+                "🎯 **Sí, si la Universidad acepta firmas electrónicas** (Art. 123 + 5).",
+                "📘 **No, son nulas** (Art. 123.1).",
+                "🔹 **Con sello oficial y firma del secretario** (Art. 123.1)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 123",
+            "topic": "Firma de resoluciones"
+        },
+        {
+            "tag": "aclaracion_resoluciones",
+            "patterns": [
+                "¿Puedo pedir aclaración de una resolución según el artículo 124?",
+                "¿Qué plazo tengo para solicitarla?",
+                "¿La aclaración puede modificar el fondo de la resolución?",
+                "¿Qué pasa si la Autoridad no responde?",
+                "¿Puedo aclarar solo una parte de la resolución?"
+            ],
+            "responses": [
+                "📘 **Sí, si hay conceptos oscuros o imprecisos** (Art. 124.1).",
+                "🔹 **3 días hábiles tras la notificación** (Art. 124.2).",
+                "🎯 **No, solo explica sin alterar el sentido** (Art. 124.1).",
+                "📘 **Se considera negada y puedes impugnar** (Art. 124.2 + 138).",
+                "🔹 **Sí, señalando el párrafo específico** (Art. 124.1)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 124",
+            "topic": "Aclaración de resoluciones"
+        },
+        {
+            "tag": "resolucion_firme",
+            "patterns": [
+                "¿Cuándo queda firme una resolución según el artículo 125?",
+                "¿Puedo impugnar después de ese plazo?",
+                "¿Qué efectos tiene la firmeza?",
+                "¿Cómo sé si mi recurso interrumpió la firmeza?",
+                "¿Puede la Autoridad modificar una resolución firme?"
+            ],
+            "responses": [
+                "📘 **Tras agotar plazos para impugnar y no haber recursos** (Art. 125).",
+                "🔹 **No, salvo error material o fraude** (Art. 125 + 124).",
+                "🎯 **Es ejecutable y no recurrible** (Art. 125 + 129).",
+                "📘 **La Autoridad debe notificarte la admisión del recurso** (Art. 125 + 138).",
+                "🔹 **Solo para corregir errores formales** (Art. 124)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 125",
+            "topic": "Resolución firme"
+        },
+        {
+            "tag": "procedimiento_faltas_no_graves",
+            "patterns": [
+                "¿Cómo inicia el procedimiento para faltas no graves según el artículo 126?",
+                "¿Qué derechos tengo en la audiencia inicial?",
+                "¿Puedo presentar pruebas después de la audiencia inicial?",
+                "¿Cuánto dura la etapa de resolución?",
+                "¿Quién notifica la resolución definitiva?"
+            ],
+            "responses": [
+                "📘 **Con la admisión del Informe de Presunta Responsabilidad y citatorio a audiencia** (Art. 126.I-II).",
+                "🔹 **A no autoincriminarte, ofrecer pruebas y tener representación** (Art. 126.II).",
+                "🎯 **Solo pruebas supervenientes** (Art. 126.VII + 67).",
+                "📘 **Hasta 30 días hábiles, ampliables por 30 más** (Art. 126.XII).",
+                "🔹 **La Autoridad Resolutora a las partes y superiores jerárquicos** (Art. 126.XIII)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 126",
+            "topic": "Procedimiento para faltas no graves"
+        },
+        {
+            "tag": "procedimiento_faltas_graves",
+            "patterns": [
+                "¿Qué autoridad resuelve faltas graves según el artículo 127?",
+                "¿El procedimiento es igual al de faltas no graves?",
+                "¿Puedo impugnar antes de la resolución definitiva?",
+                "¿Qué pasa si el Consejo no aprueba el dictamen?",
+                "¿Quién ejecuta la sanción?"
+            ],
+            "responses": [
+                "📘 **Los Consejos Universitarios (General, de Centro, SEMS, etc.)** (Art. 127.XIII).",
+                "🔹 **Similar, pero con intervención de órganos colegiados** (Art. 127 vs. 126).",
+                "🎯 **Sí, mediante incidentes o recursos** (Art. 127 + 112).",
+                "📘 **Se devuelve a la Comisión para modificaciones** (Art. 127.XIII).",
+                "🔹 **Las autoridades universitarias del implicado** (Art. 127.XIV + 131)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 127",
+            "topic": "Procedimiento para faltas graves"
+        },
+        {
+            "tag": "contenido_resolucion_definitiva",
+            "patterns": [
+                "¿Qué debe contener la resolución definitiva según el artículo 128?",
+                "¿Debe mencionar todas las pruebas consideradas?",
+                "¿Puede ordenar investigar a otras personas?",
+                "¿Qué son los 'puntos resolutivos'?",
+                "¿Cómo se relaciona la conducta con el daño al patrimonio?"
+            ],
+            "responses": [
+                "📘 **Hechos, pruebas, fundamentos, declaración de responsabilidad y puntos resolutivos** (Art. 128.I-VIII).",
+                "🔹 **Sí, con su valoración** (Art. 128.V).",
+                "🎯 **Sí, si hay indicios contra otros** (Art. 128.IX).",
+                "📘 **Las órdenes específicas para ejecutar la resolución** (Art. 128.X).",
+                "🔹 **Debe probarse el nexo causal** (Art. 128.VII)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 128",
+            "topic": "Contenido de la resolución definitiva"
+        },
+        {
+            "tag": "ejecucion_resoluciones",
+            "patterns": [
+                "¿Cómo se ejecuta una resolución según el artículo 129?",
+                "¿Puede la Autoridad fijar plazos para cumplirla?",
+                "¿Qué pasa si no se cumple?",
+                "¿Puedo pedir prórroga?",
+                "¿Quién supervisa la ejecución?"
+            ],
+            "responses": [
+                "📘 **Según lo ordenado en los puntos resolutivos** (Art. 129).",
+                "🔹 **Sí, son parte de la resolución** (Art. 129 + 128.X).",
+                "🎯 **Puede derivar en sanciones por desacato** (Art. 129 + 14.XV).",
+                "📘 **Sí, con justificación** (Art. 129 + 41).",
+                "🔹 **La Autoridad Resolutora y la Contraloría** (Art. 129 + 132)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 129",
+            "topic": "Ejecución de resoluciones"
+        },
+        {
+            "tag": "resolucion_no_responsabilidad",
+            "patterns": [
+                "¿Qué pasa si la resolución me declara no responsable según el artículo 130?",
+                "¿Deben restituirme en mi puesto?",
+                "¿Puedo demandar daños morales?",
+                "¿Qué pasa con las medidas cautelares?",
+                "¿Se publica la resolución a mi favor?"
+            ],
+            "responses": [
+                "📘 **Se notifica a autoridades para restituir tus derechos** (Art. 130).",
+                "🔹 **Sí, con goce de salarios caídos si hubo suspensión** (Art. 130 + 23).",
+                "🎯 **Sí, por vía civil** (Art. 130 + normativa externa).",
+                "📘 **Se levantan de inmediato** (Art. 130 + 30).",
+                "🔹 **Solo si lo solicitas** (Art. 130 + 24)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 130",
+            "topic": "Resolución de no responsabilidad"
+        },
+        {
+            "tag": "ejecucion_sancion",
+            "patterns": [
+                "¿Cuándo se ejecuta una sanción según el artículo 131?",
+                "¿Puedo seguir trabajando mientras recurro la sanción?",
+                "¿Qué pasa si la sanción es inhabilitación?",
+                "¿Quién notifica a mi jefe inmediato?",
+                "¿Puedo pedir suspender la ejecución?"
+            ],
+            "responses": [
+                "📘 **Cuando la resolución queda firme** (Art. 131).",
+                "🔹 **Depende: si hay medidas cautelares, sí** (Art. 131 + 23).",
+                "🎯 **Se notifica a todas las áreas para que no te contraten** (Art. 131 + 19.IV).",
+                "📘 **La Autoridad Resolutora** (Art. 131 + 126.XIII).",
+                "🔹 **Solo con recurso de suspensión** (Art. 131 + 138)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 131",
+            "topic": "Ejecución de la sanción"
+        },
+        {
+            "tag": "informe_cumplimiento",
+            "patterns": [
+                "¿Quién debe informar el cumplimiento de la sanción según el artículo 132?",
+                "¿Qué plazo hay para enviar el informe?",
+                "¿Qué debe incluir el informe?",
+                "¿Puedo verificar que se cumplió?",
+                "¿Qué pasa si no se envía el informe?"
+            ],
+            "responses": [
+                "📘 **Las instancias universitarias encargadas de ejecutarla** (Art. 132).",
+                "🔹 **10 días hábiles tras la ejecución** (Art. 132).",
+                "🎯 **Detalles de cómo se cumplió (ej: fecha de separación)** (Art. 132).",
+                "📘 **Sí, solicitando copia a la Autoridad Resolutora** (Art. 132 + 58).",
+                "🔹 **La Autoridad puede requerirlo nuevamente** (Art. 132 + 41)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 132",
+            "topic": "Informe de cumplimiento"
+        },
+        {
+            "tag": "norma_aplicable_recursos",
+            "patterns": [
+                "¿Qué norma regula los recursos según el artículo 133?",
+                "¿El recurso de revisión es el único posible?",
+                "¿Dónde encuentro la Ley Orgánica?",
+                "¿Puedo combinar recursos?",
+                "¿Qué recursos son internos?"
+            ],
+            "responses": [
+                "📘 **Ley Orgánica de la Universidad para el recurso de revisión** (Art. 133.1).",
+                "🔹 **No, también están el de inconformidad y reclamación** (Art. 133.2).",
+                "🎯 **En el portal oficial de la Universidad o la Abogacía General** (Art. 133 + 3.XIII).",
+                "📘 **Sí, si son compatibles** (Art. 133 + 138).",
+                "🔹 **Inconformidad y reclamación** (Art. 133.2)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 133",
+            "topic": "Norma aplicable a recursos"
+        },
+        {
+            "tag": "recurso_inconformidad",
+            "patterns": [
+                "¿Qué puedo impugnar con el recurso de inconformidad según el artículo 134?",
+                "¿Cuánto tiempo tengo para presentarlo?",
+                "¿Qué pasa si no firmo el recurso?",
+                "¿Puedo adjuntar pruebas nuevas?",
+                "¿Quién lo resuelve?"
+            ],
+            "responses": [
+                "📘 **Calificación de faltas no graves, abstención de sancionar o iniciar procedimiento** (Art. 134.I-III).",
+                "🔹 **5 días hábiles tras la notificación** (Art. 134.1).",
+                "🎯 **No se tendrá por presentado** (Art. 135.1.IV).",
+                "📘 **Sí, para sustentar tus argumentos** (Art. 135.2).",
+                "🔹 **La Autoridad Investigadora, Substanciadora o Resolutora** (Art. 137.1)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 134",
+            "topic": "Recurso de inconformidad"
+        },
+        {
+            "tag": "elementos_recurso_inconformidad",
+            "patterns": [
+                "¿Qué debe contener el recurso de inconformidad según el artículo 135?",
+                "¿Puedo presentarlo electrónicamente?",
+                "¿Debo citar artículos del reglamento?",
+                "¿Qué pasa si no tengo todas las pruebas?",
+                "¿Puedo corregirlo si tiene errores?"
+            ],
+            "responses": [
+                "📘 **Nombre, domicilio, hechos impugnados, fundamentos y firma** (Art. 135.1).",
+                "🔹 **Sí, si la Universidad lo permite** (Art. 135 + 5).",
+                "🎯 **Sí, es recomendable para fundamentarlo** (Art. 135.1.III).",
+                "📘 **Sí, pero debes señalar dónde están** (Art. 135.2).",
+                "🔹 **Sí, en 5 días hábiles si te lo piden** (Art. 136)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 135",
+            "topic": "Elementos del recurso de inconformidad"
+        },
+        {
+            "tag": "prevencion_recurso_inconformidad",
+            "patterns": [
+                "¿Qué es una prevención en el recurso de inconformidad según el artículo 136?",
+                "¿Cuánto tiempo tengo para corregirla?",
+                "¿Puedo ampliar mis argumentos?",
+                "¿Qué pasa si no cumplo el plazo?",
+                "¿Puedo impugnar la prevención?"
+            ],
+            "responses": [
+                "📘 **Un requerimiento para aclarar o completar el recurso** (Art. 136.1).",
+                "🔹 **5 días hábiles** (Art. 136.1).",
+                "🎯 **Sí, mientras no cambie el objeto del recurso** (Art. 136).",
+                "📘 **Se desecha el recurso** (Art. 136.2).",
+                "🔹 **No, pero puedes insistir al resolver el recurso** (Art. 136 + 137)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 136",
+            "topic": "Prevención en recurso de inconformidad"
+        },
+        {
+            "tag": "tramitacion_recurso_inconformidad",
+            "patterns": [
+                "¿Dónde presento el recurso de inconformidad según el artículo 137?",
+                "¿Qué información considera la Autoridad?",
+                "¿Qué decisiones puede tomar?",
+                "¿Cuánto tardan en resolver?",
+                "¿Puedo impugnar la resolución?"
+            ],
+            "responses": [
+                "📘 **Ante la Autoridad que emitió el acto impugnado** (Art. 137.1).",
+                "🔹 **El expediente y pruebas nuevas que presentes** (Art. 137.2).",
+                "🎯 **Confirmar, reclasificar la falta o dejar sin efectos la abstención** (Art. 137.3).",
+                "📘 **10 días hábiles** (Art. 137.4).",
+                "🔹 **No, es definitiva** (Art. 137.4)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 137",
+            "topic": "Tramitación del recurso de inconformidad"
+        },
+        {
+            "tag": "elementos_recurso_reclamacion",
+            "patterns": [
+                "¿Qué debe contener el recurso de reclamación según el artículo 138?",
+                "¿Puedo presentarlo sin abogado?",
+                "¿Qué son los 'conceptos de violación'?",
+                "¿Debo adjuntar todos los documentos?",
+                "¿Qué pasa si no están en mi poder?"
+            ],
+            "responses": [
+                "📘 **Nombre, acto impugnado, fundamentos, pruebas y firma** (Art. 138.1).",
+                "🔹 **Sí, pero es recomendable asesoría** (Art. 138.1.II).",
+                "🎯 **Los argumentos legales que invocas** (Art. 138.1.VII). Ej: falta de notificación.",
+                "📘 **Sí, salvo que señales quién los tiene** (Art. 138.2).",
+                "🔹 **Debes explicarlo bajo protesta de decir verdad** (Art. 138.2)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 138",
+            "topic": "Elementos del recurso de reclamación"
+        },
+        {
+            "tag": "admicion_recurso_reclamacion",
+            "patterns": [
+                "¿Qué pasa si mi recurso de reclamación está incompleto según el artículo 139?",
+                "¿Cuánto tiempo tengo para corregirlo?",
+                "¿Pueden rechazarlo sin darme chance de corregir?",
+                "¿Qué debe decir la resolución que admite el recurso?",
+                "¿Puedo agregar pruebas después?"
+            ],
+            "responses": [
+                "📘 **Te previenen para que lo aclares o completes** (Art. 139.1).",
+                "🔹 **5 días hábiles** (Art. 139.1).",
+                "🎯 **Sí, si es manifiestamente improcedente** (Art. 139.2).",
+                "📘 **El alcance del recurso y los actos impugnados** (Art. 139 + 122).",
+                "🔹 **Solo pruebas supervenientes** (Art. 139 + 67)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 139",
+            "topic": "Admisión del recurso de reclamación"
+        },
+        {
+            "tag": "resolucion_recurso_reclamacion",
+            "patterns": [
+                "¿Quién resuelve el recurso de reclamación según el artículo 140?",
+                "¿Cuánto tiempo tienen?",
+                "¿Qué decisiones puede tomar?",
+                "¿Cómo me notifican?",
+                "¿Puedo impugnar la resolución?"
+            ],
+            "responses": [
+                "📘 **La Autoridad Substanciadora** (Art. 140.1).",
+                "🔹 **5 días hábiles tras su admisión** (Art. 140.1).",
+                "🎯 **Confirmar, modificar o revocar lo impugnado** (Art. 140.1).",
+                "📘 **Por escrito o electrónicamente** (Art. 140.2 + 58).",
+                "🔹 **No, es definitivo** (Art. 140.3)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Recursos Públicos",
+            "article": "Artículo 140",
+            "topic": "Resolución del recurso de reclamación"
+        }
+
+    ]
+}

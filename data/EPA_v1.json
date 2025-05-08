@@ -1,0 +1,1346 @@
+{
+    "main_topic": "Estatuto del Personal Académico de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "alcance_estatuto",
+            "patterns": [
+                "¿Qué establece el Artículo 1?",
+                "¿Cuál es el objetivo principal del Estatuto?",
+                "¿Con qué normas debe cumplir este Estatuto?",
+                "¿La Universidad debe apoyar a su personal académico?",
+                "¿Este Estatuto aplica para toda la UdeG?"
+            ],
+            "responses": [
+                "📜 Regula las relaciones entre la UdeG y su personal académico",
+                "🎯 Objetivo: Organizar el trabajo académico según planes de estudio",
+                "⚖️ Debe alinearse con la Ley Orgánica y reglamentos universitarios",
+                "✅ Sí, con programas de desarrollo para el personal",
+                "🏛️ Aplica en todas las dependencias académicas de la UdeG"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 1",
+            "topic": "Disposiciones generales"
+        },
+        {
+            "tag": "definicion_personal_academico",
+            "patterns": [
+                "¿Quiénes son personal académico según Artículo 2?",
+                "¿Qué hace un profesor en la UdeG?",
+                "¿Los investigadores son considerados profesores?",
+                "¿Qué funciones tienen los técnicos académicos?",
+                "¿Un tutor es personal académico?"
+            ],
+            "responses": [
+                "👥 Incluye profesores y técnicos académicos",
+                "📚 Docencia, investigación y formación de recursos humanos",
+                "🔬 Sí, son profesores con enfoque en investigación",
+                "🛠️ Apoyo especializado en programas académicos y servicios",
+                "🎓 Sí, si realiza funciones docentes o formativas"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 2",
+            "topic": "Definición del personal"
+        },
+        {
+            "tag": "funciones_academicas",
+            "patterns": [
+                "¿Cuáles son las funciones del personal académico?",
+                "¿Puede un profesor solo dar clases?",
+                "¿Deben los académicos hacer investigación?",
+                "¿El personal debe participar en extensión cultural?",
+                "¿Se puede dedicar solo a docencia?"
+            ],
+            "responses": [
+                "📋 Docencia, investigación y extensión cultural",
+                "🏫 Sí, pero puede participar en otras actividades académicas",
+                "⚠️ Solo obligatorio para perfiles investigadores",
+                "🎨 Sí, cuando forme parte de sus funciones asignadas",
+                "👩🏫 Sí, especialmente en contratos por asignatura"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 3",
+            "topic": "Funciones del personal"
+        },
+        {
+            "tag": "ambito_trabajo",
+            "patterns": [
+                "¿Dónde trabaja el personal académico?",
+                "¿Pueden dar clases en varias facultades?",
+                "¿Los investigadores trabajan solo en laboratorios?",
+                "¿Deben seguir los planes institucionales?",
+                "¿Pueden trabajar fuera de los campus?"
+            ],
+            "responses": [
+                "🏢 Facultades, centros, institutos y dependencias UdeG",
+                "🔄 Sí, con autorización de las dependencias involucradas",
+                "🌐 No, también en campo según necesidades de investigación",
+                "📊 Sí, deben ajustarse a planes y programas oficiales",
+                "📍 Sí, cuando su actividad académica lo requiera"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 4",
+            "topic": "Ámbito de trabajo"
+        },
+        {
+            "tag": "clasificacion_personal",
+            "patterns": [
+                "¿Cómo se clasifica el personal académico?",
+                "¿Qué es un profesor titular?",
+                "¿Qué significa ser de tiempo completo?",
+                "¿Hay profesores temporales?",
+                "¿Un técnico puede ser de carrera?"
+            ],
+            "responses": [
+                "🗂️ Por categoría (titular/asociado/asistente) y tipo de contrato",
+                "👑 Máxima categoría, dirige proyectos y forma recursos",
+                "⏰ 40 horas semanales dedicadas a la Universidad",
+                "📅 Sí, los contratados por tiempo determinado",
+                "🔧 Sí, técnicos pueden tener plazas de carrera"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 5",
+            "topic": "Clasificación"
+        },
+        {
+            "tag": "categorias_profesores",
+            "patterns": [
+                "¿Cómo se definen las categorías de profesores en el Artículo 6?",
+                "¿Qué funciones tiene un profesor titular?",
+                "¿Qué hace un profesor asociado?",
+                "¿Cuál es el rol de un profesor asistente?",
+                "¿Las categorías de profesores son iguales en todos los niveles?"
+            ],
+            "responses": [
+                "👑 Titular: Dirige programas académicos y forma recursos humanos",
+                "📚 Asociado: Realiza actividades académicas bajo supervisión del titular",
+                "🛠️ Asistente: Auxilia en labores docentes o de investigación",
+                "🎯 Cada categoría tiene responsabilidades específicas según el nivel",
+                "⚠️ No, varían según sea nivel medio superior o superior"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 6",
+            "topic": "Categorías de profesores"
+        },
+        {
+            "tag": "jornada_laboral",
+            "patterns": [
+                "¿Cuántas horas trabaja un académico de medio tiempo?",
+                "¿Qué diferencia hay entre tiempo completo y medio tiempo?",
+                "¿Cómo se paga a los profesores por asignatura?",
+                "¿Los técnicos académicos pueden ser de tiempo completo?",
+                "¿Las horas de investigación cuentan para la jornada laboral?"
+            ],
+            "responses": [
+                "⏳ Medio tiempo: 20 horas semanales (Art. 7)",
+                "📊 Tiempo completo: 40 hrs | Medio tiempo: 20 hrs | Asignatura: por horas",
+                "💰 Profesores por asignatura se pagan según tabulador por horas impartidas",
+                "✅ Sí, técnicos pueden ser de tiempo completo o medio tiempo",
+                "🔍 Sí, todas las actividades académicas cuentan para la jornada"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 7",
+            "topic": "Jornada laboral"
+        },
+        {
+            "tag": "tipo_contratacion",
+            "patterns": [
+                "¿Qué tipos de contratación existen según el Artículo 8?",
+                "¿Qué es un académico por tiempo indeterminado?",
+                "¿Un profesor temporal puede volverse definitivo?",
+                "¿Qué derechos tiene el personal definitivo?",
+                "¿Cómo se pierde la categoría de definitivo?"
+            ],
+            "responses": [
+                "📝 Definitivo (permanente) o por tiempo determinado (temporal)",
+                "🏛️ Personal permanente que realiza funciones de manera regular",
+                "🔄 Sí, cumpliendo requisitos del Reglamento de Ingreso y Promoción",
+                "🛡️ Inamovilidad en el cargo (salvo causas justificadas)",
+                "⚖️ Por incumplimiento grave, incapacidad o inmoralidad comprobada"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 8",
+            "topic": "Tipo de contratación"
+        },
+        {
+            "tag": "formas_incorporacion",
+            "patterns": [
+                "¿Qué formas de incorporación existen para el personal académico?",
+                "¿Qué es un académico por nombramiento?",
+                "¿Cuándo se usa el contrato para personal académico?",
+                "¿Qué es el personal interino?",
+                "¿Los profesores visitantes son contratados?"
+            ],
+            "responses": [
+                "📌 Por nombramiento (plaza permanente) o contrato (temporal)",
+                "📜 Nombramiento: Para plazas definitivas con derechos completos",
+                "🕒 Contrato: Para necesidades temporales o proyectos específicos",
+                "⚠️ Interino: Cubre plazas temporales cuando no hay concursantes",
+                "🌍 Visitantes: Contratados por tiempo determinado para programas especiales"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 9",
+            "topic": "Formas de incorporación"
+        },
+        {
+            "tag": "academicos_visitantes",
+            "patterns": [
+                "¿Quiénes son considerados académicos visitantes?",
+                "¿Qué derechos tienen los académicos visitantes?",
+                "¿Pueden votar en consejos universitarios?",
+                "¿Se respeta su categoría de otras instituciones?",
+                "¿Cuánto tiempo pueden estar como visitantes?"
+            ],
+            "responses": [
+                "✈️ Académicos externos invitados para funciones específicas",
+                "📋 Derechos limitados a lo establecido en su contrato",
+                "🚫 No pueden participar en órganos de gobierno universitario",
+                "🏛️ Sí, se respeta su categoría original hasta por 1 año",
+                "⌛ Máximo 1 año, prorrogable excepcionalmente"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 10",
+            "topic": "Académicos visitantes"
+        },
+        {
+            "tag": "titulos_honorificos_universitarios",
+            "patterns": [
+                "¿Qué títulos honoríficos otorga la UdeG?",
+                "¿A quiénes se concede el Maestro Emérito?",
+                "¿El Doctor Honoris Causa requiere ser académico?",
+                "¿Estos títulos dan derechos laborales?",
+                "¿Quién aprueba estos reconocimientos?"
+            ],
+            "responses": [
+                "🏆 Maestro Emérito y Doctor Honoris Causa",
+                "🎓 A quienes destaquen en educación, ciencia o cultura",
+                "🌍 No, se otorga por contribuciones excepcionales en cualquier ámbito",
+                "📜 No confieren derechos laborales adicionales",
+                "✅ Consejo General Universitario según reglamentos"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 11",
+            "topic": "Títulos honoríficos universitarios"
+        },
+        {
+            "tag": "definicion_profesores_universitarios",
+            "patterns": [
+                "¿Quiénes son considerados profesores en la UdeG?",
+                "¿Los investigadores entran en esta categoría?",
+                "¿Un profesor puede ser solo de investigación?",
+                "¿Hay diferencias entre profesores de carrera y asignatura?",
+                "¿Qué niveles existen para profesores?"
+            ],
+            "responses": [
+                "👨🏫 Quienes realizan docencia o investigación según planes de estudio",
+                "🔬 Sí, si generan conocimiento y forman recursos humanos",
+                "✅ Sí, existen perfiles exclusivos de investigación",
+                "📅 Carrera: contratación permanente | Asignatura: por horas",
+                "📊 Niveles A, B y C en cada categoría (asistente, asociado, titular)"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 12",
+            "topic": "Definición de profesores universitarios"
+        },
+        {
+            "tag": "requisitos_profesores_asignatura",
+            "patterns": [
+                "¿Qué se necesita para ser Profesor de Asignatura A?",
+                "¿Puedo dar clases en bachillerato sin título profesional?",
+                "¿Qué diferencia hay entre nivel A y B en asignatura?",
+                "¿Cómo se promueve de Asignatura A a B?",
+                "¿Hay que demostrar aptitud pedagógica?"
+            ],
+            "responses": [
+                "📝 En media superior: ser pasante o tener título técnico",
+                "🎓 Sí, demostrando dominio de la materia ante jurado calificador",
+                "📈 Nivel B exige título profesional o 3 años de antigüedad en A",
+                "⏳ 3 años en nivel A + evaluación excelente",
+                "✅ Sí, todos deben demostrar aptitudes docentes"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 13",
+            "topic": "Requisitos para profesores por asignatura"
+        },
+        {
+            "tag": "categorias_profesores_carrera",
+            "patterns": [
+                "¿Qué categorías existen para profesores de carrera?",
+                "¿Un asistente puede ser de tiempo completo?",
+                "¿Cuántos niveles hay por categoría?",
+                "¿Qué diferencia un asociado de un titular?",
+                "¿Se puede ser titular sin doctorado?"
+            ],
+            "responses": [
+                "🏅 Asistente, Asociado y Titular (cada uno con niveles A/B/C)",
+                "✅ Sí, en cualquier categoría y nivel",
+                "3️⃣ Tres niveles (A, B, C) por categoría",
+                "🎯 Titular dirige programas, Asociado trabaja bajo supervisión",
+                "📜 Sí, con maestría + experiencia o licenciatura + 15 años"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 14",
+            "topic": "Categorías para profesores de carrera"
+        },
+        {
+            "tag": "ingreso_profesor_asistente_A",
+            "patterns": [
+                "¿Qué necesito para ingresar como Asistente A?",
+                "¿Aceptan créditos incompletos de licenciatura?",
+                "¿Un técnico profesional puede ser Asistente A?",
+                "¿Hay que acumular puntos para este nivel?",
+                "¿Se requiere experiencia previa?"
+            ],
+            "responses": [
+                "📚 80% de créditos de licenciatura o título técnico",
+                "✅ Sí, con al menos 80% de créditos aprobados",
+                "🛠️ Sí, con título técnico profesional o subprofesional",
+                "🚫 No se menciona requisito de puntos para ingreso",
+                "⚠️ No se exige experiencia mínima"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 15",
+            "topic": "Requisitos de ingreso para Profesor Asistente A"
+        },
+        {
+            "tag": "promocion_profesor_asistente_B",
+            "patterns": [
+                "¿Cómo asciendo a Asistente B?",
+                "¿Qué antigüedad necesito para promocionar?",
+                "¿Cuántos puntos exige el nivel B?",
+                "¿Puedo saltar de Asignatura A a Asistente B?",
+                "¿Un título técnico es suficiente?"
+            ],
+            "responses": [
+                "🔄 3 años en nivel A o título profesional",
+                "⏳ 3 años como Asistente A o Profesor Asignatura A",
+                "📊 5,000 puntos según tabulador universitario",
+                "✅ Sí, con título profesional y puntos requeridos",
+                "🛠️ Sí, título técnico profesional + 3 años de antigüedad"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 16",
+            "topic": "Proceso de promoción a Profesor Asistente B"
+        },
+        {
+            "tag": "requisitos_profesor_asistente_C",
+            "patterns": [
+                "¿Qué se necesita para ser Asistente C?",
+                "¿Un licenciado sin experiencia puede ingresar?",
+                "¿Cuántos puntos piden para este nivel?",
+                "¿Hay equivalencias para técnicos subprofesionales?",
+                "¿Puedo promocionar desde Asignatura B?"
+            ],
+            "responses": [
+                "🎓 Título de licenciado o técnico profesional con experiencia",
+                "🚫 No, requiere 3-6 años según formación",
+                "🔢 10,000 puntos en tabulador",
+                "⏳ Técnico subprofesional: 6 años de antigüedad",
+                "✅ Sí, con 3 años en Asignatura B + puntos requeridos"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 17",
+            "topic": "Requisitos para Profesor Asistente C"
+        },
+        {
+            "tag": "criterios_profesor_asociado_A",
+            "patterns": [
+                "¿Qué se requiere para Asociado A?",
+                "¿Cuántos puntos necesito?",
+                "¿Puedo ingresar con licenciatura y experiencia?",
+                "¿Qué trabajo acredita competencia?",
+                "¿Hay requisitos diferentes por nivel educativo?"
+            ],
+            "responses": [
+                "📜 Maestría en progreso o licenciatura + 3 años",
+                "📈 15,000 puntos según tabulador",
+                "✅ Sí, con 3 años de antigüedad + trabajo demostrativo",
+                "📚 Investigación, docencia o publicación relevante",
+                "🏫 Media superior: técnico profesional + 6 años"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 18",
+            "topic": "Criterios para Profesor Asociado A"
+        },
+        {
+            "tag": "proceso_promocion_asociado_B",
+            "patterns": [
+                "¿Cómo llego a Asociado B?",
+                "¿Un doctorando puede promocionar?",
+                "¿Qué actividades acreditan competencia?",
+                "¿Cuánta antigüedad necesito?",
+                "¿Los puntos son acumulables?"
+            ],
+            "responses": [
+                "🔼 3 años como Asociado A o grado superior",
+                "🎓 Sí, con 100% créditos de doctorado",
+                "📝 Investigación original o dirección académica",
+                "⏳ 6 años con licenciatura o 10 en media superior",
+                "💯 Sí, 25,000 puntos requeridos"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 19",
+            "topic": "Proceso de promoción a Profesor Asociado B"
+        },
+        {
+            "tag": "requisitos_profesor_asociado_C",
+            "patterns": [
+                "¿Qué se necesita para ser Asociado C?",
+                "¿Un maestro con experiencia puede llegar a este nivel?",
+                "¿Qué tipo de seminarios debo haber dirigido?",
+                "¿Cuántos puntos exige este nivel?",
+                "¿Puedo promocionar desde Asociado B sin doctorado?"
+            ],
+            "responses": [
+                "🎓 Doctorado o maestría + 3 años de antigüedad",
+                "✅ Sí, con maestría + 3 años o licenciatura + 10 años",
+                "📚 Seminarios de posgrado o tesis concluidas",
+                "📊 35,000 puntos según tabulador",
+                "🔄 Sí, con 3 años en nivel B + cumplir otros requisitos"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 20",
+            "topic": "Requisitos para Profesor Asociado C"
+        },
+        {
+            "tag": "ingreso_profesor_titular_A",
+            "patterns": [
+                "¿Cómo ingreso como Titular A?",
+                "¿Qué se considera trabajo original?",
+                "¿Un maestro puede ser titular?",
+                "¿Cuántos años de antigüedad necesito con licenciatura?",
+                "¿Hay que dirigir tesis para este nivel?"
+            ],
+            "responses": [
+                "🔝 Doctorado + 3 años o maestría + 6 años",
+                "📖 Publicaciones, patentes o contribuciones académicas",
+                "🎓 Sí, con 6 años de antigüedad como maestro",
+                "⏳ 15 años con título de licenciatura",
+                "📝 Sí, dirección de tesis o producción académica"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 21",
+            "topic": "Ingreso a Profesor Titular A"
+        },
+        {
+            "tag": "actividades_profesor_titular_B",
+            "patterns": [
+                "¿Qué actividades específicas requiere Titular B?",
+                "¿Cuántas tesis de posgrado debo haber dirigido?",
+                "¿Participar en comisiones cuenta para promoción?",
+                "¿Se considera el diseño curricular?",
+                "¿Cuántos puntos necesito?"
+            ],
+            "responses": [
+                "📌 4 de 7 actividades: formación docente, diseño curricular, etc.",
+                "2️⃣ Mínimo 2 tesis de posgrado dirigidas",
+                "✅ Sí, participación en comisiones dictaminadoras",
+                "📐 Sí, modificación o diseño de planes de estudio",
+                "💯 75,000 puntos en tabulador"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 22",
+            "topic": "Actividades para Profesor Titular B"
+        },
+        {
+            "tag": "publicaciones_profesor_titular_C",
+            "patterns": [
+                "¿Qué publicaciones necesita un Titular C?",
+                "¿Los artículos deben ser arbitrados?",
+                "¿Cuántas actividades de dirección son necesarias?",
+                "¿Un libro de texto cuenta como publicación?",
+                "¿Hay requisitos de antigüedad específicos?"
+            ],
+            "responses": [
+                "📚 1 libro de texto + 1 científico + 4 artículos especializados",
+                "🖋️ Sí, en publicaciones con comité editorial",
+                "5️⃣ Mínimo 5 actividades de dirección académica",
+                "✅ Sí, como parte de los requisitos",
+                "⏳ Doctorado + 10 años o maestría + 15 años"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 23",
+            "topic": "Publicaciones para Profesor Titular C"
+        },
+        {
+            "tag": "definicion_tecnicos_academicos",
+            "patterns": [
+                "¿Quiénes son técnicos académicos?",
+                "¿Pueden dar clases?",
+                "¿Qué áreas cubren?",
+                "¿Son considerados personal docente?",
+                "¿Tienen categorías como los profesores?"
+            ],
+            "responses": [
+                "🛠️ Personal que realiza tareas especializadas en programas académicos",
+                "🚫 No como función principal, salvo excepciones",
+                "🔧 Apoyo en laboratorios, talleres, sistemas informáticos, etc.",
+                "📌 Son personal académico pero no necesariamente docentes",
+                "✅ Sí: Asistente, Asociado y Titular con niveles A/B/C"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 24",
+            "topic": "Definición de técnicos académicos"
+        },
+        {
+            "tag": "jornada_tecnicos_academicos",
+            "patterns": [
+                "¿Los técnicos pueden ser de tiempo completo?",
+                "¿Cuántas horas trabaja un técnico de medio tiempo?",
+                "¿Tienen las mismas categorías que profesores?",
+                "¿Un técnico titular equivale a profesor titular?",
+                "¿Pueden cambiar de categoría?"
+            ],
+            "responses": [
+                "✅ Sí, bajo las mismas condiciones que profesores",
+                "⏳ 20 horas semanales (igual que personal docente)",
+                "📌 Sí: Asistente, Asociado, Titular con niveles A/B/C",
+                "⚠️ No, son escalafones paralelos pero independientes",
+                "🔄 Sí, mediante concurso de oposición"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 25",
+            "topic": "Jornada laboral de técnicos académicos"
+        },
+        {
+            "tag": "ingreso_tecnico_asistente_A",
+            "patterns": [
+                "¿Qué estudios necesita un Técnico Asistente A?",
+                "¿Hay límite de edad para ingresar?",
+                "¿Se requiere experiencia previa?",
+                "¿Deben presentar examen?",
+                "¿Pueden ascender sin estudios superiores?"
+            ],
+            "responses": [
+                "📜 Certificado de primaria o secundaria completa",
+                "🚫 No se especifica límite de edad",
+                "⚠️ No se exige experiencia mínima",
+                "📝 Sí, mediante concurso de oposición",
+                "🔄 Sí, pero con más años de antigüedad"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 26",
+            "topic": "Ingreso como Técnico Asistente A"
+        },
+        {
+            "tag": "promocion_tecnico_asistente_B",
+            "patterns": [
+                "¿Cómo asciende un Técnico a Asistente B?",
+                "¿Qué estudios equivalen a bachillerato?",
+                "¿Cuántos puntos necesito para promocionar?",
+                "¿Puedo saltarme niveles?",
+                "¿La antigüedad cuenta para este ascenso?"
+            ],
+            "responses": [
+                "🎓 Bachillerato completo o 3 años como Asistente A",
+                "📜 Estudios técnicos subprofesionales",
+                "📊 5,000 puntos en tabulador",
+                "🚫 No, es necesario pasar por cada nivel",
+                "✅ Sí, 3 años en nivel anterior"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 27",
+            "topic": "Promoción a Técnico Asistente B"
+        },
+        {
+            "tag": "requisitos_tecnico_asistente_C",
+            "patterns": [
+                "¿Qué se necesita para ser Técnico Asistente C?",
+                "¿Un técnico profesional entra directamente a este nivel?",
+                "¿Cuánta antigüedad se requiere con bachillerato?",
+                "¿Los puntos son obligatorios?",
+                "¿Puedo promocionar desde Asistente B sin título?"
+            ],
+            "responses": [
+                "📚 Licenciatura en progreso o título técnico profesional",
+                "✅ Sí, con título técnico profesional",
+                "⏳ 3 años con bachillerato completo",
+                "💯 10,000 puntos si se usa antigüedad",
+                "🔄 Sí, con 3 años en nivel B + puntos requeridos"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 28",
+            "topic": "Requisitos para Técnico Asistente C"
+        },
+        {
+            "tag": "perfil_tecnico_asociado_A",
+            "patterns": [
+                "¿Qué diferencia a un Técnico Asociado A?",
+                "¿Un licenciado ingresa directamente aquí?",
+                "¿Qué actividades debe acreditar?",
+                "¿Hay equivalencias para bachilleres?",
+                "¿Cuántos puntos exige este nivel?"
+            ],
+            "responses": [
+                "🔝 Mayor especialización y responsabilidad técnica",
+                "🎓 Sí, con título de licenciatura",
+                "🛠️ Experiencia en apoyo a docencia/investigación",
+                "📜 Bachillerato + 6 años de antigüedad",
+                "📈 20,000 puntos según tabulador"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 29",
+            "topic": "Perfil de Técnico Asociado A"
+        },
+        {
+            "tag": "proceso_promocion_tecnico_asociado_B",
+            "patterns": [
+                "¿Cómo llego a Técnico Asociado B?",
+                "¿Qué estudios superiores se reconocen?",
+                "¿Debo acreditar actividades específicas?",
+                "¿Cuánta antigüedad necesito con licenciatura?",
+                "¿Los puntos son acumulables entre niveles?"
+            ],
+            "responses": [
+                "🔼 Maestría en progreso o 3 años como Asociado A",
+                "📚 100% créditos de maestría o licenciatura completa",
+                "✅ Sí, actividades de apoyo académico comprobadas",
+                "⏳ 3 años con título de licenciatura",
+                "💯 Sí, se requieren 30,000 puntos"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 30",
+            "topic": "Proceso de promoción a Técnico Asociado B"
+        },
+        {
+            "tag": "experiencia_tecnico_asociado_C",
+            "patterns": [
+                "¿Qué experiencia necesita un Técnico Asociado C?",
+                "¿Un maestro entra directamente a este nivel?",
+                "¿En qué áreas debe tener especialización?",
+                "¿Cuántos puntos requiere?",
+                "¿Puedo promocionar desde Asociado B sin maestría?"
+            ],
+            "responses": [
+                "🔧 3 años en su área de especialidad técnica",
+                "🎓 Sí, con grado de maestro",
+                "🛠️ En la materia o área técnica de su adscripción",
+                "📊 35,000 puntos en tabulador",
+                "✅ Sí, con 6 años de antigüedad como licenciado"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 31",
+            "topic": "Experiencia para Técnico Asociado C"
+        },
+        {
+            "tag": "requisitos_tecnico_titular_A",
+            "patterns": [
+                "¿Qué se necesita para ser Técnico Titular A?",
+                "¿Un doctorado es obligatorio?",
+                "¿Qué son tareas altamente especializadas?",
+                "¿Cuántos puntos exige este nivel?",
+                "¿Puedo ingresar solo con maestría?"
+            ],
+            "responses": [
+                "🎓 Doctorado en progreso o maestría + 3 años",
+                "🚫 No, pero acelera el proceso",
+                "🔬 Proyectos técnicos complejos esenciales para la institución",
+                "📈 45,000 puntos según tabulador",
+                "✅ Sí, con maestría + 3 años de antigüedad"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 32",
+            "topic": "Requisitos para Técnico Titular A"
+        },
+        {
+            "tag": "habilidades_tecnico_titular_B",
+            "patterns": [
+                "¿Qué habilidades diferencia a un Titular B?",
+                "¿Debe tener experiencia en planeación?",
+                "¿Cuántos años de antigüedad se requieren?",
+                "¿Los puntos aumentan respecto al nivel A?",
+                "¿Un técnico puede llegar a este nivel sin posgrado?"
+            ],
+            "responses": [
+                "📊 Planeación, organización y evaluación de programas técnicos",
+                "✅ Sí, en diseño/implementación de sistemas académicos",
+                "⏳ Doctorado + 3 años o licenciatura + 15 años",
+                "💯 50,000 puntos (5,000 más que nivel A)",
+                "🔄 Sí, con licenciatura + 15 años de experiencia"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 33",
+            "topic": "Habilidades para Técnico Titular B"
+        },
+        {
+            "tag": "perfil_tecnico_titular_C",
+            "patterns": [
+                "¿Qué caracteriza a un Técnico Titular C?",
+                "¿Qué tipo de obra pública debe tener?",
+                "¿Hay requisitos de publicaciones?",
+                "¿Cuánta experiencia en gestión se necesita?",
+                "¿Es el nivel máximo para técnicos?"
+            ],
+            "responses": [
+                "🏆 Máxima categoría con obra técnica publicada/exhibida",
+                "📚 Manuales técnicos, sistemas implementados o prototipos",
+                "📝 No artículos científicos, pero sí obra técnica visible",
+                "⏳ 3 años en funciones de alta dirección técnica",
+                "✅ Sí, es la categoría más alta en el escalafón"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 34",
+            "topic": "Perfil de Técnico Titular C"
+        },
+        {
+            "tag": "concurso_oposicion_personal_academico",
+            "patterns": [
+                "¿Todos los ingresos/promociones requieren concurso?",
+                "¿Qué evalúa el concurso de oposición?",
+                "¿Cómo se calculan los puntos para promoción?",
+                "¿Hay equivalencias entre estudios técnicos y profesionales?",
+                "¿Quién conforma las comisiones dictaminadoras?"
+            ],
+            "responses": [
+                "✅ Sí, es obligatorio según Reglamento de Ingreso y Promoción",
+                "📚 Méritos académicos, experiencia y aptitudes",
+                "📊 Según tabulador oficial (arts. 22 y 24 del Reglamento)",
+                "🔄 Sí: bachillerato = normal básica; técnico superior = licenciatura",
+                "👥 Comisiones designadas según normativa universitaria"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 35",
+            "topic": "Proceso de concurso de oposición"
+        },
+        {
+            "tag": "derechos_generales_personal_academico",
+            "patterns": [
+                "¿Tenemos derecho a elegir representantes?",
+                "¿Puedo recibir regalías por mis publicaciones?",
+                "¿Hay apoyo para asistir a congresos?",
+                "¿Podemos trabajar en otras instituciones?",
+                "¿Tenemos derecho a capacitación?"
+            ],
+            "responses": [
+                "✅ Sí, en órganos colegiados según normativa",
+                "💵 Sí, por derechos de autor según reglamentación",
+                "🌍 Sí, según disponibilidad presupuestal",
+                "🏫 Máximo 8 hrs semanales con autorización",
+                "📚 Sí, en todas sus modalidades"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 36",
+            "topic": "Derechos generales del personal académico"
+        },
+        {
+            "tag": "obligaciones_generales_personal_academico",
+            "patterns": [
+                "¿Debo presentar informes de mis actividades?",
+                "¿Es obligatorio asistir a reuniones de academia?",
+                "¿Puedo usar recursos universitarios para proyectos personales?",
+                "¿Debo justificar inasistencias?",
+                "¿Hay sanciones por no cumplir obligaciones?"
+            ],
+            "responses": [
+                "📅 Sí, informes técnicos y financieros oportunos",
+                "👥 Sí, en su horario laboral (salvo justificación)",
+                "🚫 No, es prohibido por el estatuto",
+                "⏰ Sí, ante la dirección de la dependencia",
+                "⚖️ Sí, según Ley Orgánica y normativa aplicable"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 37",
+            "topic": "Obligaciones generales del personal académico"
+        },
+        {
+            "tag": "derechos_especificos_profesores",
+            "patterns": [
+                "¿Puedo pedir cambio de horario como profesor?",
+                "¿Qué pasa si eliminan mi materia del plan de estudios?",
+                "¿Tenemos derecho a año sabático?",
+                "¿Puedo trabajar en una sola dependencia?",
+                "¿Cómo solicito el año sabático?"
+            ],
+            "responses": [
+                "🕒 Sí, al director de dependencia (según necesidades)",
+                "🔄 Serás reasignado a materias equivalentes",
+                "✅ Sí, cada 7 años con goce de sueldo",
+                "🏫 Sí, cuando sea posible operativamente",
+                "📝 Con 2 meses de anticipación, presentando programa"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 38",
+            "topic": "Derechos específicos de profesores"
+        },
+        {
+            "tag": "carga_horaria_profesores",
+            "patterns": [
+                "¿Cuántas horas debe dar un Titular en bachillerato?",
+                "¿Los Asistentes tienen menos horas de clase?",
+                "¿Qué incluye la carga horaria de tiempo completo?",
+                "¿Pueden asignarme más materias de las permitidas?",
+                "¿Hay diferencias entre niveles educativos?"
+            ],
+            "responses": [
+                "⏳ 6-15 hrs semanales (media superior)",
+                "✅ Sí: 12-24 hrs vs. 6-12 hrs de Titulares",
+                "📚 Docencia + investigación/tutoría/administración académica",
+                "🚫 No, hay máximos establecidos por categoría",
+                "🏫 Sí, media superior vs. superior/posgrado"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 39",
+            "topic": "Carga horaria para profesores"
+        },
+        {
+            "tag": "derechos_profesores_investigadores",
+            "patterns": [
+                "¿Los investigadores tienen año sabático?",
+                "¿Reciben créditos por su producción académica?",
+                "¿Pueden dedicarse solo a investigación?",
+                "¿Tienen horarios flexibles?",
+                "¿Deben dar clases obligatoriamente?"
+            ],
+            "responses": [
+                "✅ Sí, en las mismas condiciones que docentes",
+                "📊 Sí, según tabulador de méritos",
+                "🔍 Sí, en perfiles de investigación exclusiva",
+                "🕒 Según necesidades de sus proyectos",
+                "📚 Mínimo 5 hrs semanales o 1 asignatura"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 40",
+            "topic": "Derechos de profesores investigadores"
+        },
+        {
+            "tag": "obligaciones_profesores_investigadores",
+            "patterns": [
+                "¿Deben presentar plan anual de investigación?",
+                "¿Qué informes deben entregar?",
+                "¿Hay mínimo de publicaciones?",
+                "¿Deben vincular investigación con docencia?",
+                "¿Quién evalúa sus resultados?"
+            ],
+            "responses": [
+                "📅 Sí, antes del 1° de noviembre cada año",
+                "📑 Reporte anual de actividades hasta el 30 de noviembre",
+                "📚 No especificado, pero deben mostrar producción",
+                "🎓 Sí, a través de dirección de tesis/seminarios",
+                "👥 Dirección de dependencia + comités académicos"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 41",
+            "topic": "Obligaciones de profesores investigadores"
+        },
+        {
+            "tag": "derechos_tecnicos_academicos",
+            "patterns": [
+                "¿Los técnicos pueden solicitar cambio de área?",
+                "¿Tienen derecho a capacitación?",
+                "¿Pueden acceder a año sabático?",
+                "¿Se les reconoce autoría en proyectos?",
+                "¿Pueden estabilizar su horario?"
+            ],
+            "responses": [
+                "🔄 Sí, con justificación y aprobación directiva",
+                "📚 Sí, en su especialidad técnica",
+                "✅ Sí, según reglamento específico",
+                "✍️ Sí, por contribuciones técnicas relevantes",
+                "⏰ Sí, por al menos un periodo lectivo"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 42",
+            "topic": "Derechos de técnicos académicos"
+        },
+        {
+            "tag": "obligaciones_tecnicos_academicos",
+            "patterns": [
+                "¿Deben seguir horarios estrictos?",
+                "¿Qué informes deben presentar?",
+                "¿Pueden negarse a apoyar actividades académicas?",
+                "¿Quién supervisa su trabajo?",
+                "¿Deben actualizar sus conocimientos?"
+            ],
+            "responses": [
+                "⏱️ Sí, según su nombramiento/contrato",
+                "📋 Técnicos y de avance según solicitud",
+                "🚫 No, es parte de sus funciones",
+                "👨💼 Académico responsable o jefe inmediato",
+                "🔄 Sí, mediante cursos/certificaciones"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 43",
+            "topic": "Obligaciones de técnicos académicos"
+        },
+        {
+            "tag": "regimen_academicos_visitantes",
+            "patterns": [
+                "¿Los visitantes pueden votar en consejos?",
+                "¿Cuánto dura su contrato?",
+                "¿Pueden ser prorrogados?",
+                "¿Tienen los mismos derechos que permanentes?",
+                "¿Quién aprueba sus contratos?"
+            ],
+            "responses": [
+                "🚫 No participan en órganos de gobierno",
+                "📅 1 año máximo inicialmente",
+                "✅ Sí, excepcionalmente por acuerdo de Rectoría",
+                "⚠️ Solo lo estipulado en su contrato específico",
+                "🏛️ Rectoría, previa opinión de comisión dictaminadora"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 44",
+            "topic": "Régimen de académicos visitantes"
+        },
+        {
+            "tag": "condiciones_maestros_emeritos",
+            "patterns": [
+                "¿Un Maestro Emérito puede seguir trabajando?",
+                "¿Pierde sus derechos al jubilarse?",
+                "¿Cómo se otorga este título honorífico?",
+                "¿Tienen obligaciones docentes?",
+                "¿Pueden ser despedidos?"
+            ],
+            "responses": [
+                "✅ Sí, mediante contrato de servicios",
+                "📜 No, conserva su título y puede ser contratado",
+                "🏆 Por contribuciones excepcionales a la universidad",
+                "📚 Solo si su contrato lo establece",
+                "⚖️ Sí, por incumplimiento contractual"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 45",
+            "topic": "Condiciones de Maestros Eméritos"
+        },
+        {
+            "tag": "inicio_relacion_laboral",
+            "patterns": [
+                "¿Cuándo inicia mi nombramiento?",
+                "¿Necesito firma de alguien específico?",
+                "¿Qué documentos avalan mi ingreso?",
+                "¿Puedo empezar antes de la aprobación formal?",
+                "¿Dónde quedo adscrito?"
+            ],
+            "responses": [
+                "📅 Tras aprobarse según Reglamento de Ingreso",
+                "🏛️ Requiere aprobación de autoridades competentes",
+                "📝 Acta de nombramiento y documentación de concurso",
+                "🚫 No, debe estar formalizado previamente",
+                "🏫 En la dependencia que propuso su contratación"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 46",
+            "topic": "Inicio de relación laboral"
+        },
+        {
+            "tag": "adscripcion_inicial_personal_academico",
+            "patterns": [
+                "¿A qué dependencia quedo asignado al ingresar?",
+                "¿Pueden cambiarme de adscripción al entrar?",
+                "¿Qué documentos confirman mi adscripción?",
+                "¿Hay periodo de prueba antes de la adscripción definitiva?",
+                "¿Quién decide mi adscripción inicial?"
+            ],
+            "responses": [
+                "🏫 A la dependencia que propuso tu contratación",
+                "🚫 No, salvo acuerdo entre dependencias",
+                "📝 Acta de nombramiento y documentos del concurso",
+                "⚠️ No, la adscripción es inmediata tras el nombramiento",
+                "👥 La dependencia solicitante + autoridades universitarias"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 47",
+            "topic": "Adscripción inicial del personal"
+        },
+        {
+            "tag": "cambio_adscripcion_definitivo",
+            "patterns": [
+                "¿Puedo cambiar de dependencia permanentemente?",
+                "¿Qué requisitos exigen para mover mi plaza?",
+                "¿Necesito autorización de mi director actual?",
+                "¿Qué pasa si hay conflicto entre dependencias?",
+                "¿Conservo mi antigüedad al cambiar?"
+            ],
+            "responses": [
+                "✅ Sí, si hay vacante en la nueva dependencia",
+                "📌 Plaza disponible, justificación y consentimiento",
+                "⚠️ Sí, salvo oposición con causa justificada",
+                "⚖️ Rectoría resuelve el conflicto",
+                "⏳ Sí, se mantiene toda la antigüedad acumulada"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 48",
+            "topic": "Cambio de adscripción definitivo"
+        },
+        {
+            "tag": "cambio_adscripcion_temporal",
+            "patterns": [
+                "¿Puedo trabajar temporalmente en otra dependencia?",
+                "¿Qué documento necesito para moverme temporalmente?",
+                "¿Quién aprueba estos cambios?",
+                "¿Puedo extender mi estancia temporal?",
+                "¿Mi salario cambia durante este periodo?"
+            ],
+            "responses": [
+                "🔄 Sí, mediante programa de actividades aprobado",
+                "📝 Programa con actividades, tiempo y firmas",
+                "🏛️ Directores involucrados + ratificación de Rectoría",
+                "📅 Solo por el tiempo originalmente aprobado",
+                "💰 No, mantienes tu categoría y remuneración"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 49",
+            "topic": "Cambio de adscripción temporal"
+        },
+        {
+            "tag": "adscripcion_funcionarios_academicos",
+            "patterns": [
+                "¿Qué pasa si me nombran funcionario?",
+                "¿Conservo mi categoría académica?",
+                "¿Genero antigüedad durante el encargo?",
+                "¿Puedo regresar a mi puesto anterior?",
+                "¿Quién paga mi salario como funcionario?"
+            ],
+            "responses": [
+                "🔄 Quedas adscrito a la nueva dependencia temporalmente",
+                "✅ Sí, mantienes categoría y nivel originales",
+                "⏳ Sí, sigue contando para tu antigüedad académica",
+                "🏫 Sí, al terminar el encargo administrativo",
+                "🏛️ La Universidad, según tu nombramiento"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 50",
+            "topic": "Adscripción temporal como funcionario"
+        },
+        {
+            "tag": "conservacion_derechos_cambio_adscripcion",
+            "patterns": [
+                "¿Pierdo antigüedad al cambiar de dependencia?",
+                "¿Mi salario cambia si me muevo a otra facultad?",
+                "¿Qué derechos conservo en un cambio de adscripción?",
+                "¿Puedo negarme a un cambio de dependencia?",
+                "¿Afecta mi categoría un cambio de adscripción?"
+            ],
+            "responses": [
+                "🚫 No, la antigüedad se mantiene íntegra",
+                "💰 No, conservas tu nivel y categoría salarial",
+                "📜 Todos los inherentes a tu categoría y nivel",
+                "✅ Sí, si es cambio definitivo sin tu consentimiento",
+                "⚠️ No, tu categoría académica es independiente"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 51",
+            "topic": "Conservación de derechos en cambios de adscripción"
+        },
+        {
+            "tag": "permisos_cortos",
+            "patterns": [
+                "¿Puedo faltar por emergencia familiar?",
+                "¿Cuántos días de permiso me pueden dar?",
+                "¿Necesito comprobante médico?",
+                "¿Hay límite de permisos por año?",
+                "¿Deben ser por escrito?"
+            ],
+            "responses": [
+                "✅ Sí, hasta 8 días con causa justificada",
+                "⏳ Máximo 8 días continuos por evento",
+                "🏥 Solo para licencias médicas (no permisos cortos)",
+                "3️⃣ Máximo 3 permisos anuales",
+                "✍️ Sí, toda autorización debe documentarse"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 52",
+            "topic": "Permisos cortos"
+        },
+        {
+            "tag": "comisiones_academicas",
+            "patterns": [
+                "¿Pueden enviarme a congresos en el extranjero?",
+                "¿Quién paga los gastos de comisión?",
+                "¿Cuánto puede durar una comisión?",
+                "¿Necesito aval de mi director?",
+                "¿Pueden negarme una comisión?"
+            ],
+            "responses": [
+                "🌍 Sí, cuando beneficie programas institucionales",
+                "🏛️ Universidad, según disponibilidad presupuestal",
+                "📅 1 año prorrogable excepcionalmente",
+                "✅ Sí, debe proponerlo su dependencia",
+                "⚠️ Sí, si no cumple requisitos institucionales"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 53",
+            "topic": "Comisiones académicas"
+        },
+        {
+            "tag": "becas_externas_personal_academico",
+            "patterns": [
+                "¿Puedo tomar una beca externa sin perder mi puesto?",
+                "¿Qué debo hacer para obtener permiso de beca?",
+                "¿La universidad complementa becas externas?",
+                "¿Cuánto tiempo puedo estar con beca?",
+                "¿Genero antigüedad durante periodos de beca?"
+            ],
+            "responses": [
+                "✅ Sí, mediante licencia sin sueldo",
+                "📝 Solicitar licencia por estudios a tu dependencia",
+                "🚫 No, son gestiones independientes",
+                "⌛ Hasta 1 año, prorrogable excepcionalmente",
+                "⚠️ No, salvo que la beca sea institucional"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 54",
+            "topic": "Becas externas para personal académico"
+        },
+        {
+            "tag": "licencias_sin_sueldo",
+            "patterns": [
+                "¿Puedo tomar licencia para estudiar un posgrado?",
+                "¿Cuánto tiempo máximo dura esta licencia?",
+                "¿Me conservan el puesto?",
+                "¿Cuenta para mi antigüedad?",
+                "¿Puedo adelantar trámites?"
+            ],
+            "responses": [
+                "🎓 Sí, es una causa permitida (Art. 55 II)",
+                "1️⃣ Año inicial, prorrogable en casos especiales",
+                "✅ Sí, por el tiempo de licencia autorizada",
+                "⏳ Solo licencias médicas y algunas comisiones",
+                "📝 Sí, con 2 meses de anticipación mínimo"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 55",
+            "topic": "Licencias sin goce de sueldo"
+        },
+        {
+            "tag": "licencias_goce_sueldo",
+            "patterns": [
+                "¿En qué casos me dan licencia con sueldo?",
+                "¿La licencia por maternidad es pagada?",
+                "¿Cuánto dura la licencia médica?",
+                "¿Puedo juntar licencia médica con vacaciones?",
+                "¿Quién autoriza estas licencias?"
+            ],
+            "responses": [
+                "🏥 Enfermedad/accidente y maternidad (90 días)",
+                "🤰 Sí, los 90 días naturales por maternidad",
+                "📅 Según duración de la incapacidad médica",
+                "🚫 No, son conceptos independientes",
+                "🏛️ Rectoría, previo trámite en la dependencia"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 56",
+            "topic": "Licencias con goce de sueldo"
+        },
+        {
+            "tag": "duracion_licencias_personal_academico",
+            "patterns": [
+                "¿Cuánto puede durar mi licencia por estudios?",
+                "¿Pueden negarme una prórroga de licencia?",
+                "¿Qué licencias no tienen límite de tiempo?",
+                "¿Cómo solicito una prórroga?",
+                "¿Las licencias por cargo público tienen tope?"
+            ],
+            "responses": [
+                "1️⃣ Año inicial, renovable en casos especiales",
+                "✅ Sí, si no cumples requisitos institucionales",
+                "🏛️ Por cargos públicos (dura lo que dure el encargo)",
+                "✍️ Por escrito con justificación a Rectoría",
+                "🚫 No, duran lo que dure el cargo ejercido"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 57",
+            "topic": "Duración máxima de licencias"
+        },
+        {
+            "tag": "tramitacion_licencias_personal_academico",
+            "patterns": [
+                "¿Por qué canal solicito una licencia?",
+                "¿Necesito aval de mi director para licencia?",
+                "¿Quién tiene la última palabra en licencias?",
+                "¿Debo notificar a otras áreas?",
+                "¿Hay formatos oficiales para solicitud?"
+            ],
+            "responses": [
+                "📌 Por conducto de tu dependencia de adscripción",
+                "✅ Sí, debe turnar tu solicitud a Rectoría",
+                "🏛️ Rectoría (con opinión de Dirección General Académica)",
+                "ℹ️ Sí, se notifica por escrito a áreas involucradas",
+                "📄 Según lo establecido en normativa universitaria"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 58",
+            "topic": "Trámite de solicitud de licencias"
+        },
+        {
+            "tag": "computo_servicios_licencias",
+            "patterns": [
+                "¿Las licencias cuentan para mi antigüedad?",
+                "¿El año sabático suma para mi carrera?",
+                "¿Qué licencias no generan antigüedad?",
+                "¿Puedo juntar licencia con vacaciones?",
+                "¿Las licencias cuentan para el año sabático?"
+            ],
+            "responses": [
+                "✅ Solo licencias médicas y algunas comisiones",
+                "📈 Sí, como tiempo de servicio efectivo",
+                "🚫 Licencias personales y por estudios externos",
+                "⛔ No, son conceptos independientes",
+                "⚠️ No, el tiempo de licencia no es acumulable"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 59",
+            "topic": "Cómputo de servicios en licencias"
+        },
+        {
+            "tag": "terminacion_contrato",
+            "patterns": [
+                "¿Cómo debo renunciar formalmente?",
+                "¿Qué pasa si fallezco en servicio?",
+                "¿Pueden despedirme sin causa justificada?",
+                "¿Qué se considera abandono de puesto?",
+                "¿Recibo finiquito al terminar contrato temporal?"
+            ],
+            "responses": [
+                "✍️ Presentando renuncia por escrito a la dependencia",
+                "😔 Universidad paga prestaciones a deudos/herederos",
+                "⚖️ No, solo por causas previstas en el estatuto",
+                "🚫 3 faltas consecutivas o 6 alternas en 30 días",
+                "💰 Sí, conforme a la ley laboral"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 62",
+            "topic": "Terminación de contrato"
+        },
+        {
+            "tag": "cambio_medio_tiempo_tiempo_completo",
+            "patterns": [
+                "¿Cómo puedo cambiar de medio tiempo a tiempo completo?",
+                "¿Necesito plaza autorizada para cambiar mi jornada?",
+                "¿Qué requisitos debo cumplir?",
+                "¿Quién aprueba el cambio de jornada?",
+                "¿En cuánto tiempo me dan respuesta?"
+            ],
+            "responses": [
+                "🔄 Solicitud por escrito + plaza disponible + cumplir requisitos",
+                "✅ Sí, debe existir plaza SEP en la plantilla",
+                "📌 Conveniencia institucional y cumplir normativa",
+                "🏛️ Rectoría (con opinión de tu dependencia)",
+                "⏳ 15 días hábiles desde la solicitud"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 63",
+            "topic": "Cambio de jornada laboral"
+        },
+        {
+            "tag": "reformas_estatuto_personal_academico",
+            "patterns": [
+                "¿Cómo se pueden modificar estos estatutos?",
+                "¿Quién puede proponer cambios al estatuto?",
+                "¿Los profesores podemos sugerir reformas?",
+                "¿Las reformas entran en vigor inmediatamente?",
+                "¿Dónde se publican los cambios?"
+            ],
+            "responses": [
+                "📜 Por acuerdo del Consejo General Universitario",
+                "👥 Rector, consejeros o consejos de facultad/escuela",
+                "🚫 No directamente, solo a través de consejos",
+                "📅 No, hasta el ciclo escolar siguiente",
+                "📢 En Gaceta Universitaria y medios oficiales"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 64",
+            "topic": "Reformas al estatuto"
+        },
+        {
+            "tag": "iniciativas_reforma_estatuto",
+            "patterns": [
+                "¿Quién tiene derecho a proponer reformas?",
+                "¿Un departamento académico puede sugerir cambios?",
+                "¿Los sindicatos pueden proponer modificaciones?",
+                "¿Cómo se presenta una iniciativa?",
+                "¿Hay plazos para presentar propuestas?"
+            ],
+            "responses": [
+                "🏛️ Rector, consejeros y consejos de facultad/escuela",
+                "ℹ️ No directamente, debe ser a través del consejo respectivo",
+                "🚫 No, solo actores universitarios mencionados en Art. 65",
+                "📝 Por escrito ante el Consejo General Universitario",
+                "📅 No se especifica plazo en el estatuto"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 65",
+            "topic": "Iniciativas de reforma"
+        },
+        {
+            "tag": "armonizacion_ley_organica",
+            "patterns": [
+                "¿Qué pasa si cambia la Ley Orgánica?",
+                "¿Deben actualizar automáticamente este estatuto?",
+                "¿Quién incorpora los cambios de la Ley Orgánica?",
+                "¿Podrían quedar artículos contradictorios?",
+                "¿Hay plazo para actualizar el estatuto?"
+            ],
+            "responses": [
+                "🔄 Se incorporan automáticamente al estatuto",
+                "✅ Sí, por acuerdo del Consejo General Universitario",
+                "👥 Consejo General Universitario sin más trámite",
+                "🚫 No, prevalece lo dispuesto en la Ley Orgánica",
+                "⏳ Inmediato tras reforma a la Ley Orgánica"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 66",
+            "topic": "Armonización con Ley Orgánica"
+        },
+        {
+            "tag": "vigencia_reformas_estatuto",
+            "patterns": [
+                "¿Cuándo entran en vigor las reformas?",
+                "¿Hay retroactividad en los cambios?",
+                "¿Pueden aplicarse reformas en ciclo en curso?",
+                "¿Dónde consulto las últimas actualizaciones?",
+                "¿Cómo sé si una reforma me afecta?"
+            ],
+            "responses": [
+                "📅 Ciclo escolar siguiente a su aprobación",
+                "🚫 No, aplican solo hacia adelante",
+                "⚠️ No, excepto disposición expresa en contrario",
+                "🔍 Gaceta Universitaria y portal oficial UdeG",
+                "📢 La dependencia debe notificar cambios relevantes"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Artículo 67",
+            "topic": "Vigencia de reformas"
+        },
+        {
+            "tag": "disposiciones_transitorias_estatuto",
+            "patterns": [
+                "¿Desde cuándo rige este estatuto?",
+                "¿Los profesores titulares antiguos conservan beneficios?",
+                "¿Puedo pedir año sabático por antigüedad previa?",
+                "¿Hay excepciones para escuelas especiales?",
+                "¿Qué normas anteriores siguen vigentes?"
+            ],
+            "responses": [
+                "📅 Vigente desde el 14/02/1992 (Art. Transitorio 1°)",
+                "✅ Sí, para inamovilidad pero no para efectos salariales",
+                "🔄 Sí, quienes tenían 7+ años al entrar en vigor (solo 1 vez)",
+                "🏫 Sí, para Lenguas Modernas y Cultura Física (2 años)",
+                "📜 Solo las que otorgan derechos adquiridos"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Disposiciones Transitorias",
+            "topic": "Normas transitorias"
+        },
+        {
+            "tag": "vigencia_modificaciones_estatuto",
+            "patterns": [
+                "¿Las reformas del 2019 cuándo entraron en vigor?",
+                "¿Dónde se publican las reformas al estatuto?",
+                "¿Hay plazos especiales para algunas modificaciones?",
+                "¿Qué pasó con los artículos 60 y 61?",
+                "¿Cómo sé qué artículos están actualizados?"
+            ],
+            "responses": [
+                "📅 Al día siguiente de publicación en Gaceta Universitaria",
+                "📢 En La Gaceta UdeG (http://www.gaceta.udg.mx/)",
+                "⏳ Sí, algunas entraron 6-12 meses después (ej. Art. 5° Transitorio)",
+                "🚫 Derogados por Dictamen II/2003/781",
+                "🔍 Revisando los dictámenes en Gaceta o con Abogacía General"
+            ],
+            "document": "Estatuto del Personal Académico 2022",
+            "article": "Disposiciones Finales",
+            "topic": "Vigencia de modificaciones"
+        }
+
+    ]
+}

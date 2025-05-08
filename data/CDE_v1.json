@@ -1,0 +1,203 @@
+{
+    "main_topic": "Código de Ética de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "principios_valores_generales",
+            "patterns": [
+                "¿Cuál es el propósito del Código de Ética según el artículo 1?",
+                "¿Qué principios y valores menciona el artículo 1 del Código de Ética?",
+                "¿A qué se refiere el artículo 1 del Código de Ética?",
+                "¿Cuál es la función del Código de Ética según el artículo 1?",
+                "¿Qué define el artículo 1 del Código de Ética de la UdeG?",
+                "¿Qué debe cumplir la comunidad universitaria según el artículo 1?",
+                "¿Qué regula el Código de Ética según el artículo 1?",
+                "¿Qué normas establece el artículo 1 del Código de Ética?",
+                "¿Qué dice el artículo 1 sobre la convivencia en la universidad?"
+            ],
+            "responses": [
+                "🎯 El propósito del Código de Ética es establecer principios y valores para la mejor convivencia en la universidad. 🤝",
+                "🔹 El artículo 1 menciona que el Código de Ética contiene principios y valores que la comunidad universitaria debe cumplir. 📜",
+                "📘 El artículo 1 del Código de Ética se refiere a los principios y valores que rigen a la universidad. 🎓",
+                "🎯 La función del Código de Ética según el artículo 1 es mejorar la convivencia en la universidad. 🌟",
+                "🔹 El artículo 1 define que el Código de Ética establece los principios y valores de la institución. 📚",
+                "📘 La comunidad universitaria debe cumplir con los principios y valores establecidos en el artículo 1 del Código de Ética. ✅",
+                "🎯 Según el artículo 1, el Código de Ética regula los principios y valores de la universidad. ⚖️",
+                "🔹 El artículo 1 establece normas de principios y valores para la comunidad universitaria. 📋",
+                "📘 El artículo 1 menciona que el Código de Ética mejora la convivencia en la universidad. 🌍"
+            ],
+            "document": "Código de Ética de la Universidad de Guadalajara",
+            "article": "Artículo 1",
+            "topic": "Principios y valores generales"
+        },
+        {
+            "tag": "compromisos de la comunidad universitaria",
+            "patterns": [
+                "¿Qué compromisos asume la comunidad universitaria según el artículo 2 del Código de Ética?",
+                "¿Qué principios y valores debe respetar la comunidad universitaria según el artículo 2?",
+                "¿Qué legislación debe respetar la comunidad universitaria según el artículo 2?",
+                "¿Cuáles son los compromisos de la comunidad universitaria en materia de derechos humanos según el artículo 2?",
+                "¿Qué principios de la Constitución deben respetar según el artículo 2?",
+                "¿Qué tratados internacionales en derechos humanos debe respetar la comunidad universitaria?",
+                "¿Qué otras leyes aplican a la comunidad universitaria según el artículo 2?",
+                "¿Por qué es importante respetar la legislación aplicable según el artículo 2?",
+                "¿Qué establece el artículo 2 sobre la comunidad universitaria y los derechos humanos?",
+                "¿Cuál es la relevancia del artículo 2 del Código de Ética en la UdeG?"
+            ],
+            "responses": [
+                "📘 La comunidad universitaria se compromete a respetar los principios y valores establecidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que México sea parte y en la demás legislación que resulte aplicable. 📜",
+                "🔹 Debe respetar los principios y valores mencionados en la Constitución, así como tratados internacionales en derechos humanos y demás leyes aplicables. 🌍",
+                "🎯 El Código de Ética establece que toda la legislación aplicable debe ser respetada por la comunidad universitaria. ⚖️",
+                "📘 La comunidad universitaria tiene el compromiso de respetar los derechos humanos establecidos tanto en la legislación nacional como internacional. 🤝",
+                "🔹 Es importante respetar la Constitución y tratados internacionales en derechos humanos para garantizar un entorno universitario justo y equitativo. 🌟",
+                "🎯 La comunidad universitaria debe actuar conforme a los principios y valores de la legislación aplicable. ✅",
+                "📘 Respetar la legislación aplicable promueve un ambiente de legalidad y justicia dentro de la universidad. ⚖️",
+                "🔹 El artículo 2 subraya la importancia de los derechos humanos y su respeto en la comunidad universitaria. 🌍",
+                "🎯 La relevancia del artículo 2 radica en asegurar que todos en la universidad se rijan por principios y valores reconocidos a nivel nacional e internacional. 🌟"
+            ],
+            "document": "Código de Ética de la Universidad de Guadalajara",
+            "article": "Artículo 2",
+            "topic": "Compromisos de la comunidad universitaria"
+        },
+        {
+            "tag": "observancia general y obligatoria",
+            "patterns": [
+                "¿Qué establece el artículo 3 del Código de Ética de la UdeG?",
+                "¿A quién aplica el artículo 3 del Código de Ética?",
+                "¿El artículo 3 es de observancia general?",
+                "¿Es obligatorio el artículo 3 para todos los miembros de la universidad?",
+                "¿Quiénes deben cumplir con el artículo 3 del Código de Ética?",
+                "¿El artículo 3 se aplica a todas las personas en la universidad?",
+                "¿Cuál es la importancia del artículo 3 en la UdeG?",
+                "¿Qué implica el artículo 3 para los estudiantes y el personal de la universidad?",
+                "¿El artículo 3 tiene alcance en toda la comunidad universitaria?",
+                "¿Qué implica que el artículo 3 sea de observancia obligatoria?"
+            ],
+            "responses": [
+                "📘 El artículo 3 establece que el Código de Ética es de observancia general y obligatoria para todos los integrantes de la comunidad universitaria. ✅",
+                "🔹 Aplica a todos los integrantes de la comunidad universitaria. 🎓",
+                "🎯 Sí, es de observancia general. 🌍",
+                "📘 Sí, es obligatorio para todos los miembros de la universidad. ⚖️",
+                "🔹 Todos los integrantes de la comunidad universitaria deben cumplir con el artículo 3. 🤝",
+                "🎯 Sí, el artículo 3 se aplica a todas las personas en la universidad. 🌟",
+                "📘 Su importancia radica en que establece la obligatoriedad del cumplimiento del Código de Ética para toda la comunidad universitaria. ✅",
+                "🔹 Implica que tanto estudiantes como personal académico y administrativo deben seguir los principios y valores establecidos en el Código de Ética. 🎓",
+                "🎯 Sí, el artículo 3 tiene alcance en toda la comunidad universitaria. 🌍",
+                "📘 Implica que todos en la universidad deben seguir las normas y principios establecidos en el Código de Ética. ⚖️"
+            ],
+            "document": "Código de Ética de la Universidad de Guadalajara",
+            "article": "Artículo 3",
+            "topic": "Observancia general y obligatoria"
+        },
+        {
+            "tag": "principios_valores_universitarios",
+            "patterns": [
+                "¿Qué establece el artículo 4 del Código de Ética de la UdeG?",
+                "¿Qué principios rigen a la comunidad universitaria según el artículo 4?",
+                "¿Qué significa el principio de democracia en el artículo 4?",
+                "¿Cómo define el artículo 4 el desarrollo sustentable?",
+                "¿Qué promueve el artículo 4 en términos de diversidad?",
+                "¿Cuál es el enfoque de la educación para la paz según el artículo 4?",
+                "¿Qué implica la equidad en el contexto del artículo 4?",
+                "¿Cómo se define la honestidad en el artículo 4 del Código de Ética?",
+                "¿Qué valor destaca la igualdad según el artículo 4?",
+                "¿Qué principios y valores menciona el artículo 4 del Código de Ética?",
+                "¿Qué implica el principio de justicia según el artículo 4?",
+                "¿Cómo se define la legalidad en el artículo 4?",
+                "¿Qué importancia tiene la libertad en el contexto del artículo 4?",
+                "¿Qué se entiende por respeto según el artículo 4?",
+                "¿Cuál es el papel de la responsabilidad en la comunidad universitaria según el artículo 4?",
+                "¿Qué significa la solidaridad para la universidad según el artículo 4?",
+                "¿Qué promueve la equidad en términos de derechos según el artículo 4?",
+                "¿Cómo se relaciona la honestidad con la integridad en el artículo 4?",
+                "¿Qué valores fomenta la educación para la paz según el artículo 4?",
+                "¿Qué acciones se derivan del principio de desarrollo sustentable en el artículo 4?"
+            ],
+            "responses": [
+                "📘 El artículo 4 establece los principios y valores que rigen a la comunidad universitaria. 🎓",
+                "🔹 Los principios mencionados son democracia, desarrollo sustentable, diversidad, educación para la paz, equidad, honestidad, igualdad, justicia, legalidad, libertad, respeto, responsabilidad y solidaridad. 🌟",
+                "🎯 Democracia implica participación y diálogo en la toma de decisiones para el bienestar de la comunidad. 🤝",
+                "📘 Desarrollo sustentable promueve la protección del medio ambiente y el uso eficiente de los recursos. 🌍",
+                "🔹 Diversidad significa promover la inclusión y el respeto a las diferencias culturales, ideológicas, de género, entre otras. 🌈",
+                "🎯 Educación para la paz fomenta relaciones armoniosas y la resolución pacífica de conflictos. ✌️",
+                "📘 Equidad implica cerrar brechas y atender necesidades específicas para garantizar igualdad de oportunidades. ⚖️",
+                "🔹 La honestidad se define como actuar con rectitud, transparencia y honradez. ✅",
+                "🎯 Igualdad significa que todas las personas merecen trato justo y las mismas oportunidades. 🌟",
+                "📘 El artículo 4 menciona diversos principios y valores como justicia, legalidad, libertad, respeto, responsabilidad y solidaridad. 📜",
+                "🔹 Justicia implica respetar los derechos humanos y dar a cada quien lo que por derecho le corresponde. ⚖️",
+                "🎯 Legalidad significa respetar el orden jurídico y sujetar los actos a las leyes y al derecho. 📜",
+                "📘 Libertad implica pensar y actuar de manera autónoma por convicción y responsablemente para el bienestar de la comunidad. 🕊️",
+                "🔹 Respeto significa tratar digna y cordialmente a todas las personas, aceptando y entendiendo diferentes formas de pensamiento y actuación. 🤝",
+                "🎯 Responsabilidad implica promover el compromiso con la institución y el entorno, actuando con profesionalismo y asumiendo las consecuencias de los actos. ✅",
+                "📘 Solidaridad significa promover la cooperación en favor de los otros y de las causas comunes. 🌍",
+                "🔹 Equidad trabaja en el cierre de brechas y atiende necesidades específicas, buscando igualdad de oportunidades. ⚖️",
+                "🎯 Honestidad implica conducirse con rectitud, transparencia y honradez, creando un ambiente de credibilidad y confianza. ✅",
+                "📘 La educación para la paz fomenta relaciones armoniosas, diálogo, resolución pacífica de conflictos y un clima de integridad. ✌️",
+                "🔹 Desarrollo sustentable promueve la protección del medio ambiente, el uso eficiente de recursos y asumir responsabilidad por los impactos sociales y ambientales. 🌍"
+            ],
+            "document": "Código de Ética de la Universidad de Guadalajara",
+            "article": "Artículo 4",
+            "topic": "Principios y valores universitarios"
+        },
+        {
+            "tag": "autoridades_materia_etica",
+            "patterns": [
+                "¿Cuáles son las autoridades en materia de Ética según el artículo 5?",
+                "¿Qué establece el artículo 5 sobre las autoridades en materia de Ética?",
+                "¿Quiénes son las autoridades responsables de Ética en la UdeG?",
+                "¿Qué dice el artículo 5 sobre la Contraloría General?",
+                "¿Qué papel juega el Consejo General Universitario según el artículo 5?",
+                "¿Qué otras autoridades son reconocidas en materia de Ética según el artículo 5?",
+                "¿Qué establece el artículo 5 sobre las autoridades y la Ética?",
+                "¿Qué organismos son responsables de Ética en la universidad?",
+                "¿Qué menciona el artículo 5 sobre la normatividad universitaria y la Ética?",
+                "¿Quiénes son responsables de la prevención de conflictos de interés según el artículo 5?"
+            ],
+            "responses": [
+                "📘 Las autoridades en materia de Ética, Conducta y Prevención de Conflictos de Interés son el Consejo General Universitario, la Contraloría General y las demás que la normatividad universitaria reconozca. 🏛️",
+                "🔹 El artículo 5 establece que el Consejo General Universitario y la Contraloría General son autoridades en materia de Ética. 🎓",
+                "🎯 Las autoridades responsables de Ética en la UdeG son el Consejo General Universitario y la Contraloría General. ✅",
+                "📘 El artículo 5 menciona que la Contraloría General es una de las autoridades en materia de Ética. ⚖️",
+                "🔹 El Consejo General Universitario juega un papel importante como autoridad en materia de Ética según el artículo 5. 🌟",
+                "🎯 El artículo 5 reconoce que otras autoridades también pueden ser reconocidas en materia de Ética por la normatividad universitaria. 🌍",
+                "📘 El artículo 5 establece las autoridades responsables de Ética, Conducta y Prevención de Conflictos de Interés en la universidad. 🏛️",
+                "🔹 Los organismos responsables de Ética en la universidad son el Consejo General Universitario y la Contraloría General. 🎓",
+                "🎯 El artículo 5 menciona la normatividad universitaria en relación con las autoridades en materia de Ética. 📜",
+                "📘 La prevención de conflictos de interés es responsabilidad del Consejo General Universitario, la Contraloría General y otras autoridades reconocidas por la normatividad universitaria. ⚖️"
+            ],
+            "document": "Código de Ética de la Universidad de Guadalajara",
+            "article": "Artículo 5",
+            "topic": "Autoridades en materia de Ética"
+        },
+        {
+            "tag": "principios_valores_aplicabilidad",
+            "patterns": [
+                "¿A quiénes aplica el artículo 6 del Código de Ética de la UdeG?",
+                "¿Qué establece el artículo 6 sobre la aplicabilidad de los principios y valores?",
+                "¿El artículo 6 menciona la relación con particulares?",
+                "¿Qué dice el artículo 6 sobre la aplicabilidad de los principios fuera de la universidad?",
+                "¿Los principios y valores del Código se aplican en todos los ámbitos?",
+                "¿A quiénes se extiende la aplicación de los principios según el artículo 6?",
+                "¿Qué ámbitos de la vida universitaria cubre el artículo 6?",
+                "¿Qué establece el artículo 6 sobre las relaciones con terceros?",
+                "¿Cómo se aplican los principios y valores en la relación con particulares según el artículo 6?",
+                "¿Qué implica la aplicabilidad de los principios y valores según el artículo 6?"
+            ],
+            "responses": [
+                "📘 Los principios y valores del Código de Ética serán aplicables a los particulares con los que la Institución tiene relación en todos los ámbitos de la vida universitaria. 🌍",
+                "🔹 El artículo 6 establece que los principios y valores se aplican también a los particulares relacionados con la universidad. 🤝",
+                "🎯 Sí, el artículo 6 menciona la relación con particulares y su aplicabilidad. ✅",
+                "📘 El artículo 6 establece que los principios y valores del Código de Ética se aplican fuera de la universidad en relación con particulares. 🌟",
+                "🔹 Sí, los principios y valores del Código se aplican en todos los ámbitos de la vida universitaria. 🎓",
+                "🎯 La aplicación de los principios se extiende a los particulares relacionados con la universidad según el artículo 6. 🌍",
+                "📘 El artículo 6 cubre todos los ámbitos de la vida universitaria en cuanto a la aplicabilidad de los principios y valores. 🎓",
+                "🔹 El artículo 6 establece que los principios y valores se aplican en las relaciones con terceros. 🤝",
+                "🎯 Los principios y valores del Código de Ética se aplican en la relación con particulares según el artículo 6. ✅",
+                "📘 La aplicabilidad de los principios y valores implica que se respeten en todas las relaciones y ámbitos relacionados con la universidad según el artículo 6. 🌟"
+            ],
+            "document": "Código de Ética de la Universidad de Guadalajara",
+            "article": "Artículo 6",
+            "topic": "Aplicabilidad de los principios y valores"
+        }
+ 
+    ]
+}

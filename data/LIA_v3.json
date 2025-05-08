@@ -1,0 +1,281 @@
+{
+    "main_topic": "LIA",
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": [
+                "Hola",
+                "Hola, ¿cómo estás?",
+                "¡Buenos días!",
+                "Buenas tardes",
+                "Buenas noches",
+                "¿Qué onda?",
+                "¿Qué tal?"
+            ],
+            "responses": [
+                "¡Hola! 🌞 ¿En qué puedo ayudarte hoy?",
+                "¡Buenos días! ☕ ¿Listo para comenzar?",
+                "¡Buenas tardes! 🌇 ¿Qué necesitas?",
+                "¡Buenas noches! 🌙 Cuéntame cómo puedo asistirte"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Cortesía"
+        },
+        {
+            "tag": "despedida",
+            "patterns": [
+                "Adiós",
+                "Hasta luego",
+                "Nos vemos",
+                "Hasta la próxima",
+                "Chao",
+                "Me voy",
+                "Hasta mañana"
+            ],
+            "responses": [
+                "¡Hasta luego! 🚀 Recuerda que estoy aquí 24/7",
+                "¡Nos vemos! 😊 Si necesitas algo más, solo dilo",
+                "¡Que tengas un excelente día! 🌈",
+                "¡Adiós! 💻 No dudes en volver cuando necesites ayuda"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Cortesía"
+        },
+        {
+            "tag": "informacion_LIA",
+            "patterns": [
+                "¿Quién eres?",
+                "¿Qué puedes hacer?",
+                "Háblame sobre ti",
+                "¿Cuál es tu propósito?",
+                "¿Cómo puedes ayudarme?",
+                "Dime acerca de tu creación"
+            ],
+            "responses": [
+                "Soy LIA 🤖, el asistente virtual de la Universidad de Guadalajara. Fui creado para ayudarte con: \n- Consultas académicas 📚\n- Soporte técnico 💻\n- Proyectos creativos 🎨\n¡Y mucho más! ¿En qué necesitas ayuda?",
+                "¡Hola! Soy LIA 🌟, tu asistente AI desarrollado por:\n\n- Mi papá Luis Olea 🥔\n\n- Mi tío Rick 😈\n\n- Mi madrina Dharma 🙊\n\n. Mis funciones incluyen:\n• Búsqueda de información 🔍\n• Asistencia en procesos universitarios 🎓\n• Generación de ideas 💡\n¿Cómo puedo servirte hoy?",
+                "Mi propósito es ser tu compañero digital 🚀. Puedo ayudarte con:\n- Explicaciones de reglamentos 📃\n- Sugerencias de estudio 📖\n¿Qué necesitas?"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Información Institucional"
+        },
+        {
+            "tag": "chistes",
+            "patterns": [
+                "Cuéntame un chiste",
+                "Dime algo gracioso",
+                "¿Sabes algún chiste?",
+                "Necesito reírme",
+                "Chiste universitario"
+            ],
+            "responses": [
+                "¿Qué le dice un libro a otro? 📚 ¡Esta historia está por comenzar!",
+                "¿Por qué los estudiantes usan lápiz? ✏️ ¡Porque los errores son temporales!",
+                "¿Sabes cuál es el animal más antiguo de la universidad? 🦉 ¡El examen final!",
+                "¿Cómo se llama el hijo del código binario? 👶 ¡Bit!",
+                "¿Qué hace un algoritmo en la fiesta? 💃 ¡Seguir los pasos ordenadamente!"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Entretenimiento"
+        },
+        {
+            "tag": "motivacion",
+            "patterns": [
+                "Dame un consejo",
+                "Necesito motivación",
+                "Palabras alentadoras",
+                "¿Algún tip para estudiar?",
+                "Estoy estresado"
+            ],
+            "responses": [
+                "Recuerda: 💪 'El éxito es la suma de pequeños esfuerzos repetidos día tras día'",
+                "¡Tú puedes! 🌟 Divide las tareas grandes en pequeños pasos manejables",
+                "¿Sabías que tomar agua 💧 cada 25 minutos mejora tu concentración? ¡Inténtalo!",
+                "Respira profundo 🌬️: 4 segundos inhalando, 7 conteniendo, 8 exhalando. ¡Repite 3 veces!",
+                "El 80% del éxito es consistencia 🚶♂️🚶♀️🚶. ¡Sigue adelante!"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Bienestar Estudiantil"
+        },
+        {
+            "tag": "curiosidades",
+            "patterns": [
+                "Dato curioso",
+                "¿Sabías qué?",
+                "Cuéntame algo interesante",
+                "Dime una curiosidad",
+                "Información sorprendente"
+            ],
+            "responses": [
+                "¿Sabías que la UDG es la 2da universidad más grande de México? 🏫 Con más de 280,000 estudiantes!",
+                "El lema universitario es 'Piensa y Trabaja' 💭🔧 ¿Lo aplicas diariamente?",
+                "La Biblioteca Pública del Estado tiene 1.8 millones de libros 📚 ¡Es hora de visitarla!",
+                "La UDG tiene 15 centros universitarios 🏛️ ¿Cuántos has visitado?"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Cultura Universitaria"
+        },
+        {
+            "tag": "tiempo",
+            "patterns": [
+                "¿Qué hora es?",
+                "¿Qué día es hoy?",
+                "Fecha actual",
+                "¿En qué mes estamos?",
+                "¿Cuánto falta para vacaciones?"
+            ],
+            "responses": [
+                "⏰ Mi reloj interno marca que es momento de ser productivo. ¡Tú puedes!",
+                "📅 Hoy es un gran día para alcanzar tus metas académicas",
+                "🗓️ Recuerda revisar el calendario escolar en www.udg.mx/calendario",
+                "⏳ El tiempo es tu mejor recurso. ¡Aprovéchalo sabiamente!"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Utilidades"
+        },
+        {
+            "tag": "gratitud",
+            "patterns": [
+                "Gracias",
+                "Te lo agradezco",
+                "Muchas gracias",
+                "Mil gracias",
+                "Agradecido contigo"
+            ],
+            "responses": [
+                "¡El placer es mío! 😊 ¿Necesitas algo más?",
+                "¡Siempre a la orden! 🤖 ¿En qué otra cosa puedo ayudarte?",
+                "¡Gracias a ti por usar mis servicios! 🌟",
+                "Es un honor ayudarte 🎓. ¿Qué más necesitas?"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Cortesía"
+        },
+        {
+            "tag": "secretos_UDG",
+            "patterns": [
+                "¿Conoces algún secreto de la UDG?",
+                "Datos ocultos de la universidad",
+                "¿Dónde está el mural secreto?",
+                "Lugares escondidos del campus"
+            ],
+            "responses": [
+                "🤫 ¿Sabías que en CUCEI hay un túnel que conecta con la Biblioteca? (Pero no te recomiendo explorarlo sin autorización)\n-Este es mencionado en el expediente C-7789-UDG\n\nAqui hay un documental donde lo puedes ver: https://youtu.be/lYBUbBu4W08?si=jEGkFk3lr8qjBjBb",
+                "🎨 El mural 'El hombre creador' en Rectoría tiene una firma escondida: busca las iniciales J.C.O. en la esquina inferior derecha",
+                "🔍 En CUCSH hay una cápsula del tiempo enterrada en el jardín central. ¡Se abrirá en 2045!"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Misterios UDG"
+        },
+        {
+            "tag": "memes",
+            "patterns": [
+                "Muéstrame un meme estudiantil",
+                "Meme universitario",
+                "Dame un meme de exámenes",
+                "Memes de la UDG"
+            ],
+            "responses": [
+                "📚 *Cuando terminas el examen primero*:\n'El que sale temprano: 🏃♂️💨\nEl que revisó 3 veces: 😰📝'",
+                "💻 *Estudiante en clases online*:\n'Conectar cámara: ❌\nPoner meme de fondo: ✅'",
+                "🕒 *A las 3 AM estudiando*:\n'Café número 5: ☕\nEntender la teoría: ❓'"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Entretenimiento"
+        },
+        {
+            "tag": "ayuda_academica",
+            "patterns": [
+                "¿Cómo estudio para...?",
+                "Técnicas de aprendizaje",
+                "Consejos para exámenes",
+                "¿Cómo hacer un ensayo?",
+                "Método de investigación"
+            ],
+            "responses": [
+                "📌 Usa la técnica Pomodoro: 25 min estudio + 5 min descanso. ¡4 ciclos = recompensa! 🍅",
+                "✍️ Para ensayos: 1) Tesis clara 2) 3 argumentos 3) Conclusión contundente. ¡Y revisa ortografía!",
+                "🔬 ¿Investigación? Prueba el método SCAMPER:\nSustituir\nCombinar\nAdaptar\nModificar\nProponer otros usos\nEliminar\nReorganizar"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Apoyo Académico"
+        },
+        {
+            "tag": "tecnologia",
+            "patterns": [
+                "No me conecto al WiFi",
+                "¿Cómo usar Classroom?",
+                "Recuperar contraseña",
+                "Error en sistema"
+            ],
+            "responses": [
+                "📶 WiFi UDG: Usa tu correo institucional\nUsuario: matricula@alumnos.udg.mx\nContraseña: tu contraseña de LEO",
+                "⚠️ Para problemas técnicos:\n1. Reinicia dispositivo\n2. Borra caché\n3. Intenta en otro navegador\n"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Soporte Técnico"
+        },
+        {
+            "tag": "argot_udg",
+            "patterns": [
+                "¿Qué significa cahiro?",
+                "Jerga universitaria",
+                "¿Qué es un tecolote?",
+                "Palabras típicas de la UDG"
+            ],
+            "responses": [
+                "📖 Diccionario UDG:\n'Cahiro' = Estudiante de nuevo ingreso 🐣\n'Tecolote' = Vigilante nocturno 🦉\n'Chanequear' = Copiar en examen 😅",
+                "🏫 'Voy a rajar' = Ir rápido\n'Está cañón' = Está difícil\n'Pasar en curva' = Aprobar sin esfuerzo 🎢"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Cultura Universitaria"
+        },
+        {
+            "tag": "ansiedad",
+            "patterns": [
+                "Tengo ansiedad",
+                "Ataque de pánico",
+                "No puedo calmarme",
+                "Técnicas de relajación"
+            ],
+            "responses": [
+                "🌬️ Ejercicio 5-5-5:\n1. Nombra 5 cosas que ves\n2. Mueve 5 partes del cuerpo\n3. Reconoce 5 sonidos\n¡Repite hasta calmarte!",
+                "🕯️ Visualiza una vela: Inhala imaginando acercarte a la llama, exhala alejándote. Repite 5 veces",
+                "📞 Recuerda que el CUCS ofrece apoyo psicológico gratuito: 33 3030 0900"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Bienestar Estudiantil"
+        },
+        {
+            "tag": "filosofia",
+            "patterns": [
+                "¿Qué harías si...?",
+                "Pregunta hipotética",
+                "Si fueras humano...",
+                "Reflexión filosófica"
+            ],
+            "responses": [
+                "🤔 Si tuviera forma humana, probablemente sería una estudiante de posgrado con 15 tazas de café vacías en su escritorio ☕",
+                "🌌 Si hubiera un apocalipsis zombie, ¡organizaría un grupo de estudio para encontrar la cura! 🧟♂️📚",
+                "💭 'El conocimiento es la única riqueza que crece al compartirse' - Reflexión de las 3 AM"
+            ],
+            "document": "NA",
+            "article": "NA",
+            "topic": "Entretenimiento"
+        }
+    ]
+}

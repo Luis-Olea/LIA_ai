@@ -1,0 +1,659 @@
+{
+    "main_topic": "Dudas Frecuentes",
+    "intents": [
+        {
+            "tag": "ceneval",
+            "patterns": [
+                "¿Qué es el CENEVAL?",
+                "¿Me puedes decir qué significa CENEVAL?",
+                "¿Qué es exactamente el CENEVAL?",
+                "¿Cómo se define el CENEVAL?",
+                "¿Qué rol tiene el CENEVAL en la educación?",
+                "¿En qué consiste el CENEVAL?"
+            ],
+            "responses": [
+                "📜 Es un examen que mide tus conocimientos al egresar de la licenciatura."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval1",
+            "patterns": [
+                "¿Para que sirve el CENEVAL?",
+                "¿Cuál es el propósito del CENEVAL?",
+                "¿Qué utilidad tiene hacer el CENEVAL?",
+                "¿Por qué es importante el CENEVAL?",
+                "¿En qué me beneficia presentar el CENEVAL?",
+                "¿Para qué se usa el examen del CENEVAL?"
+            ],
+            "responses": [
+                "🎯 Sirve para evaluar si estás preparado para el campo laboral y, en algunos casos, es requisito para titularte."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval2",
+            "patterns": [
+                "¿Cuánto dura el CENEVAL?",
+                "¿Cuánto tiempo toma hacer el CENEVAL?",
+                "¿Qué tan largo es el examen del CENEVAL?",
+                "¿Cuántas horas dura la evaluación del CENEVAL?",
+                "¿Se tarda mucho en presentar el CENEVAL?",
+                "¿En cuánto tiempo se termina el CENEVAL?"
+            ],
+            "responses": [
+                "⚖️ Dura aproximadamente 4 horas. Tiene entre 110 y 140 preguntas, dependiendo de tu área, e incluye secciones como: conocimientos generales, disciplinares y habilidades específicas."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval3",
+            "patterns": [
+                "¿Cuánto cuesta el CENEVAL?",
+                "¿Qué precio tiene el CENEVAL?",
+                "¿Cuánto hay que pagar por el CENEVAL?",
+                "¿El examen del CENEVAL es caro?",
+                "¿Cuál es el costo del CENEVAL?",
+                "¿Como me registro para el CENEVAL?",
+                "¿Donde me registro para hacer el CENEVAL?",
+                "¿Donde me inscribo para el CENEVAL?"
+            ],
+            "responses": [
+                "🔍 La inscripción se hace en línea a través del sitio del CENEVAL o tu universidad. El costo varía (alrededor de $3,000 MXN), pero consulta la página oficial o con tu institución para consultar si tienen alguna beca o descuento disponible."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval4",
+            "patterns": [
+                "¿Hay guías o material para estudiar para el CENEVAL?",
+                "¿Existen materiales para prepararse para el CENEVAL?",
+                "¿Dónde puedo encontrar una guía para estudiar el CENEVAL?",
+                "¿Se puede conseguir algo para estudiar para el CENEVAL?",
+                "¿El CENEVAL tiene alguna guía oficial?",
+                "¿Hay recursos recomendados para prepararse para el CENEVAL?"
+            ],
+            "responses": [
+                "✅ Sí, el CENEVAL ofrece guías por carrera en su sitio web. También algunas universidades dan cursos de preparación."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval5",
+            "patterns": [
+                "¿Cuándo salen los resultados del CENEVAL?",
+                "¿En qué fecha publican los resultados del CENEVAL?",
+                "¿Cuánto tardan en salir los resultados del CENEVAL?",
+                "¿Dónde y cuándo se pueden ver los resultados del CENEVAL?",
+                "¿Cuánto tiempo pasa antes de tener los resultados del CENEVAL?",
+                "¿Cuándo me entregan los resultados del CENEVAL?"
+            ],
+            "responses": [
+                "📋 Se publican en ≈30 días hábiles en el portal del CENEVAL con tu folio y contraseña."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval6",
+            "patterns": [
+                "¿Cuanta vigencia tiene el CENEVAL?",
+                "¿Cuánto tiempo es válido el resultado del CENEVAL?",
+                "¿Hasta cuándo sirve el resultado del CENEVAL?",
+                "¿Tiene vencimiento el CENEVAL?",
+                "¿Por cuánto tiempo tiene validez el examen del CENEVAL?",
+                "¿Durante cuánto tiempo se puede usar el resultado del CENEVAL?"
+            ],
+            "responses": [
+                "🔍 No caduca, pero algunas instituciones o empleadores pueden pedir resultados recientes (ej. menos de 5 años)."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval7",
+            "patterns": [
+                "¿Que pasa si repruebo el CENEVAL?",
+                "¿Qué ocurre si no paso el CENEVAL?",
+                "¿Hay consecuencias por reprobar el CENEVAL?",
+                "¿Qué hago si salgo mal en el CENEVAL?",
+                "¿Puedo volver a presentar el CENEVAL si lo repruebo?"
+            ],
+            "responses": [
+                "🎯 Puedes volver a presentarlo, pero revisa las convocatorias (a veces hay límite de intentos o tiempos de espera)."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval8",
+            "patterns": [
+                "¿Es obligatorio hacer el CENEVAL?",
+                "¿Es necesario presentar el CENEVAL?",
+                "¿Se tiene que hacer el CENEVAL sí o sí?",
+                "¿Es forzoso presentar el examen del CENEVAL?",
+                "¿Todos deben presentar el CENEVAL?"
+            ],
+            "responses": [
+                "🎯 Hacer el CENEVAL sirve para evaluar si estás preparado para el campo laboral y, en algunos casos, es requisito para titularte."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval9",
+            "patterns": [
+                "¿Es obligatorio hacer el CENEVAL para titularse?",
+                "¿Necesito el CENEVAL para poder titularme?",
+                "¿Me puedo titular sin hacer el CENEVAL?",
+                "¿Es un requisito el CENEVAL para obtener el título?",
+                "¿Se puede titular uno sin presentar el CENEVAL?",
+                "¿El CENEVAL es parte del proceso de titulación?"
+                
+            ],
+            "responses": [
+                "📌 En algunos casos, sí es obligatorio para titularte, pero para estar más seguro, te recomiendo preguntar en la coordinación de tu carrera. 🙈"
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "ceneval10",
+            "patterns": [
+                "¿Qué pasa si no apruebo mi examen CENEVAL?",
+                "¿Tengo otra oportunidad si no apruebo el examen del CENEVAL?"
+            ],
+            "responses": [
+                "🎯 Puedes volver a presentarlo, pero revisa las convocatorias (a veces hay límite de intentos o tiempos de espera)."
+            ],
+            "document": "Dudas Ceneval",
+            "article": "NA",
+            "topic": "Dudas Ceneval"
+        },
+        {
+            "tag": "titulacion",
+            "patterns": [
+                "¿Para que me sirve titularme?",
+                "¿Qué beneficios tiene titularme?",
+                "¿Por qué es importante obtener el título?",
+                "¿Para qué me puede ayudar el título universitario?",
+                "¿En qué me afecta no titularme?",
+                "¿Vale la pena titularse?"
+            ],
+            "responses": [
+                "📜 La titulación es el proceso final para obtener tu título profesional. Es importante porque valida tus conocimientos, te permite ejercer tu carrera y demuestra la calidad de tu formación académica."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion1",
+            "patterns": [
+                "¿Que modalidades de titulacion hay?",
+                "¿Qué opciones existen para titularme?",
+                "¿Cuáles son las formas en las que me puedo titular?",
+                "¿Qué tipos de titulación puedo elegir?",
+                "¿De qué maneras se puede obtener el título?",
+                "¿Qué alternativas hay para titularse?"
+            ],
+            "responses": [
+                "🤝 Hay 5 modalidades principales: \n\n🔹Desempeño Académico Sobresaliente \n🔹Exámenes \n🔹Producción de Materiales Educativos \n🔹Investigación y Posgrado \n🔹Tesis, Tesina o Informes."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion2",
+            "patterns": [
+                "¿Qué necesito para titularme por promedio?",
+                "¿Cuáles son los requisitos para titularme por promedio?",
+                "¿Qué piden para titularse por promedio?",
+                "¿Cómo funciona la titulación por promedio?",
+                "¿Puedo obtener mi título solo por mi promedio?",
+                "¿Qué condiciones debo cumplir para titularme por promedio?",
+                "¿Qué promedio necesito para titularme por promedio?"
+            ],
+            "responses": [
+                "🚨 *Titulacion por promedio*:\n\n🔹 **Excelencia académica**: Promedio mínimo de 95, sin recursar materias y con máximo 10% de materias en extraordinario.\n🔹 **Titulación por promedio**: Promedio mínimo de 90, todas las materias aprobadas en ordinario."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion3",
+            "patterns": [
+                "¿Qué es una tesis y cuáles son sus requisitos?",
+                "¿En qué consiste una tesis y qué se necesita para hacerla?",
+                "¿Cómo es el proceso de titulación por tesis?",
+                "¿Qué tengo que hacer para titularme con una tesis?",
+                "¿Qué implica hacer una tesis para titularme?"
+                
+            ],
+            "responses": [
+                "📌 Es un trabajo de investigación original que necesita ser aprobado por un jurado."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion4",
+            "patterns": [
+                "¿Puedo titularme con prácticas profesionales?",
+                "¿Es posible titularme haciendo prácticas?",
+                "¿Las prácticas profesionales cuentan para titularme?",
+                "¿Me puedo titular si ya hice mis prácticas?",
+                "¿La titulación por prácticas es válida?"
+            ],
+            "responses": [
+                "🏢 Sí, mediante el Informe de Prácticas Profesionales.\n\n🔹Debes acreditar al menos 2 años de experiencia."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion5",
+            "patterns": [
+                "¿Necesito inglés para titularme?",
+                "¿Se necesita comprobar nivel de inglés para obtener el título?",
+                "¿Es obligatorio el inglés para poder titularme?",
+                "¿Piden inglés como requisito de titulación?",
+                "¿Tengo que presentar alguna constancia de inglés para titularme?",
+                "¿Qué nivel de inglés se requiere para titularse?"
+            ],
+            "responses": [
+                "✅ Sí, necesitas un nivel mínimo de A2."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion6",
+            "patterns": [
+                "¿Cómo inicio el proceso de titulación?",
+                "Cómo me titulo?",
+                "¿Qué pasos tengo que seguir para comenzar mi titulación?",
+                "¿Cómo empiezo el trámite de titulación?",
+                "¿Dónde arranca el proceso para titularme?",
+                "¿Qué debo hacer primero para empezar a titularme?",
+                "¿Cuál es el primer paso para iniciar mi titulación?"
+            ],
+            "responses": [
+                "🚨 *Proceso de Titulación*:\n\n🔹Ingresa a titulación.cucei.udg.mx con tus credenciales.\n🔹Cambia tu estatus a 'Egresado' y elige tu modalidad.\n🔹Sube los documentos requeridos según tu opción."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion7",
+            "patterns": [
+                "¿Qué documentos debo entregar al finalizar?",
+                "¿Qué papeles tengo que entregar al final de la carrera?",
+                "¿Cuáles son los documentos necesarios para terminar el proceso de titulación?",
+                "¿Qué debo entregar cuando ya terminé todo para titularme?",
+                "¿Qué documentos me piden al concluir mis estudios?",
+                "¿Qué archivos o constancias tengo que llevar al final del proceso?"
+            ],
+            "responses": [
+                "📌 *Documentacion*:\n\n🔹Solicitud de título.\n🔹Comprobante de pago.\n🔹Cartas de no adeudo (UDG y biblioteca).\n🔹6 fotos tamaño credencial (para la coordinación).\n🔹3 fotos tamaño título (para control escolar)."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion8",
+            "patterns": [
+                "¿Dónde reviso mi estatus de titulación?",
+                "¿Cómo puedo saber cómo va mi trámite de titulación?",
+                "¿Dónde consulto el avance de mi proceso de titulación?",
+                "¿Cómo reviso si ya estoy titulado o en proceso?",
+                "¿Dónde checo en qué va mi titulación?",
+                "¿Cómo verifico mi estatus de titulación?"
+            ],
+            "responses": [
+                "📜 En la plataforma titulación.cucei.udg.mx, en la sección 'Mis documentos' o 'Documentos Generados'."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion9",
+            "patterns": [
+                "¿Qué diferencia hay entre tesis y tesina?",
+                "¿En qué se distingue una tesis de una tesina?",
+                "¿Qué cambia entre hacer tesis o tesina?",
+                "¿Cuál es la diferencia entre una tesis y una tesina?",
+                "¿Qué opción es más sencilla: tesis o tesina?",
+                "¿Cómo saber si me conviene hacer tesis o tesina?"
+            ],
+            "responses": [
+                "🤝 *Diferencias entre tesis y tesina*:\n\n🔹Tesis: Investigación original (puede incluir prototipos).\n🔹Tesina: Trabajo monográfico más breve (45-60 cuartillas)."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion10",
+            "patterns": [
+                "¿Cuánto tiempo tengo para titularme después de egresar?",
+                "¿Hay un límite de tiempo para titularme tras egresar?",
+                "¿Cuántos años tengo para titularme después de terminar la carrera?",
+                "¿Hasta cuándo puedo titularme una vez que egreso?",
+                "¿Puedo titularme años después de haber egresado?",
+                "¿Cuánto tiempo sigue vigente mi derecho a titularme?"
+            ],
+            "responses": [
+                "📜 No hay plazo límite, pero algunos documentos (como el certificado de inglés) deben estar vigentes al momento de entregar."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion11",
+            "patterns": [
+                "¿Cómo solicito mi carta de no adeudo?",
+                "¿Dónde y cómo pido la carta de no adeudo?",
+                "¿Qué tengo que hacer para que me den la carta de no adeudo?",
+                "¿Cómo gestiono el trámite de no adeudo?",
+                "¿Qué pasos sigo para sacar la carta de no adeudo?",
+                "¿Quién me da la carta de no adeudo y cómo la consigo?"
+            ],
+            "responses": [
+                "🏢 *Cartas de no adeudo*:\n\n🔹**UDG**: En Control Escolar de tu centro universitario.\n🔹**Biblioteca**: En la biblioteca de tu división."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion12",
+            "patterns": [
+                "¿Debo pagar algo para titularme?",
+                "¿La titulación tiene algún costo?",
+                "¿Se paga algo para obtener el título?",
+                "¿Hay que cubrir alguna cuota para titularse?",
+                "¿Cuánto cuesta el trámite de titulación?",
+                "¿Es gratis titularme o debo pagar algo?"
+            ],
+            "responses": [
+                "✅ Sí, hay un costo por el trámite de título.\n\n🔹El comprobante de pago original se entrega en Control Escolar. \n\n💡Consulta los montos y detalles actualizados en: https://titulacion.udg.mx/requisitos"
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "titulacion13",
+            "patterns": [
+                "¿Cada cuanto se validan los documentos?",
+                "¿Con qué frecuencia revisan los documentos?",
+                "¿Cuándo vuelven a validar los papeles?",
+                "¿Cada cuánto tiempo actualizan la validación de documentos?",
+                "¿Hay fechas específicas para validar documentos?",
+                "¿Cuántas veces al año se hace la validación de documentos?"
+            ],
+            "responses": [
+                "📌 Los documentos se validan cada fin de mes."
+            ],
+            "document": "Dudas Titulacion",
+            "article": "NA",
+            "topic": "Dudas Titulacion"
+        },
+        {
+            "tag": "evaluacion",
+            "patterns": [
+                "¿Cuál es la calificación mínima aprobatoria?",
+                "¿Con qué calificación se aprueba una materia?",
+                "¿Cuál es la nota mínima para pasar una asignatura?",
+                "¿Qué calificación necesito para no reprobar?",
+                "¿A partir de qué calificación ya no repruebo?",
+                "¿Qué nota se considera aprobatoria?"
+            ],
+            "responses": [
+                "📌 La calificación mínima aprobatoria es 60 en una escala del 0 al 100."
+            ],
+            "document": "Dudas Evaluacion",
+            "article": "NA",
+            "topic": "Dudas Evaluacion"
+        },
+        {
+            "tag": "evaluacion1",
+            "patterns": [
+                "¿Qué porcentaje de asistencia se requiere para tener derecho a evaluación ordinaria?",
+                "¿Cuánta asistencia necesito para presentar el examen ordinario?",
+                "¿Qué porcentaje de clases debo cumplir para evaluarme?",
+                "¿Cuántas faltas puedo tener antes de perder derecho a examen?",
+                "¿Qué mínimo de asistencia piden para hacer el examen final?",
+                "¿Debo ir a todas las clases para tener derecho a evaluación?"              
+            ],
+            "responses": [
+                "🚨 Se requiere un mínimo del 80% de asistencia a clases y actividades registradas.\n\n📌 Excepciones aplican para posgrado y modalidades no convencionales (abierto, a distancia, semiescolarizado)."
+            ],
+            "document": "Dudas Evaluacion",
+            "article": "NA",
+            "topic": "Dudas Evaluacion"
+        },
+        {
+            "tag": "evaluacion2",
+            "patterns": [
+                "¿Como justifico faltas?",
+                "¿Qué tengo que hacer para justificar mis faltas?",
+                "¿Cómo presento un justificante por mis ausencias?",
+                "¿Se pueden justificar las faltas?",
+                "¿A quién entrego el justificante de faltas?",
+                "¿Qué documentos sirven para justificar faltas?"
+            ],
+            "responses": [
+                "📅 Los justificantes de la carrera de informatica se tramitan en línea contestando el siguiente formulario\n\n🔸https://www.cucei.udg.mx/carreras/informatica/es/alumnos/webform/formulario-para-justificantes\n\n**Causas Válidas**\n\n🔹Enfermedad\n🔹Comisiones universitarias\n🔹Fuerza mayor."
+            ],
+            "document": "Dudas Evaluacion",
+            "article": "NA",
+            "topic": "Dudas Evaluacion"
+        },
+        {
+            "tag": "evaluacion3",
+            "patterns": [
+                "¿Cómo funciona la evaluación en extraordinario?",
+                "¿Cómo se califica en el periodo extraordinario?",
+                "¿Qué debo saber sobre la evaluación extraordinaria?",
+                "¿Cómo aplican las evaluaciones en extraordinarios?",
+                "¿Cuál es el proceso de evaluación en un extraordinario?"
+            ],
+            "responses": [
+                "🆘 Es para alumnos que no aprobaron en el periodo ordinario.\n\n**Requiere**:\n\n🔹Pago de arancel.\n🔹65% de asistencia mínima.\n\n**La calificación final combina**\n\n🔹80% del examen extraordinario.\n🔹40% de la calificación del periodo ordinario."
+            ],
+            "document": "Dudas Evaluacion",
+            "article": "NA",
+            "topic": "Dudas Evaluacion"
+        },
+        {
+            "tag": "evaluacion4",
+            "patterns": [
+                "¿Qué pasa si repruebo una materia en el periodo extraordinario?",
+                "¿Y si no paso una materia en extraordinario?",
+                "¿Qué opciones tengo si repruebo en extraordinario?",
+                "¿Puedo volver a presentar si no apruebo el extraordinario?",
+                "¿Qué consecuencias hay si fallo el examen extraordinario?",
+                "¿Qué sigue si no logro aprobar una materia en extraordinario?"
+            ],
+            "responses": [
+                "📌 Debes repetirla en el siguiente ciclo escolar donde se ofrezca.\n\n🚨Si no la acreditas en esa oportunidad, podrías ser dado de baja. (Artículo 33)."
+            ],
+            "document": "Dudas Evaluacion",
+            "article": "NA",
+            "topic": "Dudas Evaluacion"
+        },
+        {
+            "tag": "evaluacion5",
+            "patterns": [
+                "¿Puedo solicitar revisión de una calificación que considero incorrecta?",
+                "¿Se puede pedir revisión de calificación si no estoy de acuerdo?",
+                "¿Qué hago si creo que me calificaron mal?",
+                "¿Puedo pedir que revisen mi calificacion?",
+                "¿A quién recurro si creo que hubo error en mi calificación?",
+                "¿Hay manera de solicitar revisión de calificaciones?"
+            ],
+            "responses": [
+                "✅ Sí, debes presentar una solicitud por escrito dentro de 3 días hábiles después de publicadas las calificaciones.\n\n🏢 La revisión la harán 3 profesores designados, y su resolución es definitiva."
+            ],
+            "document": "Dudas Evaluacion",
+            "article": "NA",
+            "topic": "Dudas Evaluacion"
+        },
+        {
+            "tag": "evaluacion6",
+            "patterns": [
+                "¿Los criterios de evaluación deben ser informados a los alumnos?",
+                "¿El profe tiene que decir cómo va a calificar desde el inicio?",
+                "¿Es obligatorio que expliquen los criterios de evaluación?",
+                "¿Deben informar cómo se va a evaluar la materia?",
+                "¿Los estudiantes deben conocer los criterios antes de ser evaluados?",
+                "¿Es requisito que los maestros digan cómo van a calificar?"
+            ],
+            "responses": [
+                "🎯 Sí, el profesor debe dar a conocer los criterios de evaluación al inicio del curso, incluyendo aspectos evaluados, porcentajes y momentos de evaluación."
+            ],
+            "document": "Dudas Evaluacion",
+            "article": "NA",
+            "topic": "Dudas Evaluacion"
+        },
+        {
+            "tag": "preeregistro",
+            "patterns": [
+                "¿Que pasa si no hice el preregistro?",
+                "¿Hay problema si se me pasó hacer el preregistro?",
+                "¿Qué puedo hacer si olvidé hacer el preregistro?",
+                "¿Me afecta no haber hecho el preregistro?"
+            ],
+            "responses": [
+                "🎯 Si no hiciste tu preregistro tu agenda de materias se abrirá después de que terminen los que sí lo hicieron, es decir te tocara esperar la fecha de agenda general para registrar materias."
+            ],
+            "document": "Dudas Preregistro",
+            "article": "NA",
+            "topic": "Dudas Preregistro"
+        },
+        {
+            "tag": "articulos_evaluacion",
+            "patterns": [
+                "¿Que hago si cai en articulo 33?",
+                "¿Qué significa estar en artículo 33 y qué puedo hacer?",
+                "¿Qué pasos debo seguir si me aplicaron el artículo 33?",
+                "¿Qué opciones tengo si me pusieron en artículo 33?",
+                "¿Que hago si cai en articulo 34?",
+                "¿Qué implica estar en artículo 34 y qué hago?",
+                "¿Cómo salgo del artículo 34?",
+                "¿Qué puedo hacer si me asignaron artículo 34?",
+                "¿A quién debo acudir si estoy en artículo 34?",
+                "¿Que hago si cai en articulo 35?",
+                "¿Qué puedo hacer si estoy en artículo 35?",
+                "¿Qué significa haber caído en el artículo 35 y que puedo hacer?",
+                "¿Cuál es el procedimiento a seguir si me aplicaron artículo 35?",
+                "¿Cómo se resuelve una situación con artículo 35?",
+                "¿Qué opciones tengo si me pusieron bajo artículo 35?"
+            ],
+            "responses": [
+                "📘 Podrás solicitar una nueva oportunidad a la Comisión De Educación Del Consejo De Centro, para acreditar la materia o materias que adeudes. \n\n🎯**Para realizar esta solicitud debes seguir los siguientes pasos**:\n🔹**Ingresa a SIATCE**: http://escolar.cucei.udg.mx/cescolar \n🔹**Solicita la oportunidad**: Busca la opción para solicitar oportunidad por el artículo correspondiente\n🔹**Imprime el resolutivo**: Imprime el resolutivo en la fecha que indique tu solicitud\n🔹**Revisa tu estatus**: Si se te otorga la oportunidad, registra tu horario y revisa tu estatus en SIIAU https://mw.siiau.udg.mx/Portal/login.xhtml \n🔹**Paga la matrícula**: Si la solicitud es aprobada, paga la matrícula antes de la fecha de vencimiento. "                                               
+            ],
+            "document": "Dudas Solicitudes de Articulo",
+            "article": "NA",
+            "topic": "Dudas Solicitudes de Articulo"
+        },
+        {
+            "tag": "licencia_semestre",
+            "patterns": [
+                "¿Cómo solicito una licencia?",
+                "¿Cómo pido licencia?",
+                "¿Cuales son los pasos para solicitar una licencia?",
+                "¿Cómo mando la solicitud de licencia?",
+                "¿Qué trámites hay que hacer para la licencia?"
+            ],
+            "responses": [
+                "📌Para solicitar una licencia de semestre, debes seguir los siguientes pasos:\n\n🔹Verifica las fechas de inicio y finalización del trámite en el calendario de tu Centro Universitario.\n🔹Descarga el formato de solicitud de licencia de la página web de tu centro.\n🔹Llena el formato y reunir los documentos necesarios, como comprobante de pago de la orden de pago del semestre, constancias de no adeudo y, en algunos casos, carta de exposición de motivos.\n🔹Finalmente, entrega la documentación en la Coordinación de Control Escolar de tu Centro Universitario"                                               
+            ],
+            "document": "Dudas Solicitar Licencia",
+            "article": "NA",
+            "topic": "Dudas Solicitar Licencia"
+        },
+        {
+            "tag": "baja_voluntaria",
+            "patterns": [
+                "¿Cómo solicito una baja voluntaria?",
+                "¿Cómo me doy de baja de la carrera?",
+                "¿Cómo me doy de baja?",
+                "¿Cómo pido mi baja voluntaria?",
+                "¿Cuales son los pasos para darme de baja?",
+                "¿Cuales son los pasos para darme de baja de la carrera?",
+                "¿Cómo mando la solicitud de baja de la carrera?",
+                "¿Qué trámites hay que hacer para la baja de la carrera?"
+            ],
+            "responses": [
+                "📌Para solicitar una baja de la carrera en la Universidad de Guadalajara, debes realizar el trámite de baja voluntaria. :\n\n🔹Asegúrate de no tener adeudos\n🔹Solicita el formato de baja voluntaria\n🔹Llena y firma el formato\n🔹Reúne los documentos necesarios\n🔹Acude a tu coordinación de carrera\n🔹Entrega la documentación a Control Escolar\n🔹Imprime y guarda la orden de pago de la baja voluntaria\n🔹Realiza el pago\n🔹Retira tus documentos\n"                                               
+            ],
+            "document": "Dudas Baja Voluntaria",
+            "article": "NA",
+            "topic": "Dudas Baja Voluntaria"
+        },
+        {
+            "tag": "guapos_cucei",
+            "patterns": [
+                "¿Quien es el más guapo de cucei?"
+            ],
+            "responses": [
+                "📌Sin duda el Rick 🐻",
+                "📌Sin duda el Rick 🐻",
+                "📌Sin duda el Rick 🐻",
+                "📌Sin duda el Jeremike 🙈", 
+                "📌Sin duda el Felipin 🐦",
+                "📌Sin duda el Alucin 👺", 
+                "📌Sin duda el Alucin 👺",
+                "📌Sin duda el Alucin 👺",
+                "📌Sin duda el Palmin 🌴"                                                
+            ],
+            "document": "Dudas Guapos",
+            "article": "NA",
+            "topic": "Dudas Guapos"
+        },
+        {
+            "tag": "equipo_dev",
+            "patterns": [
+                "¿Quien te creo?",
+                "¿Quien te hizo?",
+                "¿Quien te desarrollo?"
+            ],
+            "responses": [
+                "📌Los estudiantes de Ingeniería Informática\n\n🔹**Dharma Medina**\n🔹**Luis Olea**\n🔹**Ricardo Pérez**\n"
+                                                
+            ],
+            "document": "Dudas Devs",
+            "article": "NA",
+            "topic": "Dudas Devs"
+        }
+        
+
+    ]
+}

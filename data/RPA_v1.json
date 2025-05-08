@@ -1,0 +1,215 @@
+{
+    "main_topic": "Reglamento del Programa de Estímulos a la Productividad Académica de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "objeto_reglamento_productividad_academica",
+            "patterns": [
+                "¿Qué establece el artículo 1 de este reglamento?",
+                "¿A quiénes aplica este programa de estímulos?",
+                "¿Este reglamento cubre a todo el personal universitario?",
+                "¿Qué tipo de actividades académicas incluye?"
+            ],
+            "responses": [
+                "📜 Art. 1: Establece las bases para otorgar estímulos económicos por productividad al personal académico de la UdeG dedicado a la docencia. 🎓",
+                "👨🏫 Aplica específicamente a: profesores de carrera, técnicos académicos y profesores de asignatura que cumplan los requisitos (ver Art. 6). ✅",
+                "🚫 No, excluye a personal administrativo y directivos remunerados (Art. 7). Solo para académicos con carga docente. ⚠️",
+                "📚 Cubre: docencia, investigación, tutorías, participación en cuerpos académicos y vinculación (detallado en Art. 9). 🌟"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento productividad"
+        },
+        {
+            "tag": "objetivo_programa_productividad_academica",
+            "patterns": [
+                "¿Cuál es el objetivo principal del programa según el artículo 2?",
+                "¿Qué busca estimular este programa?",
+                "¿Es compatible con otros beneficios contractuales?"
+            ],
+            "responses": [
+                "🎯 Art. 2: Reconocer la calidad y productividad de los académicos para incentivar su labor y dedicación. ✨",
+                "📈 Busca mejorar: 1) Calidad docente, 2) Producción académica, 3) Permanencia institucional (Art. 9). 🏛️",
+                "💼 Sí, es independiente del salario y prestaciones contractuales (Art. 3). Se acumula a otros beneficios. ✅"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 2",
+            "topic": "Objetivo del programa"
+        },
+        {
+            "tag": "naturaleza_estimulo",
+            "patterns": [
+                "¿En qué consiste el estímulo según el artículo 3?",
+                "¿Es un aumento salarial permanente?",
+                "¿Cómo se diferencia de otras prestaciones?"
+            ],
+            "responses": [
+                "💰 Art. 3: Es un beneficio económico adicional al salario, otorgado por cumplir requisitos de productividad. 💸",
+                "⏳ No, es temporal (1 año) y sujeto a renovación mediante concurso anual (Art. 4). 📅",
+                "🔍 Diferencias: 1) No es derecho adquirido, 2) Requiere evaluación puntual, 3) Se paga mensualmente (Art. 4). ⚖️"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 3",
+            "topic": "Naturaleza del estímulo"
+        },
+        {
+            "tag": "monto_estimulo",
+            "patterns": [
+                "¿Quién determina el monto del estímulo según el artículo 4?",
+                "¿Cómo se entrega el beneficio económico?",
+                "¿Hay un monto fijo para todos?"
+            ],
+            "responses": [
+                "🏛️ Art. 4: El Rector General fija el monto basado en: 1) Presupuesto anual aprobado, 2) Número de candidatos. 📊",
+                "💳 Se paga mensualmente vía cheque bancario durante un año (Art. 4 párr. 2). 🏦",
+                "📌 No, varía según: 1) Recursos disponibles, 2) Puntaje obtenido (Art. 4 + 11). ⚠️"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 4",
+            "topic": "Monto y entrega del estímulo"
+        },
+        {
+            "tag": "asignacion_recursos",
+            "patterns": [
+                "¿Cómo se distribuyen los recursos según el artículo 5?",
+                "¿Puede una dependencia quedarse sin fondos?",
+                "¿Qué factores considera el Rector para asignar recursos?"
+            ],
+            "responses": [
+                "📦 Art. 5: El Rector asigna recursos por dependencia según: 1) Número de candidatos elegibles, 2) Presupuesto global. 💰",
+                "⚠️ Sí, si los candidatos exceden el presupuesto asignado (se prioriza por puntaje, Art. 11). 📉",
+                "🔢 Considera: 1) Tamaño de la planta académica, 2) Histórico de asignaciones, 3) Disponibilidad fiscal (Art. 5 implícito). 📌"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 5",
+            "topic": "Distribución de recursos"
+        },
+        {
+            "tag": "requisitos_participacion",
+            "patterns": [
+                "¿Qué requisitos exige el artículo 6 para participar?",
+                "¿Un profesor de asignatura puede aplicar?",
+                "¿Cuántas horas debe impartir un técnico académico?"
+            ],
+            "responses": [
+                "📜 Art. 6 requiere: 1) Ser profesor de carrera/técnico académico/profesor de asignatura, 2) Cumplir carga horaria, 3) Compromiso escrito, 4) 550+ puntos. ✅",
+                "🎓 Sí, si tiene: 1) 8+ horas semanales, 2) 3+ años de antigüedad (Art. 6 I). ⏳",
+                "⏱️ Mínimo 6 horas semanales frente a grupo (Art. 6 II). 📚"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 6",
+            "topic": "Requisitos para participar"
+        },
+        {
+            "tag": "exclusiones",
+            "patterns": [
+                "¿Quiénes no pueden participar según el artículo 7?",
+                "¿Un académico con cargo administrativo puede concursar?",
+                "¿Hay límite de horas combinadas?"
+            ],
+            "responses": [
+                "🚫 Art. 7 excluye: 1) Directivos remunerados, 2) Quienes excedan 48 horas semanales totales. ⚠️",
+                "💼 Sí, si su carga combinada (académica + administrativa) no supera 48 horas (Art. 7 párr. 2). ⚖️",
+                "⏰ Límite: 48 horas semanales sumando todos los contratos (Art. 7). 📅"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 7",
+            "topic": "Exclusiones"
+        },
+        {
+            "tag": "postulacion_unica",
+            "patterns": [
+                "¿Puedo concursar en múltiples dependencias según el artículo 8?",
+                "¿Qué pasa si tengo varios contratos?",
+                "¿Dónde debo presentar mi solicitud?"
+            ],
+            "responses": [
+                "🔒 Art. 8: Solo se permite una postulación por año, en la dependencia del contrato principal. 📌",
+                "📝 Debes elegir una dependencia, aunque tengas múltiples contratos (Art. 8). ⚠️",
+                "🏛️ En la dependencia donde esté adscrito tu contrato académico principal (Art. 8). ✍️"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 8",
+            "topic": "Postulación única"
+        },
+        {
+            "tag": "tabla_puntaje_estimulos_productividad",
+            "patterns": [
+                "¿Qué actividades evalúa la tabla de puntaje del artículo 9?",
+                "¿Cuál es el puntaje máximo por categoría?",
+                "¿Dónde se publica esta tabla?"
+            ],
+            "responses": [
+                "📊 Art. 9 evalúa: 1) Calidad docente (750 pts), 2) Dedicación (200 pts), 3) Permanencia (50 pts). Detalla docencia, investigación, tutorías, etc. 🌟",
+                "🎯 Máximos: 1) 750 pts (calidad), 2) 200 pts (horas docencia), 3) 50 pts (antigüedad) (Art. 9 III-V). 📈",
+                "📢 Se publica en la Gaceta Universitaria junto con la convocatoria anual (Art. 9 VI). 🖥️"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 9",
+            "topic": "Criterios de evaluación"
+        },
+        {
+            "tag": "comisiones_dictaminadoras",
+            "patterns": [
+                "¿Quiénes evalúan las solicitudes según el artículo 10?",
+                "¿Usan los mismos criterios que en estímulos al desempeño docente?",
+                "¿Qué atribuciones tienen?"
+            ],
+            "responses": [
+                "⚖️ Art. 10: Las comisiones del Programa de Estímulos al Desempeño Docente son las responsables. 👨‍⚖️",
+                "📌 Sí, aplican las mismas reglas, salvo disposiciones contrarias en este reglamento (Art. 10 + 13). 🔄",
+                "🔍 Atribuciones: 1) Revisar documentos, 2) Asignar puntajes, 3) Emitir fallos (Art. 10 + reglamento complementario). ✅"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 10",
+            "topic": "Comisiones evaluadoras"
+        },
+        {
+            "tag": "seleccion_beneficiarios",
+            "patterns": [
+                "¿Cómo se seleccionan los beneficiarios según el artículo 11?",
+                "¿Qué pasa si no alcanzo los 550 puntos?",
+                "¿Hay prioridad por antigüedad?"
+            ],
+            "responses": [
+                "🏆 Art. 11: Se eligen por orden de puntaje (mayor a menor) hasta agotar recursos, con mínimo de 550 pts. 📊",
+                "🚫 No calificas si tienes menos de 550 pts, independientemente del presupuesto (Art. 11). ⚠️",
+                "⏳ La antigüedad solo aporta hasta 50 pts (Art. 9 V), no es criterio prioritario. 📅"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 11",
+            "topic": "Selección de beneficiarios"
+        },
+        {
+            "tag": "supervision",
+            "patterns": [
+                "¿Quién supervisa la aplicación del programa según el artículo 12?",
+                "¿Qué funciones tiene la Coordinación General Académica?",
+                "¿Pueden auditar las dependencias?"
+            ],
+            "responses": [
+                "👀 Art. 12: La Coordinación General Académica supervisa y orienta la aplicación en toda la Red Universitaria. 🏛️",
+                "📋 Funciones: 1) Verificar cumplimiento, 2) Resolver dudas, 3) Uniformar criterios (Art. 12). ✅",
+                "🔍 Sí, puede realizar auditorías para garantizar transparencia (implícito en Art. 12). ⚖️"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 12",
+            "topic": "Supervisión"
+        },
+        {
+            "tag": "disposiciones_complementarias",
+            "patterns": [
+                "¿Qué relación tiene este reglamento con el de estímulos al desempeño docente según el artículo 13?",
+                "¿Qué prevalece si hay contradicciones?",
+                "¿Dónde puedo consultar el reglamento complementario?"
+            ],
+            "responses": [
+                "🔄 Art. 13: Las normas del Reglamento de Estímulos al Desempeño Docente aplican donde este reglamento no contemple algo. 📜",
+                "⚖️ Prevalece este reglamento en caso de contradicción expresa (Art. 13). ✅",
+                "🌐 En la Gaceta Universitaria o portal de la Coordinación General Académica (Art. 13 implícito). 💻"
+            ],
+            "document": "Reglamento del Programa de Estímulos a la Productividad Académica",
+            "article": "Artículo 13",
+            "topic": "Disposiciones complementarias"
+        }
+    ]
+}

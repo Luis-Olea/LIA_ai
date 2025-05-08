@@ -1,0 +1,1066 @@
+{
+    "main_topic": "Reglamento de la Defensoría de los Derechos Universitarios",
+    "intents": [
+        {
+            "tag": "objeto_defensoria",
+            "patterns": [
+                "¿Cuál es el objetivo principal de la Defensoría según el artículo 1?",
+                "¿Qué regula el artículo 1 del reglamento de la Defensoría?",
+                "¿Qué aspectos cubre el artículo 1 sobre la Defensoría?",
+                "¿Para qué sirve la Defensoría según el artículo 1?",
+                "¿Qué funciones tiene la Defensoría de acuerdo al artículo 1?"
+            ],
+            "responses": [
+                "📘 El artículo 1 establece que el objetivo de la Defensoría es regular su competencia, estructura, atribuciones y funcionamiento. 🏛️",
+                "🔹 Regula todo lo relacionado con la operación y alcance de la Defensoría de Derechos Universitarios. ⚖️",
+                "🎯 La Defensoría sirve para garantizar el respeto a los derechos universitarios dentro de la Universidad de Guadalajara. ✅",
+                "📘 Sus funciones incluyen atender quejas y proteger los derechos de la comunidad universitaria. 🤝",
+                "🔹 El artículo 1 define el marco legal que rige a la Defensoría. 📜"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 1",
+            "topic": "Objeto de la Defensoría"
+        },
+        {
+            "tag": "ambito_aplicacion",
+            "patterns": [
+                "¿A quiénes aplica el reglamento de la Defensoría según el artículo 2?",
+                "¿Dónde se aplican las normas de la Defensoría?",
+                "¿El artículo 2 incluye actividades fuera de los inmuebles universitarios?",
+                "¿Qué conductas cubre el artículo 2?",
+                "¿Es obligatorio el reglamento para toda la comunidad universitaria?"
+            ],
+            "responses": [
+                "📘 El artículo 2 aplica a toda la comunidad universitaria y a conductas en inmuebles o actividades universitarias. 🎓",
+                "🔹 Sí, incluye actividades organizadas por la Universidad, aunque no sean dentro de sus instalaciones. 🌍",
+                "🎯 Cubre hechos y conductas realizadas en ámbitos universitarios. ✅",
+                "📘 Es obligatorio para estudiantes, docentes y personal administrativo. ⚖️",
+                "🔹 Las normas son de observancia general dentro de la Universidad de Guadalajara. 📋"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 2",
+            "topic": "Ámbito de aplicación"
+        },
+        {
+            "tag": "definiciones_generales",
+            "patterns": [
+                "¿Qué se entiende por 'derechos universitarios'?",
+                "¿Quién es considerado 'alumno' según el artículo 3?",
+                "¿Qué es una 'tercera persona' en el reglamento?",
+                "¿Cómo define el artículo 3 a la 'autoridad universitaria'?",
+                "¿Qué son las 'medidas cautelares' según el artículo 3?"
+            ],
+            "responses": [
+                "📘 Los 'derechos universitarios' son los reconocidos en la Ley Orgánica y normatividad derivada, en marco de los derechos humanos. 📜",
+                "🔹 'Alumno' es quien está admitido y registrado en programas educativos de nivel medio superior o superior. 🎓",
+                "🎯 'Tercera persona' es quien denuncia una violación a derechos universitarios sin ser el afectado directo. 👥",
+                "📘 'Autoridad universitaria' incluye a órganos de gobierno o personal con atribuciones legítimas. ⚖️",
+                "🔹 'Medidas cautelares' son mecanismos para evitar daños irreparables durante un proceso. 🛡️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 3",
+            "topic": "Definiciones generales"
+        },
+        {
+            "tag": "interpretacion_reglamento",
+            "patterns": [
+                "¿Quién interpreta el reglamento de la Defensoría según el artículo 4?",
+                "¿Puede la Defensoría modificar la interpretación del reglamento?",
+                "¿Qué instancia resuelve dudas sobre el reglamento?",
+                "¿La Oficina de la Abogacía General tiene la última palabra en interpretación?",
+                "¿Dónde se establece la interpretación oficial del reglamento?"
+            ],
+            "responses": [
+                "📘 La Oficina de la Abogacía General es la encargada de interpretar el reglamento (artículo 4). 🏛️",
+                "🔹 No, la Defensoría no puede modificar la interpretación; es competencia exclusiva de la Abogacía General. ⚠️",
+                "🎯 Las dudas se resuelven mediante la interpretación oficial de la Abogacía General. ✅",
+                "📘 Sí, su interpretación es vinculante para la Defensoría. ⚖️",
+                "🔹 El artículo 4 designa a la Abogacía General como intérprete oficial. 📜"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 4",
+            "topic": "Interpretación del reglamento"
+        },
+        {
+            "tag": "procedimientos_en_linea",
+            "patterns": [
+                "¿Se pueden presentar quejas en línea según el artículo 5?",
+                "¿Qué medios electrónicos acepta la Defensoría para trámites?",
+                "¿La Universidad provee sistemas para trámites electrónicos?",
+                "¿Es obligatorio usar plataformas digitales para quejas?",
+                "¿Cómo se garantiza la validez de los trámites en línea?"
+            ],
+            "responses": [
+                "📘 Sí, el artículo 5 permite procedimientos en línea mediante medios electrónicos. 💻",
+                "🔹 La Universidad determina los sistemas tecnológicos válidos para trámites. 🔧",
+                "🎯 No es obligatorio, pero es una opción facilitada por la institución. ✅",
+                "📘 La validez depende del sistema oficial autorizado por la Universidad. ⚖️",
+                "🔹 Los formatos electrónicos deben cumplir con los requisitos legales. 📋"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 5",
+            "topic": "Procedimientos en línea"
+        },
+        {
+            "tag": "naturaleza_defensoria",
+            "patterns": [
+                "¿Qué tipo de órgano es la Defensoría según el artículo 6?",
+                "¿De quién depende la Defensoría?",
+                "¿Cuáles son las funciones principales de la Defensoría?",
+                "¿La Defensoría puede tomar decisiones autónomas?",
+                "¿Qué significa que sea un órgano 'unipersonal'?"
+            ],
+            "responses": [
+                "📘 Es un órgano unipersonal dependiente del Consejo General Universitario (artículo 6). 🏛️",
+                "🔹 Sus funciones incluyen promover derechos humanos y atender quejas. ⚖️",
+                "🎯 Sí, tiene libertad de actuación y decisión en sus procesos. ✅",
+                "📘 'Unipersonal' significa que su titular tiene autonomía operativa. 👤",
+                "🔹 Depende del Consejo General pero opera con independencia técnica. 🌟"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 6",
+            "topic": "Naturaleza de la Defensoría"
+        },
+        {
+            "tag": "principios_rectores",
+            "patterns": [
+                "¿Qué principios rigen a la Defensoría según el artículo 7?",
+                "¿Qué significa 'inmediatez' en el artículo 7?",
+                "¿La Defensoría debe ser imparcial?",
+                "¿Cómo aplica el principio de 'rapidez'?",
+                "¿Qué garantiza el principio de 'accesibilidad'?"
+            ],
+            "responses": [
+                "📘 Los principios son: accesibilidad, concentración, imparcialidad, inmediatez y rapidez (artículo 7). 📜",
+                "🔹 'Inmediatez' obliga a la Defensoría a acercarse a las partes involucradas. 🤝",
+                "🎯 Sí, debe ser imparcial y no tomar partido en los conflictos. ⚖️",
+                "📘 'Rapidez' asegura celeridad en la atención a quejas. ⏱️",
+                "🔹 'Accesibilidad' garantiza facilidad para presentar quejas o solicitudes. ♿"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 7",
+            "topic": "Principios rectores"
+        },
+        {
+            "tag": "confidencialidad",
+            "patterns": [
+                "¿La Defensoría debe guardar confidencialidad según el artículo 8?",
+                "¿Qué información es confidencial en la Defensoría?",
+                "¿Puede la Defensoría revelar datos de una queja?",
+                "¿Hay sanciones por romper la confidencialidad?",
+                "¿Cómo protege la Defensoría la privacidad de las partes?"
+            ],
+            "responses": [
+                "📘 Sí, el artículo 8 obliga al personal a guardar confidencialidad sobre los asuntos tratados. 🤫",
+                "🔹 Toda información relacionada con quejas o procesos es confidencial. 🔒",
+                "🎯 Solo se revela información si hay autorización o mandato legal. ⚖️",
+                "📘 El incumplimiento puede acarrear sanciones administrativas o legales. ⚠️",
+                "🔹 Se protege la privacidad mediante protocolos internos y normativas. 🛡️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 8",
+            "topic": "Confidencialidad"
+        },
+        {
+            "tag": "atribuciones_defensoria",
+            "patterns": [
+                "¿Qué atribuciones tiene la Defensoría según el artículo 9?",
+                "¿Puede la Defensoría emitir recomendaciones públicas?",
+                "¿La Defensoría puede conciliar conflictos entre partes?",
+                "¿Qué hace la Defensoría para promover una cultura de paz?",
+                "¿Puede la Defensoría solicitar información a autoridades universitarias?"
+            ],
+            "responses": [
+                "📘 El artículo 9 lista 22 atribuciones, incluyendo emitir recomendaciones, conciliar conflictos y promover derechos humanos. 🏛️",
+                "🔹 Sí, puede emitir recomendaciones públicas no vinculantes (fracción XIV). 📢",
+                "🎯 Sí, puede procurar la conciliación entre partes cuando sea posible (fracción XII). 🤝",
+                "📘 Promueve cultura de paz mediante programas y políticas (fracciones I y III). 🌱",
+                "🔹 Sí, puede requerir información a autoridades universitarias (fracción XI). ⚖️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 9",
+            "topic": "Atribuciones de la Defensoría"
+        },
+        {
+            "tag": "excluyentes_competencia",
+            "patterns": [
+                "¿Qué asuntos NO atiende la Defensoría según el artículo 10?",
+                "¿Puede la Defensoría intervenir en conflictos laborales?",
+                "¿Las quejas electorales son competencia de la Defensoría?",
+                "¿Qué pasa si mi queja es sobre un procedimiento de ingreso a la Universidad?",
+                "¿La Defensoría puede revisar sanciones por convocatorias de estímulos?"
+            ],
+            "responses": [
+                "📘 No atiende asuntos laborales, electorales, medios de comunicación, o procedimientos de ingreso/promoción (artículo 10). 🚫",
+                "🔹 No, los conflictos laborales se excluyen (fracción II). ⚠️",
+                "🎯 No, lo electoral queda fuera de su competencia (fracción I). ✋",
+                "📘 Los procedimientos de ingreso son excluidos (fracción VI). 🎓",
+                "🔹 No, las convocatorias de estímulos no son revisables por la Defensoría (fracción VII). 💰"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 10",
+            "topic": "Excluyentes de competencia"
+        },
+        {
+            "tag": "integracion_defensoria",
+            "patterns": [
+                "¿Quiénes integran la Defensoría según el artículo 11?",
+                "¿Cuántas visitadurías tiene la Defensoría?",
+                "¿Qué función tiene la Secretaría en la Defensoría?",
+                "¿La Defensoría solo depende de su titular?",
+                "¿Cómo se organiza internamente la Defensoría?"
+            ],
+            "responses": [
+                "📘 Se integra por: titular, 3 visitadurías y una Secretaría (artículo 11). 👥",
+                "🔹 Tiene tres visitadurías para apoyar en el desahogo de quejas. 📋",
+                "🎯 La Secretaría gestiona aspectos administrativos y operativos. 🖇️",
+                "📘 No, también depende del Consejo General Universitario. 🏛️",
+                "🔹 Su estructura es unipersonal pero con equipos de apoyo (visitadurías y Secretaría). 🏢"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 11",
+            "topic": "Integración de la Defensoría"
+        },
+        {
+            "tag": "designacion_titular",
+            "patterns": [
+                "¿Quién elige al titular de la Defensoría según el artículo 12?",
+                "¿Cuándo debe realizarse la elección del titular?",
+                "¿El titular de la Defensoría coincide con el periodo del Rector?",
+                "¿Qué normativa regula la elección del titular?",
+                "¿Puede el Consejo General Universitario posponer la elección?"
+            ],
+            "responses": [
+                "📘 Lo elige el Consejo General Universitario (artículo 12). 🗳️",
+                "🔹 Debe hacerse a más tardar el 1 de junio del año en que inicia el Rector. 📅",
+                "🎯 Sí, su periodo se alinea con el de la Rectoría General. ⏳",
+                "📘 Se rige por el Estatuto General de la Universidad. 📜",
+                "🔹 No hay disposición para posponer; el plazo es obligatorio. ⚠️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 12",
+            "topic": "Designación del titular"
+        },
+        {
+            "tag": "requisitos_titular",
+            "patterns": [
+                "¿Qué requisitos debe cumplir el titular de la Defensoría (artículo 13)?",
+                "¿El titular debe ser abogado?",
+                "¿Se requiere experiencia en derechos humanos?",
+                "¿Puede ser titular alguien con antecedentes penales?",
+                "¿La antigüedad universitaria es obligatoria?"
+            ],
+            "responses": [
+                "📘 Requisitos: nacionalidad mexicana, >30 años, título de licenciatura, 3 años de antigüedad en la UdeG, y experiencia en DDHH (artículo 13). 📋",
+                "🔹 No exige título en derecho, pero sí licenciatura. 🎓",
+                "🎯 Sí, debe tener experiencia comprobada en derechos humanos. ✊",
+                "📘 No, si ha cometido delito intencional queda excluido (fracción VIII). ⚖️",
+                "🔹 Sí, mínimo 3 años en la comunidad universitaria (fracción IV). ⏳"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 13",
+            "topic": "Requisitos del titular"
+        },
+        {
+            "tag": "impedimentos_titular",
+            "patterns": [
+                "¿El titular de la Defensoría puede tener otros empleos (artículo 14)?",
+                "¿Qué excepciones aplican a los impedimentos del titular?",
+                "¿Puede el titular ejercer la docencia en otra universidad?",
+                "¿Está prohibido que el titular tenga negocios privados?",
+                "¿La Defensoría puede ser un cargo honorífico?"
+            ],
+            "responses": [
+                "📘 No puede tener otros cargos públicos o privados remunerados, excepto docencia/investigación en la UdeG (artículo 14). 🚫",
+                "🔹 Solo puede dar clases o investigar dentro de la Universidad. 🎓",
+                "🎯 No, la docencia externa está prohibida. ✋",
+                "📘 Sí, los negocios privados son incompatibles con el cargo. 💼",
+                "🔹 No, es un cargo remunerado de tiempo completo. ⏱️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 14",
+            "topic": "Impedimentos del titular"
+        },
+        {
+            "tag": "ausencia_titular",
+            "patterns": [
+                "¿Quién suple al titular de la Defensoría si se ausenta (artículo 15)?",
+                "¿Qué pasa si la ausencia del titular es mayor a 60 días?",
+                "¿Cómo se elige al suplente definitivo?",
+                "¿El suplente interino cumple todas las funciones del titular?",
+                "¿Quién elige al suplente en ausencias definitivas?"
+            ],
+            "responses": [
+                "📘 Si la ausencia es ≤60 días, lo suple la visitaduría con más antigüedad (artículo 15). 👤",
+                "🔹 Si excede 60 días, el Consejo General elige un interino. 🗳️",
+                "🎯 El suplente definitivo se elige como el titular original (Estatuto General). 📜",
+                "📘 Sí, el interino asume todas las atribuciones durante su periodo. ⚖️",
+                "🔹 El Consejo General Universitario elige al sustituto definitivo. 🏛️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 15",
+            "topic": "Ausencia del titular"
+        },
+        {
+            "tag": "atribuciones_titular_defensoria",
+            "patterns": [
+                "¿Qué atribuciones tiene el titular de la Defensoría según el artículo 16?",
+                "¿Puede el titular admitir o desechar quejas?",
+                "¿El titular puede iniciar investigaciones de oficio?",
+                "¿Quién aprueba el plan de trabajo de la Defensoría?",
+                "¿Puede el titular solicitar informes a autoridades universitarias?"
+            ],
+            "responses": [
+                "📘 El artículo 16 lista 26 atribuciones, como admitir quejas, emitir recomendaciones y supervisar visitadurías. 📜",
+                "🔹 Sí, puede admitir o desechar quejas de manera fundada (fracción I). ⚖️",
+                "🎯 Sí, puede investigar violaciones a derechos universitarios de oficio (fracción II). 🔍",
+                "📘 El titular aprueba el plan de trabajo de la Defensoría (fracción IV). 📋",
+                "🔹 Sí, puede requerir informes a autoridades universitarias (fracción IX). 📨"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 16",
+            "topic": "Atribuciones del titular de la Defensoría"
+        },
+        {
+            "tag": "designacion_visitadurias",
+            "patterns": [
+                "¿Quién designa a los titulares de las visitadurías según el artículo 17?",
+                "¿Cuánto dura el cargo de un titular de visitaduría?",
+                "¿Pueden ser reelectos los titulares de visitadurías?",
+                "¿Quién propone a los candidatos para visitadurías?",
+                "¿El Rector elige directamente a los titulares de visitadurías?"
+            ],
+            "responses": [
+                "📘 Los designa el Rector General, a partir de una terna propuesta por el titular de la Defensoría (artículo 17). 🏛️",
+                "🔹 Durán 6 años en el cargo, con posibilidad de reelección por igual periodo. ⏳",
+                "🎯 Sí, pueden ser reelectos por otro periodo de 6 años. 🔄",
+                "📘 El titular de la Defensoría propone la terna de candidatos. 📝",
+                "🔹 No, el Rector elige de la terna propuesta por la Defensoría. 🤝"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 17",
+            "topic": "Designación de titulares de visitadurías"
+        },
+        {
+            "tag": "requisitos_visitadurias",
+            "patterns": [
+                "¿Qué requisitos se necesitan para ser titular de visitaduría (artículo 18)?",
+                "¿Los titulares de visitadurías deben ser abogados?",
+                "¿Se exige experiencia profesional para las visitadurías?",
+                "¿Los requisitos son iguales que para el titular de la Defensoría?",
+                "¿Qué título académico se requiere para visitadurías?"
+            ],
+            "responses": [
+                "📘 Deben cumplir los mismos requisitos que el titular de la Defensoría, pero con título en Derecho y 3 años de ejercicio profesional (artículo 18). 🎓",
+                "🔹 Sí, el título de licenciatura debe ser en Derecho. ⚖️",
+                "🎯 Sí, mínimo 3 años de experiencia profesional en Derecho. 💼",
+                "📘 Son similares, pero con requisitos adicionales en formación jurídica. 📋",
+                "🔹 Licenciatura en Derecho es obligatoria. 🏛️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 18",
+            "topic": "Requisitos para titulares de visitadurías"
+        },
+        {
+            "tag": "atribuciones_visitadurias",
+            "patterns": [
+                "¿Qué funciones tienen las visitadurías según el artículo 19?",
+                "¿Pueden las visitadurías emitir recomendaciones?",
+                "¿Las visitadurías brindan orientación a la comunidad universitaria?",
+                "¿Pueden realizar investigaciones por su cuenta?",
+                "¿Qué hacen las visitadurías en casos de urgencia?"
+            ],
+            "responses": [
+                "📘 Sus funciones incluyen orientar, investigar quejas, elaborar proyectos de recomendación y promover derechos humanos (artículo 19). 📜",
+                "🔹 No, solo elaboran proyectos; las emite el titular de la Defensoría (fracción XVII-i). ✋",
+                "🎯 Sí, orientan sobre procesos de quejas y derechos universitarios (fracción I). 🤝",
+                "📘 Sí, investigan hechos y recaban pruebas (fracción XVII-a). 🔍",
+                "🔹 Contactan a la autoridad presuntamente responsable o a su superior jerárquico (fracción XIII). ⚠️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 19",
+            "topic": "Atribuciones de las visitadurías"
+        },
+        {
+            "tag": "designacion_secretaria",
+            "patterns": [
+                "¿Quién designa al titular de la Secretaría de la Defensoría (artículo 20)?",
+                "¿El titular de la Defensoría propone al secretario?",
+                "¿Qué autoridad formaliza el nombramiento?",
+                "¿El Rector puede rechazar la propuesta de secretario?",
+                "¿La Secretaría depende directamente del titular de la Defensoría?"
+            ],
+            "responses": [
+                "📘 Lo designa el Rector General, a propuesta del titular de la Defensoría (artículo 20). 🏛️",
+                "🔹 Sí, el titular de la Defensoría hace la propuesta. 📝",
+                "🎯 El Rector General formaliza el nombramiento. ✒️",
+                "📘 No se especifica, pero el Rector decide basado en la propuesta. 🤔",
+                "🔹 Sí, opera bajo la dirección del titular de la Defensoría. 👥"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 20",
+            "topic": "Designación del titular de la Secretaría"
+        },
+        {
+            "tag": "requisitos_secretaria",
+            "patterns": [
+                "¿Qué requisitos debe cumplir el titular de la Secretaría (artículo 21)?",
+                "¿Se exige título profesional para la Secretaría?",
+                "¿La edad mínima es 30 años?",
+                "¿Se requiere experiencia específica?",
+                "¿La honorabilidad es un requisito?"
+            ],
+            "responses": [
+                "📘 Requisitos: nacionalidad mexicana, >30 años, título de licenciatura y honorabilidad (artículo 21). 📋",
+                "🔹 Sí, debe tener título de licenciatura (no especifica carrera). 🎓",
+                "🎯 Sí, debe ser mayor de 30 años. 🎂",
+                "📘 No se menciona experiencia, solo honorabilidad. ✨",
+                "🔹 Sí, debe gozar de reconocida honorabilidad. 👍"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 21",
+            "topic": "Requisitos para el titular de la Secretaría"
+        },
+        {
+            "tag": "atribuciones_secretaria",
+            "patterns": [
+                "¿Qué funciones tiene la Secretaría de la Defensoría (artículo 22)?",
+                "¿La Secretaría gestiona recursos materiales?",
+                "¿Puede recibir quejas directamente?",
+                "¿Cómo apoya en la transparencia?",
+                "¿La Secretaría certifica documentos?"
+            ],
+            "responses": [
+                "📘 Sus funciones son administrativas: gestionar recursos, recibir quejas, certificar documentos y coordinar transparencia (artículo 22). 🖇️",
+                "🔹 Sí, administra recursos humanos, materiales y financieros (fracción IV). 💰",
+                "🎯 Sí, recibe, registra y turna quejas a las visitadurías (fracción VI). 📥",
+                "📘 Coordina el cumplimiento de obligaciones de transparencia y acceso a la información (fracción IX). 🔍",
+                "🔹 Sí, certifica copias de documentos oficiales (fracción VIII). 📜"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 22",
+            "topic": "Atribuciones de la Secretaría"
+        },
+        {
+            "tag": "presentacion_queja",
+            "patterns": [
+                "¿Quiénes pueden presentar una queja ante la Defensoría según el artículo 23?",
+                "¿Puedo denunciar una violación de derechos aunque no sea el afectado directo?",
+                "¿La Defensoría interviene en conflictos entre estudiantes?",
+                "¿Qué tipos de actos pueden denunciarse?",
+                "¿Se puede denunciar una omisión de la autoridad universitaria?"
+            ],
+            "responses": [
+                "📘 Pueden presentar quejas: integrantes de la comunidad universitaria o terceros con conocimiento de violaciones (artículo 23). 👥",
+                "🔹 Sí, las 'terceras personas' pueden denunciar (debe ratificarse el afectado en algunos casos). 📢",
+                "🎯 No, los conflictos entre pares (ej. alumno-alumno) no se investigan, pero se brinda orientación (párrafo 2). ✋",
+                "📘 Actos u omisiones de autoridades universitarias que violen derechos, o toleren dichas violaciones. ⚖️",
+                "🔹 Sí, si la omisión permite o no previene una violación a derechos universitarios. ⚠️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 23",
+            "topic": "Presentación de quejas"
+        },
+        {
+            "tag": "formatos_queja",
+            "patterns": [
+                "¿Cómo puedo presentar una queja según el artículo 24?",
+                "¿Hay formatos oficiales para quejas?",
+                "¿Se puede denunciar por teléfono?",
+                "¿Qué recibo al presentar una queja?",
+                "¿Exigen requisitos adicionales para admitir una queja?"
+            ],
+            "responses": [
+                "📘 Por escrito, medios electrónicos o telefónicos, usando formatos oficiales si los hay (artículo 24). 📝",
+                "🔹 Sí, la Defensoría puede proporcionar formatos para facilitar el proceso (párrafo 2). 📋",
+                "🎯 Sí, pero se levantará un acta circunstanciada de la llamada. 📞",
+                "📘 La Secretaría debe dar una constancia de recepción con fecha y hora (párrafo 4). 🕒",
+                "🔹 No, solo los previstos en el reglamento (suplencia de deficiencias, párrafo 3). ✅"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 24",
+            "topic": "Formatos de presentación de quejas"
+        },
+        {
+            "tag": "asistencia_traductor",
+            "patterns": [
+                "¿La Defensoría ofrece servicio de intérprete según el artículo 25?",
+                "¿Hay costos por el servicio de traducción?",
+                "¿En qué casos se puede solicitar un intérprete?",
+                "¿El intérprete acompaña durante todo el proceso?",
+                "¿Qué idiomas cubre este servicio?"
+            ],
+            "responses": [
+                "📘 Sí, la Defensoría debe facilitar intérpretes o traductores gratuitos si se necesitan (artículo 25). 🗣️",
+                "🔹 No, el servicio es gratuito para la persona quejosa. 💲🚫",
+                "🎯 Cuando la persona no hable español o tenga discapacidad auditiva/lengua materna distinta. ♿",
+                "📘 Sí, durante el proceso de atención, desahogo de queja e implementación de resoluciones. ⏳",
+                "🔹 No se especifica, depende de las necesidades del caso. 🌍"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 25",
+            "topic": "Asistencia de intérprete/traductor"
+        },
+        {
+            "tag": "queja_instancia_distinta",
+            "patterns": [
+                "¿Qué pasa si presento mi queja en otra área universitaria (artículo 26)?",
+                "¿Cuánto tiempo tiene la instancia para derivar mi queja a la Defensoría?",
+                "¿Me notifican si mi queja es derivada?",
+                "¿Debe enviarse la queja en físico si se recibió por correo?",
+                "¿Puedo presentar la queja directamente en la Defensoría?"
+            ],
+            "responses": [
+                "📘 La instancia receptora debe remitirla a la Defensoría en 2 días hábiles (artículo 26). 📨",
+                "🔹 Máximo 2 días hábiles desde su recepción. ⏱️",
+                "🎯 Sí, la instancia debe informar a la persona quejosa sobre la derivación. 📢",
+                "📘 Sí, aunque se reciba por correo electrónico, debe enviarse el original en físico. 📄",
+                "🔹 Sí, es la vía más directa para agilizar el proceso. 🚀"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 26",
+            "topic": "Queja presentada en instancia distinta"
+        },
+        {
+            "tag": "contenido_queja",
+            "patterns": [
+                "¿Qué información debe incluir una queja según el artículo 27?",
+                "¿Cómo describo los hechos en la queja?",
+                "¿Debo identificar a la autoridad responsable?",
+                "¿Qué pasa si no tengo pruebas al presentar la queja?",
+                "¿Necesito testigos para presentar una queja?"
+            ],
+            "responses": [
+                "📘 Datos del presunto agraviado, descripción de hechos (tiempo/lugar/modo), autoridad responsable y pruebas ofrecidas (artículo 27). 📋",
+                "🔹 Detallando circunstancias de modo, tiempo y lugar (fracción IV). 📅📍",
+                "🎯 Sí, con datos que permitan su identificación (fracción V). 👤",
+                "📘 No es obligatorio, pero se pueden ofrecer después (se suple la deficiencia). ✋",
+                "🔹 No, pero si los hay, se deben incluir sus datos (fracción VI). 👥"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 27",
+            "topic": "Contenido de la queja"
+        },
+        {
+            "tag": "ratificacion_queja",
+            "patterns": [
+                "¿Cuándo debo ratificar una queja según el artículo 28?",
+                "¿Las quejas anónimas son válidas?",
+                "¿Qué pasa si no ratifico la queja en 5 días?",
+                "¿Puede la Defensoría investigar una queja anónima?",
+                "¿Cómo ratifico una queja presentada por correo electrónico?"
+            ],
+            "responses": [
+                "📘 Cuando sea anónima, electrónica, presentada por terceros o carezca de firma (artículo 28, párrafo 1). ✍️",
+                "🔹 No, pero la Defensoría puede investigar de oficio si hay indicios graves (párrafo 3). 🔍",
+                "🎯 Si no se ratifica, se tendrá por no presentada (salvo investigación de oficio). ⚠️",
+                "📘 Sí, si la gravedad del caso lo justifica (párrafo 3). ⚖️",
+                "🔹 Asistiendo a la Defensoría o mediante el medio original usado (ej. correo confirmatorio). 📧"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 28",
+            "topic": "Ratificación de la queja"
+        },
+        {
+            "tag": "queja_menores_edad",
+            "patterns": [
+                "¿Un menor de edad puede presentar queja según el artículo 29?",
+                "¿Qué garantías tienen los menores en el proceso?",
+                "¿Debe acompañarlos un adulto?",
+                "¿Cómo se protege su identidad?",
+                "¿Qué es el 'interés superior de la niñez' en este contexto?"
+            ],
+            "responses": [
+                "📘 Sí, directamente o por sus representantes (artículo 29, párrafo 1). 👧👦",
+                "🔹 Derecho a seguridad jurídica, debido proceso y expresión de su opinión (párrafo 2). 🛡️",
+                "🎯 Sí, salvo que se determine lo contrario por su interés superior (fracción VI). 👪",
+                "📘 Protegiendo su integridad emocional y datos personales (fracción VII). 🔒",
+                "🔹 Es el principio rector que prioriza su bienestar en todas las decisiones (fracción I). ❤️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 29",
+            "topic": "Quejas de menores de edad"
+        },
+        {
+            "tag": "admision_desechamiento_queja",
+            "patterns": [
+                "¿Cuánto tiempo tiene la Defensoría para admitir o desechar una queja (artículo 30)?",
+                "¿Qué pasa si mi queja no cumple los requisitos mínimos?",
+                "¿Puedo corregir los errores de mi queja?",
+                "¿Qué es un 'acuerdo de admisión'?",
+                "¿Cómo sé si mi queja fue admitida?"
+            ],
+            "responses": [
+                "📘 La visitaduría tiene 3 días hábiles para analizarla y proponer admisión/desechamiento (artículo 30, párrafo 1). ⏳",
+                "🔹 Se le da 5 días hábiles para aclararla; si no, se desecha (párrafo 2). ⚠️",
+                "🎯 Sí, el plazo es de 5 días hábiles tras el requerimiento. ✏️",
+                "📘 Es el documento oficial que inicia el proceso de desahogo de la queja. 📜",
+                "🔹 Se notifica a la persona quejosa el acuerdo de admisión. 📢"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 30",
+            "topic": "Admisión o desechamiento de la queja"
+        },
+        {
+            "tag": "proceso_desahogo_queja",
+            "patterns": [
+                "¿Cuándo inicia el proceso de desahogo de una queja según el artículo 31?",
+                "¿Qué etapas incluye el proceso de desahogo?",
+                "¿Cómo concluye el proceso de desahogo de una queja?",
+                "¿Puede terminarse el proceso con una conciliación?",
+                "¿Qué es una 'determinación de no violación de derechos'?"
+            ],
+            "responses": [
+                "📘 Inicia cuando la Visitaduría recibe la queja o la Defensoría actúa de oficio (artículo 31). ⏱️",
+                "🔹 Incluye investigación, conciliación (si aplica) y resolución (recomendación o determinación). 📋",
+                "🎯 Con conciliación, determinación de no violación o recomendación. ⚖️",
+                "📘 Sí, si las partes llegan a un acuerdo y se cumplen los términos. 🤝",
+                "🔹 Es la resolución que emite la Defensoría cuando no encuentra violaciones a derechos. ✋"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 31",
+            "topic": "Proceso de desahogo de la queja"
+        },
+        {
+            "tag": "dias_hábiles_procedimiento",
+            "patterns": [
+                "¿En qué días y horarios se realizan las actuaciones de la Defensoría (artículo 32)?",
+                "¿Puede la Defensoría habilitar días inhábiles?",
+                "¿Qué pasa si un plazo vence en día inhábil?",
+                "¿Las notificaciones se hacen solo en días hábiles?",
+                "¿Los plazos se cuentan por días naturales o hábiles?"
+            ],
+            "responses": [
+                "📘 En días y horas hábiles, a menos que se habilite un día inhábil por urgencia (artículo 32). 🗓️",
+                "🔹 Sí, si el asunto lo requiere (a petición de parte o de oficio). ⚠️",
+                "🎯 Se entenderá cumplido al primer día hábil siguiente. ➡️",
+                "📘 Sí, salvo habilitación expresa. ✉️",
+                "🔹 Por días hábiles (excepto plazos específicos que señalen lo contrario). 📅"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 32",
+            "topic": "Días y horas hábiles"
+        },
+        {
+            "tag": "notificaciones_procedimiento",
+            "patterns": [
+                "¿Cómo se realizan las notificaciones según el artículo 33?",
+                "¿Puedo recibir notificaciones por correo electrónico?",
+                "¿Qué es un 'domicilio procesal'?",
+                "¿Cuándo surten efecto las notificaciones?",
+                "¿Qué pasa si no señalo domicilio para notificaciones?"
+            ],
+            "responses": [
+                "📘 Por escrito (oficio físico o correo institucional) a autoridades; a la persona quejosa por el medio que indique (artículo 33). ✉️",
+                "🔹 Sí, si lo especificas en tu queja (párrafo 2). 📧",
+                "🎯 Es la dirección que designas para recibir notificaciones oficiales. 🏠",
+                "📘 El mismo día en que se practiquen (párrafo 1). ⏱️",
+                "🔹 Se notificará por estrados o lista pública en la Defensoría. 📢"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 33",
+            "topic": "Notificaciones durante el procedimiento"
+        },
+        {
+            "tag": "supletoriedad_normativa",
+            "patterns": [
+                "¿Qué normativa aplica si el reglamento no contempla un caso (artículo 34)?",
+                "¿La Ley de la Comisión Estatal de DDHH de Jalisco es supletoria?",
+                "¿Puede la Defensoría crear reglas no previstas en el reglamento?",
+                "¿Dónde encuentro el reglamento de la Comisión Estatal de DDHH?",
+                "¿Qué pasa si hay conflicto entre normas supletorias y el reglamento?"
+            ],
+            "responses": [
+                "📘 Se aplica la Ley de la Comisión Estatal de DDHH de Jalisco y su reglamento (artículo 34). ⚖️",
+                "🔹 Sí, para lo no previsto en este reglamento. 📜",
+                "🎯 No, debe seguir el marco supletorio establecido. ✋",
+                "📘 En el portal oficial del gobierno de Jalisco o la Comisión. 🌐",
+                "🔹 Prevalece el reglamento de la Defensoría sobre las normas supletorias. ⚠️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 34",
+            "topic": "Supletoriedad normativa"
+        },
+        {
+            "tag": "partes_procedimiento",
+            "patterns": [
+                "¿Quiénes son las partes en un procedimiento de queja (artículo 35)?",
+                "¿Puede un tercero intervenir como parte?",
+                "¿La autoridad universitaria tiene derecho a defenderse?",
+                "¿Qué derechos tienen las partes durante el proceso?",
+                "¿Puedo representar a alguien en el procedimiento?"
+            ],
+            "responses": [
+                "📘 La persona presuntamente agraviada y la autoridad presuntamente responsable (artículo 35). 👥",
+                "🔹 No, salvo que sea quien presentó la queja (tercera persona). ✋",
+                "🎯 Sí, puede rendir informes y ofrecer pruebas (artículo 43). 📄",
+                "📘 Derecho a ser oídas, ofrecer pruebas y recibir notificaciones. ⚖️",
+                "🔹 Sí, con poder notarial o autorización expresa. 📝"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 35",
+            "topic": "Partes en el procedimiento"
+        },
+        {
+            "tag": "medios_defensa_alternativos",
+            "patterns": [
+                "¿Presentar una queja ante la Defensoría impide acudir a otras instancias (artículo 36)?",
+                "¿Puedo denunciar en la Defensoría y también en lo penal?",
+                "¿La Defensoría suspende plazos de otros recursos?",
+                "¿Qué otros medios de defensa existen además de la Defensoría?",
+                "¿Debo informar a la Defensoría si inicio otro procedimiento?"
+            ],
+            "responses": [
+                "📘 No, puedes ejercer otros derechos o medios de defensa en paralelo (artículo 36). 🔄",
+                "🔹 Sí, son procedimientos independientes. ⚖️",
+                "🎯 No, los plazos de otros recursos siguen corriendo. ⏳",
+                "📘 Recursos administrativos, juicios o denuncias ante autoridades externas. 📋",
+                "🔹 No es obligatorio, pero puede ayudar al proceso. ℹ️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 36",
+            "topic": "Medios de defensa alternativos"
+        },
+        {
+            "tag": "prescripcion_quejas",
+            "patterns": [
+                "¿Cuánto tiempo tengo para presentar una queja ante la Defensoría (artículo 37)?",
+                "¿El plazo de prescripción corre desde el día de los hechos?",
+                "¿Puede ampliarse el plazo de un año?",
+                "¿Qué son 'casos excepcionales' para ampliar el plazo?",
+                "¿Dónde consulto si mi queja prescribe?"
+            ],
+            "responses": [
+                "📘 1 año desde que cesaron los hechos o los conociste (artículo 37). ⏳",
+                "🔹 Desde que cesaron o desde tu conocimiento, lo que ocurra después. 📅",
+                "🎯 Sí, la Defensoría puede ampliarlo mediante resolución razonada. ⚠️",
+                "📘 Graveza del caso, imposibilidad de denunciar antes, etc. (no se especifica). ❓",
+                "🔹 En la Defensoría o con un abogado. 🏛️"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 37",
+            "topic": "Prescripción de quejas"
+        },
+        {
+            "tag": "desechamiento_queja",
+            "patterns": [
+                "¿En qué casos la Defensoría puede desechar una queja (artículo 38)?",
+                "¿Qué es una queja 'frívola' o 'infundada'?",
+                "¿Puedo ser sancionado por presentar una queja falsa?",
+                "¿Cómo sé si mi queja fue desechada?",
+                "¿Puedo reclamar el desechamiento de mi queja?"
+            ],
+            "responses": [
+                "📘 Si es frívola, infundada o notoriamente improcedente (artículo 38). 🚫",
+                "🔹 Cuando carece de fundamento o busca perjudicar sin causa. ⚠️",
+                "🎯 Sí, puede iniciarse un procedimiento de responsabilidad. ⚖️",
+                "📘 Se te notificará por escrito con los motivos. ✉️",
+                "🔹 No se menciona recurso, pero puedes aclarar hechos si hubo error. ✋"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 38",
+            "topic": "Desechamiento de quejas"
+        },
+        {
+            "tag": "acumulacion_quejas",
+            "patterns": [
+                "¿Pueden acumularse varias quejas contra una misma autoridad (artículo 39)?",
+                "¿Qué requisitos debe cumplir la acumulación?",
+                "¿Cómo se elige el expediente principal?",
+                "¿Puedo oponerme a la acumulación de mi queja?",
+                "¿La acumulación acelera el proceso?"
+            ],
+            "responses": [
+                "📘 Sí, si son por los mismos actos u omisiones (artículo 39). 📂",
+                "🔹 Que involucren a la misma autoridad y hechos similares. ✔️",
+                "🎯 Se integra el expediente más reciente al de mayor antigüedad. 📅",
+                "📘 No se especifica, pero puedes manifestar tu postura. 💬",
+                "🔹 Sí, al unificar criterios y evitar trámites duplicados. ⏩"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 39",
+            "topic": "Acumulación de quejas"
+        },
+        {
+            "tag": "excusas_recusaciones",
+            "patterns": [
+                "¿Qué es un 'conflicto de interés' en la Defensoría (artículo 40)?",
+                "¿Puede el titular excusarse de conocer una queja?",
+                "¿Quién decide si acepta la excusa?",
+                "¿Cómo reclamo la imparcialidad de una visitaduría?",
+                "¿Qué pasa si mi recusación es aceptada?"
+            ],
+            "responses": [
+                "📘 Cuando el personal tiene intereses personales que afectan su imparcialidad (artículo 40). ⚖️",
+                "🔹 Sí, si existe conflicto de interés o falta de objetividad. ✋",
+                "🎯 Para el titular, el Consejo General Universitario; para visitadurías, el titular de la Defensoría. 🏛️",
+                "📘 Solicita recusación ante el titular de la Defensoría (artículo 41). 📝",
+                "🔹 Se turnará a otra visitaduría para garantizar neutralidad. 🔄"
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 40",
+            "topic": "Excusas y recusaciones"
+        },
+        {
+            "tag": "recusaciones_personal",
+            "patterns": [
+                "¿Puedo pedir que cambien al funcionario que lleva mi queja?",
+                "¿Qué motivos son válidos para recusar a una visitaduría?",
+                "¿Quién decide si se acepta mi recusación?",
+                "¿Cuánto tiempo tienen para resolver una recusación?",
+                "¿Qué pasa si mi recusación es rechazada?"
+            ],
+            "responses": [
+                "📘 Sí, puedes solicitar recusación si crees que hay falta de imparcialidad (artículo 41).",
+                "🔹 Por interés personal del funcionario o falta de objetividad en el caso.",
+                "🎯 El titular de la Defensoría debe resolverla de inmediato.",
+                "📘 Debe ser resuelta al momento de presentarse.",
+                "🔹 Continúa el mismo funcionario con tu caso."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 41",
+            "topic": "Recusaciones al personal"
+        },
+        {
+            "tag": "periodo_investigacion",
+            "patterns": [
+                "¿Qué incluye el periodo de investigación?",
+                "¿Cuánto tiempo tiene la autoridad para responder?",
+                "¿Pueden ampliarse los plazos de investigación?",
+                "¿Qué pasa si la autoridad no contesta?",
+                "¿Puedo presentar pruebas durante la investigación?"
+            ],
+            "responses": [
+                "📘 Incluye notificación a la autoridad, indagación y ofrecimiento de pruebas (artículo 42).",
+                "🔹 5 días hábiles para presentar informe (ampliables a 8 días en casos complejos).",
+                "🎯 Sí, por 3 días hábiles más si la autoridad lo solicita con justificación.",
+                "📘 Se tendrán por ciertos los hechos denunciados (salvo prueba en contrario).",
+                "🔹 Sí, tienes 5 días hábiles después de recibido el informe de la autoridad."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 42",
+            "topic": "Periodo de investigación"
+        },
+        {
+            "tag": "informe_autoridad",
+            "patterns": [
+                "¿Cuándo se notifica a la autoridad sobre la queja?",
+                "¿Qué debe contener el informe de la autoridad?",
+                "¿Puede la autoridad negarse a dar información?",
+                "¿Qué pasa si el informe es incompleto?",
+                "¿Puedo ver el informe que presenta la autoridad?"
+            ],
+            "responses": [
+                "📘 Al día hábil siguiente de admitida la queja (artículo 43).",
+                "🔹 Su versión de los hechos y cualquier documentación relevante.",
+                "🎯 No, y su negativa puede ser considerada como obstrucción a la investigación.",
+                "📘 La Defensoría puede requerir ampliación o tomar decisiones con lo disponible.",
+                "🔹 Sí, forma parte del expediente que puedes consultar."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 43",
+            "topic": "Informe de la autoridad"
+        },
+        {
+            "tag": "actas_investigacion",
+            "patterns": [
+                "¿La Defensoría debe levantar actas de sus investigaciones?",
+                "¿Qué información contienen las actas circunstanciadas?",
+                "¿Puedo solicitar copia de las actas?",
+                "¿Son pruebas válidas en otros procedimientos?",
+                "¿Quién firma las actas de investigación?"
+            ],
+            "responses": [
+                "📘 Sí, debe levantar actas de todas las diligencias (artículo 44).",
+                "🔹 Detalles de entrevistas, inspecciones y cualquier evidencia recabada.",
+                "🎯 Sí, puedes solicitarlas como parte del expediente.",
+                "📘 Sí, pueden usarse en otros procesos universitarios o legales.",
+                "🔹 El personal de la Defensoría que realice la diligencia."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 44",
+            "topic": "Actas de investigación"
+        },
+        {
+            "tag": "conciliacion_proceso",
+            "patterns": [
+                "¿En qué momento puede haber conciliación?",
+                "¿Qué casos no pueden conciliarse?",
+                "¿Quién propone la conciliación?",
+                "¿Es obligatorio aceptar la conciliación?",
+                "¿Qué pasa si no se cumple lo acordado?"
+            ],
+            "responses": [
+                "📘 En cualquier momento, desde la recepción hasta antes de la resolución (artículo 45).",
+                "🔹 Violaciones graves a derechos, casos que afecten a terceros o excluidos por ley.",
+                "🎯 La Visitaduría puede proponerla, pero las partes deciden.",
+                "📘 No, es voluntaria para ambas partes.",
+                "🔹 Se reanuda la investigación y continúa el proceso."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 45",
+            "topic": "Conciliación"
+        },
+        {
+            "tag": "acuerdos_conciliacion",
+            "patterns": [
+                "¿Cómo se formaliza un acuerdo de conciliación?",
+                "¿Quién aprueba los acuerdos de conciliación?",
+                "¿Tienen plazo para cumplir lo acordado?",
+                "¿Qué pasa si cumplen el acuerdo?",
+                "¿Puedo rechazar una propuesta de conciliación?"
+            ],
+            "responses": [
+                "📘 Por escrito, con los términos acordados y firmados por las partes (artículo 46).",
+                "🔹 El titular de la Defensoría debe analizar y aprobar los acuerdos.",
+                "🎯 Sí, se establece un plazo específico en la resolución.",
+                "📘 El asunto se da por concluido satisfactoriamente.",
+                "🔹 Sí, y el proceso continúa su curso normal."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 46",
+            "topic": "Acuerdos de conciliación"
+        },
+        {
+            "tag": "investigacion_sin_conciliacion",
+            "patterns": [
+                "¿Qué pasa si no se logra conciliar?",
+                "¿Puede intentarse la conciliación varias veces?",
+                "¿Quién decide cuándo pasar a investigación?",
+                "¿Se pierden pruebas por intentar conciliar?",
+                "¿Es más rápido el proceso con conciliación?"
+            ],
+            "responses": [
+                "📘 Se continúa con la investigación hasta su conclusión (artículo 47).",
+                "🔹 Sí, mientras no retrase injustificadamente el proceso.",
+                "🎯 La Visitaduría evalúa si agotó las posibilidades de acuerdo.",
+                "📘 No, se conserva toda la evidencia recabada.",
+                "🔹 Sí, suele ser más rápido que un proceso completo."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 47",
+            "topic": "Investigación sin conciliación"
+        },
+        {
+            "tag": "valoracion_pruebas",
+            "patterns": [
+                "¿Cómo se valoran las pruebas en la Defensoría?",
+                "¿Qué tipo de pruebas son aceptables?",
+                "¿Quién decide qué pruebas considerar?",
+                "¿Pueden rechazarse mis pruebas?",
+                "¿Se consideran los antecedentes de la autoridad?"
+            ],
+            "responses": [
+                "📘 Se analizan de manera lógica y legal, en conjunto (artículo 48).",
+                "🔹 Documentos, testimonios, inspecciones y cualquier medio relevante.",
+                "🎯 La Visitaduría, bajo supervisión del titular de la Defensoría.",
+                "📘 Solo si son irrelevantes o ilegales; se te informará el motivo.",
+                "🔹 Sí, si son pertinentes al caso."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 48",
+            "topic": "Valoración de pruebas"
+        },
+        {
+            "tag": "fundamentacion_resoluciones",
+            "patterns": [
+                "¿Las resoluciones de la Defensoría deben estar motivadas?",
+                "¿Puedo impugnar una recomendación?",
+                "¿Cómo se notifican las resoluciones?",
+                "¿Las recomendaciones son obligatorias?",
+                "¿Qué información contiene una determinación de no violación?"
+            ],
+            "responses": [
+                "📘 Sí, deben estar debidamente fundamentadas y motivadas (artículo 49).",
+                "🔹 No, las recomendaciones no aceptan recursos (son no vinculantes).",
+                "🎯 Personalmente a las partes, por los medios establecidos.",
+                "📘 No, pero la autoridad debe justificar por escrito si no las acepta.",
+                "🔹 Los motivos por los cuales no se acredita violación a derechos."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 49",
+            "topic": "Fundamentación de resoluciones"
+        },
+        {
+            "tag": "aceptacion_recomendaciones",
+            "patterns": [
+                "¿Cuánto tiempo tiene la autoridad para responder a una recomendación?",
+                "¿Qué pasa si aceptan la recomendación?",
+                "¿Qué consecuencias tiene rechazar una recomendación?",
+                "¿Deben demostrar que están cumpliendo la recomendación?",
+                "¿Puede la Defensoría sancionar por no aceptar recomendaciones?"
+            ],
+            "responses": [
+                "📘 10 días hábiles para aceptarla o rechazarla (artículo 50).",
+                "🔹 Tienen 15 días hábiles adicionales para acreditar su cumplimiento.",
+                "🎯 Deben fundamentar su negativa; podría derivarse a Responsabilidades.",
+                "📘 Sí, deben presentar evidencias del cumplimiento.",
+                "🔹 No directamente, pero puede informar a instancias disciplinarias."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 50",
+            "topic": "Aceptación de recomendaciones"
+        },
+        {
+            "tag": "entrega_pruebas",
+            "patterns": [
+                "¿La Defensoría está obligada a entregar sus pruebas a la autoridad investigada?",
+                "¿Puedo solicitar copia de las pruebas de mi caso?",
+                "¿En qué casos sí entrega la Defensoría sus pruebas?",
+                "¿Qué pasa si necesito las pruebas para un juicio?",
+                "¿Puede la autoridad universitaria acceder a todas las pruebas en mi contra?"
+            ],
+            "responses": [
+                "📘 No, la Defensoría no está obligada a entregar pruebas a la autoridad investigada (artículo 51, párrafo 1).",
+                "🔹 Puedes solicitarlo, pero la Defensoría decidirá si es pertinente entregarlas.",
+                "🎯 Solo en procedimientos judiciales, si las ofrece la víctima o sus familiares (párrafo 2).",
+                "📘 La Defensoría te las proporcionará si las usas en un proceso jurisdiccional.",
+                "🔹 No, la Defensoría protege la confidencialidad de las pruebas."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 51",
+            "topic": "Entrega de pruebas"
+        },
+        {
+            "tag": "falsedad_denuncia",
+            "patterns": [
+                "¿Qué pasa si miento en mi queja ante la Defensoría?",
+                "¿Cómo se determina que una denuncia es falsa?",
+                "¿Hay consecuencias por presentar una queja malintencionada?",
+                "¿A qué autoridad se reporta una falsedad en una queja?",
+                "¿Puedo ser sancionado si mi queja no prospera?"
+            ],
+            "responses": [
+                "📘 Se dará vista a la autoridad competente para que determine sanciones (artículo 52).",
+                "🔹 Mediante investigación y contraste de evidencias.",
+                "🎯 Sí, puede iniciarse un procedimiento de responsabilidad.",
+                "📘 A la autoridad universitaria competente en materia disciplinaria.",
+                "🔹 Solo si se demuestra falsedad intencional, no por falta de pruebas."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 52",
+            "topic": "Falsedad en denuncias"
+        },
+        {
+            "tag": "medidas_cautelares",
+            "patterns": [
+                "¿Qué son las medidas cautelares según la Defensoría?",
+                "¿Quién puede solicitar medidas cautelares?",
+                "¿La Defensoría puede ordenar medidas cautelares directamente?",
+                "¿Qué tipos de medidas cautelares existen?",
+                "¿Cuánto duran las medidas cautelares?"
+            ],
+            "responses": [
+                "📘 Son mecanismos para evitar daños irreparables durante una investigación (artículo 53).",
+                "🔹 La Visitaduría las sugiere a la autoridad competente cuando son necesarias.",
+                "🎯 No, solo las sugiere; la autoridad universitaria decide implementarlas.",
+                "📘 No se especifican tipos, dependen del caso (ej. suspensión temporal de una sanción).",
+                "🔹 Hasta que se resuelva el caso o la autoridad competente las levante."
+            ],
+            "document": "Reglamento de la Defensoría de los Derechos Universitarios",
+            "article": "Artículo 53",
+            "topic": "Medidas cautelares"
+        }
+
+    ]
+}

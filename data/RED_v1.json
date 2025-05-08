@@ -1,0 +1,667 @@
+{
+    "main_topic": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+    "intents": [
+        {
+            "tag": "disposiciones_generales",
+            "patterns": [
+                "¿Cuál es el objetivo principal del programa?",
+                "¿Quiénes pueden participar en el programa?",
+                "¿Qué actividades académicas reconoce el programa?",
+                "¿Los profesores de medio tiempo pueden participar?",
+                "¿Se evalúan las tutorías en este programa?"
+            ],
+            "responses": [
+                "🎯 El objetivo es reconocer el esfuerzo y calidad en el desempeño de docentes de tiempo completo (técnicos, titulares o asociados).",
+                "📝 Solo personal de Educación Media/Superior con categorías de tiempo completo (titular, asociado o técnico). ¡Profes huéspedes o con becas PRODEP no aplican!",
+                "📚 Sí, evalúa: docencia activa ✏️, tutorías 🧑🏫, investigación 🔍 y gestión académica 📊.",
+                "⛔ No, excluye a medio tiempo, visitantes o quienes tengan +48 hrs semanales (Art. 4).",
+                "✅ ¡Sí! Las tutorías valen 70% del puntaje (junto con docencia y gestión)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 1",
+            "topic": "Objetivos y alcance"
+        },      
+        {
+            "tag": "beneficios_no_salario",
+            "patterns": [
+                "¿Los estímulos se consideran parte de mi salario?",
+                "¿Puedo exigir el estímulo como derecho laboral?",
+                "¿Los sindicatos pueden negociar estos estímulos?",
+                "¿Qué pasa si no me pagan el estímulo un mes?",
+                "¿Los estímulos generan antigüedad salarial?"
+            ],
+            "responses": [
+                "💰 No, son beneficios económicos independientes del sueldo (Art. 2).",
+                "⚖️ No son demandables ante autoridades. Son discrecionales según recursos (Art. 2).",
+                "🚫 Prohibido negociarlos con sindicatos o estudiantes (Art. 2).",
+                "📅 No hay pagos proporcionales. Se cubre mensualmente completo o no se paga (Art. 5).",
+                "📉 No afectan tu salario base ni calculan prestaciones (Art. 2)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 2",
+            "topic": "Naturaleza jurídica de los estímulos"
+        },
+        {
+            "tag": "actividades_evaluables",
+            "patterns": [
+                "¿Qué actividades se evalúan en el programa?",
+                "¿Dónde encuentro la tabla de actividades?",
+                "¿Puedo incluir proyectos externos en mi evaluación?",
+                "¿Las publicaciones internacionales cuentan más?",
+                "¿Cómo se valora la gestión académica?"
+            ],
+            "responses": [
+                "📊 Solo actividades listadas en la tabla oficial del programa (Art. 3).",
+                "📋 La tabla se publica en cada convocatoria (Art. 3 y 29).",
+                "🌍 Solo actividades realizadas para/en la UdeG durante el período evaluado (Art. 10-I).",
+                "⭐ Sí, pero deben estar registradas en tu plan de trabajo (Art. 9-IV).",
+                "🏛️ Vale hasta 70% si es gestión colegiada (Art. 10-II)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 3",
+            "topic": "Criterios de evaluación"
+        },
+        {
+            "tag": "exclusiones",
+            "patterns": [
+                "¿Puedo participar si tengo beca CONACYT?",
+                "¿Qué pasa si tengo dos nombramientos de 30 horas cada uno?",
+                "¿Los profesores visitantes pueden aplicar?",
+                "¿Me excluye tener adeudos con otros programas?",
+                "¿Puedo participar si estoy en otro programa de estímulos?"
+            ],
+            "responses": [
+                "❌ No, becas CONACYT = Exclusión automática (Art. 4-II).",
+                "⛔ No, superas el límite de 48 hrs semanales (Art. 4-III).",
+                "👋 No, profes huéspedes/visitantes quedan fuera (Art. 4-I).",
+                "💸 Sí, adeudos = Exclusión (Art. 4-V).",
+                "🔀 Solo si no es permanente. ¡Revisa Art. 4-IV!"
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 4",
+            "topic": "Causas de exclusión"
+        },
+        {
+            "tag": "vigencia_pagos",
+            "patterns": [
+                "¿Cuánto dura el estímulo si me lo otorgan?",
+                "¿Hay pagos parciales si entro a mitad del año?",
+                "¿El estímulo se actualiza por inflación?",
+                "¿Cuándo se deposita el estímulo cada mes?",
+                "¿Pueden cancelarlo antes del año?"
+            ],
+            "responses": [
+                "📅 1 año exacto: del 1º abril al 31 marzo (Art. 5).",
+                "💸 No, pagos son mensuales completos (Art. 5).",
+                "📈 Sí, se ajusta al valor anual de la UMA (Art. 5 y Transitorio 6º).",
+                "🏦 Depende de nómina, pero siempre mensual (Art. 5).",
+                "⚠️ Sí, por incumplimiento (Art. 33-34)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 5",
+            "topic": "Vigencia y pagos"
+        },
+        {
+            "tag": "convocatoria",
+            "patterns": [
+                "¿Quién emite la convocatoria?",
+                "¿Qué información debe incluir la convocatoria?",
+                "¿Dónde se publican los resultados?",
+                "¿Hay fechas fijas para la convocatoria?",
+                "¿Puedo participar si no entregué documentos a tiempo?"
+            ],
+            "responses": [
+                "👔 El Rector General la emite (Art. 6).",
+                "📜 Objetivos, requisitos, fechas, montos y tabla de actividades (Art. 6-I a VIII).",
+                "📢 En la Gaceta UdeG (Art. 6-VIII).",
+                "🗓️ Se publica en enero, pero fechas varían (Art. 29).",
+                "⏳ No, plazos son irrevocables (Art. 30)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 6",
+            "topic": "Proceso de convocatoria"
+        },
+        {
+            "tag": "financiamiento",
+            "patterns": [
+                "¿De dónde provienen los recursos para los estímulos?",
+                "¿El gobierno federal está obligado a financiar el programa?",
+                "¿La UdeG puede usar fondos propios para los estímulos?",
+                "¿Qué pasa si no hay suficiente presupuesto?",
+                "¿Se puede donar dinero para aumentar los estímulos?"
+            ],
+            "responses": [
+                "🏦 4 fuentes: recursos fiscales, reducciones del capítulo 1000, ingresos propios y aportaciones estatales (Art. 7).",
+                "📉 No, depende de la disponibilidad presupuestal anual (Art. 8).",
+                "💼 Sí, los ingresos propios son una fuente válida (Art. 7-III).",
+                "✂️ Se aplica un factor de ajuste a todos los niveles (excepto Nivel I) (Art. 8).",
+                "🎁 No se menciona en el reglamento, pero los ingresos propios sí son una opción (Art. 7-III)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 7",
+            "topic": "Fuentes de financiamiento"
+        },
+        {
+            "tag": "asignacion_recursos",
+            "patterns": [
+                "¿Cómo se determina cuánto presupuesto se asigna al programa?",
+                "¿Qué porcentaje de plazas docentes pueden recibir estímulos?",
+                "¿El monto del estímulo puede superar 9 UMAs?",
+                "¿Hay un presupuesto reservado para directivos?",
+                "¿Quién autoriza los recursos federales?"
+            ],
+            "responses": [
+                "📊 Hasta 30% de las plazas de tiempo completo registradas en SHCP (Art. 8).",
+                "🔢 Máximo 30% de las plazas existentes (Art. 8).",
+                "🚫 No, el límite es 9 UMAs mensuales (Art. 8).",
+                "💡 Sí, se reserva 1% del subsidio federal/estatal para exdirectivos (Art. 8).",
+                "🏛️ La Secretaría de Hacienda, previa justificación (Art. 8)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 8",
+            "topic": "Distribución presupuestal"
+        },
+        {
+            "tag": "requisitos_participacion",
+            "patterns": [
+                "¿Qué debo hacer para participar en el programa?",
+                "¿Cuántas horas debo impartir para ser elegible?",
+                "¿Necesito tener un plan de trabajo?",
+                "¿Puedo participar si estoy en año sabático?",
+                "¿Qué grado académico mínimo necesito?"
+            ],
+            "responses": [
+                "📋 Ser de tiempo completo, impartir 8+ hrs/semana, tener maestría y plan de trabajo (Art. 9).",
+                "⏱️ Mínimo 8 hrs semanales en cursos curriculares (Art. 9-II).",
+                "✅ Sí, debe estar registrado en tu departamento (Art. 9-IV).",
+                "🌍 Sí, al reincorporarte (Art. 27).",
+                "🎓 Maestría (o especialidad en salud de 2+ años) (Art. 9-VI)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 9",
+            "topic": "Requisitos básicos"
+        },
+        {
+            "tag": "criterios_evaluacion",
+            "patterns": [
+                "¿Qué vale más en la evaluación: docencia o investigación?",
+                "¿Cómo se calcula el puntaje total?",
+                "¿Los años de servicio cuentan para el estímulo?",
+                "¿Puedo sumar puntos por tutorías?",
+                "¿Las actividades extracurriculares se evalúan?"
+            ],
+            "responses": [
+                "🏅 Docencia (70%) > Investigación (parte del 70%) (Art. 10).",
+                "🧮 70% calidad, 20% dedicación, 10% permanencia (max. 1000 pts) (Art. 10).",
+                "⏳ Sí, suman 10% del puntaje (Art. 10-c).",
+                "👥 Sí, entran en el 70% de calidad (Art. 10-II).",
+                "❌ Solo actividades listadas en la tabla oficial (Art. 3)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 10",
+            "topic": "Esquema de evaluación"
+        },
+        {
+            "tag": "niveles_estimulos",
+            "patterns": [
+                "¿Cuántos niveles de estímulos existen?",
+                "¿Cómo sé qué nivel me corresponde?",
+                "¿Qué pasa si mi puntaje de calidad y total no coinciden?",
+                "¿El nivel I es el más bajo?",
+                "¿Puedo mejorar mi nivel el próximo año?"
+            ],
+            "responses": [
+                "9️⃣ Niveles (I a IX), desde 1 hasta 9 UMAs (Art. 11).",
+                "📌 Por tu puntaje de calidad (70%) y luego el total (Art. 11).",
+                "🔽 Se asigna el nivel más bajo de los dos (Art. 11).",
+                "⬇️ Sí, es el mínimo (1 UMA) (Art. 11).",
+                "📈 Sí, con mejor desempeño académico."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 11",
+            "topic": "Tabla de niveles y montos"
+        },
+        {
+            "tag": "autoridades_competentes",
+            "patterns": [
+                "¿Quiénes son las autoridades responsables del programa?",
+                "¿Puedo presentar una queja ante el Rector General?",
+                "¿Qué hace la Comisión de Ingreso y Promoción?",
+                "¿La Contraloría participa en el proceso?",
+                "¿Quién resuelve los conflictos en centros universitarios?"
+            ],
+            "responses": [
+                "🏛️ Comisiones de Ingreso, Comisiones Dictaminadoras, CGAI y Contraloría (Art. 12).",
+                "📨 No, las inconformidades van a las Comisiones de Ingreso (Art. 13).",
+                "⚖️ Resuelve recursos de inconformidad y cancela beneficios (Art. 13).",
+                "🔍 Sí, supervisa el cumplimiento del programa (Art. 25).",
+                "👥 La Comisión de Ingreso de cada centro (Art. 14)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 12",
+            "topic": "Autoridades del programa"
+        },
+        {
+            "tag": "atribuciones_consejo",
+            "patterns": [
+                "¿Qué puede hacer el Consejo General Universitario?",
+                "¿Sus resoluciones son definitivas?",
+                "¿Pueden cancelar mi estímulo sin aviso?",
+                "¿Investigan denuncias contra docentes?",
+                "¿Cómo notifican sus decisiones?"
+            ],
+            "responses": [
+                "📜 Resolver inconformidades y cancelar estímulos (Art. 13).",
+                "🔚 Sí, son inapelables (Art. 13).",
+                "⚠️ Solo por causas previstas en el reglamento (Art. 13-II).",
+                "🕵️ Sí, sobre incumplimiento de requisitos (Art. 13-IV).",
+                "📢 Por escrito al docente afectado (Art. 36)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 13",
+            "topic": "Atribuciones del Consejo"
+        },
+        {
+            "tag": "comisiones_red",
+            "patterns": [
+                "¿Qué hacen las Comisiones de la Red Universitaria?",
+                "¿Pueden modificar mi puntaje después de evaluarme?",
+                "¿Cómo reporto irregularidades en mi centro?",
+                "¿Sus decisiones son finales?",
+                "¿Quiénes las integran?"
+            ],
+            "responses": [
+                "📝 Resuelven inconformidades y cancelan estímulos (Art. 14).",
+                "✏️ No, solo revisan por errores en el proceso (Art. 14).",
+                "📌 Presentando denuncia por escrito (Art. 14-III).",
+                "⚖️ Sí, son inapelables (Art. 14).",
+                "👨‍🏫 Académicos de cada centro (Art. 17)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 14",
+            "topic": "Funciones de comisiones locales"
+        },
+        {
+            "tag": "supervision_centros",
+            "patterns": [
+                "¿Los rectores de centros pueden influir en las evaluaciones?",
+                "¿Qué debe supervisar el titular de mi centro?",
+                "¿Cómo se eligen los dictaminadores?",
+                "¿Deben informar resultados a alguien?",
+                "¿Pueden cerrar el programa en mi centro?"
+            ],
+            "responses": [
+                "🚫 Solo dan visto bueno a integrantes de comisiones (Art. 15-I).",
+                "👀 Cumplimiento de obligaciones por beneficiarios (Art. 15-IV).",
+                "🗳️ Los propone el Colegio Departamental (Art. 17).",
+                "📊 Sí, a la Coordinación General Académica (Art. 15-VII).",
+                "❌ No, pero pueden reportar anomalías (Art. 15-VI)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 15",
+            "topic": "Roles de titulares de centros"
+        },
+        {
+            "tag": "atribuciones_administracion",
+            "patterns": [
+                "¿Qué debe supervisar la Administración General?",
+                "¿Pueden pedirme documentos adicionales?",
+                "¿A quién reportan los incumplimientos?",
+                "¿Cómo verifican que cumplo mi plan de trabajo?",
+                "¿Qué información pueden solicitar a mi departamento?"
+            ],
+            "responses": [
+                "👀 Que los beneficiarios cumplan sus obligaciones (Art. 16-I).",
+                "📄 Sí, para comprobar actividades realizadas (Art. 16-II).",
+                "⚖️ A la Comisión de Ingreso del Consejo General (Art. 16-IV).",
+                "📋 Revisando informes anuales y evidencias (Art. 16-I).",
+                "📊 Cualquier dato relacionado con tu participación en el programa (Art. 16-III)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 16",
+            "topic": "Funciones de la Administración General"
+        },
+        {
+            "tag": "comisiones_dictaminadoras",
+            "patterns": [
+                "¿Cómo se integran las comisiones dictaminadoras?",
+                "¿Puede un director de división ser dictaminador?",
+                "¿Cuánto duran en el cargo?",
+                "¿Qué pasa si un integrante renuncia?",
+                "¿Pueden reelegirse?"
+            ],
+            "responses": [
+                "👥 8 miembros: 7 académicos + 1 de CGAI (Art. 17).",
+                "🚫 No, cargos directivos están excluidos (Art. 20).",
+                "📅 2 años sin reelección inmediata (Art. 18).",
+                "🔄 El rector designa sustituto (Art. 23).",
+                "⏳ No, deben pasar al menos 2 años (Art. 18)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículos 17-23",
+            "topic": "Integración de comisiones"
+        },
+        {
+            "tag": "requisitos_dictaminadores",
+            "patterns": [
+                "¿Qué se necesita para ser dictaminador?",
+                "¿Los profesores sin SNI pueden participar?",
+                "¿Hay restricciones por cargos sindicales?",
+                "¿Se requiere antigüedad mínima?",
+                "¿Los técnicos académicos pueden ser dictaminadores?"
+            ],
+            "responses": [
+                "🎓 Ser titular/asociado, 3+ años de antigüedad y SNI/PRODEP (Art. 19).",
+                "✅ En Media Superior sí; en Superior requieren SNI/PRODEP (Art. 19-IV).",
+                "🚫 Sí, están excluidos (Art. 20-III).",
+                "⏳ Mínimo 3 años como académico (Art. 19-II).",
+                "❌ No, solo profesores (Art. 19-I)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículos 19-20",
+            "topic": "Perfil de los evaluadores"
+        },
+        {
+            "tag": "funcionamiento_comisiones",
+            "patterns": [
+                "¿Cómo votan las comisiones dictaminadoras?",
+                "¿Qué pasa si hay empate en una decisión?",
+                "¿Puedo ver las actas de las sesiones?",
+                "¿Cuántos miembros se necesitan para sesionar?",
+                "¿Pueden citar a docentes aclarar dudas?"
+            ],
+            "responses": [
+                "🗳️ Por mayoría de presentes (mitad +1) (Art. 21-VI).",
+                "💼 El presidente tiene voto de calidad (Art. 21-VII).",
+                "🔒 No, son sesiones restringidas (Art. 21-IV).",
+                "👥 La mitad +1 de sus integrantes (Art. 21-V).",
+                "📝 Sí, pueden solicitar información adicional (Art. 22-II)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículos 21-22",
+            "topic": "Dinámica de trabajo"
+        },
+        {
+            "tag": "evaluacion_especial",
+            "patterns": [
+                "¿Quién evalúa a los miembros de las comisiones?",
+                "¿Pueden excusarse de evaluar a un colega?",
+                "¿Qué pasa con dependencias nuevas sin comisión?",
+                "¿Los rectores son evaluados igual?",
+                "¿Cómo se sustituyen miembros ausentes?"
+            ],
+            "responses": [
+                "📌 La Comisión Especial de la Administración General (Art. 23).",
+                "🙋 Sí, con justa causa (Art. 23).",
+                "🏛️ Los evalúa la Comisión Especial (Art. 23-IV).",
+                "👔 Sí, pero solo al terminar su cargo (Art. 28).",
+                "🔄 El rector designa sustitutos (Art. 23)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 23",
+            "topic": "Casos especiales"
+        },
+        {
+            "tag": "coordinacion_academica",
+            "patterns": [
+                "¿Qué hace la Coordinación General Académica?",
+                "¿Pueden cambiar las fechas del concurso?",
+                "¿Supervisan a los beneficiarios?",
+                "¿A quién reportan los resultados?",
+                "¿Resuelven problemas no previstos?"
+            ],
+            "responses": [
+                "📅 Establece cronogramas y supervisa el programa (Art. 24).",
+                "🗓️ Sí, con aprobación de la Vicerrectoría (Art. 24-I).",
+                "👀 Solo para personal de la Administración General (Art. 24-V).",
+                "📊 Al Rector General (Art. 24-VII).",
+                "✅ Sí, previa aprobación (Art. 24-I)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 24",
+            "topic": "Atribuciones de CGAI"
+        },
+        {
+            "tag": "contraloria",
+            "patterns": [
+                "¿La Contraloría interviene en el programa?",
+                "¿Pueden auditar a los beneficiarios?",
+                "¿Investigaran denuncias por fraude?",
+                "¿Qué sanciones pueden imponer?",
+                "¿Supervisan el uso de recursos?"
+            ],
+            "responses": [
+                "🔍 Sí, fiscaliza el cumplimiento (Art. 25).",
+                "📑 Sí, especialmente por exclusividad laboral (Art. 35).",
+                "🕵️ Sí, es su atribución (Art. 25).",
+                "⚖️ Cancelación de estímulo + reintegro de dinero (Art. 35).",
+                "💰 Sí, según el Reglamento de Fiscalización (Art. 25)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 25",
+            "topic": "Rol de la Contraloría"
+        },
+        {
+            "tag": "profesores_prodep",
+            "patterns": [
+                "¿Los profesores PRODEP tienen trato especial?",
+                "¿Pierdo el estímulo si mi PRODEP vence?",
+                "¿Quién los evalúa?",
+                "¿Puedo tener ambos beneficios?",
+                "¿Cómo reactivar el estímulo con PRODEP renovado?"
+            ],
+            "responses": [
+                "🌟 Pueden optar por evaluación ante Comisión Especial (Art. 26).",
+                "⏸️ Sí, pero se reactiva retroactivamente al renovar (Art. 26).",
+                "🏛️ Comisión Especial de la Administración General (Art. 26).",
+                "🚫 No, PRODEP te excluye del programa (Art. 4-II).",
+                "🔄 Presentando constancia de renovación (Art. 26)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 26",
+            "topic": "Docentes con perfil deseable"
+        },
+        {
+            "tag": "anio_sabatico",
+            "patterns": [
+                "¿Puedo participar estando en año sabático?",
+                "¿Qué documentos necesito al reincorporarme?",
+                "¿Me evalúan igual después de una estancia?",
+                "¿Cuánto tiempo tengo para solicitar?",
+                "¿Se me exonera de horas docentes?"
+            ],
+            "responses": [
+                "✅ Sí, al regresar (si la estancia fue +6 meses) (Art. 27).",
+                "📄 Solicitud al Rector + constancia de cumplimiento (Art. 27).",
+                "📊 Sí, pero con ajustes en docencia (Art. 27).",
+                "⏱️ 10 días hábiles tras reintegrarte (Art. 27).",
+                "📌 Solo en la promoción posterior a tu regreso (Art. 27)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 27",
+            "topic": "Movilidad académica"
+        },
+        {
+            "tag": "directivos",
+            "patterns": [
+                "¿Los exdirectivos pueden ingresar al programa?",
+                "¿Qué nivel reciben automáticamente?",
+                "¿Necesitan haber participado antes?",
+                "¿Los jefes de departamento aplican?",
+                "¿Cuándo inicia su estímulo?"
+            ],
+            "responses": [
+                "👔 Sí, al concluir su cargo (Art. 28).",
+                "🎖️ Nivel VIII, con 20+ años de servicio (Art. 28).",
+                "✅ Sí, y haber alcanzado al menos Nivel I (Art. 28).",
+                "📌 Sí, si imparten 8+ hrs docencia (Art. 28).",
+                "📅 Al dejar el cargo directivo (Art. 28)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 28",
+            "topic": "Incorporación de directivos"
+        },
+        {
+            "tag": "periodo_evaluacion",
+            "patterns": [
+                "¿Qué actividades se consideran en la evaluación?",
+                "¿Puedo incluir logros de años anteriores?",
+                "¿Dónde consulto la tabla de actividades?",
+                "¿Hay fechas límite para registrar evidencias?",
+                "¿Pueden pedirme documentos adicionales?"
+            ],
+            "responses": [
+                "📅 Solo las realizadas en el período anual de la convocatoria (Art. 29).",
+                "❌ No, solo el año en evaluación (Art. 29).",
+                "📋 En la convocatoria publicada en enero (Art. 29).",
+                "⌛ Sí, no se aceptan documentos posteriores (Art. 30).",
+                "📝 Sí, tienes 5 días hábiles para responder (Art. 31)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículos 29-31",
+            "topic": "Criterios de evaluación"
+        },
+        {
+            "tag": "asignacion_niveles",
+            "patterns": [
+                "¿Qué criterios se usan si hay empate?",
+                "¿Vale más la antigüedad o el grado académico?",
+                "¿Las horas de docencia son determinantes?",
+                "¿Cómo priorizan entre varios candidatos?",
+                "¿Pueden modificarse los niveles después?"
+            ],
+            "responses": [
+                "🔀 Puntaje de calidad > horas docencia > antigüedad > grado (Art. 32).",
+                "🎓 Primero horas docencia, luego antigüedad (Art. 32).",
+                "⏱️ Sí, son el segundo criterio de desempate (Art. 32-II).",
+                "🏅 En el orden estricto del Artículo 32.",
+                "✏️ Solo por error material o recurso de inconformidad (Art. 36)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 32",
+            "topic": "Priorización de beneficiarios"
+        },
+        {
+            "tag": "suspension",
+            "patterns": [
+                "¿En qué casos se suspende el estímulo?",
+                "¿Puedo recuperarlo después de una suspensión?",
+                "¿Las licencias médicas afectan el estímulo?",
+                "¿Qué pasa si tomo un cargo directivo?",
+                "¿Cómo notifican la suspensión?"
+            ],
+            "responses": [
+                "⏸️ Licencias sin sueldo, becas, cargos directivos o <90% asistencia (Art. 33).",
+                "🔄 Sí, al corregir la causa (ej: terminar cargo directivo) (Art. 33).",
+                "🏥 Solo si son sin goce de sueldo y +6 meses (Art. 33-I).",
+                "📉 Se suspende mientras dure el cargo (Art. 33-IV).",
+                "📄 Por escrito, con 5 días para apelar (Art. 36)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 33",
+            "topic": "Causas de suspensión temporal"
+        },
+        {
+            "tag": "cancelacion",
+            "patterns": [
+                "¿Qué conductas causan cancelación definitiva?",
+                "¿Debo devolver el dinero si me cancelan?",
+                "¿La jubilación cancela el estímulo?",
+                "¿Qué pasa si fallezco?",
+                "¿Pueden cancelarlo sin aviso previo?"
+            ],
+            "responses": [
+                "💀 Incumplimiento, falsedad, jubilación o separación definitiva (Art. 34).",
+                "💰 Solo en casos de fraude (Art. 35).",
+                "📅 Sí, desde el día siguiente a la notificación (Art. 34-I).",
+                "😢 Se cancela y no es transferible (Art. 34-II).",
+                "⚠️ Sí, pero puedes apelar en 5 días (Art. 36)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 34",
+            "topic": "Causas de cancelación"
+        },
+        {
+            "tag": "sanciones",
+            "patterns": [
+                "¿Qué pasa si trabajo más de 8 horas fuera?",
+                "¿Hay consecuencias por falsificar documentos?",
+                "¿Pueden inhabilitarme para futuros estímulos?",
+                "¿Quién investiga las irregularidades?",
+                "¿Qué sanción aplica por no entregar informes?"
+            ],
+            "responses": [
+                "🔍 Suspensión + investigación por Contraloría (Art. 35).",
+                "🚫 Descalificación + procesos disciplinarios (Art. 35).",
+                "⛔ Sí, en casos graves (Art. 35).",
+                "🕵️ La Contraloría General (Art. 35).",
+                "📉 Cancelación del estímulo (Art. 34-VI)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 35",
+            "topic": "Sanciones por incumplimiento"
+        },
+        {
+            "tag": "recurso_inconformidad",
+            "patterns": [
+                "¿Cómo apelo una decisión desfavorable?",
+                "¿Cuánto tiempo tengo para presentar el recurso?",
+                "¿Ante quién lo presento?",
+                "¿Qué debo incluir en mi escrito?",
+                "¿Pueden negarse a revisar mi caso?"
+            ],
+            "responses": [
+                "📝 Por escrito, puntualizando motivos (Art. 36).",
+                "⏱️ 5 días hábiles tras publicación de resultados (Art. 36).",
+                "🏛️ Comisión de Ingreso de tu dependencia (Art. 36).",
+                "✍️ Los motivos específicos de inconformidad (Art. 36).",
+                "❌ No, deben resolver en 15 días hábiles (Art. 36)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 36",
+            "topic": "Proceso de apelación"
+        },
+        {
+            "tag": "derechos_beneficiarios",
+            "patterns": [
+                "¿Puedo conservar el estímulo si cambio de centro?",
+                "¿Me lo pagan durante año sabático?",
+                "¿Tengo derecho a renunciar al estímulo?",
+                "¿Puedo transferirlo a otro colega?",
+                "¿Qué pasa si me enfermo gravemente?"
+            ],
+            "responses": [
+                "🏛️ Sí, mientras cumplas requisitos (Art. 37-II).",
+                "✅ Sí, si fue autorizado por el Rector (Art. 37-III).",
+                "🖋️ Sí, es tu derecho (Art. 37-IV).",
+                "🚫 No, es personal e intransferible (Art. 2).",
+                "🏥 Se suspende si es licencia sin sueldo +6 meses (Art. 33-I)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 37",
+            "topic": "Derechos de beneficiarios"
+        },
+        {
+            "tag": "obligaciones_beneficiarios",
+            "patterns": [
+                "¿Debo presentar informes anuales?",
+                "¿Qué pasa si no cumplo mi plan de trabajo?",
+                "¿Cómo registro mi asistencia?",
+                "¿Pueden auditar mis actividades?",
+                "¿Debo justificar mis productos académicos?"
+            ],
+            "responses": [
+                "📅 Sí, al titular de tu dependencia (Art. 38-I).",
+                "⚠️ Cancelación del estímulo (Art. 34-IV).",
+                "📝 Por los mecanismos oficiales de tu centro (Art. 38-VI).",
+                "🔍 Sí, la Contraloría puede solicitarlo (Art. 25).",
+                "📄 Sí, con evidencias válidas (Art. 38-I)."
+            ],
+            "document": "Reglamento del Programa de Estímulos al Desempeño Docente 2023",
+            "article": "Artículo 38",
+            "topic": "Obligaciones de beneficiarios"
+        }
+     
+
+    ]
+}

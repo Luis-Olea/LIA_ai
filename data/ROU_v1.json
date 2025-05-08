@@ -1,0 +1,1887 @@
+{
+    "main_topic": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+    "intents": [
+        {
+            "tag": "objeto_del_reglamento_obras",
+            "patterns": [
+                "¿Cuál es el objetivo principal del Reglamento de Obras y Servicios?",
+                "¿Qué acciones regula el Artículo 1 del reglamento?",
+                "¿Qué aspectos cubre este reglamento según el Artículo 1?",
+                "¿Por qué es importante el Artículo 1 en este reglamento?",
+                "¿Qué tipo de procesos administrativos incluye el Artículo 1?"
+            ],
+            "responses": [
+                "📘 El Artículo 1 establece que el reglamento regula acciones como planeación, contratación, ejecución y control de obras universitarias y servicios relacionados. 🏗️",
+                "🔹 Su objetivo es normar la programación, presupuestación, gasto y supervisión de obras y servicios vinculados a la Universidad. 📜",
+                "🎯 Cubre desde la construcción de inmuebles hasta la demolición, mantenimiento e instalación de equipos. ⚙️",
+                "📘 Es clave porque define el alcance del reglamento en toda la cadena de procesos de infraestructura. 🌐",
+                "🔹 Incluye procesos administrativos como contratación, validación de proyectos y control de calidad. ✅"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento obras"
+        },
+        {
+            "tag": "definicion_obras_universitarias",
+            "patterns": [
+                "¿Qué se considera una obra universitaria según el Artículo 2?",
+                "¿La restauración de bienes muebles cuenta como obra universitaria?",
+                "¿Qué tipos de trabajos incluyen las obras universitarias?",
+                "¿La instalación de equipos en inmuebles es una obra universitaria?",
+                "¿Qué ejemplos de obras universitarias menciona el Artículo 2?"
+            ],
+            "responses": [
+                "📘 El Artículo 2 define como obras universitarias: construcción, remodelación, mantenimiento, demolición e instalación de equipos en inmuebles. 🏢",
+                "🔹 Sí, si implica modificación al inmueble (ej.: restauración de mobiliario adherido). 🪑",
+                "🎯 Incluye infraestructura agropecuaria, pruebas de operación de equipos y trabajos análogos. 🌾",
+                "📘 Sí, siempre que los equipos sean proporcionados por la Universidad o su costo sea menor al de los trabajos. 🔌",
+                "🔹 Ejemplos: ampliación de edificios, adecuación de laboratorios, instalación de sistemas eléctricos. 🛠️"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 2",
+            "topic": "Definición de obras universitarias"
+        },
+        {
+            "tag": "servicios_relacionados_obras",
+            "patterns": [
+                "¿Qué servicios están vinculados a las obras universitarias según el Artículo 3?",
+                "¿El diseño arquitectónico requiere contratación bajo este reglamento?",
+                "¿Los estudios de mecánica de suelos son considerados servicios relacionados?",
+                "¿Qué tipos de estudios técnicos incluye el Artículo 3?",
+                "¿La supervisión de obras está regulada en este artículo?"
+            ],
+            "responses": [
+                "📘 El Artículo 3 incluye servicios como diseño arquitectónico, estudios de suelos, topografía, supervisión y dictámenes periciales. 📐",
+                "🔹 Sí, el diseño de ingeniería civil o arquitectónica debe contratarse bajo este reglamento. 🏛️",
+                "🎯 Sí, los estudios técnicos (geotecnia, hidrología, etc.) son servicios relacionados. 🌍",
+                "📘 Menciona estudios ambientales, económicos, financieros y de factibilidad técnica. 📊",
+                "🔹 Sí, la coordinación y supervisión de obras están explícitamente reguladas. 👷"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 3",
+            "topic": "Servicios relacionados con las obras"
+        },
+        {
+            "tag": "definiciones_especificas",
+            "patterns": [
+                "¿Quién es el contratista según el Artículo 4?",
+                "¿Qué es un proyecto ejecutivo de obra?",
+                "¿Para qué sirve la bitácora en las obras universitarias?",
+                "¿Qué es el Plan Maestro de Desarrollo de Infraestructura?",
+                "¿Qué funciones tiene el Comité Revisor mencionado en el Artículo 4?"
+            ],
+            "responses": [
+                "📘 El Artículo 4 define al contratista como persona física o jurídica que participa en procesos de contratación. 👥",
+                "🔹 El proyecto ejecutivo incluye planos, memorias de cálculo, catálogos de conceptos y precios unitarios. 📋",
+                "🎯 La bitácora es un registro técnico para comunicación entre las partes durante la obra. 📖",
+                "📘 El Plan Maestro detalla necesidades de urbanización, lotificación y acondicionamiento de espacios. 🗺️",
+                "🔹 El Comité Revisor supervisa procedimientos previos a adjudicaciones de obras y servicios. ⚖️"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 4",
+            "topic": "Definiciones específicas"
+        },
+        {
+            "tag": "aplicacion_reglamento",
+            "patterns": [
+                "¿A qué dependencias aplica el Artículo 5 del reglamento?",
+                "¿El reglamento aplica si se usan recursos federales extraordinarios?",
+                "¿Las entidades externas deben cumplir este reglamento?",
+                "¿Qué pasa si un centro universitario usa recursos institucionales para obras?",
+                "¿Hay excepciones a la aplicación del reglamento?"
+            ],
+            "responses": [
+                "📘 El Artículo 5 aplica a centros universitarios, sistemas educativos y la Administración General. 🎓",
+                "🔹 No aplica si los recursos federales/estatales establecen procedimientos específicos en convenios. 💰",
+                "🎯 Sí, si usan recursos institucionales para obras o servicios relacionados. 🏗️",
+                "📘 Deben ajustarse al reglamento, salvo que los fondos tengan normativas propias. ⚠️",
+                "🔹 Las excepciones son solo para recursos extraordinarios con normativa externa. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 5",
+            "topic": "Ámbito de aplicación del reglamento"
+        },
+        {
+            "tag": "sistema_electronico_contrataciones",
+            "patterns": [
+                "¿Cómo se deben realizar las contrataciones de obra según el Artículo 6?",
+                "¿Qué ventajas tiene el sistema electrónico mencionado en el Artículo 6?",
+                "¿Es obligatorio usar el sistema electrónico para contrataciones?",
+                "¿Qué objetivos persigue el sistema electrónico de contrataciones?",
+                "¿Dónde se especifica el uso de tecnología en las contrataciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 6 establece que las contrataciones se harán mediante un sistema electrónico para garantizar transparencia y simplificación. 💻",
+                "🔹 El sistema electrónico moderniza los procedimientos y reduce trámites burocráticos. ⚡",
+                "🎯 Sí, es obligatorio para todas las contrataciones de obras y servicios relacionados. ✅",
+                "📘 Busca dar transparencia, eficiencia y acceso público a los procesos. 🔍",
+                "🔹 El Artículo 6 es claro: los procedimientos deben operar electrónicamente. 📜"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 6",
+            "topic": "Sistema electrónico de contrataciones"
+        },
+        {
+            "tag": "fraccionamiento_prohibido",
+            "patterns": [
+                "¿Qué prohíbe el Artículo 7 sobre el fraccionamiento de contrataciones?",
+                "¿Se pueden dividir obras para evitar topes presupuestales?",
+                "¿Qué consecuencias tiene fraccionar una contratación?",
+                "¿Cómo evita el reglamento el fraccionamiento ilegal?",
+                "¿Dónde se menciona la prohibición de fraccionar servicios?"
+            ],
+            "responses": [
+                "📘 El Artículo 7 prohíbe fraccionar obras o servicios para evadir los topes de contratación establecidos. ⚠️",
+                "🔹 No, dividir una obra con ese fin viola el reglamento y puede acarrear sanciones. 🚫",
+                "🎯 Constituye una infracción administrativa y puede derivar en inhabilitación del contratista. ⚖️",
+                "📘 El reglamento exige que los montos totales se consideren en un solo procedimiento. 💰",
+                "🔹 La prohibición aplica tanto para obras como servicios relacionados (Artículo 7). 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 7",
+            "topic": "Prohibición de fraccionamiento"
+        },
+        {
+            "tag": "planeacion_obras",
+            "patterns": [
+                "¿Qué documentos guían la planeación de obras según el Artículo 8?",
+                "¿El Plan Institucional de Desarrollo es vinculante para las obras?",
+                "¿Cómo se alinean las obras con el presupuesto universitario?",
+                "¿Qué planes debe considerar una dependencia para programar obras?",
+                "¿Dónde se establece la vinculación entre obras y presupuesto?"
+            ],
+            "responses": [
+                "📘 El Artículo 8 exige que las obras se ajusten al Plan Institucional de Desarrollo, programas de la dependencia y su presupuesto. 📊",
+                "🔹 Sí, el Plan Institucional es la base para priorizar proyectos de infraestructura. 🎯",
+                "🎯 Las obras deben estar contempladas en el Presupuesto de Ingresos y Egresos autorizado. 💵",
+                "📘 Además del Plan Institucional, deben considerar sus programas específicos. 📋",
+                "🔹 El Artículo 8 vincula explícitamente obras con planeación y presupuesto. ⛓️"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 8",
+            "topic": "Planeación de obras universitarias"
+        },
+        {
+            "tag": "validacion_plan_maestro",
+            "patterns": [
+                "¿Qué requisito establece el Artículo 9 para ejecutar una obra?",
+                "¿Quién valida el Plan Maestro de Desarrollo de Infraestructura?",
+                "¿Qué pasa si una obra no está en el Plan Maestro?",
+                "¿Qué dependencias participan en la validación de proyectos?",
+                "¿Dónde se menciona la coordinación con entidades productivas?"
+            ],
+            "responses": [
+                "📘 El Artículo 9 exige que las obras estén en el Plan Maestro de Infraestructura y tengan validación de la Coordinación de Servicios Generales. 📑",
+                "🔹 La validación la realiza la Coordinación de Servicios Generales y la figura equivalente en Entidades Productivas. 🏢",
+                "🎯 No podrán ejecutarse obras no contempladas en el Plan Maestro validado. ❌",
+                "📘 Participan la dependencia promotora, Servicios Generales y Entidades Productivas. 👥",
+                "🔹 El Artículo 9 menciona la validación conjunta para proyectos de generación de recursos. 💼"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 9",
+            "topic": "Validación del Plan Maestro"
+        },
+        {
+            "tag": "programas_anuales_obras",
+            "patterns": [
+                "¿Qué deben incluir los programas anuales de obras según el Artículo 10?",
+                "¿Cómo se planifican obras que duran más de un año?",
+                "¿Quién formula los programas anuales de obras?",
+                "¿Las obras multianuales requieren planificación especial?",
+                "¿Dónde se habla de la programación de obras por dependencias?"
+            ],
+            "responses": [
+                "📘 El Artículo 10 obliga a las dependencias a formular programas anuales de obras, considerando complejidad y magnitud. 📅",
+                "🔹 Para obras multianuales, se debe definir presupuesto por ejercicio y asegurar continuidad. 🔄",
+                "🎯 Cada dependencia universitaria formula sus programas según sus necesidades. 🏛️",
+                "📘 Sí, deben incluir presupuestos parciales y costos actualizados por año. 💰",
+                "🔹 El Artículo 10 detalla la responsabilidad de las dependencias en la programación. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 10",
+            "topic": "Programas anuales de obras"
+        },
+        {
+            "tag": "presupuesto_obras_multianuales",
+            "patterns": [
+                "¿Cómo se maneja el presupuesto en obras multianuales (Artículo 11)?",
+                "¿Qué debe incluirse en el presupuesto de obras a largo plazo?",
+                "¿Cómo se actualizan los costos en obras de varios ejercicios?",
+                "¿Quién garantiza la continuidad de obras multianuales?",
+                "¿Dónde se regula la asignación presupuestal por año fiscal?"
+            ],
+            "responses": [
+                "📘 El Artículo 11 exige definir presupuesto total y por ejercicio, con costos vigentes en cada año. 💵",
+                "🔹 Debe incluir montos por año, costos actualizados y convenios de continuidad. 📊",
+                "🎯 Los presupuestos se ajustan anualmente según costos vigentes. 🔄",
+                "📘 Las dependencias deben gestionar convenios para asegurar fondos en ejercicios subsecuentes. 🤝",
+                "🔹 El Artículo 11 establece que el presupuesto actualizado es base para solicitar recursos anuales. 📜"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 11",
+            "topic": "Presupuesto para obras multianuales"
+        },
+        {
+            "tag": "reutilizacion_estudios_existentes",
+            "patterns": [
+                "¿Qué debe verificar una dependencia antes de contratar estudios (Artículo 12)?",
+                "¿Se pueden reutilizar estudios previos para evitar contrataciones?",
+                "¿Qué excepción aplica para contratar estudios ya existentes?",
+                "¿Dónde se archivan los estudios de obras universitarias?",
+                "¿Cómo se evita la duplicidad de estudios según el reglamento?"
+            ],
+            "responses": [
+                "📘 El Artículo 12 obliga a verificar si existen estudios o proyectos previos en archivos o la Coordinación de Servicios Generales. 🔍",
+                "🔹 Sí, si los estudios satisfacen los requerimientos actuales, no se contrata nuevo. ♻️",
+                "🎯 Solo se contrata si se necesitan adecuaciones, actualizaciones o complementos. ✏️",
+                "📘 Los estudios se archivan en la dependencia o la Coordinación de Servicios Generales. 🗄️",
+                "🔹 El Artículo 12 promueve la reutilización para optimizar recursos. 💡"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 12",
+            "topic": "Reutilización de estudios existentes"
+        },
+        {
+            "tag": "comite_tecnico_infraestructura",
+            "patterns": [
+                "¿Qué funciones tiene el Comité Técnico del Fondo de Infraestructura (Artículo 13)?",
+                "¿Quién evalúa la viabilidad de los proyectos de infraestructura?",
+                "¿Qué aspectos analiza el Comité Técnico según el Artículo 13?",
+                "¿Cómo se relaciona el Comité con los Planes Maestros?",
+                "¿Dónde se menciona la evaluación financiera de proyectos?"
+            ],
+            "responses": [
+                "📘 El Artículo 13 asigna al Comité Técnico funciones como opinar sobre Planes Maestros y evaluar viabilidad de proyectos. 🏗️",
+                "🔹 Evalúa pertinencia, viabilidad técnica y financiera de los proyectos promovidos por dependencias. 💰",
+                "🎯 Analiza alineación con el Plan Institucional y necesidades de la red universitaria. 📐",
+                "📘 Opina sobre el Plan Maestro de cada dependencia (fracción II del Artículo 13). 📋",
+                "🔹 La fracción III del Artículo 13 menciona la evaluación financiera como atribución clave. 📉"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 13",
+            "topic": "Comité Técnico del Fondo de Infraestructura"
+        },
+        {
+            "tag": "integracion_comite_tecnico",
+            "patterns": [
+                "¿Quiénes integran el Comité Técnico según el Artículo 14?",
+                "¿Cómo se eligen los miembros del Comité Técnico?",
+                "¿Qué perfiles profesionales incluye el Comité?",
+                "¿Los cargos en el Comité Técnico son remunerados?",
+                "¿Quién coordina los trabajos del Comité?"
+            ],
+            "responses": [
+                "📘 El Artículo 14 detalla 14 integrantes, incluyendo representantes de centros universitarios, peritos (arquitectos, ingenieros) y coordinadores. 👥",
+                "🔹 Son propuestos por el Consejo de Rectores y nombrados por el Rector General. 👑",
+                "🎯 Incluye arquitectos, especialistas en estructuras y medio ambiente. 🌿",
+                "📘 No, los cargos son honoríficos (párrafo 3 del Artículo 14). 🏅",
+                "🔹 La Vicerrectoría Ejecutiva coordina los trabajos (párrafo final del Artículo 14). 🏢"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 14",
+            "topic": "Integración del Comité Técnico"
+        },
+        {
+            "tag": "atribuciones_comite_general_compras",
+            "patterns": [
+                "¿Qué resuelve el Comité General de Compras según el Artículo 15?",
+                "¿Para qué montos es competente el Comité General?",
+                "¿Puede el Comité General resolver controversias?",
+                "¿Qué bases de datos supervisa este Comité?",
+                "¿Dónde se establecen sus lineamientos adicionales?"
+            ],
+            "responses": [
+                "📘 El Artículo 15 le asigna resolver criterios no regulados, contrataciones mayores a 180 UMA, controversias y supervisar bases de datos. ⚖️",
+                "🔹 Es competente para contrataciones superiores a 180 veces el valor mensual de la UMA (antes de IVA). 💵",
+                "🎯 Sí, resuelve dudas y controversias en la aplicación del reglamento (fracción V). 🗣️",
+                "📘 Supervisa la base de datos de participantes en procedimientos de contratación. 💾",
+                "🔹 Sus lineamientos complementarios están en el Reglamento de Adquisiciones (Artículo 17). 📜"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 15",
+            "topic": "Atribuciones del Comité General de Compras"
+        },
+        {
+            "tag": "funciones_comites_centros",
+            "patterns": [
+                "¿Qué funciones tienen los Comités de Compras de los Centros Universitarios según el Artículo 16?",
+                "¿Para qué montos son competentes los Comités de los Centros Universitarios?",
+                "¿Pueden los Comités de Centros solicitar opiniones técnicas externas?",
+                "¿Qué base de datos deben supervisar estos Comités?",
+                "¿Dónde se especifican las funciones de los Comités de Centros?"
+            ],
+            "responses": [
+                "📘 El Artículo 16 asigna a estos Comités resolver contrataciones mayores a 75 UMA, supervisar bases de datos de participantes y solicitar opiniones técnicas. 🏛️",
+                "🔹 Son competentes para montos mayores a 75 veces el valor mensual de la UMA (antes de IVA). 💰",
+                "🎯 Sí, pueden pedir opiniones a comités técnicos o expertos en la materia (fracción III). 🧑⚖️",
+                "📘 Deben supervisar la base de datos de participantes en procedimientos de su dependencia. 💾",
+                "🔹 Sus funciones están detalladas en el Artículo 16 y se complementan con el Reglamento de Adquisiciones. 📜"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 16",
+            "topic": "Funciones de los Comités de Centros Universitarios"
+        },
+        {
+            "tag": "integracion_comites",
+            "patterns": [
+                "¿A qué normas se sujetan los Comités según el Artículo 17?",
+                "¿Dónde se establece el funcionamiento de los Comités de Compras?",
+                "¿El Reglamento de Adquisiciones aplica a los Comités de Obras?",
+                "¿Qué relación tiene este artículo con el Reglamento de Adquisiciones?",
+                "¿Los Comités de Obras siguen las mismas reglas que los de Adquisiciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 17 establece que la integración y funcionamiento de los Comités se rigen por este reglamento y el Reglamento de Adquisiciones. ⚖️",
+                "🔹 El funcionamiento se detalla en ambos reglamentos (Artículo 17 y Reglamento de Adquisiciones). 📑",
+                "🎯 Sí, el Reglamento de Adquisiciones complementa las normas para estos Comités. 🔗",
+                "📘 El Artículo 17 hace referencia expresa al Reglamento de Adquisiciones para aspectos no cubiertos aquí. 📌",
+                "🔹 Sí, deben seguir las mismas reglas básicas de integración y operación. ✅"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 17",
+            "topic": "Integración y funcionamiento de los Comités"
+        },
+        {
+            "tag": "procedimientos_contratacion",
+            "patterns": [
+                "¿Qué métodos de contratación establece el Artículo 18?",
+                "¿Para qué monto se requiere licitación pública?",
+                "¿Cuándo se usa el concurso en lugar de licitación?",
+                "¿Qué procedimiento aplica para obras menores a 75 UMA?",
+                "¿Los valores de la UMA incluyen IVA?"
+            ],
+            "responses": [
+                "📘 El Artículo 18 define cuatro métodos: licitación pública, concurso, invitación y adjudicación directa, según el monto. 📊",
+                "🔹 Licitación pública para montos mayores a 1,700 veces el valor mensual de la UMA. 🏗️",
+                "🎯 Concurso para montos entre 180 y 1,700 UMA (Artículo 18, fracción II). ⚖️",
+                "📘 Adjudicación directa para montos ≤ 75 UMA (fracción IV). 📝",
+                "🔹 No, los montos se calculan antes del IVA (párrafo 3 del Artículo 18). 💵"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 18",
+            "topic": "Procedimientos de contratación"
+        },
+        {
+            "tag": "caracter_nacional_internacional",
+            "patterns": [
+                "¿Quién decide si una licitación es nacional o internacional (Artículo 19)?",
+                "¿Qué factores se consideran para definir el carácter de una licitación?",
+                "¿Se deben respetar tratados internacionales en las licitaciones?",
+                "¿Puede un Centro Universitario decidir el carácter de su licitación?",
+                "¿Dónde se menciona la participación de extranjeros en licitaciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 19 asigna esta decisión a la Coordinación General de Servicios Administrativos o la Secretaría/Dirección Administrativa correspondiente. 🏢",
+                "🔹 Se considera la opinión de la dependencia y el cumplimiento de tratados internacionales. 🌍",
+                "🎯 Sí, especialmente tratados de libre comercio (Artículo 19, párrafo 1). 📜",
+                "📘 No, debe coordinarse con las instancias mencionadas en el Artículo 19. 🤝",
+                "🔹 El Artículo 19 regula licitaciones internacionales donde pueden participar extranjeros. 🧑💼"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 19",
+            "topic": "Licitaciones nacionales o internacionales"
+        },
+        {
+            "tag": "contrataciones_administracion_general",
+            "patterns": [
+                "¿Qué resuelve la Coordinación General de Servicios Administrativos según el Artículo 19-A?",
+                "¿Para qué montos es competente esta Coordinación?",
+                "¿Las dependencias de la Administración General pueden contratar directamente?",
+                "¿Qué pasa si un contrato supera 180 UMA?",
+                "¿Dónde se regula la contratación para la Administración General?"
+            ],
+            "responses": [
+                "📘 El Artículo 19-A le asigna resolver contrataciones entre 75 y 180 UMA para dependencias de la Administración General. 📑",
+                "🔹 Para montos mayores a 75 e ≤ 180 veces el valor mensual de la UMA (antes de IVA). 💰",
+                "🎯 No, deben seguir el procedimiento que corresponda según el monto (Artículo 19-A). ⚠️",
+                "📘 Si supera 180 UMA, lo resuelve el Comité General de Compras (Artículo 15). 🏛️",
+                "🔹 En el Artículo 19-A y en las disposiciones generales del Capítulo IV. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 19-A",
+            "topic": "Contrataciones para la Administración General"
+        },
+        {
+            "tag": "transparencia_informacion_publica",
+            "patterns": [
+                "¿Qué información debe publicarse según el Artículo 20?",
+                "¿Dónde se difunden las convocatorias y fallos de contratación?",
+                "¿Es obligatorio publicar las actas de juntas de aclaraciones?",
+                "¿Qué datos de los contratos adjudicados son públicos?",
+                "¿Los centros universitarios deben tener portales de transparencia?"
+            ],
+            "responses": [
+                "📘 El Artículo 20 exige publicar convocatorias, bases, actas de aclaraciones, fallos y datos relevantes de contratos adjudicados. 📢",
+                "🔹 En medios electrónicos establecidos por la Universidad (Artículo 20, párrafo 1). 💻",
+                "🎯 Sí, junto con las modificaciones y cancelaciones de procedimientos. 📋",
+                "📘 Datos como monto, contratista y objeto del contrato (Artículo 20). 🔍",
+                "🔹 Sí, deben contar con medios electrónicos para difusión pública. 🌐"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 20",
+            "topic": "Transparencia y información pública"
+        },
+        {
+            "tag": "presentacion_proposiciones",
+            "patterns": [
+                "¿Cómo se pueden entregar las proposiciones según el Artículo 21?",
+                "¿Se aceptan propuestas enviadas por correo electrónico?",
+                "¿Qué requisitos tienen las proposiciones electrónicas?",
+                "¿Los sobres electrónicos deben garantizar confidencialidad?",
+                "¿Dónde se especifican los formatos para presentar propuestas?"
+            ],
+            "responses": [
+                "📘 El Artículo 21 permite entregar propuestas en físico, por correo postal, mensajería o medios electrónicos. ✉️",
+                "🔹 Sí, si cumplen con las disposiciones técnicas para medios remotos (Artículo 21, párrafo 2). 💻",
+                "🎯 Deben usar tecnologías que resguarden confidencialidad y sean inviolables. 🔒",
+                "📘 Sí, el sobre electrónico debe ser inviolable (Artículo 21, párrafo 2). 🛡️",
+                "🔹 Las bases de cada procedimiento detallan formatos (Artículo 26). 📄"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 21",
+            "topic": "Presentación de proposiciones"
+        },
+        {
+            "tag": "firmas_medios_electronicos",
+            "patterns": [
+                "¿Cómo se firman las proposiciones electrónicas según el Artículo 22?",
+                "¿Qué validez tienen las firmas electrónicas en este reglamento?",
+                "¿Quién certifica los medios de identificación electrónica?",
+                "¿Las firmas electrónicas sustituyen a las autógrafas?",
+                "¿Dónde se regula la confidencialidad de las propuestas?"
+            ],
+            "responses": [
+                "📘 El Artículo 22 permite usar medios de identificación electrónica con igual validez que firmas autógrafas. ⌨️",
+                "🔹 Tienen los mismos efectos legales que las firmas tradicionales (Artículo 22, párrafo 1). ⚖️",
+                "🎯 La Coordinación de Servicios Administrativos, Centros Universitarios y SEMS (Artículo 22, párrafo 2). 🏛️",
+                "📘 Sí, cuando se usan medios electrónicos autorizados. ✅",
+                "🔹 El Artículo 22 enfatiza la confidencialidad de la información remitida electrónicamente. 🔐"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 22",
+            "topic": "Firmas y medios electrónicos"
+        },
+        {
+            "tag": "tipos_licitaciones_publicas",
+            "patterns": [
+                "¿Qué tipos de licitaciones públicas existen según el Artículo 23?",
+                "¿En qué se diferencia una licitación nacional de una internacional?",
+                "¿Pueden participar extranjeros en licitaciones nacionales?",
+                "¿Qué define el carácter de una licitación?",
+                "¿Dónde se especifican los participantes permitidos?"
+            ],
+            "responses": [
+                "📘 El Artículo 23 clasifica las licitaciones en nacionales (solo mexicanos) e internacionales (extranjeros y mexicanos). 🌐",
+                "🔹 Las nacionales restringen participación a mexicanos; las internacionales permiten ambos (Artículo 23, fracciones I-II). 🧑💼",
+                "🎯 No, salvo que la licitación se declare internacional. 🚫",
+                "📘 Lo decide la dependencia convocante, conforme al Artículo 19. 🏢",
+                "🔹 En las bases de cada licitación y en el Artículo 23. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 23",
+            "topic": "Tipos de licitaciones públicas"
+        },
+        {
+            "tag": "contenido_convocatorias",
+            "patterns": [
+                "¿Qué debe incluir una convocatoria de licitación según el Artículo 24?",
+                "¿Cómo se acredita la capacidad técnica de los licitantes?",
+                "¿Se puede negociar las condiciones después de publicada la convocatoria?",
+                "¿Qué información debe tener la descripción de la obra?",
+                "¿Dónde se mencionan los anticipos en las convocatorias?"
+            ],
+            "responses": [
+                "📘 El Artículo 24 exige datos como nombre de la dependencia, requisitos para acreditar capacidad, fechas clave, descripción de la obra y plazos. 📢",
+                "🔹 Según lo indicado en la convocatoria (fracción II del Artículo 24). 📋",
+                "🎯 No, las condiciones no son negociables (fracción VI del Artículo 24). ❌",
+                "📘 Debe incluir lugar de ejecución, características generales y si permite subcontratación (fracción VII). 🏗️",
+                "🔹 En la fracción IX del Artículo 24, mencionando porcentajes de anticipos. 💵"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 24",
+            "topic": "Contenido de las convocatorias"
+        },
+        {
+            "tag": "publicacion_convocatorias",
+            "patterns": [
+                "¿Dónde se publican las convocatorias según el Artículo 25?",
+                "¿Es obligatorio publicar en periódicos locales?",
+                "¿Qué medios electrónicos se usan para convocatorias?",
+                "¿Se puede omitir la publicación en periódicos nacionales?",
+                "¿Qué considera la ubicación de la dependencia para la publicación?"
+            ],
+            "responses": [
+                "📘 El Artículo 25 exige publicación en un medio electrónico, un periódico nacional, uno de la zona metropolitana de Guadalajara y opcionalmente uno local. 📰",
+                "🔹 No, el local es opcional, pero el nacional y metropolitano son obligatorios (Artículo 25). ⚠️",
+                "🎯 El medio electrónico oficial establecido por la Universidad (Artículo 25). 💻",
+                "📘 No, la publicación nacional es obligatoria. 🚫",
+                "🔹 La dependencia puede agregar un periódico local según su ubicación (Artículo 25, párrafo 1). 📍"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 25",
+            "topic": "Publicación de convocatorias"
+        },
+        {
+            "tag": "disponibilidad_bases_licitacion",
+            "patterns": [
+                "¿Desde cuándo están disponibles las bases de licitación según el Artículo 26?",
+                "¿Cuánto tiempo mínimo deben estar disponibles las bases?",
+                "¿Dónde se pueden adquirir las bases de licitación?",
+                "¿Es responsabilidad de los interesados obtener las bases?",
+                "¿Qué pasa si no se adquieren las bases en el plazo establecido?"
+            ],
+            "responses": [
+                "📘 El Artículo 26 establece que las bases deben estar disponibles desde el día de publicación de la convocatoria hasta la fecha que ésta determine. 📅",
+                "🔹 Deben estar disponibles al menos 5 días naturales (Artículo 26, párrafo 1). ⏳",
+                "🎯 En el lugar y durante el plazo indicado en la convocatoria (Artículo 26, párrafo 2). 📍",
+                "📘 Sí, es responsabilidad exclusiva de los interesados adquirirlas oportunamente (Artículo 26, párrafo 2). ⚠️",
+                "🔹 Quienes no las adquieran en plazo no podrán participar en la licitación. ❌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 26",
+            "topic": "Disponibilidad de bases de licitación"
+        },
+        {
+            "tag": "contenido_bases_licitacion",
+            "patterns": [
+                "¿Qué debe contener las bases de licitación según el Artículo 27?",
+                "¿Cómo se especifica el idioma para las proposiciones?",
+                "¿Qué información técnica deben incluir las bases?",
+                "¿Se mencionan las causas de descalificación en las bases?",
+                "¿Dónde se establecen los criterios de adjudicación?"
+            ],
+            "responses": [
+                "📘 El Artículo 27 exige datos como requisitos legales, fechas para visitas técnicas, junta aclaratoria, documentos técnicos y criterios de adjudicación. 📋",
+                "🔹 En la fracción II del Artículo 27 se indica el idioma o idiomas aceptados. 🈂️",
+                "🎯 Deben incluir proyectos arquitectónicos, normas de calidad, catálogo de conceptos y especificaciones (fracción IX). 🏗️",
+                "📘 Sí, en la fracción XI se señalan causas como acuerdos para elevar costos entre licitantes. ⚠️",
+                "🔹 En la fracción XII del Artículo 27 se definen los criterios para adjudicar el contrato. ⚖️"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 27",
+            "topic": "Contenido de las bases de licitación"
+        },
+        {
+            "tag": "plazos_presentacion_propuestas",
+            "patterns": [
+                "¿Cuál es el plazo mínimo para presentar propuestas en licitaciones internacionales (Artículo 28)?",
+                "¿Y para licitaciones nacionales?",
+                "¿Se pueden reducir los plazos de presentación?",
+                "¿Qué justifica una reducción de plazos?",
+                "¿Quién puede autorizar la reducción de plazos?"
+            ],
+            "responses": [
+                "📘 El Artículo 28 establece que en licitaciones internacionales el plazo mínimo es 20 días naturales desde la publicación. 🌐",
+                "🔹 Para licitaciones nacionales, el mínimo es 15 días naturales (Artículo 28, párrafo 2). 📅",
+                "🎯 Sí, hasta 10 días naturales si hay razones justificadas (Artículo 28, párrafo 3). ⏱️",
+                "📘 Solo cuando no sea para limitar participantes y esté técnicamente justificado. ✅",
+                "🔹 La Coordinación General de Servicios Administrativos o la Secretaría/Dirección correspondiente (Artículo 28, párrafo 3). 🏢"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 28",
+            "topic": "Plazos para presentación de propuestas"
+        },
+        {
+            "tag": "modificaciones_convocatorias_bases",
+            "patterns": [
+                "¿Se pueden modificar las bases o convocatorias después de publicadas (Artículo 29)?",
+                "¿Hasta cuándo se permiten modificaciones?",
+                "¿Las modificaciones pueden cambiar el objeto de la licitación?",
+                "¿Cómo se notifican los cambios a los interesados?",
+                "¿Qué pasa si las modificaciones derivan de juntas de aclaraciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 29 permite modificaciones a plazos u otros aspectos, siempre que no limiten la participación. 🔄",
+                "🔹 Hasta 5 días naturales antes de la presentación de proposiciones (Artículo 29, párrafo 2). ⏳",
+                "🎯 No, está prohibido cambiar el objeto original o añadir trabajos distintos (Artículo 29, párrafo 5). 🚫",
+                "📘 Por los mismos medios usados para la publicación original (Artículo 29, párrafo 3). 📢",
+                "🔹 Se entrega copia del acta a los licitantes, sin necesidad de nueva publicación (Artículo 29, párrafo 4). 📄"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 29",
+            "topic": "Modificaciones a convocatorias y bases"
+        },
+        {
+            "tag": "entrega_proposiciones_licitacion",
+            "patterns": [
+                "¿Cómo se entregan las proposiciones en licitaciones según el Artículo 30?",
+                "¿Se pueden separar las propuestas técnica y económica?",
+                "¿Quién decide si van en sobres separados?",
+                "¿Qué debe indicarse en las bases sobre este punto?",
+                "¿Dónde se especifica el formato de entrega?"
+            ],
+            "responses": [
+                "📘 El Artículo 30 exige entregar las proposiciones en sobres cerrados, que pueden contener información técnica y económica juntas o separadas. ✉️",
+                "🔹 Sí, si las Coordinaciones de Servicios Generales lo deciden, según complejidad de la obra (Artículo 30, párrafo 1). 📊",
+                "🎯 Las Coordinaciones de Servicios Generales en su ámbito de competencia (Artículo 30, párrafo 1). 🏛️",
+                "📘 Las bases deben especificar si serán sobres separados o un mismo sobre (Artículo 30, párrafo final). 📋",
+                "🔹 En las bases de cada licitación (Artículo 27, fracción IX y Artículo 30). 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 30",
+            "topic": "Entrega de proposiciones en licitaciones"
+        },
+        {
+            "tag": "apertura_proposiciones",
+            "patterns": [
+                "¿Cómo se realiza el acto de apertura de proposiciones según el Artículo 31?",
+                "¿Quiénes pueden presenciar la apertura?",
+                "¿Qué se hace en la primera etapa de apertura?",
+                "¿Cómo se rubrican las propuestas?",
+                "¿Qué documentación se genera en el acta de apertura?"
+            ],
+            "responses": [
+                "📘 El Artículo 31 detalla que la apertura es en sesión pública, en dos etapas si hay sobres separados (técnica y económica). 🏛️",
+                "🔹 Pueden asistir licitantes, miembros del Comité y el titular de Contraloría (Artículo 31, párrafo 3). 👥",
+                "🎯 En la primera etapa se abre y revisa cuantitativamente la propuesta técnica (Artículo 31, fracción I). 📑",
+                "📘 El funcionario que preside y al menos un licitante rubrican las propuestas (Artículo 31, fracción II). ✍️",
+                "🔹 El acta registra propuestas aceptadas, desechadas y causas (Artículo 31, fracción III). 📝"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 31",
+            "topic": "Apertura de proposiciones"
+        },
+        {
+            "tag": "contenido_proposiciones_licitacion",
+            "patterns": [
+                "¿Qué debe incluir la propuesta técnica según el Artículo 32?",
+                "¿Qué documentos acreditan la experiencia del contratista?",
+                "¿Cómo se detallan los precios unitarios en la propuesta económica?",
+                "¿Qué información financiera debe presentarse?",
+                "¿Dónde se especifican los costos indirectos?"
+            ],
+            "responses": [
+                "📘 El Artículo 32 exige en la propuesta técnica: declaraciones del contratista, programas de ejecución, relación de maquinaria y contratos vigentes. 📋",
+                "🔹 La relación de contratos en vigor con montos y avances (Artículo 32, fracción VI). 📊",
+                "🎯 Con análisis de costos directos, indirectos, financiamiento y utilidad (Artículo 32, propuesta económica). 💰",
+                "📘 Cálculo de costos indirectos, financiamiento y utilidad (Artículo 32, fracciones V-VII). 📈",
+                "🔹 En la fracción V de la propuesta económica, como porcentaje del costo directo. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 32",
+            "topic": "Contenido de las proposiciones"
+        },
+        {
+            "tag": "evaluacion_proposiciones",
+            "patterns": [
+                "¿Qué aspectos evalúa el Comité según el Artículo 33?",
+                "¿Cómo se verifica la solvencia de las propuestas?",
+                "¿Qué pasa si falta algún documento requerido?",
+                "¿Se usan mecanismos de puntos para evaluar?",
+                "¿Qué incluye el dictamen técnico final?"
+            ],
+            "responses": [
+                "📘 El Artículo 33 indica que se evalúan requisitos documentales, factibilidad técnica, precios unitarios y capacidad financiera. 🔍",
+                "🔹 Revisando que los precios unitarios consideren salarios y materiales vigentes (Artículo 33, fracción I-c). 💵",
+                "🎯 Se desecha la propuesta (Artículo 33, fracción I-a). ❌",
+                "📘 No, está prohibido usar puntos o porcentajes (Artículo 33, fracción I-e). 🚫",
+                "🔹 Clasificación de participantes solventes y causas de exclusión (Artículo 33, fracción II-b). 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 33",
+            "topic": "Evaluación de proposiciones"
+        },
+        {
+            "tag": "evaluacion_servicios_relacionados",
+            "patterns": [
+                "¿Qué se verifica en servicios relacionados con obras según el Artículo 34?",
+                "¿Cómo se evalúa al personal propuesto por el licitante?",
+                "¿Qué aspectos técnicos son clave en estos servicios?",
+                "¿Los tabuladores de sueldos deben coincidir con el servicio ofertado?",
+                "¿Dónde se menciona el tiempo de ejecución?"
+            ],
+            "responses": [
+                "📘 El Artículo 34 exige verificar cumplimiento de condiciones legales, experiencia del personal y adecuación de tabuladores y plazos. 📋",
+                "🔹 Se revisa que tengan experiencia, capacidad y recursos necesarios (Artículo 34). 👷",
+                "🎯 La idoneidad del personal y la viabilidad del plazo de ejecución. ⏱️",
+                "📘 Sí, deben corresponder al servicio ofertado (Artículo 34). 💰",
+                "🔹 En el Artículo 34, como factor de evaluación junto a las plantillas de personal. 📅"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 34",
+            "topic": "Evaluación de servicios relacionados"
+        },
+        {
+            "tag": "exclusion_requisitos_no_esenciales",
+            "patterns": [
+                "¿Qué requisitos no son motivo para desechar propuestas según el Artículo 35?",
+                "¿Puede invalidarse una propuesta por errores de formato?",
+                "¿Qué se considera 'condición para agilizar procedimientos'?",
+                "¿Cómo afecta esto a los licitantes?",
+                "¿Dónde se mencionan los requisitos no esenciales?"
+            ],
+            "responses": [
+                "📘 El Artículo 35 excluye como motivos de desecho requisitos que solo faciliten la presentación o agilicen trámites, si no afectan la solvencia. 📌",
+                "🔹 No, si el error no compromete la solvencia técnica o económica (Artículo 35). ✅",
+                "🎯 Aquellos cuyo incumplimiento no afecte la capacidad de cumplir el contrato. ⚖️",
+                "📘 Les da flexibilidad en aspectos no sustanciales, evitando exclusiones injustificadas. 🤝",
+                "🔹 En el Artículo 35, como excepción a las causales de desecho del Artículo 33. 📜"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 35",
+            "topic": "Exclusión de requisitos no esenciales"
+        },
+        {
+            "tag": "adjudicacion_contratos",
+            "patterns": [
+                "¿Cómo se adjudica el contrato según el Artículo 36?",
+                "¿Qué pasa si dos propuestas son igualmente solventes?",
+                "¿Qué debe incluir el dictamen técnico para el fallo?",
+                "¿Qué garantiza una propuesta 'solvente'?",
+                "¿Dónde se establece el criterio de adjudicación?"
+            ],
+            "responses": [
+                "📘 El Artículo 36 establece que se adjudica al licitante con propuesta solvente que cumpla condiciones legales, técnicas y económicas, garantizando el mejor cumplimiento. ⚖️",
+                "🔹 Gana la de precio más bajo (Artículo 36, párrafo 2). 💰",
+                "🎯 Debe fundamentar y motivar la selección, basado en el análisis comparativo (Artículo 36, párrafo 3). 📋",
+                "📘 Que cumple todos los requisitos de las bases y garantiza ejecución satisfactoria (Artículo 33). ✅",
+                "🔹 En las bases de licitación (Artículo 27, fracción XII) y en el Artículo 36. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 36",
+            "topic": "Adjudicación de contratos"
+        },
+        {
+            "tag": "comunicacion_fallo_licitacion",
+            "patterns": [
+                "¿Cómo se comunica el fallo de la licitación según el Artículo 37?",
+                "¿Quiénes pueden asistir a la junta pública de resolución?",
+                "¿Qué contiene el acta de resolución?",
+                "¿Se puede impugnar el fallo de la licitación?",
+                "¿Dónde se establece el recurso contra el fallo?"
+            ],
+            "responses": [
+                "📘 El Artículo 37 exige comunicar el fallo en junta pública, con asistencia libre de los licitantes, levantando un acta firmada. 📢",
+                "🔹 Cualquier licitante que haya participado en la apertura de proposiciones (Artículo 37). 👥",
+                "🎯 El resultado de la adjudicación y copia se entrega a asistentes (Artículo 37, párrafo 1). 📄",
+                "📘 Sí, mediante el recurso del Capítulo IX (Artículo 37, párrafo 2). ⚖️",
+                "🔹 En el Artículo 37 y en el Capítulo IX sobre inconformidades. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 37",
+            "topic": "Comunicación del fallo"
+        },
+        {
+            "tag": "licitacion_desierta",
+            "patterns": [
+                "¿Cuándo se declara desierta una licitación según el Artículo 38?",
+                "¿Qué procede si una licitación se declara desierta?",
+                "¿Se puede adjudicar el contrato si las propuestas no cumplen requisitos?",
+                "¿Qué pasa si los precios son demasiado altos?",
+                "¿Dónde se menciona la segunda convocatoria?"
+            ],
+            "responses": [
+                "📘 El Artículo 38 indica que se declara desierta si las propuestas no cumplen requisitos o tienen precios inaceptables. ❌",
+                "🔹 Se expedirá una segunda convocatoria (Artículo 38, párrafo 1). 🔄",
+                "🎯 No, el Comité debe declararla desierta (Artículo 38). 🚫",
+                "📘 Es causal para declararla desierta y relanzarla (Artículo 38). 💸",
+                "🔹 En el Artículo 38 como procedimiento ante licitaciones desiertas. 📢"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 38",
+            "topic": "Licitación desierta"
+        },
+        {
+            "tag": "cancelacion_licitacion",
+            "patterns": [
+                "¿Quién puede cancelar una licitación según el Artículo 39?",
+                "¿Qué justifica una cancelación por caso fortuito?",
+                "¿Se puede cancelar si ya no se necesita la obra?",
+                "¿Qué debe hacer la Universidad al cancelar una licitación?",
+                "¿Dónde se menciona el daño a la Universidad como causal?"
+            ],
+            "responses": [
+                "📘 El Artículo 39 autoriza a la Coordinación General de Servicios Administrativos o Secretaría/Dirección correspondiente. 🏢",
+                "🔹 Eventos imprevistos e inevitables que imposibiliten continuar (Artículo 39, fracción III). 🌪️",
+                "🎯 Sí, si se extingue la necesidad y se justifica (Artículo 39, párrafo 1). 📉",
+                "📘 Informar al Comité respectivo y documentar las razones (Artículo 39). 📋",
+                "🔹 En el Artículo 39, cuando continuar el procedimiento causaría perjuicios. ⚠️"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 39",
+            "topic": "Cancelación de licitaciones"
+        },
+        {
+            "tag": "formalizacion_contrato",
+            "patterns": [
+                "¿En qué plazo debe firmarse el contrato tras la adjudicación (Artículo 40)?",
+                "¿Qué obligaciones genera la adjudicación?",
+                "¿Qué pasa si no se firma el contrato en plazo?",
+                "¿La Universidad puede retractarse del fallo?",
+                "¿Dónde se establece el plazo para formalizar?"
+            ],
+            "responses": [
+                "📘 El Artículo 40 da un plazo máximo de 20 días hábiles desde la notificación del fallo. ⏳",
+                "🔹 Obliga a ambas partes a formalizar el contrato bajo los términos adjudicados (Artículo 40). ✍️",
+                "🎯 Incumplir el plazo sin causa justificada puede derivar en sanciones al contratista. ⚖️",
+                "📘 No, salvo por causas legales excepcionales. 🚫",
+                "🔹 En el Artículo 40 y en las bases de licitación. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 40",
+            "topic": "Formalización del contrato"
+        },
+        {
+            "tag": "adjudicacion_sustituta",
+            "patterns": [
+                "¿Qué pasa si el ganador no firma el contrato según el Artículo 41?",
+                "¿Se puede adjudicar al siguiente licitante automáticamente?",
+                "¿Qué límite tiene el precio de la nueva adjudicación?",
+                "¿Requiere nuevo procedimiento la adjudicación sustituta?",
+                "¿Dónde se menciona el 10% de diferencia máxima?"
+            ],
+            "responses": [
+                "📘 El Artículo 41 permite adjudicar al siguiente licitante con propuesta solvente, sin nuevo procedimiento. 🔄",
+                "🔹 Sí, si la diferencia de precio no supera el 10% vs. la propuesta original (Artículo 41). 💰",
+                "🎯 El precio no debe ser >10% del monto del ganador inicial (Artículo 41). ⚠️",
+                "📘 No, se aplica el mismo procedimiento de adjudicación inicial. ✅",
+                "🔹 En el Artículo 41 como condición para la adjudicación sustituta. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 41",
+            "topic": "Adjudicación sustituta"
+        },
+        {
+            "tag": "cesion_derechos_contrato",
+            "patterns": [
+                "¿Se pueden ceder derechos u obligaciones del contrato según el Artículo 42?",
+                "¿Qué excepción aplica para cesión de derechos de cobro?",
+                "¿La Universidad debe aprobar las cesiones?",
+                "¿Qué pasa si se cede el contrato sin autorización?",
+                "¿Dónde se menciona la cesión parcial?"
+            ],
+            "responses": [
+                "📘 El Artículo 42 prohíbe ceder total o parcialmente derechos/obligaciones, salvo derechos de cobro. 🚫",
+                "🔹 Los derechos de cobro pueden cederse con consentimiento universitario (Artículo 42). 💳",
+                "🎯 Sí, cualquier cesión requiere autorización expresa (Artículo 42). ✅",
+                "📘 Sería causal de incumplimiento contractual y posibles sanciones. ⚖️",
+                "🔹 En el Artículo 42 como prohibición explícita. 📜"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 42",
+            "topic": "Cesión de derechos u obligaciones"
+        },
+        {
+            "tag": "procedimiento_concurso",
+            "patterns": [
+                "¿Qué define un concurso según el Artículo 43?",
+                "¿Cuántos participantes mínimo requiere un concurso?",
+                "¿Qué diferencia hay entre concurso y licitación?",
+                "¿Se aplican las mismas reglas que en licitaciones?",
+                "¿Dónde se especifican los requisitos para concursos?"
+            ],
+            "responses": [
+                "📘 El Artículo 43 lo define como contratación con convocatoria a ≥6 contratistas y ≥3 propuestas presentadas. 🏛️",
+                "🔹 Mínimo 3 propuestas válidas (Artículo 43). 📋",
+                "🎯 El concurso es para montos menores (180-1,700 UMA vs. >1,700 UMA en licitaciones). 💰",
+                "📘 Sí, se sujetan a lo aplicable de los arts. 33-42 (Artículo 44, fracción VII). 🔄",
+                "🔹 En el Artículo 44 y las bases específicas de cada concurso. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 43",
+            "topic": "Procedimiento de concurso"
+        },
+        {
+            "tag": "reglas_concurso",
+            "patterns": [
+                "¿Qué reglas aplican a los concursos según el Artículo 44?",
+                "¿Cómo se entregan las propuestas en un concurso?",
+                "¿Quiénes pueden ser invitados a un concurso?",
+                "¿Qué información deben incluir las bases del concurso?",
+                "¿Dónde se establece la evaluación de propuestas?"
+            ],
+            "responses": [
+                "📘 El Artículo 44 exige invitación a contratistas capacitados, entrega en sobres cerrados y evaluación como en licitaciones. 📜",
+                "🔹 En sobres cerrados, con información técnica y económica (Artículo 44, fracción V). ✉️",
+                "🎯 Contratistas con capacidad técnica/financiera y experiencia relacionada (Artículo 44, fracción I). 👷",
+                "📘 Lo señalado en el Artículo 27 para licitaciones (Artículo 44, fracción III). 📋",
+                "🔹 En el Artículo 44, fracción VII, que remite a los arts. 33-42. ⚖️"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 44",
+            "topic": "Reglas para concursos"
+        },
+        {
+            "tag": "procedimiento_invitacion",
+            "patterns": [
+                "¿Qué es una contratación por invitación según el Artículo 45?",
+                "¿Cuántos participantes mínimo requiere?",
+                "¿Qué debe contener las bases de invitación?",
+                "¿Qué documentos exige la propuesta en invitaciones?",
+                "¿Dónde se mencionan los requisitos mínimos?"
+            ],
+            "responses": [
+                "📘 El Artículo 45 la define como procedimiento con invitación a ≥3 contratistas y ≥2 propuestas presentadas. 📨",
+                "🔹 Mínimo 2 propuestas válidas (Artículo 45). 📋",
+                "🎯 Proyectos arquitectónicos, catálogo de conceptos y criterios de adjudicación (Artículo 46, fracción II). 🏗️",
+                "📘 Declaraciones del contratista, programa de ejecución y análisis de precios (Artículo 46, fracción III). 📑",
+                "🔹 En el Artículo 46, que remite a requisitos esenciales del Artículo 27. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 45",
+            "topic": "Procedimiento por invitación"
+        },
+        {
+            "tag": "reglas_invitacion",
+            "patterns": [
+                "¿Qué reglas aplican a las contrataciones por invitación según el Artículo 46?",
+                "¿Cómo se entregan las proposiciones en una invitación?",
+                "¿Qué debe contener la propuesta en una invitación?",
+                "¿Las bases de invitación son iguales que las de licitación?",
+                "¿Dónde se especifican los requisitos para invitaciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 46 establece que se sujetan a lo aplicable de los arts. 33-42, con requisitos simplificados en las bases. 📋",
+                "🔹 En un sobre cerrado que incluye propuesta técnica y económica (Artículo 46, fracción III). ✉️",
+                "🎯 Declaraciones del contratista, programa de ejecución y análisis de precios unitarios (Artículo 46, fracción III). 📑",
+                "📘 No, son más simples pero deben incluir lo esencial del Artículo 27 (Artículo 46, fracción II). ⚖️",
+                "🔹 En el Artículo 46 y en las bases específicas de cada invitación. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 46",
+            "topic": "Reglas para invitaciones"
+        },
+        {
+            "tag": "adjudicacion_directa",
+            "patterns": [
+                "¿Qué es una adjudicación directa según el Artículo 47?",
+                "¿Quién resuelve las adjudicaciones directas en el SEMS?",
+                "¿Qué montos maneja la Secretaría Administrativa del SEMS?",
+                "¿Qué debe contener las bases en adjudicación directa?",
+                "¿Cómo se notifica la resolución al contratista?"
+            ],
+            "responses": [
+                "📘 El Artículo 47 la define como contratación sin concurso para montos ≤75 UMA, resuelta por el titular de la dependencia. 💼",
+                "🔹 Hasta 37 UMA: titulares de dependencias; 37-75 UMA: Secretaría Administrativa (Artículo 47, párrafo 1). 🏛️",
+                "🎯 Para montos >37 y ≤75 veces el valor mensual de la UMA (antes de IVA). 💰",
+                "📘 Catálogo de conceptos con claves, especificaciones y cantidades (Artículo 47, fracción II). 📋",
+                "🔹 La dependencia notifica al adjudicatario la resolución (Artículo 47, fracción IV). 📩"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 47",
+            "topic": "Adjudicación directa"
+        },
+        {
+            "tag": "cotizaciones_adjudicacion_directa",
+            "patterns": [
+                "¿Cuándo se requieren cotizaciones en adjudicación directa según el Artículo 48?",
+                "¿Qué monto obliga a solicitar cotizaciones en el SEMS?",
+                "¿Quién decide el número de cotizaciones a pedir?",
+                "¿Las cotizaciones son obligatorias para todas las adjudicaciones directas?",
+                "¿Dónde se establece este requisito para el SEMS?"
+            ],
+            "responses": [
+                "📘 El Artículo 48 exige cotizaciones cuando el monto supera 15 veces el valor mensual de la UMA (antes de IVA). 💵",
+                "🔹 >15 UMA en el Sistema de Educación Media Superior (Artículo 48). 🎓",
+                "🎯 El titular de la dependencia puede pedir una o varias cotizaciones (Artículo 48). 👨💼",
+                "📘 No, solo para montos >15 UMA en el SEMS (Artículo 48). ⚠️",
+                "🔹 Exclusivamente en el Artículo 48 para el SEMS. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 48",
+            "topic": "Cotizaciones en adjudicación directa"
+        },
+        {
+            "tag": "excepciones_procedimientos",
+            "patterns": [
+                "¿Qué casos son excepción a los procedimientos normales según el Artículo 49?",
+                "¿Se puede contratar sin licitación para obras de arte?",
+                "¿Qué autoriza la Comisión Permanente de Hacienda?",
+                "¿Cuándo aplica la excepción por caso fortuito?",
+                "¿Dónde se mencionan las donaciones como excepción?"
+            ],
+            "responses": [
+                "📘 El Artículo 49 lista 7 excepciones, como obras de arte, emergencias o donaciones con condiciones específicas. ⚠️",
+                "🔹 Sí, cuando son únicas y de titularidad exclusiva (Artículo 49, fracción I). 🎨",
+                "🎯 Autoriza excepciones por pérdidas o costos adicionales justificados (Artículo 49, fracción II). 💸",
+                "📘 Solo para lo estrictamente necesario ante eventos imprevisibles (Artículo 49, fracción III). 🌪️",
+                "🔹 En la fracción VI del Artículo 49, para recursos donados con condiciones. 🎁"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 49",
+            "topic": "Excepciones a los procedimientos"
+        },
+        {
+            "tag": "comite_revisor",
+            "patterns": [
+                "¿Qué función tiene el Comité Revisor según el Artículo 49-A?",
+                "¿De quién depende este Comité?",
+                "¿Es obligatoria su opinión para todos los contratos?",
+                "¿Qué montos revisa el Comité Revisor?",
+                "¿Dónde se establece su creación?"
+            ],
+            "responses": [
+                "📘 El Artículo 49-A crea un Comité para revisar procedimientos de adjudicación previo a los fallos. 🔍",
+                "🔹 Depende directamente del Rector General (Artículo 49-A, párrafo 1). 👨🏫",
+                "🎯 Solo para contratos ≥400 UMA (Artículo 49-C, fracción I). 💰",
+                "📘 Revisa procedimientos desde 400 veces el valor mensual de la UMA (Artículo 49-C, I). 📊",
+                "🔹 En el Artículo 49-A del Apartado Sexto del Capítulo IV. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 49-A",
+            "topic": "Comité Revisor"
+        },
+        {
+            "tag": "integracion_comite_revisor",
+            "patterns": [
+                "¿Quiénes integran el Comité Revisor según el Artículo 49-B?",
+                "¿Cómo se eligen los representantes de los Centros Universitarios?",
+                "¿Los cargos en el Comité son remunerados?",
+                "¿Qué pasa si un integrante tiene conflicto de interés?",
+                "¿Dónde se especifica la abstención de miembros?"
+            ],
+            "responses": [
+                "📘 El Artículo 49-B incluye 7 integrantes: coordinadores, representantes de centros, especialistas y un abogado. 👥",
+                "🔹 Los elige el Consejo de Rectores (Artículo 49-B, fracciones III-IV). 🏛️",
+                "🎯 No, son honoríficos (Artículo 49-B, párrafo 2). 🏅",
+                "📘 Debe abstenerse de participar en sesiones donde se revise su dependencia (Artículo 49-B, párrafo 3). ⚖️",
+                "🔹 En el párrafo 3 del Artículo 49-B. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 49-B",
+            "topic": "Integración del Comité Revisor"
+        },
+        {
+            "tag": "funciones_comite_revisor",
+            "patterns": [
+                "¿Qué atribuciones tiene el Comité Revisor según el Artículo 49-C?",
+                "¿Puede emitir observaciones a las dependencias?",
+                "¿Qué hace con las dependencias que incumplen recomendaciones?",
+                "¿Con qué frecuencia rinde informes?",
+                "¿Dónde se menciona el seguimiento a observaciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 49-C le asigna: solicitar documentación, revisar procedimientos, emitir observaciones y dar seguimiento. 📋",
+                "🔹 Sí, con fundamentación y para asegurar cumplimiento normativo (Artículo 49-C, III). ✏️",
+                "🎯 Turna el expediente a la autoridad competente (Artículo 49-C, IV). ⚖️",
+                "📘 Informes trimestrales al Rector y Contraloría (Artículo 49-C, V). 📅",
+                "🔹 En la fracción IV del Artículo 49-C. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 49-C",
+            "topic": "Funciones del Comité Revisor"
+        },
+        {
+            "tag": "documentacion_comite_revisor",
+            "patterns": [
+                "¿Qué documentación debe enviarse al Comité Revisor según el Artículo 49-G?",
+                "¿Se requiere validación de precios de mercado?",
+                "¿Las propuestas de otros participantes también se revisan?",
+                "¿Qué otros documentos puede solicitar el Comité?",
+                "¿Dónde se especifica la información para el Comité?"
+            ],
+            "responses": [
+                "📘 El Artículo 49-G exige: validación de obra, dictámenes técnicos, propuestas adjudicables, bases y convocatorias. 📂",
+                "🔹 Sí, con cotizaciones de insumos que constaten costos (Artículo 49-G, I). 💲",
+                "🎯 Sí, las de empresas con importes ≤ al adjudicado (Artículo 49-G, IV). 🔍",
+                "📘 Cualquier otro que los miembros consideren necesario (Artículo 49-G, VI). 📄",
+                "🔹 En el Artículo 49-G del Apartado Sexto. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 49-G",
+            "topic": "Documentación para el Comité Revisor"
+        },
+        {
+            "tag": "tipos_contratos",
+            "patterns": [
+                "¿Qué tipos de contratos permite el Artículo 50?",
+                "¿En qué se diferencia un contrato a precios unitarios de uno a precio alzado?",
+                "¿Qué se incluye en un contrato a precios unitarios?",
+                "¿Cuándo se usa el precio alzado?",
+                "¿Dónde se definen estos tipos de contrato?"
+            ],
+            "responses": [
+                "📘 El Artículo 50 solo permite contratos a precios unitarios (por concepto) o precio alzado (monto fijo). 📝",
+                "🔹 Precios unitarios pagan por unidad terminada; precio alzado por obra total entregada (Artículo 50, I-II). 💰",
+                "🎯 Pago por unidad de trabajo ejecutada según proyecto y especificaciones (Artículo 50, I). 📐",
+                "📘 Cuando el monto total es fijo y no requiere mediciones parciales (Artículo 50, II). ✅",
+                "🔹 Exclusivamente en el Artículo 50 del Capítulo V. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 50",
+            "topic": "Tipos de contratos"
+        },
+        {
+            "tag": "garantias_contratos",
+            "patterns": [
+                "¿Qué garantías exige el Artículo 51 a los contratistas?",
+                "¿En qué plazo se deben constituir las garantías?",
+                "¿Cuánto cubre la garantía de vicios ocultos?",
+                "¿Qué pasa si no se entrega la garantía de anticipo?",
+                "¿Dónde se establecen estas obligaciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 51 exige tres garantías: anticipos (si aplican), cumplimiento (10% del contrato) y vicios ocultos (10%). 🛡️",
+                "🔹 Anticipo: 8 días naturales; cumplimiento: 15 días; vicios: desde recepción (Artículo 51, I-III). ⏳",
+                "🎯 10% del monto total y por al menos 1 año (Artículo 51, III). 📅",
+                "📘 No se difiere el plazo de ejecución y debe iniciarse obras sin anticipo (Artículo 54, I). ⚠️",
+                "🔹 En el Artículo 51 y en las cláusulas contractuales. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 51",
+            "topic": "Garantías en contratos"
+        },
+        {
+            "tag": "exencion_fianzas",
+            "patterns": [
+                "¿Cuándo se puede eximir de fianzas según el Artículo 52?",
+                "¿Qué alternativa acepta la Universidad en lugar de fianzas?",
+                "¿Qué montos aplican para esta exención?",
+                "¿Quién autoriza la exención de fianzas?",
+                "¿Dónde se menciona la carta compromiso?"
+            ],
+            "responses": [
+                "📘 El Artículo 52 permite eximir fianzas de cumplimiento y vicios ocultos en adjudicaciones directas ≤37 UMA. 💼",
+                "🔹 Una carta compromiso que satisfaga a la Universidad (Artículo 52). ✍️",
+                "🎯 Contratos ≤37 veces el valor mensual de la UMA (antes de IVA). 💰",
+                "📘 El titular de la dependencia facultado para firmar el contrato (Artículo 52). 👨💼",
+                "🔹 En el Artículo 52 como requisito sustituto. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 52",
+            "topic": "Exención de fianzas"
+        },
+        {
+            "tag": "exencion_fianzas_servicios",
+            "patterns": [
+                "¿Se pueden eximir fianzas en servicios relacionados según el Artículo 53?",
+                "¿Qué condición se impone al pago final sin fianza?",
+                "¿Quién decide aplicar esta exención?",
+                "¿A qué tipo de servicios aplica?",
+                "¿Dónde se regula esta excepción?"
+            ],
+            "responses": [
+                "📘 El Artículo 53 permite eximir fianzas en servicios relacionados, si se considera conveniente. ✅",
+                "🔹 El pago final no puede ser <30% del monto total (Artículo 53). 💸",
+                "🎯 La dependencia contratante, bajo su criterio justificado. 🏢",
+                "📘 A servicios vinculados con obras (diseño, supervisión, estudios técnicos). 🛠️",
+                "🔹 Únicamente en el Artículo 53 del Capítulo V. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 53",
+            "topic": "Exención de fianzas en servicios"
+        },
+        {
+            "tag": "anticipos_contratos",
+            "patterns": [
+                "¿Qué reglas rigen los anticipos según el Artículo 54?",
+                "¿Qué porcentaje máximo de anticipo permite la Universidad?",
+                "¿Cómo se amortizan los anticipos?",
+                "¿Qué pasa si se retrasa la entrega del anticipo?",
+                "¿Dónde se prohíben anticipos?"
+            ],
+            "responses": [
+                "📘 El Artículo 54 regula plazos, porcentajes (hasta 30%), amortización y condiciones para anticipos. 💰",
+                "🔹 Hasta 30% del contrato, salvo autorización expresa por necesidades especiales (Artículo 54, II y V). ⚠️",
+                "🎯 Proporcionalmente en cada estimación de trabajos ejecutados (Artículo 54, VII). 🔄",
+                "📘 Se difiere igual plazo el programa de ejecución (Artículo 54, I). ⏳",
+                "🔹 En convenios de los arts. 55-56 (Artículo 54, VI). 🚫"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 54",
+            "topic": "Anticipos en contratos"
+        },
+        {
+            "tag": "modificacion_contratos",
+            "patterns": [
+                "¿Se pueden modificar los contratos a precios unitarios según el Artículo 55?",
+                "¿Qué límite tienen las modificaciones?",
+                "¿Qué prohibiciones aplican a las modificaciones?",
+                "¿Qué se considera 'variación sustancial' al proyecto?",
+                "¿Dónde se establecen estos límites?"
+            ],
+            "responses": [
+                "📘 El Artículo 55 permite modificaciones mediante convenios, hasta 25% del monto o plazo original. ✏️",
+                "🔹 Máximo 25% conjunto o separado (Artículo 55, párrafo 1). ⚠️",
+                "🎯 No deben variar el objeto original ni eludir el reglamento (Artículo 55, párrafo 1). 🚫",
+                "📘 Cambios que alteren naturaleza o características esenciales de la obra. 🔄",
+                "🔹 En el Artículo 55 y en las cláusulas contractuales. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 55",
+            "topic": "Modificación de contratos"
+        },
+        {
+            "tag": "modificaciones_adicionales_contratos",
+            "patterns": [
+                "¿Qué pasa si las modificaciones exceden el 25% según el Artículo 56?",
+                "¿Quién autoriza modificaciones mayores al 25%?",
+                "¿Qué requisitos deben cumplir estas modificaciones?",
+                "¿Se puede cambiar el objeto del contrato original?",
+                "¿Dónde se establecen las razones para modificaciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 56 permite convenios adicionales si no varían el objeto del proyecto, autorizados por las Coordinaciones de Servicios Generales. ✏️",
+                "🔹 Las Coordinaciones de Servicios Generales en su ámbito de competencia (Artículo 56, párrafo 1). 🏢",
+                "🎯 Deben estar dentro del presupuesto y tener justificación explícita (Artículo 56, párrafos 2-3). 📋",
+                "📘 No, está prohibido alterar el objeto original (Artículo 56, párrafo 1). 🚫",
+                "🔹 En el Artículo 56 se exige que sean 'razones fundadas y explícitas'. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 56",
+            "topic": "Modificaciones adicionales a contratos"
+        },
+        {
+            "tag": "contratos_precio_alzado",
+            "patterns": [
+                "¿Se pueden modificar los contratos a precio alzado según el Artículo 57?",
+                "¿Qué pasa si hay cambios imprevistos en estos contratos?",
+                "¿Qué ventajas tiene un contrato a precio alzado?",
+                "¿Quién asume los riesgos en estos contratos?",
+                "¿Dónde se prohíben modificaciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 57 prohíbe modificar monto o plazo en contratos a precio alzado. 🚫",
+                "🔹 El contratista debe absorber los costos adicionales (Artículo 57). ⚠️",
+                "🎯 Certeza en costo y plazo final para la Universidad (Artículo 50, II). 💰",
+                "📘 El contratista asume riesgos de costos imprevistos. 🏗️",
+                "🔹 En el Artículo 57 como prohibición expresa. 📜"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 57",
+            "topic": "Contratos a precio alzado"
+        },
+        {
+            "tag": "conceptos_adicionales_obra",
+            "patterns": [
+                "¿Cómo se pagan trabajos no previstos inicialmente según el Artículo 58?",
+                "¿Quién debe conciliar los precios de conceptos nuevos?",
+                "¿Qué límite tienen estos pagos adicionales?",
+                "¿Se pueden pagar sin autorización previa?",
+                "¿Dónde se menciona la autorización de pagos?"
+            ],
+            "responses": [
+                "📘 El Artículo 58 permite pagar conceptos adicionales a precios unitarios pactados o nuevos precios autorizados. 💵",
+                "🔹 Las Coordinaciones de Servicios Generales (Artículo 58, párrafo 2). 🏛️",
+                "🎯 No deben rebasar el presupuesto total del contrato (Artículo 58, párrafo 1). ⚠️",
+                "📘 No, requieren conciliación y autorización previa (Artículo 58, párrafo 2). ❌",
+                "🔹 En el Artículo 58 como requisito para pagos extraordinarios. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 58",
+            "topic": "Conceptos adicionales en obra"
+        },
+        {
+            "tag": "subcontratacion_obras",
+            "patterns": [
+                "¿Se permite subcontratar partes de la obra según el Artículo 59?",
+                "¿Qué requisitos aplican para la subcontratación?",
+                "¿Quién es responsable ante la Universidad?",
+                "¿Qué pasa si se subcontrata sin autorización?",
+                "¿Dónde se establecen estas condiciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 59 permite subcontratar solo trabajos especializados o instalación de equipos, con autorización universitaria. 🛠️",
+                "🔹 Autorización previa y responsabilidad directa del contratista original (Artículo 59, párrafos 1-2). ✅",
+                "🎯 El contratista principal sigue siendo responsable del cumplimiento total (Artículo 59, párrafo 2). ⚖️",
+                "📘 Sería incumplimiento contractual con posibles sanciones. ⚠️",
+                "🔹 En el Artículo 59 y en las cláusulas del contrato. 📋"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 59",
+            "topic": "Subcontratación de obras"
+        },
+        {
+            "tag": "prohibicion_contratos",
+            "patterns": [
+                "¿Con qué personas no puede celebrar contratos la Universidad según el Artículo 60?",
+                "¿Dónde se listan estas prohibiciones?",
+                "¿Aplica para todos los tipos de contratación?",
+                "¿Qué pasa si se contrata a un inhabilitado?",
+                "¿Dónde se menciona el Reglamento de Adquisiciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 60 prohíbe contratar con personas físicas o jurídicas listadas en el Artículo 29 del Reglamento de Adquisiciones. 🚫",
+                "🔹 En el Artículo 29 del Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios. 📜",
+                "🎯 Sí, aplica a licitaciones, concursos, invitaciones y adjudicaciones directas. ⚖️",
+                "📘 Sería nulidad del contrato y posibles sanciones administrativas. ⚠️",
+                "🔹 En el Artículo 60 como referencia normativa. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 60",
+            "topic": "Prohibiciones para contratar"
+        },
+        {
+            "tag": "suspension_rescision_contratos",
+            "patterns": [
+                "¿En qué casos puede la Universidad suspender o rescindir un contrato según el Artículo 61?",
+                "¿Qué diferencia hay entre suspensión y rescisión?",
+                "¿Se necesita justificación para rescindir?",
+                "¿Qué pasa con los anticipos en caso de rescisión?",
+                "¿Dónde se especifican estas facultades?"
+            ],
+            "responses": [
+                "📘 El Artículo 61 permite suspensión temporal o rescisión total por causa justificada. ⚖️",
+                "🔹 Suspensión es temporal; rescisión termina el contrato definitivamente. ⏸️",
+                "🎯 Sí, debe haber causa justificada y documentada. 📋",
+                "📘 Deben reintegrarse según Artículo 54, VIII (en 10 días naturales). 💰",
+                "🔹 En el Artículo 61 y en las cláusulas penales del contrato. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 61",
+            "topic": "Suspensión y rescisión de contratos"
+        },
+        {
+            "tag": "entrega_inmuebles_obra",
+            "patterns": [
+                "¿Qué obligación tiene la Universidad respecto a los inmuebles para obra según el Artículo 62?",
+                "¿En qué plazo deben entregarse los inmuebles?",
+                "¿Qué pasa si no se entrega el inmueble a tiempo?",
+                "¿El contratista puede ocupar inmuebles no entregados oficialmente?",
+                "¿Dónde se establece esta obligación?"
+            ],
+            "responses": [
+                "📘 El Artículo 62 obliga a la Universidad a entregar oportunamente los inmuebles donde se ejecutará la obra. 🏗️",
+                "🔹 Debe hacerse 'oportunamente', según lo pactado en el contrato. ⏳",
+                "🎯 Podría generar responsabilidad por retrasos en el cronograma. ⚠️",
+                "📘 No, debe esperar la entrega formal para iniciar trabajos. 🚫",
+                "🔹 En el Artículo 62 del Capítulo VI sobre ejecución. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 62",
+            "topic": "Entrega de inmuebles para obra"
+        },
+        {
+            "tag": "permisos_autorizaciones_obra",
+            "patterns": [
+                "¿Quién debe tramitar permisos para la obra según el Artículo 63?",
+                "¿Qué tipos de permisos menciona el artículo?",
+                "¿El contratista puede gestionar permisos?",
+                "¿Qué pasa si no se obtiene un permiso requerido?",
+                "¿Dónde se especifican estos trámites?"
+            ],
+            "responses": [
+                "📘 El Artículo 63 asigna a la dependencia universitaria la obtención de permisos, salvo los que expresamente delegue al contratista. 🏛️",
+                "🔹 Dictámenes, licencias, derechos de bancos de materiales (Artículo 63, párrafo 1). 📋",
+                "🎯 Solo si las bases del procedimiento lo establecen (Artículo 63, párrafo 1). ✅",
+                "📘 Sería responsabilidad de la Universidad si le correspondía el trámite. ⚠️",
+                "🔹 En las bases de contratación (Artículo 63, párrafo 1) y en el contrato. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 63",
+            "topic": "Permisos y autorizaciones para obra"
+        },
+        {
+            "tag": "supervision_control_obra",
+            "patterns": [
+                "¿Quién supervisa los trabajos según el Artículo 64?",
+                "¿Qué funciones incluye la supervisión?",
+                "¿Puede el contratista objetar decisiones del supervisor?",
+                "¿Quién aprueba las estimaciones de pago?",
+                "¿Dónde se establece la validación del proyecto?"
+            ],
+            "responses": [
+                "📘 El Artículo 64 asigna a las Coordinaciones de Servicios Generales la supervisión, control y aprobación de estimaciones. 👷♂️",
+                "🔹 Validación de proyectos, vigilancia de cumplimiento y revisión de avances (Artículo 64). 🔍",
+                "🎯 Sí, mediante los mecanismos de inconformidad del Capítulo IX. ⚖️",
+                "📘 Las Coordinaciones de Servicios Generales (Artículo 64). ✍️",
+                "🔹 En el Artículo 64 como primera responsabilidad. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 64",
+            "topic": "Supervisión y control de obra"
+        },
+        {
+            "tag": "funciones_residente_supervision",
+            "patterns": [
+                "¿Quién es el residente de supervisión según el Artículo 65?",
+                "¿Qué funciones específicas tiene?",
+                "¿Cómo se lleva la bitácora de obra?",
+                "¿Quién firma las estimaciones de trabajo?",
+                "¿Dónde se mencionan los informes periódicos?"
+            ],
+            "responses": [
+                "📘 El Artículo 65 lo define como el representante designado por las Coordinaciones de Servicios Generales para supervisar día a día. 🧑💼",
+                "🔹 Llevar bitácora, verificar cumplimiento, revisar estimaciones y rendir informes (Artículo 65, I-VI). 📋",
+                "🎯 Como registro técnico de comunicaciones y eventos relevantes (Artículo 4, IV y Artículo 65, I). 📖",
+                "📘 El residente y el superintendente del contratista (Artículo 65, III). ✍️",
+                "🔹 En la fracción VI del Artículo 65 sobre informes de cumplimiento. 📅"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 65",
+            "topic": "Funciones del residente de supervisión"
+        },
+        {
+            "tag": "elaboracion_estimaciones",
+            "patterns": [
+                "¿Quién es responsable de elaborar las estimaciones de obra según el Artículo 66?",
+                "¿Qué documentación debe acompañar las estimaciones?",
+                "¿Qué pasa si las estimaciones tienen errores?",
+                "¿Se pueden corregir estimaciones ya presentadas?",
+                "¿Dónde se establece esta responsabilidad?"
+            ],
+            "responses": [
+                "📘 El Artículo 66 establece que el contratista es el único responsable de elaborar las estimaciones de trabajos ejecutados. ✍️",
+                "🔹 Debe incluir documentación soporte que justifique los avances (Artículo 68). 📋",
+                "🎯 Errores pueden derivar en pagos en exceso con obligación de reintegro (Artículo 69). ⚠️",
+                "📘 Sí, en la estimación siguiente mediante compensación (Artículo 69, párrafo 2). 🔄",
+                "🔹 En el Artículo 66 del Capítulo VI sobre ejecución. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 66",
+            "topic": "Elaboración de estimaciones"
+        },
+        {
+            "tag": "pagos_trabajos_ejecutados",
+            "patterns": [
+                "¿Qué requisitos exige el Artículo 67 para realizar pagos?",
+                "¿Se pueden pagar trabajos no ejecutados?",
+                "¿Qué normas deben cumplir los trabajos para ser pagados?",
+                "¿Quién verifica el cumplimiento de especificaciones?",
+                "¿Dónde se prohíben pagos anticipados?"
+            ],
+            "responses": [
+                "📘 El Artículo 67 exige verificación previa de trabajos ejecutados y ajuste a condiciones contractuales. 🔍",
+                "🔹 No, está expresamente prohibido (Artículo 67, párrafo 2). 🚫",
+                "🎯 Especificaciones técnicas, calidad y proyectos aprobados (Artículo 67, párrafo 2). 📐",
+                "📘 La residencia de supervisión designada (Artículo 65). 👷♂️",
+                "🔹 En el Artículo 67 como principio general de pago contra avances reales. 💰"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 67",
+            "topic": "Pagos por trabajos ejecutados"
+        },
+        {
+            "tag": "periodicidad_presentacion_estimaciones",
+            "patterns": [
+                "¿Con qué frecuencia se deben presentar estimaciones según el Artículo 68?",
+                "¿Qué plazo tiene el contratista para presentar la documentación?",
+                "¿Los pagos son acumulables entre estimaciones?",
+                "¿Qué pasa si no se presenta en el plazo establecido?",
+                "¿Dónde se fijan las fechas de corte para pagos?"
+            ],
+            "responses": [
+                "📘 El Artículo 68 establece una periodicidad máxima mensual para presentar estimaciones. 📅",
+                "🔹 6 días naturales después de la fecha de corte (Artículo 68, párrafo 1). ⏳",
+                "🎯 No, cada estimación es independiente (Artículo 68, párrafo 2). ❌",
+                "📘 Podría retrasarse el pago hasta la siguiente estimación. ⚠️",
+                "🔹 En el contrato respectivo (Artículo 68, párrafo 1). 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 68",
+            "topic": "Periodicidad de estimaciones"
+        },
+        {
+            "tag": "pagos_exceso",
+            "patterns": [
+                "¿Qué obligación tiene el contratista si recibe pagos en exceso según el Artículo 69?",
+                "¿Cómo se calculan los intereses por pagos en exceso?",
+                "¿Se pueden compensar en la siguiente estimación?",
+                "¿Qué pasa si no se reintegra el pago en exceso?",
+                "¿Dónde se establecen estas disposiciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 69 obliga a reintegrar el exceso más intereses desde la fecha de pago. 💰",
+                "🔹 Por días naturales sobre el monto excedido (Artículo 69, párrafo 1). 📊",
+                "🎯 Sí, si las diferencias se compensan en la estimación siguiente (Artículo 69, párrafo 2). 🔄",
+                "📘 Sería incumplimiento contractual con posibles acciones legales. ⚖️",
+                "🔹 En el Artículo 69 del Capítulo VI sobre ejecución. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 69",
+            "topic": "Pagos en exceso"
+        },
+        {
+            "tag": "verificacion_terminacion_obra",
+            "patterns": [
+                "¿Qué debe hacer la Universidad al recibir aviso de terminación según el Artículo 70?",
+                "¿En qué plazo debe verificarse la terminación?",
+                "¿Quiénes participan en la recepción física?",
+                "¿Qué documento se genera al finalizar la verificación?",
+                "¿Dónde se establece el plazo para recepción física?"
+            ],
+            "responses": [
+                "📘 El Artículo 70 obliga a verificar que los trabajos cumplen con el contrato en ≤15 días naturales. 🔍",
+                "🔹 15 días naturales desde el aviso de terminación (Artículo 70, párrafo 1). ⏳",
+                "🎯 Coordinación General de Patrimonio y Coordinaciones de Servicios Generales (Artículo 70, párrafo 2). 👥",
+                "📘 Acta de recepción física (Artículo 70, párrafo 2). 📄",
+                "🔹 En el Artículo 70, párrafo 2 para la recepción física. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 70",
+            "topic": "Verificación de terminación de obra"
+        },
+        {
+            "tag": "finiquito_obra",
+            "patterns": [
+                "¿Qué es el finiquito según el Artículo 71?",
+                "¿Qué información debe contener el finiquito?",
+                "¿En qué plazo se debe pagar el saldo final?",
+                "¿Qué pasa si hay saldo a favor de la Universidad?",
+                "¿Dónde se menciona la consignación de pagos?"
+            ],
+            "responses": [
+                "📘 El Artículo 71 lo define como el documento que liquida créditos y deudas entre las partes al finalizar la obra. 💵",
+                "🔹 Conceptos, montos a favor/en contra y saldo resultante (Artículo 71, párrafo 1). 📋",
+                "🎯 Inmediatamente tras determinar el saldo, mediante ofrecimiento o consignación (Artículo 71, párrafo 2). ⏱️",
+                "📘 El contratista debe reintegrarlo (Artículo 71, párrafo 2). ↩️",
+                "🔹 En el Artículo 71 como método alternativo de pago. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 71",
+            "topic": "Finiquito de obra"
+        },
+        {
+            "tag": "registro_inmuebles",
+            "patterns": [
+                "¿Qué obligación tiene la Universidad al concluir obras según el Artículo 72?",
+                "¿Qué dependencia es responsable del registro?",
+                "¿Qué inmuebles deben registrarse?",
+                "¿Ante qué instancias se realiza el registro?",
+                "¿Dónde se establece este requisito?"
+            ],
+            "responses": [
+                "📘 El Artículo 72 exige registrar en Catastro y Registro Público los inmuebles adquiridos o construidos. 🏢",
+                "🔹 La Coordinación General de Patrimonio (Artículo 72). 🏛️",
+                "🎯 Los adquiridos o construidos con motivo de la obra universitaria (Artículo 72). 📌",
+                "📘 Oficinas de Catastro y Registro Público de la entidad federativa (Artículo 72). 📍",
+                "🔹 En el Artículo 72 del Capítulo VI. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 72",
+            "topic": "Registro de inmuebles"
+        },
+        {
+            "tag": "responsabilidad_contratista",
+            "patterns": [
+                "¿Qué responsabilidades tiene el contratista durante la obra según el Artículo 73?",
+                "¿A qué regulaciones debe sujetarse el contratista?",
+                "¿Quién responde por daños por incumplimiento de normas?",
+                "¿La Universidad puede dar instrucciones adicionales?",
+                "¿Dónde se establece esta responsabilidad integral?"
+            ],
+            "responses": [
+                "📘 El Artículo 73 lo hace responsable único de la ejecución, cumplimiento de normativas y daños derivados. ⚖️",
+                "🔹 Reglamentos de construcción, seguridad, medio ambiente y disposiciones universitarias (Artículo 73). 🌿",
+                "🎯 El contratista asume todas las responsabilidades (Artículo 73, párrafo 1). 🏗️",
+                "📘 Sí, y el contratista debe acatarlas (Artículo 73, párrafo 1). ✅",
+                "🔹 En el Artículo 73 como cláusula general de responsabilidad. 📜"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 73",
+            "topic": "Responsabilidad del contratista"
+        },
+        {
+            "tag": "conservacion_documentacion",
+            "patterns": [
+                "¿Cuánto tiempo deben conservarse los documentos según el Artículo 74?",
+                "¿Qué documentos tienen plazos diferentes?",
+                "¿Dónde se almacena la documentación?",
+                "¿Quién puede solicitar esta documentación?",
+                "¿Dónde se especifican los plazos legales?"
+            ],
+            "responses": [
+                "📘 El Artículo 74 establece mínimo 3 años para documentación comprobatoria, excepto la legal/contable. 📂",
+                "🔹 Documentación legal y contable, sujeta a sus normativas específicas (Artículo 74). ⚖️",
+                "🎯 En las dependencias universitarias que realizaron los actos (Artículo 74). 🏛️",
+                "📘 Contraloría General y autoridades competentes (Artículo 75). 🔍",
+                "🔹 En el Artículo 74 y en leyes aplicables a cada tipo de documento. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 74",
+            "topic": "Conservación de documentación"
+        },
+        {
+            "tag": "facultades_contraloria",
+            "patterns": [
+                "¿Qué facultades tiene la Contraloría General según el Artículo 75?",
+                "¿Puede realizar inspecciones sorpresa?",
+                "¿Qué información puede solicitar a los contratistas?",
+                "¿Las dependencias deben responder a sus requerimientos?",
+                "¿Dónde se establecen estas atribuciones?"
+            ],
+            "responses": [
+                "📘 El Artículo 75 le permite verificar obras, solicitar información, realizar visitas e inspecciones. 🔎",
+                "🔹 Sí, en cualquier tiempo (Artículo 75, párrafo 2). 🕵️♂️",
+                "🎯 Todos los datos e informes relacionados con los contratos (Artículo 75, párrafo 2). 📋",
+                "📘 Sí, dentro de los 5 días naturales posteriores al requerimiento (Artículo 83). ⏳",
+                "🔹 En el Artículo 75 del Capítulo VII sobre información y verificación. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 75",
+            "topic": "Facultades de la Contraloría General"
+        },
+        {
+            "tag": "verificacion_calidad_obras",
+            "patterns": [
+                "¿Qué facultad tiene la Contraloría sobre la calidad de obras según el Artículo 76?",
+                "¿Puede la Contraloría contratar terceros para evaluar calidad?",
+                "¿Qué tipos de evaluaciones puede realizar?",
+                "¿Las dependencias deben cooperar con estas verificaciones?",
+                "¿Dónde se establece esta atribución?"
+            ],
+            "responses": [
+                "📘 El Artículo 76 permite a la Contraloría verificar calidad de obras a través de dependencias o medios idóneos. 🔍",
+                "🔹 Sí, puede usar laboratorios o peritos externos (Artículo 76). 🧪",
+                "🎯 Pruebas de materiales, cumplimiento de especificaciones y estándares (Artículo 76). 📐",
+                "📘 Sí, deben facilitar el acceso y la información requerida. 🤝",
+                "🔹 En el Artículo 76 del Capítulo VII sobre verificación. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 76",
+            "topic": "Verificación de calidad de obras"
+        },
+        {
+            "tag": "causas_inhabilitacion_contratistas",
+            "patterns": [
+                "¿Qué conductas inhabilitan a un contratista según el Artículo 77?",
+                "¿Cuántas veces puede incumplir un contratista antes de ser inhabilitado?",
+                "¿Qué pasa si se proporciona información falsa?",
+                "¿La inhabilitación aplica para todas las dependencias universitarias?",
+                "¿Dónde se listan estas causales?"
+            ],
+            "responses": [
+                "📘 El Artículo 77 incluye: no firmar contratos adjudicados, incumplimientos reiterados o actuar con mala fe. ⚠️",
+                "🔹 Dos o más incumplimientos con distintas dependencias (Artículo 77, II). 🔢",
+                "🎯 Es causal de inhabilitación por dolo (Artículo 77, IV). 🚫",
+                "📘 Sí, la inhabilitación es para toda la Universidad (Artículo 78). 🏛️",
+                "🔹 En las fracciones I-IV del Artículo 77. 📋"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 77",
+            "topic": "Causas de inhabilitación de contratistas"
+        },
+        {
+            "tag": "plazos_inhabilitacion",
+            "patterns": [
+                "¿Qué rango de plazos establece el Artículo 78 para inhabilitaciones?",
+                "¿Cuándo comienza a correr el plazo de inhabilitación?",
+                "¿Se puede reducir la inhabilitación por buen comportamiento?",
+                "¿Cómo se notifica la inhabilitación?",
+                "¿Dónde se regulan estos plazos?"
+            ],
+            "responses": [
+                "📘 El Artículo 78 fija inhabilitación de 3 meses a 5 años, según gravedad. ⏳",
+                "🔹 Desde el día siguiente a la notificación a dependencias (Artículo 78). 📅",
+                "🎯 No, el reglamento no prevé reducción por este motivo. ❌",
+                "📘 La Contraloría la comunica a todas las dependencias (Artículo 78). 📢",
+                "🔹 En el Artículo 78 del Capítulo VIII sobre infracciones. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 78",
+            "topic": "Plazos de inhabilitación"
+        },
+        {
+            "tag": "reporte_infracciones",
+            "patterns": [
+                "¿Qué deben hacer las dependencias al detectar infracciones según el Artículo 79?",
+                "¿En qué plazo se debe reportar una infracción?",
+                "¿Qué documentación debe acompañar el reporte?",
+                "¿Quién recibe estos reportes?",
+                "¿Dónde se establece esta obligación?"
+            ],
+            "responses": [
+                "📘 El Artículo 79 obliga a remitir a la Contraloría la documentación comprobatoria en 15 días naturales. 📨",
+                "🔹 15 días naturales desde el conocimiento de los hechos (Artículo 79). ⏳",
+                "🎯 Todas las pruebas documentales, fotográficas o testimoniales disponibles. 📋",
+                "📘 La Contraloría General de la Universidad (Artículo 79). 🏛️",
+                "🔹 En el Artículo 79 del Capítulo VIII. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 79",
+            "topic": "Reporte de infracciones"
+        },
+        {
+            "tag": "inconformidades_contratistas",
+            "patterns": [
+                "¿Quiénes pueden presentar inconformidades según el Artículo 80?",
+                "¿Qué actos pueden impugnarse?",
+                "¿En qué plazo debe presentarse la inconformidad?",
+                "¿Qué debe contener la inconformidad?",
+                "¿Dónde se establece este procedimiento?"
+            ],
+            "responses": [
+                "📘 El Artículo 80 permite a contratistas o proveedores inconformarse por actos en procedimientos de contratación. ✋",
+                "🔹 Cualquier acto que contravenga el reglamento durante el procedimiento (Artículo 80). ⚖️",
+                "🎯 10 días hábiles desde que ocurrió el acto (Artículo 80, I). ⏳",
+                "📘 Irregularidades observadas y documentación soporte (Artículo 80, I-II). 📋",
+                "🔹 En el Artículo 80 del Capítulo IX sobre inconformidades. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 80",
+            "topic": "Inconformidades de contratistas"
+        },
+        {
+            "tag": "sanciones_inconformidades_malas",
+            "patterns": [
+                "¿Qué sanción aplica a inconformidades maliciosas según el Artículo 81?",
+                "¿Qué se considera 'notoriamente improcedente'?",
+                "¿Cómo se prueba el dolo en una inconformidad?",
+                "¿La sanción es automática?",
+                "¿Dónde se menciona esta prohibición?"
+            ],
+            "responses": [
+                "📘 El Artículo 81 sanciona con inhabilitación si se busca retrasar procedimientos con mala fe. ⚠️",
+                "🔹 Cuando carece de fundamento legal evidente y solo busca entorpecer (Artículo 81). ❌",
+                "🎯 Mediante análisis objetivo de argumentos y pruebas (Artículo 81). 🔍",
+                "📘 No, la Contraloría debe investigar y resolver (Artículo 82). ⚖️",
+                "🔹 En el Artículo 81, párrafo 2 sobre inconformidades improcedentes. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 81",
+            "topic": "Sanciones por inconformidades maliciosas"
+        },
+        {
+            "tag": "investigacion_inconformidades",
+            "patterns": [
+                "¿Qué plazo tiene la Contraloría para investigar inconformidades según el Artículo 82?",
+                "¿Qué puede investigar de oficio la Contraloría?",
+                "¿Cuándo debe emitirse la resolución final?",
+                "¿Las dependencias pueden defenderse de las acusaciones?",
+                "¿Dónde se establecen estos plazos?"
+            ],
+            "responses": [
+                "📘 El Artículo 82 da 30 días hábiles para investigar y 30 días hábiles más para resolver. ⏳",
+                "🔹 Cualquier irregularidad en procedimientos de contratación (Artículo 82, párrafo 1). 🔎",
+                "🎯 Dentro de los 30 días hábiles posteriores a la investigación (Artículo 82, párrafo 1). 📅",
+                "📘 Sí, pueden presentar descargos y pruebas (Artículo 84). 🗣️",
+                "🔹 En el Artículo 82 del Capítulo IX. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 82",
+            "topic": "Investigación de inconformidades"
+        },
+        {
+            "tag": "requerimiento_informacion",
+            "patterns": [
+                "¿Qué pasa si una dependencia no responde a requerimientos de la Contraloría según el Artículo 83?",
+                "¿Qué plazo tienen las dependencias para responder?",
+                "¿La Contraloría puede acceder a archivos directamente?",
+                "¿Qué información puede solicitarse a los contratistas?",
+                "¿Dónde se establece este deber de colaboración?"
+            ],
+            "responses": [
+                "📘 El Artículo 83 no lo especifica, pero podría considerarse obstrucción a la investigación. ⚠️",
+                "🔹 5 días naturales desde el requerimiento (Artículo 83). ⏳",
+                "🎯 Sí, en ejercicio de sus facultades de verificación (Artículo 75). 🔍",
+                "📘 Toda la relacionada con los contratos (Artículo 75 y 83). 📋",
+                "🔹 En los Artículos 75 y 83 sobre facultades de la Contraloría. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 83",
+            "topic": "Requerimiento de información"
+        },
+        {
+            "tag": "derechos_terceros_afectados",
+            "patterns": [
+                "¿Qué derechos tienen terceros afectados por inconformidades según el Artículo 84?",
+                "¿En qué plazo pueden manifestarse?",
+                "¿Qué pasa si no se ejerce este derecho?",
+                "¿La Contraloría debe notificar a todos los posibles afectados?",
+                "¿Dónde se regula este derecho?"
+            ],
+            "responses": [
+                "📘 El Artículo 84 les permite presentar descargos y pruebas en 10 días hábiles. 🗣️",
+                "🔹 10 días hábiles desde que son notificados (Artículo 84). ⏳",
+                "🎯 Se tiene por precluido su derecho a intervenir (Artículo 84). ❌",
+                "📘 Sí, a quienes pudieran resultar perjudicados por la resolución (Artículo 84). 📢",
+                "🔹 En el Artículo 84 del Capítulo IX. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 84",
+            "topic": "Derechos de terceros afectados"
+        },
+        {
+            "tag": "suspension_procedimientos",
+            "patterns": [
+                "¿Cuándo puede suspenderse un procedimiento de contratación según el Artículo 85?",
+                "¿Quién decide la suspensión?",
+                "¿Qué requisitos debe cumplir el inconforme para solicitar suspensión?",
+                "¿Cómo se levanta la suspensión?",
+                "¿Dónde se establece este mecanismo?"
+            ],
+            "responses": [
+                "📘 El Artículo 85 permite suspensión si hay riesgo de daño a la Universidad o actos irregulares. ⚠️",
+                "🔹 La Contraloría General (Artículo 85). 🏛️",
+                "🎯 Debe garantizar daños y perjuicios mediante fianza (Artículo 86). 💵",
+                "📘 Con contrafianza equivalente del tercero perjudicado (Artículo 86). 🔄",
+                "🔹 En los Artículos 85-86 del Capítulo IX. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 85",
+            "topic": "Suspensión de procedimientos"
+        },
+        {
+            "tag": "garantias_suspension",
+            "patterns": [
+                "¿Qué garantías exige el Artículo 86 para suspender un procedimiento?",
+                "¿Quién fija el monto de la fianza?",
+                "¿Qué es una contrafianza?",
+                "¿Qué pasa si no se presenta la garantía requerida?",
+                "¿Dónde se regulan estos requisitos?"
+            ],
+            "responses": [
+                "📘 El Artículo 86 exige fianza por daños potenciales, fijada por la Contraloría. 🛡️",
+                "🔹 La Contraloría General, según lineamientos internos (Artículo 86). 💰",
+                "🎯 Garantía presentada por el tercero perjudicado para levantar la suspensión (Artículo 86). 🔄",
+                "📘 No se concede la suspensión solicitada (Artículo 86). ❌",
+                "🔹 En el Artículo 86 y lineamientos de la Contraloría. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 86",
+            "topic": "Garantías para suspensión"
+        },
+        {
+            "tag": "resolucion_inconformidades",
+            "patterns": [
+                "¿Qué tipos de resoluciones puede emitir la Contraloría según el Artículo 87?",
+                "¿Qué efectos tiene la nulidad de un procedimiento?",
+                "¿La resolución de la Contraloría es definitiva?",
+                "¿Se puede reabrir un procedimiento anulado?",
+                "¿Dónde se establecen estas consecuencias?"
+            ],
+            "responses": [
+                "📘 El Artículo 87 prevé: nulidad de actos irregulares, nulidad total del procedimiento o improcedencia de la inconformidad. ⚖️",
+                "🔹 Se repone el procedimiento desde el acto nulo (Artículo 87, I). 🔄",
+                "🎯 Sí, no caben recursos (Artículo 88). ✅",
+                "📘 Sí, con las directrices que señale la Contraloría (Artículo 87, I). 📢",
+                "🔹 En el Artículo 87 del Capítulo IX. 📌"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 87",
+            "topic": "Resolución de inconformidades"
+        },
+        {
+            "tag": "irrecurribilidad_resoluciones",
+            "patterns": [
+                "¿Se puede impugnar la resolución de la Contraloría según el Artículo 88?",
+                "¿Qué opciones tiene un inconforme si pierde el recurso?",
+                "¿Existe instancia universitaria superior a la Contraloría para estos casos?",
+                "¿Las resoluciones son públicas?",
+                "¿Dónde se establece esta característica?"
+            ],
+            "responses": [
+                "📘 El Artículo 88 establece que no procede recurso alguno contra las resoluciones de la Contraloría. 🚫",
+                "🔹 Ninguna dentro de la Universidad, según el reglamento. ❌",
+                "🎯 No, la Contraloría es la instancia definitiva en materia de inconformidades (Artículo 88). ⚖️",
+                "📘 Sí, deben publicarse según transparencia (Artículo 20). 📢",
+                "🔹 En el Artículo 88 como disposición expresa. 📜"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 88",
+            "topic": "Irrecurribilidad de resoluciones"
+        },
+        {
+            "tag": "quejas_incumplimiento_contratos",
+            "patterns": [
+                "¿Qué deben hacer las dependencias ante incumplimientos contractuales según el Artículo 89?",
+                "¿Ante qué instancia se presenta la queja?",
+                "¿Qué documentación debe acompañar la queja?",
+                "¿Qué plazo tiene la Universidad para responder?",
+                "¿Dónde se regula este procedimiento?"
+            ],
+            "responses": [
+                "📘 El Artículo 89 obliga a presentar queja documentada ante la Coordinación General de Servicios Administrativos. 📨",
+                "🔹 Coordinación General de Servicios Administrativos e Infraestructura Tecnológica (Artículo 89). 🏢",
+                "🎯 Pruebas de las irregularidades cometidas por el contratista (Artículo 89). 📋",
+                "📘 El reglamento no establece plazo, se sujetará a procedimientos internos. ⏳",
+                "🔹 En el Artículo 89 del Capítulo X sobre disposiciones complementarias. 📑"
+            ],
+            "document": "Reglamento de Obras y Servicios Relacionados con las mismas 2022",
+            "article": "Artículo 89",
+            "topic": "Quejas por incumplimiento de contratos"
+        }
+
+
+    ]
+}

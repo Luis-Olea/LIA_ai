@@ -1,0 +1,391 @@
+{
+    "main_topic": "Protocolo para la Prevención, Atención, Sanción y Erradicación de la Violencia de Género (2022)",
+    "intents": [
+        {
+            "tag": "objetivo_protocolo_violencia_de_genero",
+            "patterns": [
+                "¿Cuál es el objetivo del protocolo?",
+                "¿Qué busca este protocolo?",
+                "¿Para qué sirve este documento?",
+                "¿Qué problemática aborda el protocolo?"
+            ],
+            "responses": [
+                "🎯 El protocolo tiene como objetivo prevenir, atender, sancionar y erradicar la violencia de género en la Universidad de Guadalajara, promoviendo una cultura de igualdad y derechos humanos.",
+                "📘 Busca establecer rutas claras de actuación para casos de violencia de género, con enfoque en derechos humanos, perspectiva de género e interculturalidad."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Disposiciones Generales (Punto 1-2)",
+            "topic": "Objetivo del protocolo de violencia"
+        },
+        {
+            "tag": "definicion_violencia_genero",
+            "patterns": [
+                "¿Qué se considera violencia de género según el protocolo?",
+                "¿Qué tipos de violencia cubre el protocolo?",
+                "¿El acoso sexual entra en este protocolo?",
+                "¿La violencia digital cuenta como violencia de género?"
+            ],
+            "responses": [
+                "🔹 La violencia de género incluye actos físicos, psicológicos, sexuales, digitales y laborales basados en género, sexo u orientación sexual. Ejemplos: acoso sexual, micromachismos, difusión de contenido íntimo sin consentimiento (págs. 30-34).",
+                "📘 Sí, el acoso sexual y la violencia digital (ciberacoso, sextorsión) son modalidades cubiertas (Art. 77)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículo 77",
+            "topic": "Tipos y modalidades de violencia"
+        },
+        {
+            "tag": "como_denunciar",
+            "patterns": [
+                "¿Cómo puedo denunciar un caso de violencia?",
+                "¿Dónde acudo si soy víctima?",
+                "¿Quién es el 'primer contacto'?",
+                "¿Puedo denunciar anónimamente?"
+            ],
+            "responses": [
+                "🎯 Debes acudir al **primer contacto** en tu centro universitario, preparatoria o sede administrativa. Ellos brindan atención inicial, reciben denuncias y solicitan medidas cautelares (págs. 18-20).",
+                "📘 Sí, puedes denunciar anónimamente, pero si no la ratificas en 5 días hábiles, no se procederá (Art. 38)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Del Primer Contacto (Puntos 18-28)",
+            "topic": "Proceso de denuncia"
+        },
+        {
+            "tag": "medidas_cautelares",
+            "patterns": [
+                "¿Qué medidas de protección ofrece el protocolo?",
+                "¿Pueden cambiar mi grupo si mi agresor es compañero?",
+                "¿Qué pasa si el agresor es un profesor?"
+            ],
+            "responses": [
+                "🔹 Las **medidas cautelares** incluyen: cambio de grupo/horario, separación provisional del agresor, prohibición de acercamiento y apoyo psicológico (Art. 51).",
+                "📘 Si el agresor es profesor, se puede solicitar su separación temporal del cargo (Art. 51-I)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículo 49-54",
+            "topic": "Medidas de protección"
+        },
+        {
+            "tag": "sanciones",
+            "patterns": [
+                "¿Qué sanciones hay para agresores?",
+                "¿Pueden expulsar a un alumno por violencia de género?",
+                "¿Hay talleres obligatorios para agresores?"
+            ],
+            "responses": [
+                "🎯 Las sanciones van desde amonestaciones hasta **expulsión definitiva** (alumnos) o **despido** (personal), según la gravedad (Art. 70).",
+                "🔹 Sí, los agresores deben tomar **medidas reeducativas** (talleres sobre igualdad de género) (Art. 72)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 69-73",
+            "topic": "Sanciones y reeducación"
+        },
+        {
+            "tag": "confidencialidad",
+            "patterns": [
+                "¿Mi denuncia será confidencial?",
+                "¿Puedo sufrir represalias por denunciar?",
+                "¿Qué es la victimización secundaria?"
+            ],
+            "responses": [
+                "📘 Sí, el protocolo garantiza **confidencialidad** y prohíbe represalias contra víctimas (Punto 9-X).",
+                "🔹 La **victimización secundaria** es maltrato institucional (ej. culpar a la víctima o repetir entrevistas innecesarias). El protocolo la evita (Art. LXIII)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Principios de actuación (Punto 9)",
+            "topic": "Protección a víctimas"
+        },
+        {
+            "tag": "aplicacion_externos",
+            "patterns": [
+                "¿Puedo denunciar si el agresor no es de la universidad?",
+                "¿Qué pasa si la víctima es externa pero el agresor es alumno?"
+            ],
+            "responses": [
+                "🎯 Sí, si el agresor es parte de la comunidad universitaria o el acto ocurrió en espacios/actividades universitarias (Punto 5).",
+                "📘 Si la víctima es externa pero el agresor es universitario, se aplica el protocolo (Art. 5, párrafo 2)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículo 5",
+            "topic": "Alcance del protocolo"
+        },
+        {
+            "tag": "atencion_psicologica",
+            "patterns": [
+                "¿Ofrecen apoyo psicológico a víctimas?",
+                "¿Puedo recibir terapia si soy víctima?",
+                "¿Qué ayuda emocional brinda la universidad?"
+            ],
+            "responses": [
+                "🔹 Sí, el **primer contacto** canaliza a víctimas a atención psicológica especializada de forma gratuita (Art. 24-II).",
+                "📘 Además, se brindan **primeros auxilios psicológicos** durante la entrevista inicial (Art. LI)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 24 y LI",
+            "topic": "Apoyo emocional"
+        },
+        {
+            "tag": "plazos_procesos",
+            "patterns": [
+                "¿Cuánto tarda una investigación?",
+                "¿Hay plazos para resolver denuncias?",
+                "¿Qué pasa si no se resuelve mi caso?"
+            ],
+            "responses": [
+                "🎯 El protocolo exige **debida diligencia** (actuación oportuna), pero no especifica plazos fijos. La investigación debe ser exhaustiva y libre de estereotipos (Art. 61-63).",
+                "📘 Puedes solicitar seguimiento al primer contacto o a la **Unidad para la Igualdad (UPI)** (Art. 22)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 61-63",
+            "topic": "Tiempos de respuesta"
+        },
+        {
+            "tag": "violencia_digital",
+            "patterns": [
+                "¿Qué hago si me acosan por redes sociales?",
+                "¿Cómo denuncio contenido íntimo compartido sin mi consentimiento?",
+                "¿El sexting no consentido es violencia de género?"
+            ],
+            "responses": [
+                "🔹 La **violencia digital** (ciberacoso, difusión de contenido íntimo) está tipificada. Guarda pruebas (capturas, URLs) y denuncia al primer contacto (Art. 77-IV).",
+                "📘 Sí, grabar/compartir material íntimo sin consentimiento es violencia sexual digital (Art. 77-III-xviii)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículo 77",
+            "topic": "Violencia en entornos digitales"
+        },
+        {
+            "tag": "personas_vulnerables",
+            "patterns": [
+                "¿Hay protección extra para mujeres o grupos vulnerables?",
+                "¿El protocolo aplica para personas LGBTQ+?",
+                "¿Qué pasa si la víctima es menor de edad?"
+            ],
+            "responses": [
+                "🎯 Sí, el protocolo prioriza a grupos en **condiciones de vulnerabilidad** (mujeres, LGBTQ+, indígenas, personas con discapacidad) con enfoque interseccional (Art. 8-IX y 46-II).",
+                "📘 Si la víctima es menor, se notifica a la **Procuraduría de Protección de Niñas, Niños y Adolescentes** (Art. 40-42)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 8, 40-42, 46",
+            "topic": "Protección a grupos vulnerables"
+        },
+        {
+            "tag": "prevencion_capacitacion",
+            "patterns": [
+                "¿Qué hace la universidad para prevenir violencia?",
+                "¿Hay talleres sobre igualdad de género?",
+                "¿Quién capacita al personal universitario?"
+            ],
+            "responses": [
+                "🔹 La **Unidad para la Igualdad (UPI)** organiza campañas, talleres y un **programa reeducativo** para agresores (Art. 17 y 72).",
+                "📘 Todos los primeros contactos y comisiones reciben capacitación obligatoria (Art. 25 y Transitorio Tercero)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 17, 72",
+            "topic": "Acciones de prevención"
+        },
+        {
+            "tag": "datos_estadisticas",
+            "patterns": [
+                "¿Llevan registro de casos de violencia?",
+                "¿Cómo usan los datos de denuncias?",
+                "¿Dónde puedo ver estadísticas?"
+            ],
+            "responses": [
+                "🎯 El **Sistema Único de Información (SUI)** registra casos de forma confidencial para generar estadísticas y mejorar políticas (Art. 82-86).",
+                "📘 La UPI publica informes anuales con datos desagregados (sin identificar víctimas) (Art. 85)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 82-86",
+            "topic": "Registro y transparencia"
+        },
+        {
+            "tag": "denuncia_falsa",
+            "patterns": [
+                "¿Qué pasa si alguien denuncia falsamente?",
+                "¿Hay consecuencias por mentir en una denuncia?"
+            ],
+            "responses": [
+                "🔹 El protocolo presume **buena fe** de denunciantes (Art. 8-V). Solo si se demuestra mala fe intencional, podría aplicarse sanción según normativa universitaria.",
+                "📘 La investigación debe ser imparcial: no se criminaliza a la víctima ni al denunciado sin pruebas (Art. 8-XIII)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículo 8",
+            "topic": "Denuncias falsas"
+        },
+        {
+            "tag": "recursos_externos",
+            "patterns": [
+                "¿Puedo denunciar además en instancias externas?",
+                "¿El protocolo reemplaza una denuncia penal?"
+            ],
+            "responses": [
+                "🎯 No, el protocolo **no sustituye** denuncias penales. Puedes acudir a fiscalías o comisiones de derechos humanos simultáneamente (Art. 24-XV).",
+                "📘 El primer contacto puede orientarte sobre recursos externos (ej. Fiscalía Especializada en Género)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículo 24",
+            "topic": "Complementariedad con otras vías"
+        },
+        {
+            "tag": "atencion_psicologica",
+            "patterns": [
+                "¿Ofrecen apoyo psicológico a víctimas?",
+                "¿Puedo recibir terapia si soy víctima?",
+                "¿Qué ayuda emocional brinda la universidad?"
+            ],
+            "responses": [
+                "🔹 Sí, el **primer contacto** canaliza a víctimas a atención psicológica especializada de forma gratuita (Art. 24-II).",
+                "📘 Además, se brindan **primeros auxilios psicológicos** durante la entrevista inicial (Art. LI)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 24 y LI",
+            "topic": "Apoyo emocional"
+        },
+        {
+            "tag": "plazos_procesos",
+            "patterns": [
+                "¿Cuánto tarda una investigación?",
+                "¿Hay plazos para resolver denuncias?",
+                "¿Qué pasa si no se resuelve mi caso?"
+            ],
+            "responses": [
+                "🎯 El protocolo exige **debida diligencia** (actuación oportuna), pero no especifica plazos fijos. La investigación debe ser exhaustiva y libre de estereotipos (Art. 61-63).",
+                "📘 Puedes solicitar seguimiento al primer contacto o a la **Unidad para la Igualdad (UPI)** (Art. 22)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 61-63",
+            "topic": "Tiempos de respuesta"
+        },
+        {
+            "tag": "violencia_digital",
+            "patterns": [
+                "¿Qué hago si me acosan por redes sociales?",
+                "¿Cómo denuncio contenido íntimo compartido sin mi consentimiento?",
+                "¿El sexting no consentido es violencia de género?"
+            ],
+            "responses": [
+                "🔹 La **violencia digital** (ciberacoso, difusión de contenido íntimo) está tipificada. Guarda pruebas (capturas, URLs) y denuncia al primer contacto (Art. 77-IV).",
+                "📘 Sí, grabar/compartir material íntimo sin consentimiento es violencia sexual digital (Art. 77-III-xviii)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículo 77",
+            "topic": "Violencia en entornos digitales"
+        },
+        {
+            "tag": "personas_vulnerables",
+            "patterns": [
+                "¿Hay protección extra para mujeres o grupos vulnerables?",
+                "¿El protocolo aplica para personas LGBTQ+?",
+                "¿Qué pasa si la víctima es menor de edad?"
+            ],
+            "responses": [
+                "🎯 Sí, el protocolo prioriza a grupos en **condiciones de vulnerabilidad** (mujeres, LGBTQ+, indígenas, personas con discapacidad) con enfoque interseccional (Art. 8-IX y 46-II).",
+                "📘 Si la víctima es menor, se notifica a la **Procuraduría de Protección de Niñas, Niños y Adolescentes** (Art. 40-42)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 8, 40-42, 46",
+            "topic": "Protección a grupos vulnerables"
+        },
+        {
+            "tag": "prevencion_capacitacion",
+            "patterns": [
+                "¿Qué hace la universidad para prevenir violencia?",
+                "¿Hay talleres sobre igualdad de género?",
+                "¿Quién capacita al personal universitario?"
+            ],
+            "responses": [
+                "🔹 La **Unidad para la Igualdad (UPI)** organiza campañas, talleres y un **programa reeducativo** para agresores (Art. 17 y 72).",
+                "📘 Todos los primeros contactos y comisiones reciben capacitación obligatoria (Art. 25 y Transitorio Tercero)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 17, 72",
+            "topic": "Acciones de prevención"
+        },
+        {
+            "tag": "datos_estadisticas",
+            "patterns": [
+                "¿Llevan registro de casos de violencia?",
+                "¿Cómo usan los datos de denuncias?",
+                "¿Dónde puedo ver estadísticas?"
+            ],
+            "responses": [
+                "🎯 El **Sistema Único de Información (SUI)** registra casos de forma confidencial para generar estadísticas y mejorar políticas (Art. 82-86).",
+                "📘 La UPI publica informes anuales con datos desagregados (sin identificar víctimas) (Art. 85)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 82-86",
+            "topic": "Registro y transparencia"
+        },
+        {
+            "tag": "denuncia_falsa",
+            "patterns": [
+                "¿Qué pasa si alguien denuncia falsamente?",
+                "¿Hay consecuencias por mentir en una denuncia?"
+            ],
+            "responses": [
+                "🔹 El protocolo presume **buena fe** de denunciantes (Art. 8-V). Solo si se demuestra mala fe intencional, podría aplicarse sanción según normativa universitaria.",
+                "📘 La investigación debe ser imparcial: no se criminaliza a la víctima ni al denunciado sin pruebas (Art. 8-XIII)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículo 8",
+            "topic": "Denuncias falsas"
+        },
+        {
+            "tag": "recursos_externos",
+            "patterns": [
+                "¿Puedo denunciar además en instancias externas?",
+                "¿El protocolo reemplaza una denuncia penal?"
+            ],
+            "responses": [
+                "🎯 No, el protocolo **no sustituye** denuncias penales. Puedes acudir a fiscalías o comisiones de derechos humanos simultáneamente (Art. 24-XV).",
+                "📘 El primer contacto puede orientarte sobre recursos externos (ej. Fiscalía Especializada en Género)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículo 24",
+            "topic": "Complementariedad con otras vías"
+        },
+        {
+            "tag": "violencia_institucional",
+            "patterns": [
+                "¿El protocolo aplica si el rector es el agresor?",
+                "¿Qué hago si un profesor me discrimina?"
+            ],
+            "responses": [
+                "🎯 Sí, el protocolo incluye a **autoridades universitarias**. La denuncia se remite a la Defensoría de Derechos Universitarios o a la Comisión de Responsabilidades (Art. 6-II y 55-I).",
+                "📘 La violencia docente (ej. discriminación) se sanciona con suspensión o despido (Art. 77-V)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 6, 55, 77",
+            "topic": "Violencia por autoridades"
+        },
+        {
+            "tag": "apoyo_economico_legal",
+            "patterns": [
+                "¿Puedo obtener ayuda legal con el protocolo?",
+                "¿Existen becas para víctimas?"
+            ],
+            "responses": [
+                "🔹 El primer contacto puede canalizarte a **asesoría jurídica gratuita** dentro de la universidad o con instancias externas (Art. 24-II).",
+                "📘 Algunos centros universitarios ofrecen **apoyos económicos excepcionales**. Consulta con la UPI o tu coordinación (Art. 17-VII)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 17, 24",
+            "topic": "Recursos adicionales"
+        },
+        {
+            "tag": "seguimiento_denuncia",
+            "patterns": [
+                "¿Quién me informa del avance de mi caso?",
+                "¿Qué hago si no estoy de acuerdo con la sanción?"
+            ],
+            "responses": [
+                "🎯 El **primer contacto** debe darte seguimiento y actualizaciones sin vulnerar tu confidencialidad (Art. 54).",
+                "📘 Puedes apelar ante el **Consejo General Universitario** o la instancia que emitió la resolución (Art. 66 y Ley Orgánica UdeG)."
+            ],
+            "document": "Protocolo UdeG 2022",
+            "article": "Artículos 54, 66",
+            "topic": "Seguimiento y apelaciones"
+        }
+
+    ]
+}

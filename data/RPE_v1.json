@@ -1,0 +1,686 @@
+{
+    "main_topic": "Reglamento General de Planes de Estudio de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "objeto_del_reglamento_planes",
+            "patterns": [
+                "¿Cuál es el objetivo del Reglamento General de Planes de Estudio?",
+                "¿Qué norma el artículo 1 del RGPE?",
+                "¿Qué aspectos cubre este reglamento según el artículo 1?",
+                "¿Para qué sirve el RGPE en la UdeG?",
+                "¿Qué regula el artículo 1 sobre los planes de estudio?"
+            ],
+            "responses": [
+                "📘 El artículo 1 establece que el reglamento norma la presentación, aprobación y modificación de los planes de estudio en la UdeG.",
+                "🔹 Regula todo el proceso de creación, ajuste e implementación de los planes académicos.",
+                "🎯 Su objetivo es garantizar que los planes de estudio cumplan con estándares de calidad y pertinencia.",
+                "📜 Incluye desde la estructura curricular hasta los requisitos de modalidades (escolarizada, virtual, etc.).",
+                "⚖️ Asegura que los planes respondan a necesidades sociales y avances disciplinares."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento planes estudio"
+        },
+        {
+            "tag": "definicion_plan_estudios",
+            "patterns": [
+                "¿Qué se entiende por 'plan de estudios' según el artículo 2?",
+                "¿Qué elementos integra un plan de estudios?",
+                "¿Cómo define el RGPE un plan de estudios?",
+                "¿Incluye actividades prácticas un plan de estudios?",
+                "¿Las unidades de aprendizaje son parte del plan de estudios?"
+            ],
+            "responses": [
+                "📘 El artículo 2 lo define como un conjunto ordenado de unidades de aprendizaje, actividades y experiencias académicas.",
+                "🔹 Incluye áreas formativas, objetivos generales y criterios curriculares.",
+                "🎯 Sí, integra tanto teoría (cursos, seminarios) como práctica (talleres, laboratorios).",
+                "📜 Las unidades de aprendizaje pueden ser cursos, talleres, módulos, etc.",
+                "🌍 Debe estar estructurado para cumplir con principios pedagógicos y profesionales."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 2",
+            "topic": "Definición de plan de estudios"
+        },
+        {
+            "tag": "organizacion_unidades_aprendizaje",
+            "patterns": [
+                "¿Cómo se organizan las unidades de aprendizaje según el artículo 3?",
+                "¿Qué tipos de unidades de aprendizaje existen?",
+                "¿Un laboratorio cuenta como unidad de aprendizaje?",
+                "¿Los talleres tienen créditos en el plan de estudios?",
+                "¿Qué elementos describen las unidades de aprendizaje?"
+            ],
+            "responses": [
+                "📘 El artículo 3 las organiza en tipos como cursos, talleres, seminarios, laboratorios o módulos.",
+                "🔹 Cada unidad debe tener objetivos, contenidos graduados y métodos de evaluación.",
+                "🎯 Sí, los laboratorios son unidades prácticas con carga horaria y créditos.",
+                "📜 Los talleres son unidades que combinan teoría y práctica, con créditos asignados.",
+                "⚖️ Deben describir conocimientos, habilidades y su aplicación profesional."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 3",
+            "topic": "Organización de unidades de aprendizaje"
+        },
+        {
+            "tag": "modalidades_imparticion",
+            "patterns": [
+                "¿En qué modalidades se pueden impartir los planes según el artículo 3 Bis?",
+                "¿Un plan de estudios puede ser totalmente virtual?",
+                "¿Qué es la modalidad dual en la UdeG?",
+                "¿Quién aprueba nuevas modalidades de impartición?",
+                "¿La certificación por examen está permitida?"
+            ],
+            "responses": [
+                "📘 El artículo 3 Bis permite modalidades escolarizada, no escolarizada, mixta, dual, presencial, en línea, abierta o por examen.",
+                "🔹 Sí, los planes virtuales deben validarse por la Dirección de Universidad Virtual.",
+                "🎯 La modalidad dual combina formación académica con experiencia laboral.",
+                "📜 El Consejo General Universitario aprueba nuevas modalidades.",
+                "✅ Sí, la certificación por examen es una opción válida."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 3 Bis",
+            "topic": "Modalidades de impartición"
+        },
+        {
+            "tag": "requisitos_proyecto_plan",
+            "patterns": [
+                "¿Qué debe incluir un proyecto de nuevo plan de estudios según el artículo 4?",
+                "¿El perfil del egresado es obligatorio en la propuesta?",
+                "¿Qué es la fundamentación socioeconómica de un plan?",
+                "¿Cómo se evalúa un plan de estudios existente?",
+                "¿Quiénes deben avalar una modificación curricular?"
+            ],
+            "responses": [
+                "📘 El artículo 4 exige: fundamentación, objetivos, perfil del egresado, metodología, estructura, criterios de implantación y plan de evaluación.",
+                "🔹 Sí, el perfil del egresado es un requisito clave (Artículo 9).",
+                "🎯 La fundamentación debe justificar la necesidad social y empleabilidad del plan (Artículos 5-7).",
+                "📜 Se evalúa con informes técnicos y opiniones de expertos externos (Artículo 8).",
+                "⚖️ Debe ser avalado por Colegios Departamentales y Consejos Divisionales (Artículo 14)."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 4",
+            "topic": "Requisitos para proyectos de planes"
+        },
+        {
+            "tag": "fundamentacion_proyecto",
+            "patterns": [
+                "¿Qué debe incluir la fundamentación de un nuevo plan de estudios según el artículo 5?",
+                "¿Qué aspectos socioeconómicos debe considerar la fundamentación?",
+                "¿Cómo se justifica la necesidad de un nuevo plan de estudios?",
+                "¿Qué significa 'pertinencia' en la fundamentación del proyecto?",
+                "¿La factibilidad técnica es parte de la fundamentación?"
+            ],
+            "responses": [
+                "📘 El artículo 5 exige argumentos socioeconómicos, técnicos y disciplinares que justifiquen la necesidad, factibilidad y pertinencia del plan.",
+                "🔹 Debe analizar: demanda laboral, necesidades sociales y avances en el campo disciplinar.",
+                "🎯 La pertinencia se refiere a que el plan responda a problemas reales del contexto social e institucional.",
+                "📜 Sí, la factibilidad técnica evalúa si la universidad cuenta con recursos para implementarlo.",
+                "✅ La fundamentación debe cubrir tanto el aspecto social (Artículo 6) como el institucional (Artículo 7)."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 5",
+            "topic": "Fundamentación del proyecto"
+        },
+        {
+            "tag": "fundamentacion_social",
+            "patterns": [
+                "¿Qué debe considerar la fundamentación social según el artículo 6?",
+                "¿Cómo se justifica la demanda de un nuevo plan de estudios?",
+                "¿Qué datos socioeconómicos son relevantes para la fundamentación?",
+                "¿Se debe comparar con egresados de otras instituciones?",
+                "¿El campo laboral potencial es parte de la fundamentación?"
+            ],
+            "responses": [
+                "📘 El artículo 6 exige analizar: contexto socioeconómico, necesidades sociales, demanda estimada y campo laboral actual/potencial.",
+                "🔹 Sí, debe justificarse con datos concretos sobre empleabilidad y necesidades del sector.",
+                "🎯 Debe incluir estadísticas de demanda educativa y ocupacional en el área.",
+                "📜 Sí, se compara con egresados de niveles similares en otras instituciones.",
+                "✅ El campo laboral es clave para demostrar la pertinencia del plan."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 6",
+            "topic": "Fundamentación social"
+        },
+        {
+            "tag": "fundamentacion_institucional",
+            "patterns": [
+                "¿Qué abarca la fundamentación institucional?",
+                "¿Se deben considerar recursos humanos y materiales?",
+                "¿Cómo se evalúa el estado de la docencia en el área?",
+                "¿Es necesario un respaldo de expertos externos?",
+                "¿Se comparan con otras instituciones nacionales?"
+            ],
+            "responses": [
+                "📘 El artículo 7 cubre: estado de la docencia/investigación en el área, recursos disponibles y comparación con otras instituciones.",
+                "🔹 Sí, debe listarse la plantilla académica y infraestructura disponible.",
+                "🎯 Se evalúa con diagnósticos sobre oferta educativa y avances disciplinares.",
+                "📜 Sí, toda propuesta requiere opinión por escrito de expertos externos.",
+                "✅ Sí, debe contrastarse con planes similares en otras universidades del país."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 7",
+            "topic": "Fundamentación institucional"
+        },
+        {
+            "tag": "evaluacion_plan_vigente",
+            "patterns": [
+                "¿Qué debe incluir la fundamentación para modificar un plan (Artículo 8)?",
+                "¿Quién establece los criterios de evaluación de planes vigentes?",
+                "¿Es obligatorio evaluar un plan antes de modificarlo?",
+                "¿Qué tipo de resultados se consideran para cambios?",
+                "¿La Rectoría General define los parámetros de evaluación?"
+            ],
+            "responses": [
+                "📘 El artículo 8 exige incluir resultados de evaluación del plan vigente, con criterios definidos por la Rectoría General.",
+                "🔹 Sí, la evaluación previa es obligatoria para justificar modificaciones.",
+                "🎯 Se consideran indicadores de desempeño académico, empleabilidad y pertinencia.",
+                "📜 Los resultados deben demostrar insuficiencias o desfases del plan actual.",
+                "✅ Sí, la Rectoría General establece los criterios técnicos de evaluación."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 8",
+            "topic": "Evaluación de planes vigentes"
+        },
+        {
+            "tag": "perfil_egresado",
+            "patterns": [
+                "¿Qué debe especificar el perfil del egresado?",
+                "¿Las aptitudes y valores son parte del perfil?",
+                "¿El perfil es genérico o detallado?",
+                "¿Cómo se vinculan las habilidades con el plan de estudios?",
+                "¿Debe incluir capacidades técnicas y blandas?"
+            ],
+            "responses": [
+                "📘 El artículo 9 indica que el perfil debe describir conocimientos, aptitudes, actitudes, valores y habilidades esperadas.",
+                "🔹 Sí, debe integrar competencias técnicas (conocimientos) y transversales (valores).",
+                "🎯 Es genérico pero vinculado a los objetivos del plan.",
+                "📜 Las habilidades deben reflejarse en las unidades de aprendizaje.",
+                "✅ Sí, combina capacidades disciplinares y socioemocionales."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 9",
+            "topic": "Perfil del egresado"
+        },
+        {
+            "tag": "propuesta_curricular",
+            "patterns": [
+                "¿Qué requisitos debe cumplir la propuesta curricular?",
+                "¿Se deben anexar instrumentos técnicos usados en el diseño?",
+                "¿Qué son los diagnósticos resultantes?",
+                "¿La metodología debe ser explícita?",
+                "¿Cómo se garantiza la calidad del diseño curricular?"
+            ],
+            "responses": [
+                "📘 El artículo 10 exige: criterios metodológicos claros, instrumentos técnicos anexos y síntesis de diagnósticos.",
+                "🔹 Sí, deben incluirse encuestas, matrices de competencias u otros herramientas.",
+                "🎯 Los diagnósticos son estudios previos (ej. necesidades laborales, análisis de oferta académica).",
+                "📜 Sí, debe detallarse si es por competencias, objetivos o modular.",
+                "✅ Con validación de expertos y alineación con estándares nacionales/internacionales."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 10",
+            "topic": "Propuesta curricular"
+        },
+        {
+            "tag": "estructura_plan",
+            "patterns": [
+                "¿Qué debe contener la estructura del plan?",
+                "¿Cómo se definen las áreas formativas?",
+                "¿Las unidades de aprendizaje tienen un orden específico?",
+                "¿Qué son los ejes temáticos?",
+                "¿Cómo se relacionan las unidades entre sí?"
+            ],
+            "responses": [
+                "📘 El artículo 11 requiere: áreas formativas, ejes temáticos, objetivos generales y orden de unidades de aprendizaje.",
+                "🔹 Las áreas se definen por objetivos (ej. básica, especializante).",
+                "🎯 Sí, deben secuenciarse por periodos (semestres, trimestres).",
+                "📜 Son categorías que agrupan unidades temáticamente (ej. «Salud pública»).",
+                "✅ Se vinculan mediante prerrequisitos y seriación (Artículo 21)."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 11",
+            "topic": "Estructura del plan"
+        },
+        {
+            "tag": "criterios_implantacion",
+            "patterns": [
+                "¿Qué son los criterios de implantación?",
+                "¿Las equivalencias entre planes son obligatorias?",
+                "¿Cómo se gestiona la transición entre planes antiguos y nuevos?",
+                "¿Qué incluye la tabla de equivalencias?",
+                "¿Quién define la estrategia de operación?"
+            ],
+            "responses": [
+                "📘 El artículo 12 los define como mecanismos académico-administrativos para implementar el plan (ej. equivalencias, calendarios).",
+                "🔹 Sí, si se modifica un plan existente, debe incluirse tabla de equivalencias.",
+                "🎯 Se establecen periodos de transición y reconocimiento de créditos.",
+                "📜 La tabla detalla cómo se convalidan unidades de aprendizaje anteriores.",
+                "✅ La dependencia académica proponente, con aval del Consejo Divisional."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 12",
+            "topic": "Criterios de implantación"
+        },
+        {
+            "tag": "evaluacion_actualizacion",
+            "patterns": [
+                "¿Qué debe incluir el plan de evaluación?",
+                "¿Cómo se mide la congruencia del plan con el contexto social?",
+                "¿La evaluación es periódica?",
+                "¿Qué se hace con los resultados de la evaluación?",
+                "¿Quién realiza las evaluaciones curriculares?"
+            ],
+            "responses": [
+                "📘 El artículo 13 exige mecanismos para evaluar congruencia curricular, pertinencia social y avances disciplinares.",
+                "🔹 Mediante indicadores de empleabilidad, satisfacción estudiantil y estándares académicos.",
+                "🎯 Sí, debe ser periódica para identificar necesidades de actualización.",
+                "📜 Los resultados derivan en modificaciones al plan.",
+                "✅ La dependencia académica, con apoyo de comités de evaluación designados."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 13",
+            "topic": "Evaluación y actualización"
+        },
+        {
+            "tag": "aprobacion_planes",
+            "patterns": [
+                "¿Quién aprueba los nuevos planes de estudio según el artículo 14?",
+                "¿Qué pasa con los planes de bachillerato?",
+                "¿Quién valida los planes en línea?",
+                "¿Puede un centro universitario ofrecer carreras de otro centro?",
+                "¿Cuánto tiempo tienen las dependencias para dar su opinión?"
+            ],
+            "responses": [
+                "📘 El Consejo General Universitario da la aprobación definitiva, tras revisión de Colegios Departamentales y Consejos Divisionales.",
+                "🔹 Los planes de medio superior los propone el Consejo de Educación Media Superior (Artículo 14, párrafo 2).",
+                "🎯 La Dirección General de Universidad Virtual valida planes en línea antes de su aprobación.",
+                "📜 Sí, pero requiere autorización del Consejo General Universitario (Artículo 18).",
+                "⚖️ Las dependencias tienen 20 días hábiles para emitir observaciones (Artículo 16)."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 14",
+            "topic": "Proceso de aprobación"
+        },
+        {
+            "tag": "cambios_contenidos_unidades",
+            "patterns": [
+                "¿Quién aprueba cambios en los contenidos de las unidades de aprendizaje (Artículo 15)?",
+                "¿Los centros universitarios pueden modificar contenidos sin autorización?",
+                "¿Qué tipo de cambios se consideran en el artículo 15?",
+                "¿El Sistema de Educación Media Superior también aplica este artículo?",
+                "¿Se requiere evaluación previa para modificar contenidos?"
+            ],
+            "responses": [
+                "📘 El artículo 15 establece que los cambios en contenidos los resuelven los Consejos de Centros Universitarios o el Sistema de Educación Media Superior.",
+                "🔹 No, deben ser aprobados por los órganos colegiados correspondientes.",
+                "🎯 Incluye ajustes a programas de materias, métodos de enseñanza o bibliografía.",
+                "📜 Sí, aplica para bachillerato, licenciatura y posgrado según su nivel.",
+                "✅ Se recomienda evaluación técnica, pero no es explícita en el artículo."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 15",
+            "topic": "Cambios en contenidos de unidades"
+        },
+        {
+            "tag": "plazo_opiniones",
+            "patterns": [
+                "¿Cuánto tiempo tienen las dependencias para emitir opiniones sobre un plan?",
+                "¿Qué pasa si no se cumplen los 20 días hábiles para opinar?",
+                "¿Las observaciones deben ser por escrito?",
+                "¿Quién solicita las opiniones según el artículo 16?",
+                "¿Se pueden extender los plazos para opinar?"
+            ],
+            "responses": [
+                "📘 El artículo 16 da un plazo máximo de 20 días hábiles para presentar observaciones por escrito.",
+                "🔹 No hay sanción explícita, pero podría retrasar la aprobación del plan.",
+                "🎯 Sí, deben ser documentadas para ser consideradas en el dictamen.",
+                "📜 La Comisión de Educación del Consejo General Universitario.",
+                "✅ El reglamento no menciona extensiones; el plazo es firme."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 16",
+            "topic": "Plazo para opiniones"
+        },
+        {
+            "tag": "dictamen_comision_educacion",
+            "patterns": [
+                "¿Qué hace la Comisión de Educación con los planes presentados ?",
+                "¿En cuánto tiempo emite su dictamen la Comisión?",
+                "¿Qué pasa si hay observaciones a la propuesta?",
+                "¿El dictamen debe estar fundamentado?",
+                "¿Quién aprueba finalmente el plan?"
+            ],
+            "responses": [
+                "📘 El artículo 17 indica que la Comisión estudia los planes y emite un dictamen fundado y motivado.",
+                "🔹 Tiene 30 días hábiles para notificar observaciones a la dependencia proponente.",
+                "🎯 Las observaciones se comunican para su revisión y ajuste.",
+                "📜 Sí, debe incluir análisis técnicos y legales.",
+                "✅ El Consejo General Universitario da la aprobación definitiva (Artículo 14)."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 17",
+            "topic": "Dictamen de la Comisión de Educación"
+        },
+        {
+            "tag": "oferta_carreras_centros",
+            "patterns": [
+                "¿Un centro universitario puede ofrecer carreras de otro centro?",
+                "¿Qué órgano aprueba la oferta compartida de carreras?",
+                "¿Los planes en línea son exclusivos de un centro?",
+                "¿Qué significa que los planes virtuales sean 'únicos' en la Red Universitaria?",
+                "¿Cómo se elige la sede de un plan virtual?"
+            ],
+            "responses": [
+                "📘 Sí, pero requiere aprobación del Consejo General Universitario (Artículo 18, párrafo 1).",
+                "🔹 El Consejo General Universitario, previa evaluación de viabilidad.",
+                "🎯 Sí, los planes en línea/virtual tienen una sola sede en toda la Red (Artículo 18, párrafo 2).",
+                "📜 Que no pueden replicarse en otros centros; son administrados centralmente.",
+                "✅ Según criterios de capacidad académica e infraestructura (Artículos 18 Bis 1-3)."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 18",
+            "topic": "Oferta de carreras entre centros"
+        },
+        {
+            "tag": "requisitos_sedes_virtuales",
+            "patterns": [
+                "¿Qué necesita un centro para ser sede de planes virtuales?",
+                "¿La plantilla académica debe tener certificación especial?",
+                "¿Quién acredita la capacitación en educación virtual?",
+                "¿Cada cuánto se evalúan los planes virtuales?",
+                "¿Qué pasa si un centro no cumple los requisitos?"
+            ],
+            "responses": [
+                "📘 Requiere: plantilla académica capacitada en aprendizaje digital, infraestructura y recursos financieros (Artículo 18 Bis 3).",
+                "🔹 Sí, debe acreditarse ante la Dirección General de Universidad Virtual.",
+                "🎯 La Dirección General de Universidad Virtual y Aprendizaje Digital.",
+                "📜 Cada 2 años (Artículo 18 Bis 4).",
+                "✅ Podría perder la sede del plan o ser sujeto a medidas correctivas."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 18 Bis 1",
+            "topic": "Requisitos para sedes virtuales"
+        },
+        {
+            "tag": "proceso_aprobacion_sedes",
+            "patterns": [
+                "¿Quién puede proponer una nueva sede para planes virtuales?",
+                "¿Qué rol tiene el Consejo de Rectores en la aprobación?",
+                "¿Qué debe incluir el informe técnico de viabilidad?",
+                "¿Quién dictamina finalmente la sede?",
+                "¿Cuánto tiempo tarda el proceso?"
+            ],
+            "responses": [
+                "📘 Cualquier miembro del Consejo de Rectores, Consejos de Centro o del Sistema de Educación Media Superior.",
+                "🔹 Emite una opinión no vinculante antes de la dictaminación.",
+                "🎯 Análisis de capacidad académica, infraestructura y recursos (Artículo 18 Bis 3).",
+                "📜 Las Comisiones Permanentes del Consejo General Universitario.",
+                "✅ El reglamento no especifica plazos, pero depende de la complejidad."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 18 Bis 2",
+            "topic": "Proceso de aprobación de sedes"
+        },
+        {
+            "tag": "criterios_aprobacion_sedes",
+            "patterns": [
+                "¿Qué criterios se usan para aprobar sedes virtuales?",
+                "¿La infraestructura tecnológica es un requisito clave?",
+                "¿Cómo se evalúa la plantilla académica?",
+                "¿Se consideran recursos financieros?",
+                "¿La opinión técnica es obligatoria?"
+            ],
+            "responses": [
+                "📘 El artículo 18 Bis 3 lista: I) Plantilla certificada, II) Infraestructura, III) Recursos financieros, IV) Evaluaciones previas, V) Opinión técnica de la Dirección de Universidad Virtual.",
+                "🔹 Sí, debe garantizar conectividad, plataformas y soporte técnico.",
+                "🎯 Verificando certificaciones en educación digital y experiencia previa.",
+                "📜 Sí, debe demostrarse sostenibilidad económica del plan.",
+                "✅ Sí, es un requisito vinculante."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 18 Bis 3",
+            "topic": "Criterios para aprobación de sedes"
+        },
+        {
+            "tag": "evaluacion_planes_virtuales",
+            "patterns": [
+                "¿Cada cuánto se evalúan los planes virtuales?",
+                "¿Quién realiza la evaluación?",
+                "¿Qué se hace con los resultados?",
+                "¿El informe técnico es público?",
+                "¿Pueden suspenderse planes por malos resultados?"
+            ],
+            "responses": [
+                "📘 Cada 2 años, por la Dirección General de Universidad Virtual.",
+                "🔹 La Dirección de Universidad Virtual, con apoyo de comités académicos.",
+                "🎯 Se presentan al Consejo de Rectores para determinar ajustes o continuidad.",
+                "📜 No se especifica, pero es insumo para decisiones institucionales.",
+                "✅ Sí, si incumplen estándares de calidad."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 18 Bis 4",
+            "topic": "Evaluación de planes virtuales"
+        },
+        {
+            "tag": "vigencia_planes_aprobados",
+            "patterns": [
+                "¿Cuándo entran en vigor los planes aprobados?",
+                "¿Qué información debe contener un plan de estudios vigente?",
+                "¿El nombre de la carrera es obligatorio en la publicación?",
+                "¿Los objetivos específicos son parte del plan oficial?",
+                "¿Dónde se publican los planes aprobados?"
+            ],
+            "responses": [
+                "📘 En el calendario escolar siguiente a su aprobación por el Consejo General Universitario.",
+                "🔹 Debe incluir: nombre de la carrera, grado, antecedentes académicos, objetivos, estructura, áreas formativas, etc. (21 elementos listados en el Artículo 19).",
+                "🎯 Sí, junto con el diploma o grado que confiere.",
+                "📜 Sí, deben detallarse en el plan publicado.",
+                "✅ En La Gaceta de la Universidad de Guadalajara y plataformas oficiales."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 19",
+            "topic": "Vigencia de planes aprobados"
+        },
+        {
+            "tag": "areas_formativas",
+            "patterns": [
+                "¿Cuáles son las áreas formativas que debe tener un plan de estudios según el artículo 20?",
+                "¿Qué incluye el área de formación básica común?",
+                "¿El área especializante puede tener materias optativas?",
+                "¿Qué diferencia hay entre área básica común y particular?",
+                "¿Las materias optativas son obligatorias?"
+            ],
+            "responses": [
+                "📘 El artículo 20 establece 4 áreas: 1) Básica común, 2) Básica particular, 3) Especializante, y 4) Optativa abierta.",
+                "🔹 El área básica común integra materias compartidas entre carreras del mismo campo (ej. Matemáticas generales).",
+                "🎯 Sí, puede tener materias selectivas (no obligatorias) dentro de sus bloques temáticos.",
+                "📜 La básica común es transversal; la particular es exclusiva de la carrera.",
+                "✅ No, son complementarias y el alumno elige según sus intereses."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 20",
+            "topic": "Áreas formativas"
+        },
+        {
+            "tag": "contenido_unidades_aprendizaje",
+            "patterns": [
+                "¿Qué debe contener el programa de una unidad de aprendizaje?",
+                "¿Los prerrequisitos son obligatorios en todas las materias?",
+                "¿Cómo se define la carga horaria global?",
+                "¿La bibliografía básica es parte del programa oficial?",
+                "¿Qué son las modalidades de evaluación?"
+            ],
+            "responses": [
+                "📘 Debe incluir: denominación, tipo (curso/taller), nivel, prerrequisitos, carga horaria, créditos, objetivos, contenido temático, bibliografía y criterios de evaluación.",
+                "🔹 Sí, deben especificarse cuando existan (ej. «Curso X» requiere «Curso Y»).",
+                "🎯 Es el total de horas teóricas/prácticas necesarias para cumplir el programa.",
+                "📜 Sí, junto con bibliografía complementaria y materiales de apoyo.",
+                "✅ Son los instrumentos (exámenes, proyectos) y sus ponderaciones para calificar."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 21",
+            "topic": "Contenido de unidades de aprendizaje"
+        },
+        {
+            "tag": "sistema_creditos",
+            "patterns": [
+                "¿Cómo se asignan los créditos según el artículo 22?",
+                "¿Qué es un crédito académico en la UdeG?",
+                "¿Los créditos son iguales para materias teóricas y prácticas?",
+                "¿Los cursos propedéuticos dan créditos?",
+                "¿Se pueden acreditar competencias en idiomas?"
+            ],
+            "responses": [
+                "📘 Según rangos de horas: 8-11 hrs teóricas = 1 crédito; 23-37 hrs prácticas = 2 créditos (ver tablas del Artículo 22).",
+                "🔹 Es la unidad de medida del trabajo académico requerido por una materia.",
+                "🎯 No, las prácticas necesitan más horas por crédito (ej. 8-22 hrs prácticas = 1 crédito vs. 8-11 hrs teóricas = 1 crédito).",
+                "📜 No, según el inciso c) del Artículo 22.",
+                "✅ Sí, hasta 5% de los créditos totales del plan (inciso d)."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 22",
+            "topic": "Sistema de créditos"
+        },
+        {
+            "tag": "tabla_creditos_teoricos",
+            "patterns": [
+                "¿Cuántos créditos vale un curso de 45 horas teóricas?",
+                "¿Y uno de 100 horas teóricas?",
+                "¿Un curso de 72-78 horas teóricas cuántos créditos otorga?",
+                "¿Qué rango de horas teóricas equivale a 5 créditos?",
+                "¿Cómo se calculan los créditos si un curso tiene 200 horas teóricas?",
+                "¿Un curso de 25 horas teóricas vale 2 o 3 créditos?",
+                "¿Dónde termina la escala de créditos teóricos?",
+                "¿Un curso de 300 horas teóricas tiene 40 créditos?",
+                "¿Las horas teóricas se redondean para asignar créditos?",
+                "¿Un curso de 19-26 horas teóricas siempre vale 3 créditos?"
+            ],
+            "responses": [
+                "📘 6 créditos (rango 42-48 hrs teóricas, tabla del Artículo 22).",
+                "🔹 14 créditos (rango 102-108 hrs teóricas).",
+                "🎯 10 créditos (ver tabla, rango explícito).",
+                "📜 34-41 horas teóricas = 5 créditos.",
+                "✅ 22 créditos (rango 162-168 hrs teóricas).",
+                "📘 3 créditos (rango 19-26 hrs teóricas).",
+                "🔹 En 40 créditos para 297-302 horas teóricas (último rango de la tabla).",
+                "🎯 No, 300 hrs teóricas exceden el máximo; se requiere ajuste curricular.",
+                "📜 No, se usan rangos fijos (ej. 27-33 hrs = 4 créditos, sin redondeo).",
+                "✅ Sí, es un rango cerrado definido en la tabla oficial."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 22 (Tabla teóricos)",
+            "topic": "Cálculo de créditos teóricos"
+        },
+        {
+            "tag": "tabla_creditos_practicos",
+            "patterns": [
+                "¿Cuántos créditos vale un taller de 50 horas prácticas?",
+                "¿Y un laboratorio de 120 horas prácticas?",
+                "¿Un curso práctico de 80-82 horas cuántos créditos da?",
+                "¿Qué rango de horas prácticas equivale a 7 créditos?",
+                "¿Cómo se calculan los créditos para 150 horas prácticas?",
+                "¿Un curso de 30 horas prácticas vale 1 o 2 créditos?",
+                "¿Dónde termina la escala de créditos prácticos?",
+                "¿300 horas prácticas son 20 créditos?",
+                "¿Las horas prácticas tienen rangos más amplios que las teóricas?",
+                "¿Un curso de 53-67 horas prácticas siempre vale 4 créditos?"
+            ],
+            "responses": [
+                "📘 3 créditos (rango 38-52 hrs prácticas).",
+                "🔹 8 créditos (rango 113-127 hrs prácticas).",
+                "🎯 5 créditos (rango 68-82 hrs).",
+                "📜 98-112 horas prácticas = 7 créditos.",
+                "✅ 10 créditos (rango 143-157 hrs).",
+                "📘 2 créditos (rango 23-37 hrs).",
+                "🔹 En 20 créditos para 293-302 horas prácticas (último rango).",
+                "🎯 Sí, según el rango máximo de la tabla.",
+                "📜 Sí, los rangos son más amplios (ej. 8-22 hrs = 1 crédito vs. 8-11 hrs teóricas = 1 crédito).",
+                "✅ Sí, es un rango fijo en la tabla."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 22 (Tabla prácticos)",
+            "topic": "Cálculo de créditos prácticos"
+        },
+        {
+            "tag": "minimos_creditos",
+            "patterns": [
+                "¿Cuál es el mínimo de créditos para una licenciatura (Artículo 23)?",
+                "¿Y para una maestría?",
+                "¿Los doctorados tienen créditos fijos?",
+                "¿Cuántos créditos requiere un bachillerato?",
+                "¿Las carreras técnicas tienen menos créditos que las licenciaturas?"
+            ],
+            "responses": [
+                "📘 Licenciatura: mínimo 300, máximo 500 créditos (Artículo 23, inciso e).",
+                "🔹 Maestría: mínimo 75 créditos (máximo 30% para tesis).",
+                "🎯 No, el doctorado no tiene créditos específicos (inciso h).",
+                "📜 Bachillerato: entre 180 y 300 créditos (inciso a).",
+                "✅ Sí, las técnicas van de 150 a 400 créditos (incisos b-d)."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 23",
+            "topic": "Mínimos y máximos de créditos"
+        },
+        {
+            "tag": "reconocimiento_creditos_posgrado",
+            "patterns": [
+                "¿Cómo se reconocen los créditos en estudios de posgrado según el artículo 24?",
+                "¿Los créditos de unidades de aprendizaje y actividades académicas son equivalentes en posgrados?",
+                "¿El artículo 24 aplica para maestrías y doctorados?",
+                "¿Puede un seminario de investigación dar créditos en un doctorado?",
+                "¿Quién define cómo se asignan los créditos en posgrados?"
+            ],
+            "responses": [
+                "📘 El artículo 24 establece que los créditos de unidades de aprendizaje (cursos) y actividades académicas (investigación, prácticas) se reconocen indistintamente en posgrados, según lo especifique el plan de estudios.",
+                "🔹 Sí, son equivalentes. Por ejemplo, un taller de investigación puede valer lo mismo que un curso teórico.",
+                "🎯 Sí, aplica para especializaciones, maestrías y doctorados.",
+                "📜 Sí, si el plan de estudios del doctorado así lo especifica (ej. 1 crédito por 20 horas de seminario).",
+                "✅ Cada plan de estudios de posgrado define la asignación, dentro de los mínimos del Artículo 23 (ej. 75 créditos para maestría)."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 24",
+            "topic": "Reconocimiento de créditos en posgrados"
+        },
+        {
+            "tag": "flexibilidad_creditos",
+            "patterns": [
+                "¿Cuántos créditos puede cursar un alumno por ciclo (Artículo 25)?",
+                "¿Hay un mínimo obligatorio de créditos por semestre?",
+                "¿El promedio de 60 créditos es rígido?",
+                "¿Qué pasa si no se cumplen los créditos mínimos?",
+                "¿Los posgrados también aplican este artículo?"
+            ],
+            "responses": [
+                "📘 Mínimo 30, promedio 60, máximo 90 créditos por ciclo en nivel superior.",
+                "🔹 Sí, 30 créditos es el mínimo para mantener la inscripción.",
+                "🎯 No, es referencial; el alumno puede ajustar su carga académica.",
+                "📜 Podría afectar la beca o permanencia en el programa.",
+                "✅ No, los posgrados se rigen por sus propios reglamentos."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 25",
+            "topic": "Flexibilidad en créditos por ciclo"
+        },
+        {
+            "tag": "plazos_terminacion",
+            "patterns": [
+                "¿Cuál es el plazo máximo para terminar una licenciatura?",
+                "¿Y el plazo mínimo?",
+                "¿Los plazos aplican para posgrados?",
+                "¿Qué pasa si no se termina en el plazo máximo?",
+                "¿Cómo se calcula el plazo para carreras de 12 ciclos?"
+            ],
+            "responses": [
+                "📘 El doble de la duración normal (ej. 8 semestres → 16).",
+                "🔹 Mínimo 6 ciclos para carreras de 8 ciclos; 8 para las de 12.",
+                "🎯 Sí: maestría mínimo 3 ciclos, doctorado 4.",
+                "📜 El alumno podría ser dado de baja o requerir prórroga excepcional.",
+                "✅ El máximo sería 24 ciclos (12 x 2), y el mínimo 8."
+            ],
+            "document": "RGPE (2024)",
+            "article": "Artículo 26",
+            "topic": "Plazos para terminación de estudios"
+        }
+
+    ]
+}

@@ -1,0 +1,10 @@
+uvicorn>=0.23.1
+numpy>=1.25.2
+requests>=2.31.0
+faiss-cpu>=1.8.5.post3
+torch>=2.1.0
+fastapi>=0.100.0
+sentence-transformers>=2.2.2
+langchain>=0.0.300
+python-dotenv>=1.1.0
+langchain-community>=0.0.10

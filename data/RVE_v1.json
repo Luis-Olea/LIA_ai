@@ -1,0 +1,926 @@
+{
+    "main_topic": "Reglamento de Reconocimiento de Validez Oficial de Estudios de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "objeto_del_reglamento",
+            "patterns": [
+                "¿Qué establece el artículo 1 del Reglamento de Validez Oficial de Estudios?",
+                "¿Cuál es el objetivo principal de este reglamento según el artículo 1?",
+                "¿Qué facultades otorga este reglamento a la UdeG?",
+                "¿Qué niveles educativos cubre este reglamento?",
+                "¿Qué acciones puede tomar la UdeG sobre instituciones particulares?"
+            ],
+            "responses": [
+                "📘 El artículo 1 establece que este reglamento norma el proceso para otorgar, negar o retirar el Reconocimiento de Validez Oficial de Estudios (RVOE) a instituciones particulares en niveles medio superior y superior. 🎓",
+                "🔹 Su objetivo es regular la incorporación de instituciones privadas al Sistema Educativo Nacional bajo los estándares de calidad de la UdeG. ⚖️",
+                "🎯 La UdeG puede autorizar, rechazar o revocar el Reglamento de Validez Oficial de Estudios tras evaluar el cumplimiento de requisitos académicos, legales y administrativos. ✅",
+                "📘 Aplica para educación media superior (preparatorias) y superior (licenciaturas, posgrados). No cubre educación básica. 📚",
+                "🔹 Puede otorgar el RVOE si cumplen requisitos, negarlo si no los cumplen, o retirarlo si incumplen lo establecido. ⚠️"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento"
+        },
+        {
+            "tag": "definiciones_clave",
+            "patterns": [
+                "¿Qué es un 'acuerdo de reconocimiento' según el artículo 2?",
+                "¿Cómo define el artículo 2 a una 'escuela por cooperación'?",
+                "¿Qué se entiende por 'incorporación' en este reglamento?",
+                "¿Qué es un 'plantel educativo' para efectos de este reglamento?",
+                "¿Quiénes son considerados 'instituciones particulares'?"
+            ],
+            "responses": [
+                "📘 Es el documento oficial emitido por el Rector General (tras dictamen del Consejo Universitario) que autoriza a una institución privada impartir un plan de estudios específico. 📜",
+                "🔹 Son planteles creados en zonas sin oferta educativa pública, para atender a población de bajos recursos económicos. 🏫",
+                "🎯 Es el proceso que integra a una institución al Sistema Educativo Nacional, haciéndola equivalente a la UdeG para los estudios autorizados. 🌐",
+                "📘 Es la sede física autorizada por la UdeG (debidamente registrada en la Gaceta Universitaria) donde se imparten los estudios con RVOE. 📋",
+                "🔹 Asociaciones civiles o sociedades privadas que solicitan el RVOE para ofrecer servicios educativos. 👥"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 2",
+            "topic": "Definiciones clave"
+        },
+        {
+            "tag": "efectos_del_rvoe",
+            "patterns": [
+                "¿Qué validez tienen los estudios con RVOE según el artículo 3?",
+                "¿Los planes de estudio con RVOE deben ser idénticos a los de la UdeG?",
+                "¿Puede una institución modificar sus planes una vez obtenido el RVOE?",
+                "¿El RVOE aplica para materias sueltas o ciclos incompletos?",
+                "¿Qué derechos otorga el RVOE a los estudiantes?"
+            ],
+            "responses": [
+                "📘 Acreditan la misma validez oficial que los estudios impartidos directamente por la UdeG y permiten la incorporación al Sistema Educativo Nacional. ✅",
+                "🔹 Sí, deben tener los mismos contenidos, requisitos y calidad académica que los planes de la UdeG. 📚",
+                "🎯 No, cualquier modificación requiere nueva autorización mediante el mismo proceso. ⚠️",
+                "📘 No, solo para ciclos completos (ej. una carrera, no materias aisladas). 🚫",
+                "🔹 Certificación oficial, movilidad académica y derecho a titulación bajo normas UdeG. 🎓"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 3",
+            "topic": "Efectos del RVOE"
+        },
+        {
+            "tag": "participacion_instituciones",
+            "patterns": [
+                "¿Qué obligaciones tienen las instituciones con RVOE según el artículo 4?",
+                "¿Pueden las instituciones con RVOE usar el nombre o logotipo de la UdeG?",
+                "¿La UdeG supervisa a las instituciones con RVOE?",
+                "¿Qué pasa si una institución incumple el reglamento?",
+                "¿Las instituciones con RVOE son autónomas?"
+            ],
+            "responses": [
+                "📘 Prestar servicios educativos bajo las normas de la UdeG y este reglamento, manteniendo estándares de calidad. ⚖️",
+                "🔹 Solo con autorización expresa y pago de aranceles (artículo 5). Usarlos sin permiso es infracción grave. 💰",
+                "🎯 Sí, mediante visitas de inspección y evaluaciones periódicas (capítulo XIII). 🔍",
+                "📘 Pueden ser sancionadas con multas, amonestaciones o revocación del RVOE (capítulo XV). ⚠️",
+                "🔹 Solo en gestión administrativa. Académicamente deben seguir los lineamientos de la UdeG. 📋"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 4-5",
+            "topic": "Rol de instituciones con RVOE"
+        },
+        {
+            "tag": "organos_competentes",
+            "patterns": [
+                "¿Quiénes deciden sobre el Reglamento de Validez Oficial de Estudios?",
+                "¿Qué atribuciones tiene el Consejo General Universitario?",
+                "¿Qué función cumple la Comisión de Revalidación?",
+                "¿Quién emite el dictamen técnico de las solicitudes de Reglamento de Validez Oficial de Estudios?",
+                "¿Qué papel juegan los centros universitarios en el proceso?"
+            ],
+            "responses": [
+                "📘 El Consejo General Universitario, la Comisión de Revalidación, la Rectoría General, la Secretaría General y los centros universitarios. 🏛️",
+                "🔹 Dictar normas generales para la incorporación y establecer criterios para otorgar/negar el RVOE. 📜",
+                "🎯 Emitir recomendaciones, resolver recursos de revisión y analizar consultas técnicas sobre RVOE. ⚖️",
+                "📘 Los Consejos Universitarios de cada centro (art. 9) o del Sistema de Educación Media Superior. 🎓",
+                "🔹 Evalúan solicitudes, supervisan planes de estudio y proponen normas particulares (art. 9-11). 📚"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 6-8",
+            "topic": "Autoridades competentes"
+        },
+        {
+            "tag": "atribuciones_consejos",
+            "patterns": [
+                "¿Qué función tienen los Consejos Universitarios en el Reglamento de Validez Oficial de Estudios?",
+                "¿Qué propone la Comisión de Revalidación de cada centro?",
+                "¿Pueden los centros universitarios modificar las normas de RVOE?",
+                "¿Quién resuelve las solicitudes de revalidación de estudios?",
+                "¿Qué atribuciones tienen los rectores de centros?"
+            ],
+            "responses": [
+                "📘 Dictaminar sobre solicitudes de incorporación de estudios en su ámbito de competencia. ✅",
+                "🔹 Normas particulares para RVOE y dictámenes sobre solicitudes de instituciones en su jurisdicción. 📋",
+                "🎯 Solo pueden proponer modificaciones al Consejo General Universitario (art. 10-I). ⚠️",
+                "📘 La Comisión de Revalidación de cada centro, para alumnos de instituciones con RVOE (art. 10-III). 🎓",
+                "🔹 Tramitar solicitudes, coordinar supervisiones y verificar que el personal docente cumpla requisitos. 👨🏫"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 9-11",
+            "topic": "Funciones de los consejos universitarios"
+        },
+        {
+            "tag": "funciones_coordinacion_incorporados",
+            "patterns": [
+                "¿Qué hace la Coordinación de Estudios Incorporados?",
+                "¿Quién recibe y revisa las solicitudes de Reglamento de Validez Oficial de Estudios?",
+                "¿Pueden rechazar una solicitud de Reglamento de Validez Oficial de Estudios? si falta documentación?",
+                "¿Qué pasa después de que se acepta una solicitud de Reglamento de Validez Oficial de Estudios?",
+                "¿Quién notifica si un RVOE es aprobado o rechazado?"
+            ],
+            "responses": [
+                "📘 Según el artículo 12, esta área recibe, revisa y tramita solicitudes de RVOE, publica convocatorias y verifica documentos. También coordina supervisiones. 📋",
+                "🔹 La Coordinación de Estudios Incorporados es la responsable inicial de revisar que las solicitudes cumplan todos los requisitos. 🔍",
+                "🎯 Sí, si la solicitud no está completa, notifican por escrito las deficiencias y dan plazo para corregirlas (artículo 20). ⚠️",
+                "📘 Ordenan visitas de inspección al plantel y remiten el expediente al Consejo Universitario para dictamen (artículo 21 y 25). 🏫",
+                "🔹 La misma Coordinación notifica por escrito al representante legal de la institución (artículo 12-IX). ✉️"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 12",
+            "topic": "Funciones de la Coordinación de Estudios Incorporados"
+        },
+        {
+            "tag": "requisitos_rvoe",
+            "patterns": [
+                "¿Qué necesita una escuela privada para obtener la validez oficial de estudios?",
+                "¿Los profesores deben tener título profesional?",
+                "¿La escuela debe tener un estudio de mercado?",
+                "¿Se requiere un mínimo de instalaciones?",
+                "¿Hay que pagar algo para solicitar la validez oficial de estudios"
+            ],
+            "responses": [
+                "📘 El artículo 13 exige: ser asociación civil, planes de estudio aprobados, profesores calificados, instalaciones adecuadas, solvencia económica y pago de cuotas. ✅",
+                "🔹 Sí, igual o mayor grado al que imparten, con perfiles equivalentes a los de la UdeG (artículo 13-V). 🎓",
+                "🎯 Sí, un diagnóstico de zona de influencia, oferta educativa local y mercado laboral (artículo 13-IX). 📊",
+                "📘 Espacios pedagógicos, seguros, higiénicos y con equipamiento acorde al plan de estudios (artículo 13-VI). 🏫",
+                "🔹 Sí, cuotas por trámite e inspección (artículo 13-VIII y 88). 💰"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 13",
+            "topic": "Requisitos para obtener RVOE"
+        },
+        {
+            "tag": "solicitud_rvoe",
+            "patterns": [
+                "¿Cómo se solicita formalmente el Reglamento de Validez Oficial de Estudios?",
+                "¿Quién debe firmar la solicitud de la validez oficial de estudios",
+                "¿Hay un plazo para presentar la solicitud?",
+                "¿Qué documentos se necesitan para la solicitud?",
+                "¿Se puede pedir la validez oficial de estudios para una sede adicional?"
+            ],
+            "responses": [
+                "📘 El artículo 14 indica que debe ser por escrito, dirigida al Rector General, a través del representante legal de la institución. 📝",
+                "🔹 El representante legal de la asociación o sociedad civil, bajo protesta de decir verdad (artículo 17). ✍️",
+                "🎯 Mínimo 180 días naturales antes del inicio del ciclo escolar (artículo 16). ⏳",
+                "📘 Acta constitutiva, comprobante de propiedad del inmueble, planos, CV de profesores, planes de estudio, entre otros (artículo 17). 📑",
+                "🔹 Sí, pero debe acreditar que cumple todos los requisitos en la nueva sede (artículo 13, párrafo final). 🏢"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 14-17",
+            "topic": "Proceso de solicitud"
+        },
+        {
+            "tag": "modificaciones_solicitud",
+            "patterns": [
+                "¿Se pueden agregar más requisitos a la solicitud de validez oficial de estudios?",
+                "¿Quién decide si se piden documentos adicionales?",
+                "¿La UdeG puede verificar la información proporcionada?",
+                "¿Qué pasa si mienten en la solicitud?",
+                "¿Los requisitos son los mismos para todas las carreras?"
+            ],
+            "responses": [
+                "📘 El artículo 18 permite que el Rector General o las comisiones técnicas adicionen requisitos específicos. ⚖️",
+                "🔹 El Rector General o las comisiones dictaminadoras, según necesidades académicas o legales. 👨⚖️",
+                "🎯 Sí, las autoridades pueden verificar los datos mediante visitas o consultas a otras instituciones (artículo 17, párrafo final). 🔎",
+                "📘 Es causa de negativa de RVOE, revocación futura o sanciones legales (artículo 78-I). ⚠️",
+                "🔹 Los básicos sí, pero pueden exigirse requisitos adicionales según la complejidad de la carrera (artículo 18). 📚"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 18",
+            "topic": "Modificaciones a los requisitos"
+        },
+        {
+            "tag": "vigencia_rvoe",
+            "patterns": [
+                "¿Cuánto tiempo dura la validez oficial de estudios?",
+                "¿Se puede renovar la validez oficial de estudios?",
+                "¿Qué pasa si no renuevan la validez oficial de estudios a tiempo?",
+                "¿Cómo deciden si renuevan la validez oficial de estudios?",
+                "¿La UdeG puede quitar el RVOE antes de que venza?"
+            ],
+            "responses": [
+                "📘 El artículo 19 establece que el RVOE se otorga por 3 años, renovable tras evaluación. 📅",
+                "🔹 Sí, pero la institución debe demostrar que mantiene estándares de calidad durante ese periodo. 🔄",
+                "🎯 Pierden derecho a operar y deben informar a los estudiantes sobre la situación. 🚫",
+                "📘 Basado en evaluaciones de desempeño académico, infraestructura y cumplimiento normativo. 📊",
+                "🔹 Sí, por incumplimiento grave de obligaciones (capítulo XV). ⚠️"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 19",
+            "topic": "Vigencia y renovación del RVOE"
+        },
+        {
+            "tag": "revision_solicitud",
+            "patterns": [
+                "¿Qué pasa si mi solicitud de  validez oficial de estudios está incompleta?",
+                "¿Me devuelven la solicitud si falta algo?",
+                "¿Cuánto tiempo tengo para corregir los errores?",
+                "¿Pierdo el pago si mi solicitud es rechazada?",
+                "¿Cómo sabré qué me falta en la solicitud?"
+            ],
+            "responses": [
+                "📘 El artículo 20 indica que la Coordinación notificará por escrito las deficiencias y dará plazo para subsanarlas. 📄",
+                "🔹 No la aceptarán hasta que esté completa, pero no la devuelven inmediatamente (artículo 20). ⏸️",
+                "🎯 El plazo lo fija la Coordinación en la notificación, según la complejidad de las correcciones. ⏳",
+                "📘 No, las cuotas pagadas no son reembolsables (artículo 24, párrafo 2). 💸",
+                "🔹 La notificación detallará los documentos faltantes o errores a corregir. 📋"
+            ],
+            "document": "Reglamento de RVOE",
+            "article": "Artículo 20",
+            "topic": "Revisión inicial de solicitudes"
+        },
+        {
+            "tag": "visitas_inspeccion",
+            "patterns": [
+                "¿Cómo se realizan las visitas de verificación para obtener la validez oficial de estudios?",
+                "¿Quién lleva a cabo las inspecciones a los planteles educativos?",
+                "¿Hay que pagar por las visitas de inspección?",
+                "¿Qué revisan durante la visita al plantel?",
+                "¿Cuánto tiempo tardan en hacer la inspección?"
+            ],
+            "responses": [
+                "📘 El artículo 21 establece que la Coordinación de Estudios Incorporados solicita visitas para verificar el cumplimiento de requisitos. Se levanta un acta detallada. 🔍",
+                "🔹 Personal autorizado por la Universidad de Guadalajara, que puede incluir académicos y administrativos. 👨💼",
+                "🎯 Sí, por cada visita se causa una cuota establecida en el arancel (artículo 88). 💰",
+                "📘 Verifican instalaciones, equipamiento, documentación legal y capacidad académica según lo requerido en el artículo 17. 🏫",
+                "🔹 No hay plazo fijo, pero todo el trámite (incluyendo dictamen) no debe exceder 180 días (artículo 27). ⏳"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 21",
+            "topic": "Visitas de inspección"
+        },
+        {
+            "tag": "subsanacion_deficiencias",
+            "patterns": [
+                "¿Qué pasa si en la visita encuentran deficiencias en el plantel?",
+                "¿Cuánto tiempo dan para corregir los problemas detectados?",
+                "¿Pueden negar la validez oficial de estudios por fallas en la primera inspección?",
+                "¿Cómo sé qué debo corregir específicamente?",
+                "¿Hay una segunda visita después de corregir?"
+            ],
+            "responses": [
+                "📘 El artículo 22 indica que se notifican por escrito las deficiencias con un plazo improrrogable de 20 días hábiles para subsanarlas. 📄",
+                "🔹 20 días hábiles (aproximadamente 1 mes calendario). ⏱️",
+                "🎯 No inmediatamente. Primero dan oportunidad de corregir (artículo 23). Solo se cancela si persisten las fallas. ⚠️",
+                "📘 La notificación especifica cada punto a corregir, desde documentación hasta infraestructura. 📋",
+                "🔹 Sí, se programa nueva visita para verificar correcciones (artículo 23). 🔄"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 22-23",
+            "topic": "Subsanación de deficiencias"
+        },
+        {
+            "tag": "cancelacion_tramite",
+            "patterns": [
+                "¿En qué casos cancelan el trámite de validez oficial?",
+                "¿Devuelven el dinero si cancelan mi solicitud?",
+                "¿Puedo volver a solicitar la validez oficial después de una cancelación?",
+                "¿Cómo notifican la cancelación?",
+                "¿Qué pasa con los documentos que entregué?"
+            ],
+            "responses": [
+                "📘 El artículo 24 señala que ocurre si, tras la segunda visita, persisten deficiencias graves. También por falsedad en documentos. 🚫",
+                "🔹 No, las cuotas pagadas no son reembolsables (párrafo 2 del artículo 24). 💸",
+                "🎯 Sí, pero debe iniciarse el proceso desde cero y cubrir nuevamente las cuotas. 🔄",
+                "📘 Por escrito al representante legal, con el dictamen técnico que justifica la decisión. ✉️",
+                "🔹 Se devuelven junto con la notificación de cancelación. 📂"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 24",
+            "topic": "Cancelación del trámite"
+        },
+        {
+            "tag": "dictamen_final",
+            "patterns": [
+                "¿Quién aprueba finalmente la validez oficial de estudios?",
+                "¿Qué pasa después de que la visita de inspección es favorable?",
+                "¿El dictamen depende solo de las instalaciones?",
+                "¿Puede el Rector General negarse a firmar aunque el dictamen sea positivo?",
+                "¿Dónde publican la autorización?"
+            ],
+            "responses": [
+                "📘 El artículo 25 establece que el Consejo Universitario respectivo emite el dictamen, y el Rector General firma el acuerdo final. 👨⚖️",
+                "🔹 Se remite el expediente al Consejo Universitario para su votación (artículo 25). 📨",
+                "🎯 No, evalúan todo: planes de estudio, profesorado, solvencia económica y documentación legal (artículo 13). 📊",
+                "📘 Es improbable, pero podría hacerlo si detecta irregularidades no consideradas en el dictamen. ⚠️",
+                "🔹 En la Gaceta Universitaria (artículo 26). 📰"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 25-26",
+            "topic": "Dictamen final"
+        },
+        {
+            "tag": "plazo_resolucion",
+            "patterns": [
+                "¿Cuánto tardan en resolver la solicitud de validez oficial?",
+                "¿El plazo incluye el tiempo de las visitas?",
+                "¿Qué pasa si no responden en el plazo establecido?",
+                "¿Pueden ampliar el plazo de 180 días?",
+                "¿Desde cuándo se cuentan los 180 días?"
+            ],
+            "responses": [
+                "📘 El artículo 27 fija un máximo de 180 días naturales después del cierre de la convocatoria. 📅",
+                "🔹 Sí, todo el proceso (revisión, visitas y dictamen) debe completarse en ese plazo. ⏳",
+                "🎯 Puede interponerse un recurso de revisión (artículo 82-II). ⚖️",
+                "📘 No, salvo que el solicitante acepte una prórroga por causas justificadas. ⚠️",
+                "🔹 Desde que cierra la convocatoria publicada por la Coordinación (artículo 12-I). 🗓️"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 27",
+            "topic": "Plazo de resolución"
+        },
+        {
+            "tag": "derechos_previos",
+            "patterns": [
+                "¿Puedo empezar a operar mientras espero la resolución?",
+                "¿Qué pasa si promociono mi escuela como incorporada antes de tener el acuerdo?",
+                "¿Cuándo adquiero derechos como institución incorporada?",
+                "¿El trámite garantiza que me otorgarán la validez oficial?",
+                "¿Qué documento prueba que tengo la validez oficial?"
+            ],
+            "responses": [
+                "📘 El artículo 28 lo prohíbe expresamente. Operar sin el acuerdo es infracción grave. ⚠️",
+                "🔹 Es violación al reglamento y puede ser causa de negativa de la solicitud (artículo 78). 🚫",
+                "🎯 Solo tras la notificación formal del acuerdo firmado por el Rector General. 📜",
+                "📘 No, el trámite no crea derechos. La decisión final depende del cumplimiento estricto de requisitos. ⚖️",
+                "🔹 El acuerdo publicado en la Gaceta Universitaria, que debe exhibirse en el plantel (artículo 60-XIX). 📄"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 28",
+            "topic": "Derechos previos al acuerdo"
+        },
+        {
+            "tag": "registro_personal",
+            "patterns": [
+                "¿Debo registrar a los profesores ante la Universidad?",
+                "¿Qué pasa si cambio a un profesor después de obtener la validez oficial?",
+                "¿La UdeG puede rechazar a algún profesor que yo proponga?",
+                "¿Cada cuándo debo actualizar la plantilla docente?",
+                "¿Qué requisitos deben cumplir los directivos del plantel?"
+            ],
+            "responses": [
+                "📘 Sí, el artículo 29 exige autorizar y registrar la plantilla docente y directiva ante la Coordinación. 👨🏫",
+                "🔹 Debes notificar la baja en 10 días hábiles y presentar al sustituto con su documentación (artículo 32). 📝",
+                "🎯 Sí, si no cumple con el perfil académico requerido (artículo 31). ⚠️",
+                "📘 Cada semestre, dentro de los primeros 10 días hábiles (artículo 30). 🗓️",
+                "🔹 Título de licenciatura mínimo y 3 años de experiencia docente (artículo 34). 🎓"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 29-34",
+            "topic": "Registro de personal"
+        },
+        {
+            "tag": "supervision_planes_estudio",
+            "patterns": [
+                "¿Quién supervisa que los planes de estudio se impartan correctamente?",
+                "¿La Universidad verifica cómo se enseñan las materias?",
+                "¿Qué pasa si un plantel no sigue los planes autorizados?",
+                "¿Con qué frecuencia revisan el avance de los programas?",
+                "¿Pueden los planteles hacer cambios a los horarios de clase?"
+            ],
+            "responses": [
+                "📘 El artículo 35 establece que los Centros Universitarios o el Sistema de Educación Media Superior supervisan el desarrollo de los planes y programas de estudio. 🎓",
+                "🔹 Sí, evalúan los resultados del proceso de enseñanza-aprendizaje para garantizar calidad equivalente a la UdeG. 🔍",
+                "🎯 Es una infracción grave que puede llevar a sanciones o revocación de la validez oficial (artículo 78). ⚠️",
+                "📘 No hay periodicidad fija, pero deben autorizar los programas cada semestre (artículo 37). 📅",
+                "🔹 Solo con autorización previa de la Coordinación de Estudios Incorporados (artículo 38). ✏️"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 35-38",
+            "topic": "Supervisión académica"
+        },
+        {
+            "tag": "control_escolar",
+            "patterns": [
+                "¿Cómo se garantiza que las calificaciones de los alumnos sean reales?",
+                "¿Quién revisa los registros de evaluación de los estudiantes?",
+                "¿Los planteles pueden modificar las calificaciones?",
+                "¿Qué documentos piden al inicio de cada ciclo?",
+                "¿Hay algún sistema para proteger los registros académicos?"
+            ],
+            "responses": [
+                "📘 El artículo 39 indica que la Coordinación de Estudios Incorporados supervisa que el registro de evaluaciones sea veraz y esté protegido contra alteraciones. 📊",
+                "🔹 Personal designado por la UdeG, que puede comparar actas con exámenes físicos. 👨💻",
+                "🎯 No, cualquier alteración no autorizada es causal de sanción (artículo 78-I). 🚫",
+                "📘 Listados de alumnos de nuevo ingreso/reingreso y sus documentos escolares (artículo 40). 📋",
+                "🔹 Sí, deben implementar mecanismos de seguridad aprobados por la UdeG. 🔒"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 39-40",
+            "topic": "Control escolar"
+        },
+        {
+            "tag": "documentacion_alumnos",
+            "patterns": [
+                "¿Qué documentos necesitan los alumnos de nuevo ingreso?",
+                "¿Aceptan estudiantes extranjeros en planteles incorporados?",
+                "¿Qué pasa si un alumno viene de otra escuela incorporada?",
+                "¿Necesitan revalidar estudios del extranjero?",
+                "¿Piden fotos para los expedientes?"
+            ],
+            "responses": [
+                "📘 El artículo 41 exige: solicitud de inscripción, acta de nacimiento, fotos, certificados anteriores y, para extranjeros, forma migratoria. 📑",
+                "🔹 Sí, pero deben presentar documentos apostillados y forma migratoria vigente. 🌎",
+                "🎯 Pueden acreditar asignaturas con certificados parciales autenticados (artículo 42). 🔄",
+                "📘 Sí, mediante el trámite de revalidación ante autoridades mexicanas. ⚖️",
+                "🔹 Sí, fotografías son parte del expediente obligatorio. 📸"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 41-42",
+            "topic": "Documentación estudiantil"
+        },
+        {
+            "tag": "derechos_alumnos",
+            "patterns": [
+                "¿Los estudiantes de escuelas incorporadas tienen los mismos derechos que los de la UdeG?",
+                "¿Pueden los alumnos de instituciones incorporadas participar en eventos de la Universidad?",
+                "¿Qué tipo de credencial necesitan los alumnos de escuelas incorporadas?",
+                "¿Los alumnos pueden cambiarse a la UdeG después de estudiar en una escuela incorporada?",
+                "¿Deben hacer servicio social los alumnos de estas instituciones?"
+            ],
+            "responses": [
+                "📘 El artículo 43 establece que los alumnos de instituciones con validez oficial tienen derechos análogos a los de la UdeG en aspectos académicos y de participación. 🎓",
+                "🔹 Sí, pueden asistir a actos académicos, culturales, sociales y deportivos organizados por la UdeG (artículo 45). 🎭⚽",
+                "🎯 Deben tener una credencial expedida por su propia institución (artículo 44). No usan la credencial UdeG. 🆔",
+                "📘 Sí, pueden solicitar ingreso cumpliendo con el Reglamento General de Ingreso de Alumnos (artículo 46). 🔄",
+                "🔹 Obligatoriamente, bajo las mismas normas del Reglamento de Servicio Social de la UdeG (artículo 47). 🤝"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 43-47",
+            "topic": "Derechos y obligaciones de alumnos"
+        },
+        {
+            "tag": "evaluaciones_academicas",
+            "patterns": [
+                "¿Cómo se califica a los alumnos en las escuelas incorporadas?",
+                "¿Quién supervisa que los exámenes sean justos?",
+                "¿Puede la UdeG intervenir en las evaluaciones?",
+                "¿Qué reglamento siguen para las calificaciones?",
+                "¿Cómo se aseguran de que solo alumnos registrados presenten exámenes?"
+            ],
+            "responses": [
+                "📘 El artículo 48 indica que deben aplicar el Reglamento General de Evaluación y Promoción de Alumnos de la UdeG. 📝",
+                "🔹 Inspectores designados por la UdeG pueden presenciar exámenes (artículo 49). 👀",
+                "🎯 Sí, verificando calidad de exámenes, asistencia de profesores y cumplimiento de normas (artículo 49). ✅",
+                "📘 El mencionado en el artículo 48, que es el mismo que usa la UdeG para sus alumnos. 📜",
+                "🔹 Verificando identidad con listas oficiales proporcionadas por la UdeG (artículo 50). 🆔"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 48-50",
+            "topic": "Procesos de evaluación"
+        },
+        {
+            "tag": "titulacion_incorporados",
+            "patterns": [
+                "¿Cómo pueden titularse los alumnos de escuelas incorporadas?",
+                "¿Existen diferentes opciones de titulación para estos estudiantes?",
+                "¿Quién debe presidir los exámenes profesionales?",
+                "¿Las escuelas incorporadas tienen sus propios comités de titulación?",
+                "¿Qué requisitos deben cumplir los alumnos para titularse?"
+            ],
+            "responses": [
+                "📘 El artículo 52 establece que pueden titularse mediante las modalidades aprobadas por el Consejo Universitario correspondiente, igual que los alumnos de la UdeG. 🎓",
+                "🔹 Sí, las mismas opciones que para alumnos regulares (tesis, examen general, etc.), según el Reglamento General de Titulación. 📜",
+                "🎯 Un académico de la UdeG del área de conocimiento respectiva debe presidir el jurado (artículo 53). 👨🏫",
+                "📘 Sí, pero deben formarse según la estructura interna de cada institución y con académicos de la carrera (artículo 54). 🏛️",
+                "🔹 Los mismos que exige la UdeG: completar créditos, servicio social y cumplir con el proceso establecido. ✅"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 52-54",
+            "topic": "Proceso de titulación"
+        },
+        {
+            "tag": "documentos_oficiales",
+            "patterns": [
+                "¿Qué documentos académicos emiten las escuelas incorporadas?",
+                "¿Los certificados de estas escuelas tienen validez oficial?",
+                "¿Quién debe firmar los títulos profesionales?",
+                "¿En qué plazo deben entregar documentos al terminar estudios?",
+                "¿Dónde se archivan los expedientes de los alumnos?"
+            ],
+            "responses": [
+                "📘 El artículo 55 autoriza emitir certificados, constancias y diplomas, pero requieren autenticación de la Coordinación de Estudios Incorporados. 📄",
+                "🔹 Solo si están autenticados por la UdeG y mencionan expresamente la incorporación (artículo 57). ✅",
+                "🎯 Los títulos los expide la UdeG incluyendo el nombre legal de la institución particular (artículo 56). ✍️",
+                "📘 Antes del periodo vacacional del personal administrativo (artículo 58). ⏳",
+                "🔹 La Coordinación de Estudios Incorporados conserva copias de todos los documentos (artículo 59). 🗄️"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 55-59",
+            "topic": "Documentación académica"
+        },
+        {
+            "tag": "obligaciones_instituciones",
+            "patterns": [
+                "¿Qué deben cumplir las escuelas con validez oficial?",
+                "¿Deben seguir el calendario escolar de la UdeG?",
+                "¿Las cuotas escolares tienen algún control?",
+                "¿Qué porcentaje de ingresos deben pagar a la UdeG?",
+                "¿Cómo deben mostrar su condición de incorporadas?"
+            ],
+            "responses": [
+                "📘 El artículo 60 lista 27 obligaciones, desde cumplir la Constitución hasta participar en eventos culturales de la UdeG. ⚖️",
+                "🔹 Sí, deben seguir estrictamente el calendario aprobado por la UdeG (artículo 60-IV). 📅",
+                "🎯 Sí, deben informar sus cuotas y no pueden cobrar extras por trámites de incorporación (artículo 60-VII). 💰",
+                "📘 15% para medio superior, 20% para superior, y 5% para escuelas por cooperación (artículo 60-XVII). 📊",
+                "🔹 Exhibiendo copia del acuerdo de incorporación y usando leyendas que mencionen su condición en toda documentación (artículo 60-XIX-XX). 🏷️"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 60",
+            "topic": "Responsabilidades institucionales"
+        },
+        {
+            "tag": "modificaciones_infraestructura",
+            "patterns": [
+                "¿Qué debo hacer si quiero hacer cambios en las instalaciones de mi escuela incorporada?",
+                "¿Necesito permiso para remodelar aulas o laboratorios?",
+                "¿Cómo afectan las modificaciones al reconocimiento de validez oficial?",
+                "¿Qué tipo de cambios debo reportar a la Universidad?",
+                "¿Hay algún plazo para notificar cambios en las instalaciones?"
+            ],
+            "responses": [
+                "📘 El artículo 61 establece que debe notificarse con anticipación a la Coordinación de Estudios Incorporados cualquier modificación que afecte aulas, laboratorios o bibliotecas. 🏗️",
+                "🔹 Sí, especialmente si impactan el desarrollo del plan de estudios (artículo 61). La UdeG determinará si se mantienen las condiciones académicas. ✅",
+                "🎯 Si no se notifican, podrían considerarse infracciones al reglamento (artículo 78). ⚠️",
+                "📘 Cambios estructurales, ampliaciones o redistribuciones de espacios académicos (artículo 61). 📋",
+                "🔹 No hay plazo específico, pero debe ser antes de iniciar las obras. ⏳"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 61",
+            "topic": "Modificaciones a instalaciones"
+        },
+        {
+            "tag": "becas_incorporados",
+            "patterns": [
+                "¿Las escuelas incorporadas deben otorgar becas?",
+                "¿Qué porcentaje de alumnos debe tener beca?",
+                "¿Cómo se determina quiénes obtienen becas?",
+                "¿La Universidad publica convocatorias para becas?",
+                "¿Qué cubren exactamente las becas?"
+            ],
+            "responses": [
+                "📘 El artículo 62 obliga a becar al menos al 5% del total de alumnos inscritos. 💰",
+                "🔹 Mínimo 5% distribuido en los diferentes programas académicos (artículo 62). 📊",
+                "🎯 Por situación socioeconómica y promedio académico (artículo 66). En igualdad de condiciones, prevalece la necesidad económica. ⚖️",
+                "📘 Sí, el Rector General publica convocatorias anuales en la Gaceta Universitaria (artículo 64). 📢",
+                "🔹 Exención porcentual en colegiaturas del ciclo escolar correspondiente (artículo 63). No cubre otros gastos. ✏️"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 62-66",
+            "topic": "Programa de becas"
+        },
+        {
+            "tag": "proceso_becas",
+            "patterns": [
+                "¿Dónde se solicitan las becas para alumnos de escuelas incorporadas?",
+                "¿Quién resuelve las solicitudes de becas?",
+                "¿Se pueden renovar las becas?",
+                "¿Qué pasa si un becado reprueba materias?",
+                "¿Cómo se enteran los alumnos si obtuvieron beca?"
+            ],
+            "responses": [
+                "📘 En la Coordinación de Estudios Incorporados, siguiendo los plazos de la convocatoria (artículo 65). 📝",
+                "🔹 La misma Coordinación, basándose en los criterios del artículo 66. Sus resoluciones son inapelables. ⚖️",
+                "🎯 Sí, mediante solicitud escrita antes del siguiente ciclo, demostrando haber aprobado todas las materias (artículo 69). 🔄",
+                "📘 Pierde derecho a renovación y la beca se asigna a otro alumno (artículo 70). 📉",
+                "🔹 La Coordinación publica resultados en la Gaceta Universitaria y notifica por escrito a las instituciones (artículo 67). 📩"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 65-70",
+            "topic": "Gestión de becas"
+        },
+        {
+            "tag": "supervision_incorporados",
+            "patterns": [
+                "¿La Universidad puede inspeccionar las escuelas incorporadas?",
+                "¿Qué áreas revisan durante las supervisiones?",
+                "¿Cómo se llevan a cabo las visitas de inspección?",
+                "¿Qué documento recibo después de una inspección?",
+                "¿Puedo presentar pruebas después de una visita?"
+            ],
+            "responses": [
+                "📘 El artículo 72 establece que la UdeG supervisa el cumplimiento del reglamento mediante visitas periódicas. 🔍",
+                "🔹 Áreas académicas, administrativas y financieras (artículo 73). 📚💼💰",
+                "🎯 Con orden escrita especificando lugar, fecha y aspectos a revisar (artículo 74). Se levanta acta con testigos (artículo 76). 📋",
+                "📘 Un ejemplar del acta de visita donde constan hallazgos y observaciones (artículo 76). 📄",
+                "🔹 Sí, dentro de los 5 días hábiles posteriores a la visita (artículo 77). ⏳"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 72-77",
+            "topic": "Proceso de supervisión"
+        },
+        {
+            "tag": "infracciones_sanciones",
+            "patterns": [
+                "¿Qué se considera una infracción grave al reglamento?",
+                "¿Cuáles son las sanciones por incumplir el reglamento?",
+                "¿Qué pasa si una escuela suspende clases sin autorización?",
+                "¿Pueden multar a una escuela incorporada?",
+                "¿En qué casos pueden quitar el reconocimiento de validez oficial?"
+            ],
+            "responses": [
+                "📘 El artículo 78 lista infracciones como: operar planteles no autorizados, oponerse a supervisiones o suspender clases injustificadamente. ⚠️",
+                "🔹 Amonestación, multa (hasta ~$500,000 MXN) o revocación del reconocimiento (artículo 79). 💸🚫",
+                "🎯 Es infracción grave que puede llevar a multa o revocación (artículo 78-III). ⏸️",
+                "📘 Sí, según la gravedad, hasta 5,000 veces el salario mínimo (artículo 79-II). 💰",
+                "🔹 Por reincidencia en infracciones, falsedad documental o incumplimiento grave de obligaciones (artículo 79-III). 🚨"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 78-79",
+            "topic": "Régimen sancionador"
+        },
+        {
+            "tag": "procedimiento_sanciones",
+            "patterns": [
+                "¿Cómo inician un proceso sancionador contra una escuela?",
+                "¿Tengo derecho a defenderme ante una posible sanción?",
+                "¿Quién decide finalmente qué sanción aplicar?",
+                "¿Cuánto tiempo tienen para resolver sobre una sanción?",
+                "¿Qué información me dan cuando me sancionan?"
+            ],
+            "responses": [
+                "📘 El artículo 80 indica que la Comisión de Revalidación cita al director o representante legal con los cargos específicos. 📩",
+                "🔹 Sí, tienes 15 días naturales para presentar pruebas y alegatos (artículo 80-II). ⚖️",
+                "🎯 La misma Comisión, dentro de 30 días posteriores al proceso (artículo 80-III). 👨⚖️",
+                "📘 30 días después de recibir tus descargos o concluir el desahogo de pruebas. ⏳",
+                "🔹 La resolución detalla los fundamentos legales y hechos imputados (artículo 80). 📜"
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 80",
+            "topic": "Procedimiento sancionador"
+        },
+        {
+            "tag": "modificaciones_infraestructura",
+            "patterns": [
+                "¿Qué debo hacer si quiero hacer cambios en las instalaciones de mi escuela incorporada?",
+                "¿Necesito permiso para remodelar aulas o laboratorios?",
+                "¿Cómo afectan las modificaciones al reconocimiento de validez oficial?",
+                "¿Qué tipo de cambios debo reportar a la Universidad?",
+                "¿Hay algún plazo para notificar cambios en las instalaciones?",
+                "¿Requiero permiso para cambios menores como pintura o mobiliario?",
+                "¿Qué documentación debo presentar para cambios estructurales?",
+                "¿Cómo afecta una ampliación al porcentaje de becas requerido?"
+            ],
+            "responses": [
+                "📘 El artículo 61 establece que debe notificarse con anticipación a la Coordinación de Estudios Incorporados cualquier modificación que afecte aulas, laboratorios o bibliotecas. 🏗️",
+                "🔹 Sí, especialmente si impactan el desarrollo del plan de estudios (artículo 61). La UdeG determinará si se mantienen las condiciones académicas. ✅",
+                "🎯 Si no se notifican, podrían considerarse infracciones al reglamento (artículo 78). ⚠️",
+                "📘 Cambios estructurales, ampliaciones o redistribuciones de espacios académicos (artículo 61). 📋",
+                "🔹 No hay plazo específico, pero debe ser antes de iniciar las obras. ⏳",
+                "🖌️ No, pero se recomienda documentarlos para futuras inspecciones.",
+                "📂 Planos arquitectónicos actualizados y dictamen de protección civil (Art. 17-VI).",
+                "📊 El 5% mínimo se calcula sobre el nuevo total de alumnos (Art. 62)."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 61",
+            "topic": "Modificaciones a instalaciones"
+        },
+        {
+            "tag": "becas_incorporados",
+            "patterns": [
+                "¿Las escuelas incorporadas deben otorgar becas?",
+                "¿Qué porcentaje de alumnos debe tener beca?",
+                "¿Cómo se determina quiénes obtienen becas?",
+                "¿La Universidad publica convocatorias para becas?",
+                "¿Qué cubren exactamente las becas?",
+                "¿Hay becas especiales para estudiantes indígenas?",
+                "¿Cómo compruebo la situación socioeconómica de los solicitantes?",
+                "¿Puedo establecer criterios adicionales para becas?"
+            ],
+            "responses": [
+                "📘 El artículo 62 obliga a becar al menos al 5% del total de alumnos inscritos. 💰",
+                "🔹 Mínimo 5% distribuido en los diferentes programas académicos (artículo 62). 📊",
+                "🎯 Por situación socioeconómica y promedio académico (artículo 66). En igualdad de condiciones, prevalece la necesidad económica. ⚖️",
+                "📘 Sí, el Rector General publica convocatorias anuales en la Gaceta Universitaria (artículo 64). 📢",
+                "🔹 Exención porcentual en colegiaturas del ciclo escolar correspondiente (artículo 63). No cubre otros gastos. ✏️",
+                "🌎 Sí, cuentan como parte del 5% mínimo y pueden tener apoyo adicional (Políticas de Inclusión UdeG).",
+                "📑 Con estudio socioeconómico oficial o constancias de dependencias gubernamentales.",
+                "✅ Sí, pero no pueden contravenir los criterios básicos de la UdeG (Art. 66)."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 62-66",
+            "topic": "Programa de becas"
+        },
+        {
+            "tag": "proceso_becas",
+            "patterns": [
+                "¿Dónde se solicitan las becas para alumnos de escuelas incorporadas?",
+                "¿Quién resuelve las solicitudes de becas?",
+                "¿Se pueden renovar las becas?",
+                "¿Qué pasa si un becado reprueba materias?",
+                "¿Cómo se enteran los alumnos si obtuvieron beca?",
+                "¿Hay un formato oficial para solicitud de becas?",
+                "¿Qué documentación necesito para renovar una beca?",
+                "¿Pueden los padres solicitar becas directamente?"
+            ],
+            "responses": [
+                "📘 En la Coordinación de Estudios Incorporados, siguiendo los plazos de la convocatoria (artículo 65). 📝",
+                "🔹 La misma Coordinación, basándose en los criterios del artículo 66. Sus resoluciones son inapelables. ⚖️",
+                "🎯 Sí, mediante solicitud escrita antes del siguiente ciclo, demostrando haber aprobado todas las materias (artículo 69). 🔄",
+                "📘 Pierde derecho a renovación y la beca se asigna a otro alumno (artículo 70). 📉",
+                "🔹 La Coordinación publica resultados en la Gaceta Universitaria y notifica por escrito a las instituciones (artículo 67). 📩",
+                "📄 Sí, disponible en el portal de Estudios Incorporados desde la publicación de la convocatoria.",
+                "📑 1) Constancia de calificaciones, 2) Comprobante de ingresos familiar actualizado, 3) Solicitud de renovación.",
+                "👪 No, debe ser a través de la institución educativa (Art. 65)."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 65-70",
+            "topic": "Gestión de becas"
+        },
+        {
+            "tag": "supervision_incorporados",
+            "patterns": [
+                "¿La Universidad puede inspeccionar las escuelas incorporadas?",
+                "¿Qué áreas revisan durante las supervisiones?",
+                "¿Cómo se llevan a cabo las visitas de inspección?",
+                "¿Qué documento recibo después de una inspección?",
+                "¿Puedo presentar pruebas después de una visita?",
+                "¿Con qué frecuencia realizan supervisiones?",
+                "¿Puedo negarme a una visita de inspección?",
+                "¿Qué pasa si no estoy de acuerdo con los hallazgos?"
+            ],
+            "responses": [
+                "📘 El artículo 72 establece que la UdeG supervisa el cumplimiento del reglamento mediante visitas periódicas. 🔍",
+                "🔹 Áreas académicas, administrativas y financieras (artículo 73). 📚💼💰",
+                "🎯 Con orden escrita especificando lugar, fecha y aspectos a revisar (artículo 74). Se levanta acta con testigos (artículo 76). 📋",
+                "📘 Un ejemplar del acta de visita donde constan hallazgos y observaciones (artículo 76). 📄",
+                "🔹 Sí, dentro de los 5 días hábiles posteriores a la visita (artículo 77). ⏳",
+                "📅 Mínimo 1 vez al año, pero pueden ser más si hay denuncias o irregularidades previas.",
+                "🚫 No, es causal de sanción (Art. 78-IV) y posible revocación.",
+                "✍️ Puedes presentar documentos complementarios en los 5 días hábiles posteriores (Art. 77)."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 72-77",
+            "topic": "Proceso de supervisión"
+        },
+        {
+            "tag": "infracciones_sanciones",
+            "patterns": [
+                "¿Qué se considera una infracción grave al reglamento?",
+                "¿Cuáles son las sanciones por incumplir el reglamento?",
+                "¿Qué pasa si una escuela suspende clases sin autorización?",
+                "¿Pueden multar a una escuela incorporada?",
+                "¿En qué casos pueden quitar el reconocimiento de validez oficial?",
+                "¿Hay sanciones por no entregar documentos a tiempo?",
+                "¿Qué pasa si uso el logo de la UdeG sin permiso?",
+                "¿Cómo se calcula el monto de las multas?"
+            ],
+            "responses": [
+                "📘 El artículo 78 lista infracciones como: operar planteles no autorizados, oponerse a supervisiones o suspender clases injustificadamente. ⚠️",
+                "🔹 Amonestación, multa (hasta ~$500,000 MXN) o revocación del reconocimiento (artículo 79). 💸🚫",
+                "🎯 Es infracción grave que puede llevar a multa o revocación (artículo 78-III). ⏸️",
+                "📘 Sí, según la gravedad, hasta 5,000 veces el salario mínimo (artículo 79-II). 💰",
+                "🔹 Por reincidencia en infracciones, falsedad documental o incumplimiento grave de obligaciones (artículo 79-III). 🚨",
+                "⏰ Sí, desde amonestación escrita hasta multa del 10% de un SMMG por día de retraso.",
+                "🏛️ Multa de hasta 100 SMMG (~$12,000 MXN) y obligación de retirar material (Art. 5 y 79).",
+                "🧮 Basado en salarios mínimos vigentes en ZMG al momento de la infracción (Art. 79-II)."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 78-79",
+            "topic": "Régimen sancionador"
+        },
+        {
+            "tag": "procedimiento_sanciones",
+            "patterns": [
+                "¿Cómo inician un proceso sancionador contra una escuela?",
+                "¿Tengo derecho a defenderme ante una posible sanción?",
+                "¿Quién decide finalmente qué sanción aplicar?",
+                "¿Cuánto tiempo tienen para resolver sobre una sanción?",
+                "¿Qué información me dan cuando me sancionan?",
+                "¿Puedo solicitar una audiencia personal?",
+                "¿Qué pruebas son válidas en mi defensa?",
+                "¿Hay algún recurso contra la sanción?"
+            ],
+            "responses": [
+                "📘 El artículo 80 indica que la Comisión de Revalidación cita al director o representante legal con los cargos específicos. 📩",
+                "🔹 Sí, tienes 15 días naturales para presentar pruebas y alegatos (artículo 80-II). ⚖️",
+                "🎯 La misma Comisión, dentro de 30 días posteriores al proceso (artículo 80-III). 👨⚖️",
+                "📘 30 días después de recibir tus descargos o concluir el desahogo de pruebas. ⏳",
+                "🔹 La resolución detalla los fundamentos legales y hechos imputados (artículo 80). 📜",
+                "💬 No está previsto, pero puedes designar representante con poder notarial.",
+                "📑 Documentos oficiales, fotografías, correos electrónicos y cualquier medio electrónico fehaciente.",
+                "⚖️ Sí, recurso de revisión ante el Consejo General Universitario en 15 días hábiles (Art. 81)."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 80",
+            "topic": "Procedimiento sancionador"
+        },
+        {
+            "tag": "recurso_revision",
+            "patterns": [
+                "¿Qué puedo hacer si no estoy de acuerdo con una sanción?",
+                "¿Existe algún recurso para impugnar decisiones de la Universidad?",
+                "¿Ante quién se presenta el recurso de revisión?",
+                "¿Qué plazo tengo para presentar un recurso?",
+                "¿Qué debe contener el recurso de revisión?",
+                "¿Puedo agregar nuevas pruebas en el recurso?",
+                "¿Qué pasa si presento el recurso fuera del plazo?",
+                "¿Cómo sé si mi recurso fue admitido?"
+            ],
+            "responses": [
+                "📘 El artículo 81 establece que puedes interponer recurso de revisión ante la Comisión de Revalidación del Consejo General Universitario. ⚖️",
+                "🔹 Sí, contra sanciones o cuando la UdeG no responda en 180 días (artículo 82). 📜",
+                "🎯 Se presenta por escrito en la Coordinación de Estudios Incorporados (artículo 84). 📨",
+                "📘 15 días hábiles desde la notificación de la resolución o del vencimiento del plazo (artículo 83). ⏳",
+                "🔹 Nombre del recurrente, agravios, pruebas y documentos que acrediten personalidad (artículo 85). 📋",
+                "📌 Sí, siempre que estén relacionadas con los hechos originales (artículo 86).",
+                "⏸️ Se considera abandonado el recurso y la resolución queda firme (artículo 83 párr. 2).",
+                "✉️ Recibirás acuse de recibo sellado con fecha de presentación (artículo 84 párr. 3)."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 81-85",
+            "topic": "Recurso de revisión"
+        },
+        {
+            "tag": "pruebas_recurso",
+            "patterns": [
+                "¿Qué tipo de pruebas puedo presentar en mi recurso?",
+                "¿Puedo ofrecer testigos en el recurso de revisión?",
+                "¿Cuánto tiempo tienen para resolver el recurso?",
+                "¿Cómo me notifican la resolución del recurso?",
+                "¿Se puede ampliar el plazo para presentar pruebas?",
+                "¿La Comisión puede investigar por su cuenta?",
+                "¿Qué pasa si la Comisión no resuelve en tiempo?",
+                "¿Puedo retirar mi recurso una vez presentado?"
+            ],
+            "responses": [
+                "📘 El artículo 86 permite toda clase de pruebas excepto la confesional (documentos, peritajes, etc.). 📑",
+                "🔹 No se admiten pruebas testimoniales en este procedimiento (artículo 86). 🚫",
+                "🎯 30 días hábiles desde la admisión del recurso o conclusión de pruebas (artículo 87). 📅",
+                "📘 Personalmente o por correo certificado con acuse de recibo (artículo 87). ✉️",
+                "🔹 Sí, la Comisión puede otorgar de 5 a 30 días hábiles adicionales (artículo 86). ⏳",
+                "🔍 Sí, puede allegarse elementos adicionales para esclarecer hechos (artículo 86 párr. 2).",
+                "⚖️ Puedes demandar ante tribunales por silencio administrativo (artículo 82-II).",
+                "📝 Sí, mediante escrito firmado ante la Coordinación, pero no se devuelven pagos."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 86-87",
+            "topic": "Pruebas en recurso"
+        },
+        {
+            "tag": "aranceles",
+            "patterns": [
+                "¿Qué pagos deben hacer las escuelas incorporadas?",
+                "¿Cuánto cuesta el trámite de reconocimiento de validez?",
+                "¿Qué porcentaje de ingresos deben pagar a la UdeG?",
+                "¿Los alumnos pagan directamente a la Universidad?",
+                "¿Cada cuándo se actualizan los aranceles?",
+                "¿Hay descuentos para escuelas por cooperación?",
+                "¿Qué pasa si no pago los aranceles a tiempo?",
+                "¿Aceptan pagos con tarjeta de crédito?"
+            ],
+            "responses": [
+                "📘 El artículo 88 detalla: porcentaje de colegiaturas (5%-20%), uso de nombre/logotipo, visitas de inspección y copias certificadas. 💰",
+                "🔹 Equivalente a 3 salarios mínimos mensuales vigentes en Guadalajara (artículo 88). 💸",
+                "🎯 15% (medio superior), 20% (superior) o 5% (escuelas por cooperación) de ingresos por colegiaturas (artículo 88). 📊",
+                "📘 Solo por servicios directos como titulación o revalidaciones (artículo 89). La institución no puede cobrarles estos conceptos. 🎓",
+                "🔹 Anualmente, según el Índice Nacional de Precios al Consumidor (artículo 89). 📈",
+                "🏫 Sí, solo pagan 5% independientemente del nivel (artículo 88 tabla 1).",
+                "⚠️ Recargos del 2% mensual y posible suspensión de trámites (Reglamento de Pagos UdeG Art. 12).",
+                "💳 Sí, en ventanillas bancarias autorizadas (consulta sedes en www.udg.mx/pagos)."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 88-89",
+            "topic": "Aranceles y pagos"
+        },
+        {
+            "tag": "capacitacion_personal",
+            "patterns": [
+                "¿La Universidad ofrece capacitación para profesores de escuelas incorporadas?",
+                "¿Es obligatorio que los docentes tomen cursos de actualización?",
+                "¿Quién paga los cursos de capacitación?",
+                "¿Qué tipos de cursos ofrecen?",
+                "¿Dónde se publica la oferta de capacitación?",
+                "¿Las constancias tienen validez oficial?",
+                "¿Hay cursos en línea disponibles?",
+                "¿Puedo proponer un curso de mi institución como capacitación?"
+            ],
+            "responses": [
+                "📘 El artículo 90 menciona que la UdeG organiza cursos de actualización a los que pueden asistir los docentes de planteles incorporados. 🎓",
+                "🔹 No es obligatorio, pero altamente recomendado para mantener estándares de calidad. ✅",
+                "🎯 La institución incorporada debe cubrir las cuotas establecidas para estos servicios. 💰",
+                "📘 Cursos disciplinares, pedagógicos y de innovación educativa, según los planes de estudio. 📚",
+                "🔹 En la Gaceta Universitaria y plataformas oficiales de la UdeG. 🌐",
+                "🏅 Sí, son válidas para Carrera Magisterial y PROMEP (Programa para el Desarrollo Profesional Docente).",
+                "💻 Sí, el Sistema de Universidad Virtual ofrece 12 programas certificados.",
+                "📌 Sí, previa validación por la Dirección General de Educación Permanente."
+            ],
+            "document": "Reglamento de Validez Oficial de Estudios",
+            "article": "Artículo 90",
+            "topic": "Capacitación docente"
+        }
+
+    ]
+}

@@ -1,0 +1,2746 @@
+{
+    "main_topic": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria (2022)",
+    "intents": [
+        {
+            "tag": "objeto_del_reglamento",
+            "patterns": [
+                "¿Cuál es el objetivo principal del reglamento?",
+                "¿Qué busca regular el Artículo 1?",
+                "¿Qué tipos de faltas cubre este reglamento?",
+                "¿Incluye mecanismos para víctimas de violencia?",
+                "¿Quiénes son las autoridades competentes?"
+            ],
+            "responses": [
+                "📘 **Objeto**: Establecer autoridades, faltas, sanciones y procedimientos por incumplimientos a normas universitarias (Art. 1).",
+                "🔹 **Cobertura**: Faltas generales, violencia (sexual, escolar, laboral), académicas y electorales.",
+                "🎯 **Víctimas**: Sí, incluye mecanismos de atención integral (Art. 1.1).",
+                "📘 **Autoridades**: Consejos de Escuela, División, Centros Universitarios, y Consejo General Universitario.",
+                "🔹 **Detalle**: También aplica a actos de violencia digital y medidas reeducativas (Art. 17 y 23)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento"
+        },
+        {
+            "tag": "ambito_de_aplicacion",
+            "patterns": [
+                "¿A quiénes aplica este reglamento?",
+                "¿Cubre actividades fuera del campus?",
+                "¿Incluye a estudiantes y personal administrativo?",
+                "¿Qué pasa si la falta ocurre en un evento universitario externo?",
+                "¿Aplica a conductas en redes sociales?"
+            ],
+            "responses": [
+                "📘 **Aplicación**: A toda la comunidad universitaria (estudiantes, académicos, administrativos) (Art. 2.1).",
+                "🔹 **Ámbito**: Sí, incluye actividades universitarias dentro y fuera de instalaciones (Art. 2.2).",
+                "🎯 **Personal**: Sí, todos los integrantes están sujetos al reglamento.",
+                "📘 **Eventos externos**: Sí, si son actividades oficiales de la universidad.",
+                "🔹 **Redes sociales**: Sí, si afectan la convivencia universitaria (Art. 15.7)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 2",
+            "topic": "Ámbito de aplicación"
+        },
+        {
+            "tag": "definiciones_generales",
+            "patterns": [
+                "¿Qué se entiende por 'Administración General' en el Artículo 3?",
+                "¿Quién es considerado 'alumno' según el reglamento?",
+                "¿Qué es la 'atención integral' para víctimas?",
+                "¿Cómo define el reglamento a las 'autoridades universitarias'?",
+                "¿Qué es un 'conflicto de interés'?"
+            ],
+            "responses": [
+                "📘 **Administración General**: Dependencias de Rectoría General que coordinan programas en la Red Universitaria (Art. 3.I).",
+                "🔹 **Alumno/a**: Persona admitida y registrada en algún programa educativo de la UdeG (Art. 3.II).",
+                "🎯 **Atención integral**: Acciones para salvaguardar integridad física/emocional de víctimas (Art. 3.III).",
+                "📘 **Autoridades universitarias**: Personal con atribuciones legítimas para tomar decisiones (Art. 3.IV).",
+                "🔹 **Conflicto de interés**: Afectación a la imparcialidad por intereses personales/familiares (Art. 3.IX)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 3",
+            "topic": "Definiciones generales"
+        },
+        {
+            "tag": "interpretacion_reglamento",
+            "patterns": [
+                "¿Quién interpreta este reglamento según el Artículo 4?",
+                "¿Puedo pedir una aclaración sobre cómo aplica una norma?",
+                "¿Dónde debo dirigirme si tengo dudas sobre el reglamento?",
+                "¿La Oficina de la Abogacía General resuelve conflictos?",
+                "¿Qué pasa si hay ambigüedad en una norma?"
+            ],
+            "responses": [
+                "📘 **Intérprete oficial**: La Oficina de la Abogacía General (Art. 4.1).",
+                "🔹 **Aclaraciones**: Sí, puedes solicitar interpretación a dicha oficina.",
+                "🎯 **Dudas**: Dirígete a la Oficina de la Abogacía General de la UdeG.",
+                "📘 **Conflictos**: No resuelve casos, solo interpreta normas.",
+                "🔹 **Ambigüedad**: La Oficina emitirá una interpretación vinculante."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 4",
+            "topic": "Interpretación del reglamento"
+        },
+        {
+            "tag": "procedimientos_en_linea",
+            "patterns": [
+                "¿Se pueden realizar trámites de denuncia en línea según el Artículo 5?",
+                "¿Qué medios electrónicos se pueden usar para los procedimientos?",
+                "¿La universidad proporciona un sistema para denuncias digitales?",
+                "¿Es válido presentar una denuncia por correo electrónico?",
+                "¿Dónde encuentro la plataforma para denuncias en línea?"
+            ],
+            "responses": [
+                "📘 Sí, los procedimientos pueden realizarse mediante medios electrónicos (Art. 5.1).",
+                "🔹 La Universidad determinará el sistema tecnológico a utilizar (Art. 5.1).",
+                "🎯 Debes usar los canales oficiales designados por la universidad.",
+                "📘 No especifica correo electrónico, sino sistemas tecnológicos habilitados.",
+                "🔹 Consulta en la página oficial de la universidad o con la Oficina de la Abogacía General."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 5",
+            "topic": "Procedimientos en línea"
+        },
+        {
+            "tag": "deber_de_denunciar_delitos",
+            "patterns": [
+                "¿Estoy obligado a denunciar delitos según el Artículo 6?",
+                "¿Ante quién debo reportar un posible delito?",
+                "¿Qué pasa si sé de un delito pero no lo denuncio?",
+                "¿Incluye este artículo situaciones de emergencia?",
+                "¿La universidad puede denunciar por mí?"
+            ],
+            "responses": [
+                "📘 Sí, toda persona con conocimiento de un delito debe denunciarlo ante el MP o policía (Art. 6.1).",
+                "🔹 Ante el Ministerio Público o, en emergencia, ante cualquier agente policial.",
+                "🎯 No denunciar podría implicar responsabilidad por omisión.",
+                "📘 En emergencias, puedes acudir directamente a la policía.",
+                "🔹 La universidad puede apoyar, pero la denuncia formal debe hacerla quien conozca los hechos."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 6",
+            "topic": "Deber de denunciar delitos"
+        },
+        {
+            "tag": "sujetos_de_responsabilidad",
+            "patterns": [
+                "¿Quiénes pueden ser sancionados según el Artículo 7?",
+                "¿Aplica este reglamento a visitantes o externos?",
+                "¿Qué pasa si un profesor comete una falta?",
+                "¿Los egresados están incluidos como sujetos?",
+                "¿Un alumno puede ser responsable por faltas?"
+            ],
+            "responses": [
+                "📘 Todos los integrantes de la comunidad universitaria (Art. 7.1).",
+                "🔹 No, solo aplica a miembros activos de la comunidad universitaria.",
+                "🎯 Sí, el personal académico está expresamente incluido.",
+                "📘 No, los egresados no son sujetos de responsabilidad bajo este reglamento.",
+                "🔹 Sí, los alumnos pueden ser sancionados por faltas (Art. 8-22)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 7",
+            "topic": "Sujetos de responsabilidad"
+        },
+        {
+            "tag": "incumplimiento_de_obligaciones",
+            "patterns": [
+                "¿Qué se considera incumplimiento de obligaciones según Artículo 8?",
+                "¿No asistir a clases es una falta sancionable?",
+                "¿Qué pasa si no sigo instrucciones de un superior?",
+                "¿Ignorar un requerimiento universitario es falta grave?",
+                "¿El no entregar documentación se considera falta?"
+            ],
+            "responses": [
+                "📘 Incluye no cumplir funciones, desatender instrucciones válidas o impedir derechos (Art. 8).",
+                "🔹 Depende del contexto, pero podría ser falta si afecta actividades universitarias.",
+                "🎯 Sí, si las instrucciones son acordes a normas universitarias (Art. 8.III).",
+                "📘 Sí, es causa de responsabilidad (Art. 8.V).",
+                "🔹 Sí, especialmente si es documentación oficial requerida (Art. 8.V)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 8",
+            "topic": "Incumplimiento de obligaciones"
+        },
+        {
+            "tag": "falta_de_respeto",
+            "patterns": [
+                "¿Qué conductas son falta de respeto según Artículo 9?",
+                "¿Un insulto a un compañero es sancionable?",
+                "¿Pueden sancionarme por llegar ebrio a la universidad?",
+                "¿Fumar en áreas prohibidas es falta?",
+                "¿La discriminación está tipificada como falta?"
+            ],
+            "responses": [
+                "📘 Alterar el orden, discriminar, asistir bajo efectos de sustancias o consumirlas (Art. 9).",
+                "🔹 Sí, si afecta la dignidad de otros (Art. 9.II).",
+                "🎯 Sí, es causa de responsabilidad (Art. 9.III).",
+                "📘 Sí, está prohibido consumir tabaco en recintos universitarios (Art. 9.IV).",
+                "🔹 Sí, cualquier discriminación por género, etnia, etc. (Art. 9.II)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 9",
+            "topic": "Falta de respeto y consideración"
+        },
+        {
+            "tag": "hostilidad_ideologica",
+            "patterns": [
+                "¿Qué es hostilidad por razones ideológicas según Artículo 10?",
+                "¿Pueden sancionarme por expresar mis ideas?",
+                "¿Un meme ofensivo en redes es discurso de odio?",
+                "¿Qué pasa si impido que alguien hable en un foro?",
+                "¿Criticar a la universidad es falta?"
+            ],
+            "responses": [
+                "📘 Impedir libre expresión o promover discurso de odio (Art. 10).",
+                "🔹 No, siempre que no afectes derechos de terceros (Art. 10.I).",
+                "🎯 Sí, si ataca a grupos por condiciones personales/sociales (Art. 10.II).",
+                "📘 Sí, impedir manifestaciones legítimas es falta (Art. 10.I).",
+                "🔹 No, si es crítica constructiva sin discurso de odio."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 10",
+            "topic": "Hostilidad o coacción ideológica"
+        },
+        {
+            "tag": "danos_a_instalaciones",
+            "patterns": [
+                "¿Qué pasa si daño propiedad universitaria según Artículo 11?",
+                "¿Rayar un escritorio es falta sancionable?",
+                "¿Hay diferencia entre daño intencional y accidental?",
+                "¿Debo pagar por los daños causados?",
+                "¿Qué sanción aplica por destruir equipo?"
+            ],
+            "responses": [
+                "📘 Destruir o dañar instalaciones/equipo intencionalmente es falta (Art. 11).",
+                "🔹 Sí, si es intencional (Art. 11.I).",
+                "🎯 Solo se sanciona daño intencional (no accidentes).",
+                "📘 Sí, además de la sanción administrativa (Art. 24.V).",
+                "🔹 Depende de la gravedad: desde amonestación hasta expulsión (Art. 23)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 11",
+            "topic": "Daños a instalaciones"
+        },
+        {
+            "tag": "falsificacion_de_documentos",
+            "patterns": [
+                "¿Qué se considera falsificación según Artículo 12?",
+                "¿Alterar una firma es falta grave?",
+                "¿Pueden sancionarme por no entregar un documento requerido?",
+                "¿Compartir información confidencial es sancionable?",
+                "¿Qué pasa si destruyo archivos universitarios?"
+            ],
+            "responses": [
+                "📘 Presentar documentos falsos, alterar firmas o información confidencial (Art. 12).",
+                "🔹 Sí, es falta grave (Art. 12.II).",
+                "🎯 Sí, si es ocultamiento doloso (Art. 12.V).",
+                "📘 Sí, si la información es confidencial (Art. 12.VI).",
+                "🔹 Sí, si causa perjuicio a la universidad (Art. 12.VIII)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 12",
+            "topic": "Falsificación de documentos"
+        },
+        {
+            "tag": "conductas_ilicitas",
+            "patterns": [
+                "¿Qué conductas ilícitas cubre el Artículo 13?",
+                "¿Vender alcohol en la universidad es falta?",
+                "¿Pueden expulsarme por portar armas?",
+                "¿Qué pasa si entro sin autorización a un área restringida?",
+                "¿Robar material de biblioteca está tipificado?"
+            ],
+            "responses": [
+                "📘 Distribuir alcohol/drogas, portar armas, acceso no autorizado o robo (Art. 13).",
+                "🔹 Sí, está prohibido (Art. 13.I).",
+                "🎯 Sí, es causal de expulsión (Art. 13.II).",
+                "📘 Sí, si es con engaño o violencia (Art. 13.III).",
+                "🔹 Sí, se considera robo (Art. 13.IV)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 13",
+            "topic": "Conductas ilícitas"
+        },
+        {
+            "tag": "responsabilidad_por_violencia",
+            "patterns": [
+                "¿Quiénes son responsables por actos de violencia según Artículo 14?",
+                "¿Aplica si la violencia ocurre entre alumnos?",
+                "¿Qué pasa si un profesor agrede a un alumno?",
+                "¿La violencia fuera del campus cuenta?",
+                "¿Cómo se define un acto de violencia?"
+            ],
+            "responses": [
+                "📘 Cualquier integrante de la comunidad universitaria que cometa violencia (Art. 14).",
+                "🔹 Sí, aplica a todos los miembros (Art. 14).",
+                "🎯 Sí, el personal académico también está sujeto a sanciones.",
+                "📘 Solo si está vinculada a actividades universitarias (Art. 2).",
+                "🔹 Uso ilegítimo de poder que afecte dignidad, integridad o libertad (Art. 15)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 14",
+            "topic": "Responsabilidad por actos de violencia"
+        },
+        {
+            "tag": "definicion_violencia",
+            "patterns": [
+                "¿Cómo define el reglamento la violencia en el Artículo 15?",
+                "¿Qué tipos de violencia reconoce el reglamento?",
+                "¿La violencia digital está incluida?",
+                "¿Un comentario sexista puede ser violencia psicológica?",
+                "¿Qué modalidades de violencia existen?"
+            ],
+            "responses": [
+                "📘 Define violencia como uso ilegítimo de poder que afecte dignidad, integridad o libertad (Art. 15.1).",
+                "🔹 Reconoce física, psicológica, sexual, patrimonial, económica y digital (Art. 15.3).",
+                "🎯 Sí, incluye violencia mediante medios electrónicos (redes, correos) (Art. 15.7).",
+                "📘 Sí, si causa daño emocional y es reiterado (Art. 15.3).",
+                "🔹 Laboral, docente, escolar, comunitaria, institucional y política (Art. 15.4)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 15",
+            "topic": "Definición de violencia"
+        },
+        {
+            "tag": "violencia_generica",
+            "patterns": [
+                "¿Qué es violencia genérica según Artículo 16?",
+                "¿En qué se diferencia de otros tipos de violencia?",
+                "¿Un empujón sin consecuencias graves sería violencia genérica?",
+                "¿Qué pasa si la violencia no encaja en otras categorías?",
+                "¿Cómo se sanciona la violencia genérica?"
+            ],
+            "responses": [
+                "📘 Es cualquier acto violento no tipificado específicamente como sexual, escolar o laboral (Art. 16).",
+                "🔹 Es residual: aplica cuando no calza en otros tipos del reglamento.",
+                "🎯 Sí, si fue deliberado y no encaja en otras definiciones.",
+                "📘 Se clasifica como genérica y se sanciona según su gravedad (Art. 23).",
+                "🔹 Con las mismas sanciones del Artículo 23 (amonestación a expulsión)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 16",
+            "topic": "Violencia genérica"
+        },
+        {
+            "tag": "violencia_sexual",
+            "patterns": [
+                "¿Qué conductas son violencia sexual según Artículo 17?",
+                "¿Un piropo no deseado es violencia sexual?",
+                "¿Amenazar con divulgar fotos íntimas es falta grave?",
+                "¿Qué pasa si un profesor condiciona una calificación a una cita?",
+                "¿Difundir rumores sobre vida sexual es sancionable?"
+            ],
+            "responses": [
+                "📘 Incluye tocamientos no consentidos, acoso, difusión de contenido íntimo, etc. (Art. 17.2-3).",
+                "🔹 Sí, si es reiterado y con connotación sexual (Art. 17.2.X).",
+                "🎯 Sí, es violencia sexual grave (Art. 17.3.I).",
+                "📘 Sí, es hostigamiento sexual (Art. 17.3.IV).",
+                "🔹 Sí, está expresamente prohibido (Art. 17.2.XV)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 17",
+            "topic": "Violencia sexual"
+        },
+        {
+            "tag": "violencia_escolar",
+            "patterns": [
+                "¿Qué es violencia escolar según Artículo 18?",
+                "¿Un apodo ofensivo entre compañeros es violencia escolar?",
+                "¿Romper pertenencias de otro alumno está tipificado?",
+                "¿La exclusión social es considerada violencia?",
+                "¿Qué sanción aplica por pegarle a un compañero?"
+            ],
+            "responses": [
+                "📘 Agresiones físicas/verbales entre alumnos que afecten su integridad (Art. 18).",
+                "🔹 Sí, si causa humillación (Art. 18.I).",
+                "🎯 Sí, si es intencional (Art. 18.II).",
+                "📘 Sí, si es parte de un patrón de control o intimidación (Art. 18.III).",
+                "🔹 Desde suspensión hasta expulsión, según gravedad (Art. 23)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 18",
+            "topic": "Violencia escolar"
+        },
+        {
+            "tag": "violencia_laboral",
+            "patterns": [
+                "¿Qué conductas son violencia laboral según Artículo 19?",
+                "¿Un jefe que humilla a su equipo está incurriendo en violencia laboral?",
+                "¿Qué es el hostigamiento laboral?",
+                "¿Pueden sancionar a un empleado por malos tratos a otro?",
+                "¿Solicitar prueba de embarazo para contratar es violencia laboral?"
+            ],
+            "responses": [
+                "📘 Malos tratos, acoso, hostigamiento o discriminación en el ámbito laboral (Art. 19).",
+                "🔹 Sí, si es persistente y afecta la dignidad (Art. 19.2.I).",
+                "🎯 Ejercer poder en relaciones de subordinación con conductas hostiles (Art. 19.2.III).",
+                "📘 Sí, con sanciones desde amonestación hasta separación del cargo (Art. 23).",
+                "🔹 Sí, está expresamente prohibido (Art. 19.3)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 19",
+            "topic": "Violencia laboral"
+        },
+        {
+            "tag": "violencia_de_genero",
+            "patterns": [
+                "¿Cómo define el reglamento la violencia de género en Artículo 20?",
+                "¿Por qué es agravante que la violencia sea por razones de género?",
+                "¿Qué políticas debe implementar la universidad contra violencia de género?",
+                "¿Un comentario machista es violencia de género?",
+                "¿Hay medidas especiales para víctimas de violencia de género?"
+            ],
+            "responses": [
+                "📘 Violencia dirigida a personas por su género/sexo que cause daño físico/emocional (Art. 20.1).",
+                "🔹 Porque refleja desigualdad estructural y requiere mayor protección (Art. 20.2).",
+                "🎯 Políticas de prevención, detección, atención y erradicación (Art. 20.3).",
+                "📘 Sí, si perpetúa estereotipos y causa daño (Art. 20 + 15).",
+                "🔹 Sí, medidas cautelares y atención con perspectiva de género (Art. 27)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 20",
+            "topic": "Violencia de género"
+        },
+        {
+            "tag": "faltas_academicas",
+            "patterns": [
+                "¿Qué se considera falta académica según Artículo 21?",
+                "¿Copiar en un examen es falta grave?",
+                "¿Pueden sancionarme por hacer plagio?",
+                "¿Qué pasa si falsifico resultados de investigación?",
+                "¿Vender apuntes con logo universitario es falta?"
+            ],
+            "responses": [
+                "📘 Incluye plagio, fraude académico, soborno o falsificación de investigación (Art. 21).",
+                "🔹 Sí, con suspensión hasta 1 año y nulidad del examen (Art. 21.I).",
+                "🎯 Sí, es falta académica grave (Art. 21.II).",
+                "📘 Es falta muy grave, con sanciones hasta expulsión (Art. 21.XII).",
+                "🔹 Sí, si usas logos/lemas sin autorización (Art. 21.V)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 21",
+            "topic": "Faltas académicas"
+        },
+        {
+            "tag": "faltas_electorales",
+            "patterns": [
+                "¿Qué conductas son faltas electorales según Artículo 22?",
+                "¿Comprar votos está tipificado como falta?",
+                "¿Pueden sancionarme por hacer campaña fuera de tiempos autorizados?",
+                "¿Qué pasa si altero firmas para registrar un candidato?",
+                "¿Usar recursos universitarios para campañas es falta?"
+            ],
+            "responses": [
+                "📘 Incluye compra de votos, violar secreto del voto, proselitismo ilegal, etc. (Art. 22).",
+                "🔹 Sí, es falta electoral grave (Art. 22.I).",
+                "🎯 Sí, si viola las bases de convocatorias (Art. 22.III).",
+                "📘 Sí, es falsificación documental (Art. 22.VI).",
+                "🔹 Sí, está expresamente prohibido (Art. 22.VII)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 22",
+            "topic": "Faltas electorales"
+        },
+        {
+            "tag": "sanciones_aplicables",
+            "patterns": [
+                "¿Qué sanciones establece el Artículo 23?",
+                "¿Cuál es la sanción máxima para un alumno?",
+                "¿Un trabajador puede ser inhabilitado permanentemente?",
+                "¿Hay sanciones educativas para agresores?",
+                "¿La sanción administrativa excluye responsabilidad penal?"
+            ],
+            "responses": [
+                "📘 Amonestación, suspensión, expulsión, separación del cargo o inhabilitación (Art. 23.1).",
+                "🔹 Expulsión definitiva (Art. 23.1.V).",
+                "🎯 Sí, con separación definitiva o inhabilitación (Art. 23.1.VI-VII).",
+                "📘 Sí, medidas reeducativas para casos de violencia (Art. 23.3).",
+                "🔹 No, son independientes (Art. 23.2)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 23",
+            "topic": "Sanciones aplicables"
+        },
+        {
+            "tag": "criterios_para_sanciones",
+            "patterns": [
+                "¿Qué criterios usan para determinar sanciones según Artículo 24?",
+                "¿Cómo definen si una falta es grave o leve?",
+                "¿Qué es el principio de reincidencia?",
+                "¿Se considera si el daño fue reparado?",
+                "¿Qué pasa si la falta fue sin intención?"
+            ],
+            "responses": [
+                "📘 Gravedad de la falta, dolo/culpa, daño causado y reincidencia (Art. 24.1).",
+                "🔹 Grave: con dolo, reincidencia o violencia de género; Leve: negligencia o sin reincidencia (Art. 24.2).",
+                "🎯 Repetir la misma conducta ya sancionada agrava la falta (Art. 24.2.VII).",
+                "📘 Sí, aceptar reparar el daño puede atenuar la sanción (Art. 24.1.V).",
+                "🔹 Falta por culpa/negligencia tiene sanciones menores (Art. 24.2.IV)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 24",
+            "topic": "Criterios para imposición de sanciones"
+        },
+        {
+            "tag": "grupos_vulnerables",
+            "patterns": [
+                "¿Qué protecciones hay para grupos vulnerables según Artículo 25?",
+                "¿Cómo se atiende a víctimas con discapacidad?",
+                "¿Qué es el enfoque interseccional?",
+                "¿Hay trato especial para comunidades indígenas?",
+                "¿Qué garantías tienen los niños en procedimientos?"
+            ],
+            "responses": [
+                "📘 Enfoques diferenciados (género, derechos humanos, interculturalidad) (Art. 25).",
+                "🔹 Con ajustes razonables y asistencia de intérpretes si es necesario (Art. 28).",
+                "🎯 Analiza cómo se combinan múltiples discriminaciones (ej. género + etnia) (Art. 25.2.IV).",
+                "📘 Sí, se consideran sus costumbres y derecho a usar su lengua (Art. 29).",
+                "🔹 Interés superior del niño, representación y protección emocional (Art. 26)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 25",
+            "topic": "Protección a grupos vulnerables"
+        },
+        {
+            "tag": "derechos_ninez",
+            "patterns": [
+                "¿Qué protecciones específicas tienen niñas/os según Artículo 26?",
+                "¿Puede un niño participar directamente en un procedimiento?",
+                "¿Quién representa a menores en procesos disciplinarios?",
+                "¿Cómo se protege la identidad de menores víctimas?",
+                "¿Se permite la confrontación con el presunto agresor?"
+            ],
+            "responses": [
+                "📘 Garantizan interés superior, representación legal y protección emocional (Art. 26.I-VIII).",
+                "🔹 Sí, con acompañamiento y adaptado a su edad (Art. 26.V).",
+                "🎯 Quien ejerza patria potestad o la Procuraduría de Protección (Art. 26.II y VI).",
+                "📘 Sí, con resguardo de datos personales y evitando revictimización (Art. 26.VII).",
+                "🔹 No, se evita la confrontación directa (Art. 26.V)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 26",
+            "topic": "Derechos de niñas, niños y adolescentes"
+        },
+        {
+            "tag": "perspectiva_genero",
+            "patterns": [
+                "¿Qué acciones específicas exige la perspectiva de género (Art. 27)?",
+                "¿Pueden obligarme a conciliar con mi agresor?",
+                "¿Cómo garantizan privacidad a víctimas?",
+                "¿Quién brinda atención a víctimas de violencia?",
+                "¿Hay personal especializado en género?"
+            ],
+            "responses": [
+                "📘 Investigación con perspectiva de género, confidencialidad y prohibición de mediación en casos sexuales (Art. 27.I-VII).",
+                "🔹 No, especialmente en violencia sexual (Art. 27.V).",
+                "🎯 Protegiendo datos personales y usando espacios seguros (Art. 27.II y III).",
+                "📘 Primer contacto y autoridades competentes, con enfoque integral (Art. 27.IX).",
+                "🔹 Sí, los primeros contactos y comisiones deben tener formación especializada (Art. 32)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 27",
+            "topic": "Perspectiva de género en procedimientos"
+        },
+        {
+            "tag": "traductores_intérpretes",
+            "patterns": [
+                "¿Proveen traductores para indígenas o personas con discapacidad (Art. 28)?",
+                "¿Puedo elegir a mi propio intérprete?",
+                "¿Qué idiomas están cubiertos?",
+                "¿Aplica para procedimientos escritos?",
+                "¿Hay apoyo para personas sordas?"
+            ],
+            "responses": [
+                "📘 Sí, la universidad debe facilitar traductores/intérpretes para estos casos (Art. 28.1).",
+                "🔹 Sí, puedes auxiliarte de alguien de confianza (Art. 28.2).",
+                "🎯 Todos los idiomas indígenas y sistemas para discapacidad visual/auditiva.",
+                "📘 Sí, para traducción de documentos y comunicación en procedimientos.",
+                "🔹 Sí, con intérpretes de lengua de señas u otros apoyos técnicos."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 28",
+            "topic": "Asistencia de traductores/intérpretes"
+        },
+        {
+            "tag": "pueblos_indigenas",
+            "patterns": [
+                "¿Qué consideraciones hay para indígenas (Art. 29)?",
+                "¿Se respetan sus costumbres en procedimientos?",
+                "¿Pueden usar su lengua materna?",
+                "¿Cómo se garantiza este derecho?",
+                "¿Aplica para denuncias contra indígenas?"
+            ],
+            "responses": [
+                "📘 Deben considerarse sus especificidades culturales y derecho a comunicación en su lengua (Art. 29).",
+                "🔹 Sí, en la valoración de pruebas y desarrollo del procedimiento (Art. 29.1).",
+                "🎯 Sí, la universidad proveerá mecanismos para hacerlo válido (Art. 29.2).",
+                "📘 Con traductores y adaptación de procesos a sus contextos.",
+                "🔹 Sí, siempre que sean parte de la comunidad universitaria."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 29",
+            "topic": "Integrantes de pueblos indígenas"
+        },
+        {
+            "tag": "primer_contacto",
+            "patterns": [
+                "¿Qué hace el 'primer contacto' según Artículo 30?",
+                "¿Dónde encuentro al primer contacto en mi campus?",
+                "¿Pueden negarme atención si soy víctima?",
+                "¿Qué apoyo psicológico brindan?",
+                "¿Derivan casos a autoridades externas?"
+            ],
+            "responses": [
+                "📘 Brinda atención integral inicial, contención emocional y canaliza denuncias (Art. 30).",
+                "🔹 En espacios designados en cada centro universitario/escuela (Art. 32.2).",
+                "🎯 No, deben atenderte inmediatamente conforme a protocolos (Art. 31).",
+                "📘 Primera atención psicológica y canalización a servicios especializados (Art. 33.II).",
+                "🔹 Sí, cuando el caso lo requiera (Art. 33.XV)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 30",
+            "topic": "Atención de primer contacto"
+        },
+        {
+            "tag": "principio_buena_fe",
+            "patterns": [
+                "¿Qué es el principio de buena fe para víctimas (Art. 31)?",
+                "¿Debo presentar denuncia formal para recibir ayuda?",
+                "¿Cómo evitan revictimizar durante el proceso?",
+                "¿Puedo acceder a medidas cautelares sin denuncia?",
+                "¿Qué pasa si no tengo pruebas?"
+            ],
+            "responses": [
+                "📘 Las víctimas deben ser creídas y atendidas sin exigir denuncia formal (Art. 31).",
+                "🔹 No, recibirás atención integral independientemente de tu decisión de denunciar.",
+                "🎯 Con lenguaje respetuoso, evitando preguntas repetitivas y espacios seguros (Art. 27).",
+                "📘 Sí, se pueden solicitar medidas cautelares provisionales (Art. 39.2).",
+                "🔹 La autoridad investigará de oficio en casos de violencia (Art. 58.3)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 31",
+            "topic": "Principio de buena fe"
+        },
+        {
+            "tag": "designacion_primer_contacto",
+            "patterns": [
+                "¿Quién designa a las personas de primer contacto (Art. 32)?",
+                "¿Qué formación requieren?",
+                "¿Hay primer contacto en todas las dependencias?",
+                "¿Atienden en horarios extendidos?",
+                "¿Dónde reporto si no hay disponible?"
+            ],
+            "responses": [
+                "📘 El Rector General, previa formación especializada (Art. 32.1).",
+                "🔹 Capacitación en perspectiva de género y derechos humanos por la Unidad para la Igualdad.",
+                "🎯 Sí, en centros universitarios, escuelas y sedes administrativas (Art. 32.2).",
+                "📘 Sí, cubren turnos matutino y vespertino (Art. 32.2).",
+                "🔹 A la Unidad para la Igualdad o Defensoría de Derechos Universitarios."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 32",
+            "topic": "Designación de primeros contactos"
+        },
+        {
+            "tag": "atribuciones_primer_contacto",
+            "patterns": [
+                "¿Qué puede hacer el primer contacto según Artículo 33?",
+                "¿Pueden brindarme asesoría legal?",
+                "¿Cómo garantizan confidencialidad?",
+                "¿Qué medidas cautelares pueden solicitar?",
+                "¿En qué plazo derivan mi denuncia?"
+            ],
+            "responses": [
+                "📘 Atender víctimas, solicitar medidas cautelares, recibir denuncias y derivarlas (Art. 33.I-XVI).",
+                "🔹 Sí, primera asesoría y canalización a instancias especializadas (Art. 33.II).",
+                "🎯 Protegiendo datos personales y usando información solo para fines del proceso (Art. 33.IX).",
+                "📘 Cambio de grupo, prohibición de acercamiento, suspensión provisional (Art. 33.XIII).",
+                "🔹 En máximo 4 días hábiles tras recibirla (Art. 33.XII)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 33",
+            "topic": "Atribuciones del primer contacto"
+        },
+        {
+            "tag": "tramite_denuncia",
+            "patterns": [
+                "¿Cómo tramita el primer contacto una denuncia (Art. 34)?",
+                "¿Qué pasa si el presunto agresor es trabajador?",
+                "¿Derivan casos a otras autoridades?",
+                "¿Notifican a mi agresor inmediatamente?",
+                "¿Puedo saber el estatus de mi denuncia?"
+            ],
+            "responses": [
+                "📘 La remite a la Comisión de Responsabilidades competente en ≤4 días (Art. 34.I).",
+                "🔹 Se informa a Recursos Humanos para acciones laborales paralelas (Art. 34.II).",
+                "🎯 Sí, a la Defensoría Universitaria si hay violación de derechos (Art. 34.III).",
+                "📘 No, solo tras investigación inicial y emplazamiento formal (Art. 70).",
+                "🔹 Sí, deben informarte sobre el trámite dado (Art. 33.XVI)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 34",
+            "topic": "Trámite de denuncia"
+        },
+        {
+            "tag": "medios_alternativos",
+            "patterns": [
+                "¿Se permite la mediación en conflictos (Art. 35)?",
+                "¿En qué casos no aplica?",
+                "¿Quién puede proponer una solución alternativa?",
+                "¿Es obligatorio acudir a mediación?",
+                "¿Cómo sé si mi caso califica?"
+            ],
+            "responses": [
+                "📘 Sí, salvo que la ley lo prohíba (ej. violencia de género) (Art. 35).",
+                "🔹 En violencia sexual, escolar grave o delitos (Art. 35 + 17).",
+                "🎯 Las partes o la autoridad universitaria, si es procedente.",
+                "📘 No, especialmente víctimas de violencia no pueden ser obligadas (Art. 27.V).",
+                "🔹 La autoridad competente determina si cumple requisitos legales."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 35",
+            "topic": "Medios alternativos de solución"
+        },
+        {
+            "tag": "etapas_sancion",
+            "patterns": [
+                "¿Cuáles son las etapas para imponer sanciones según Artículo 36?",
+                "¿Qué incluye la etapa de investigación?",
+                "¿Puedo presentar pruebas en la etapa de substanciación?",
+                "¿Quién toma la decisión final en la etapa de resolución?",
+                "¿Cuánto tiempo dura cada etapa?"
+            ],
+            "responses": [
+                "📘 1) Investigación, 2) Substanciación (audiencia/pruebas), 3) Resolución (Art. 36.1).",
+                "🔹 Recepción de denuncia, diligencias y informe de presunta responsabilidad (Art. 36.I).",
+                "🎯 Sí, durante la audiencia en la etapa de substanciación (Art. 36.II).",
+                "📘 La Comisión de Responsabilidades y Sanciones competente (Art. 37).",
+                "🔹 Plazos varían, pero la audiencia debe celebrarse en ≥5 días hábiles tras notificación (Art. 130.III)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 36",
+            "topic": "Etapas para imposición de sanciones"
+        },
+        {
+            "tag": "autoridades_competentes",
+            "patterns": [
+                "¿Quiénes son autoridades competentes según Artículo 37?",
+                "¿Qué casos atienden los Consejos de Escuela?",
+                "¿Cuándo interviene el Consejo General Universitario?",
+                "¿Puede un Centro Universitario resolver sobre faltas graves?",
+                "¿Dónde se resuelve sobre personal administrativo?"
+            ],
+            "responses": [
+                "📘 Consejos de Escuela, División, Centros Universitarios, CUEMS, CUV y CGU (Art. 37.1).",
+                "🔹 Faltas leves de alumnos (amonestación-suspensión ≤3 meses) y personal (Art. 37.I).",
+                "🎯 En faltas graves de alumnos (expulsión) o cuando ejerce facultad de atracción (Art. 37.VI).",
+                "📘 Sí, para suspensiones >3 meses y <8 meses de alumnos (Art. 37.IV).",
+                "🔹 Depende de su adscripción: Consejos de Escuela/División (leves) o Rectoría/CGU (graves) (Art. 37)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 37",
+            "topic": "Autoridades competentes"
+        },
+        {
+            "tag": "facultad_atraccion",
+            "patterns": [
+                "¿Qué es la facultad de atracción (Artículo 38)?",
+                "¿El CGU puede tomar casos de cualquier instancia?",
+                "¿Cómo solicito que el CGU atraiga mi caso?",
+                "¿Qué pasa si el CGU no acepta atraer el caso?",
+                "¿Se suspende el procedimiento durante este trámite?"
+            ],
+            "responses": [
+                "📘 El Consejo General Universitario puede asumir casos de otras instancias por su trascendencia (Art. 38.1).",
+                "🔹 Sí, hasta antes de la resolución definitiva (Art. 38.2).",
+                "🎯 La Comisión de Responsabilidades local debe solicitarlo y remitir expediente (Art. 38.4).",
+                "📘 El caso regresa a la autoridad original para continuar (Art. 38.3.III).",
+                "🔹 Sí, se suspende hasta que el CGU resuelva (Art. 38.4.I)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 38",
+            "topic": "Facultad de atracción"
+        },
+        {
+            "tag": "medidas_cautelares",
+            "patterns": [
+                "¿Qué son medidas cautelares según Artículo 39?",
+                "¿Quién puede solicitarlas?",
+                "¿Pueden ser provisionales?",
+                "¿Qué objetivos tienen?",
+                "¿En qué casos no aplican?"
+            ],
+            "responses": [
+                "📘 Mecanismos para proteger víctimas o bienes durante el procedimiento (Art. 39.1).",
+                "🔹 La víctima, primer contacto o autoridad de oficio (Art. 39.1).",
+                "🎯 Sí, las instancias universitarias pueden decretarlas por ≤5 días naturales (Art. 39.2).",
+                "📘 Proteger integridad, evitar daños irreparables u ocultamiento de pruebas (Art. 39.4).",
+                "🔹 Si afectan interés social u orden público (Art. 39.5)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 39",
+            "topic": "Medidas cautelares"
+        },
+        {
+            "tag": "tipos_medidas_cautelares",
+            "patterns": [
+                "¿Qué tipos de medidas cautelares existen (Artículo 40)?",
+                "¿Pueden cambiarme de grupo por seguridad?",
+                "¿Qué implica la suspensión provisional?",
+                "¿Pueden prohibir el acceso a instalaciones?",
+                "¿Incluyen protección policial?"
+            ],
+            "responses": [
+                "📘 Suspensión provisional, cambio de grupo, prohibición de contacto/acceso, etc. (Art. 40.1).",
+                "🔹 Sí, a petición de la víctima (Art. 40.1.III).",
+                "🎯 Separar al presunto responsable de sus funciones durante la investigación (Art. 40.1.I).",
+                "📘 Sí, como medida de protección (Art. 40.1.IX).",
+                "🔹 Sí, pueden dar parte a seguridad pública si hay riesgo (Art. 40.1.VII)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 40",
+            "topic": "Tipos de medidas cautelares"
+        },
+        {
+            "tag": "presuncion_inocencia_medidas",
+            "patterns": [
+                "¿Cómo protegen la presunción de inocencia en medidas cautelares (Artículo 41)?",
+                "¿Las medidas cautelares significan que soy culpable?",
+                "¿Deben mantener mi caso en confidencialidad?",
+                "¿Qué dice la resolución sobre esto?",
+                "¿Puedo impugnar las medidas?"
+            ],
+            "responses": [
+                "📘 Las medidas no prejuzgan responsabilidad y deben proteger tu imagen (Art. 41).",
+                "🔹 No, son preventivas y la resolución debe aclararlo (Art. 41.2).",
+                "🎯 Sí, evitando difusión pública del caso (Art. 40.1.X).",
+                "📘 Debe indicar expresamente que no implica declaración de responsabilidad (Art. 41.2).",
+                "🔹 Sí, mediante recurso de revisión (Art. 136)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 41",
+            "topic": "Presunción de inocencia y medidas cautelares"
+        },
+        {
+            "tag": "solicitud_medidas_cautelares",
+            "patterns": [
+                "¿Cómo solicito medidas cautelares según Artículo 42?",
+                "¿Qué debo incluir en la solicitud?",
+                "¿Qué es el 'peligro en la demora'?",
+                "¿Necesito un abogado para solicitarlas?",
+                "¿Puedo adjuntar pruebas?"
+            ],
+            "responses": [
+                "📘 En la denuncia o escrito independiente ante la autoridad competente (Art. 42).",
+                "🔹 Motivos, justificación y lo que se busca proteger (Art. 42.2).",
+                "🎯 Riesgo de daño irreparable si se espera a la resolución final (Art. 42.1).",
+                "📘 No, pero puedes asesorarte con la Defensoría Universitaria.",
+                "🔹 Sí, cualquier elemento que fundamente tu solicitud."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 42",
+            "topic": "Solicitud de medidas cautelares"
+        },
+        {
+            "tag": "resolucion_medidas_cautelares",
+            "patterns": [
+                "¿En cuánto tiempo resuelven sobre medidas cautelares (Artículo 43)?",
+                "¿Quién decide sobre medidas provisionales?",
+                "¿Pueden negarme las medidas?",
+                "¿Qué pasa si no resuelven en plazo?",
+                "¿Notifican al presunto agresor?"
+            ],
+            "responses": [
+                "📘 5 días hábiles para autoridades competentes; 2 días hábiles para titulares de instancias (Art. 43).",
+                "🔹 Titulares de instancias universitarias (ej. Secretarios Académicos) (Art. 43.2).",
+                "🎯 Sí, si no cumplen requisitos de urgencia o fundamentación.",
+                "📘 Puedes impugnar la omisión (Art. 136).",
+                "🔹 Sí, en ≤2 días hábiles tras resolución (Art. 44)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 43",
+            "topic": "Resolución de medidas cautelares"
+        },
+        {
+            "tag": "notificacion_medidas",
+            "patterns": [
+                "¿Cómo se notifican las medidas cautelares (Artículo 44)?",
+                "¿Quiénes reciben la notificación?",
+                "¿Qué información incluye?",
+                "¿Puede ser notificación electrónica?",
+                "¿Qué pasa si no me notifican?"
+            ],
+            "responses": [
+                "📘 Personalmente o por medios electrónicos a partes y autoridades involucradas (Art. 44).",
+                "🔹 Presunto responsable, víctima y autoridades de ejecución (Art. 44).",
+                "🎯 Tipo de medida, duración y obligaciones específicas.",
+                "📘 Sí, si las partes autorizaron este medio (Art. 74).",
+                "🔹 La medida no es exigible hasta su notificación válida."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 44",
+            "topic": "Notificación de medidas cautelares"
+        },
+        {
+            "tag": "suspension_medidas",
+            "patterns": [
+                "¿Pueden suspenderse medidas cautelares (Artículo 45)?",
+                "¿Cómo solicito la suspensión?",
+                "¿Qué debo demostrar?",
+                "¿Quién decide?",
+                "¿Pueden restablecerse después?"
+            ],
+            "responses": [
+                "📘 Sí, si ya no son necesarias (Art. 45).",
+                "🔹 Durante la audiencia, justificando los motivos (Art. 45.1).",
+                "🎯 Que desapareció el riesgo que las originó (ej. reconciliación).",
+                "📘 La autoridad universitaria competente en el procedimiento.",
+                "🔹 Sí, si resurgen las circunstancias de riesgo."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 45",
+            "topic": "Suspensión de medidas cautelares"
+        },
+        {
+            "tag": "supervision_medidas_cautelares",
+            "patterns": [
+                "¿Quién supervisa el cumplimiento de las medidas cautelares según el Artículo 46?",
+                "¿Qué pasa si no se cumplen las medidas cautelares?",
+                "¿Cómo reporto una violación a las medidas?",
+                "¿Con qué frecuencia se verifica el cumplimiento?",
+                "¿Pueden modificarse las medidas si no se están cumpliendo?"
+            ],
+            "responses": [
+                "📘 La autoridad universitaria encargada de ejecutarlas debe supervisarlas (Art. 46.1).",
+                "🔹 Constituye una falta adicional y puede agravar las sanciones.",
+                "🎯 Ante la misma autoridad que decretó las medidas o al primer contacto.",
+                "📘 No hay plazo fijo, pero deben informar sobre su cumplimiento (Art. 46).",
+                "🔹 Sí, la autoridad puede ratificar, modificar o revocar medidas (Art. 39.3)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 46",
+            "topic": "Supervisión de medidas cautelares"
+        },
+        {
+            "tag": "duracion_medidas_cautelares",
+            "patterns": [
+                "¿Cuánto tiempo pueden durar las medidas cautelares según Artículo 47?",
+                "¿Qué factores determinan la duración?",
+                "¿Pueden extenderse más allá de la resolución final?",
+                "¿Hay un plazo mínimo?",
+                "¿Cómo se indica la duración en la resolución?"
+            ],
+            "responses": [
+                "📘 Deben ser proporcionales a la posible sanción (Art. 47.1).",
+                "🔹 Gravedad de la falta, riesgo para víctima y patrimonio universitario.",
+                "🎯 No, terminan cuando la resolución queda firme o se revocan.",
+                "📘 No, depende de cada caso.",
+                "🔹 La resolución debe señalar expresamente su duración (Art. 47.1)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 47",
+            "topic": "Duración de medidas cautelares"
+        },
+        {
+            "tag": "principios_investigacion",
+            "patterns": [
+                "¿Qué principios rigen la investigación según Artículo 48?",
+                "¿Qué significa el principio de verdad material?",
+                "¿Cómo garantizan la confidencialidad?",
+                "¿Qué es la debida diligencia en investigaciones?",
+                "¿Puedo confiar en la imparcialidad del proceso?"
+            ],
+            "responses": [
+                "📘 Legalidad, imparcialidad, buena fe, objetividad y respeto a DDHH (Art. 48.1).",
+                "🔹 Que la autoridad debe buscar activamente la verdad de los hechos.",
+                "🎯 Protegiendo datos personales y limitando acceso al expediente.",
+                "📘 Investigación oportuna, exhaustiva y eficiente (Art. 48.2).",
+                "🔹 Sí, las autoridades deben actuar sin prejuicios (Art. 48.1)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 48",
+            "topic": "Principios de la investigación"
+        },
+        {
+            "tag": "atribuciones_investigacion",
+            "patterns": [
+                "¿Qué puede hacer la autoridad durante la investigación (Artículo 49)?",
+                "¿Pueden acceder a mis correos electrónicos universitarios?",
+                "¿Estoy obligado a colaborar con la investigación?",
+                "¿Qué es un Informe de Presunta Responsabilidad?",
+                "¿Pueden imponer medidas cautelares durante la investigación?"
+            ],
+            "responses": [
+                "📘 Recibir denuncias, recabar pruebas, decretar medidas cautelares (Art. 49).",
+                "🔹 Sí, si son relevantes para el caso (Art. 61).",
+                "🎯 Sí, todos los integrantes deben colaborar (Art. 62).",
+                "📘 Documento que describe hechos y pruebas de presuntas faltas (Art. 49.V).",
+                "🔹 Sí, de manera provisional (Art. 49.VI)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 49",
+            "topic": "Atribuciones en investigación"
+        },
+        {
+            "tag": "inicio_investigacion",
+            "patterns": [
+                "¿Cómo se inicia una investigación según Artículo 50?",
+                "¿Puede iniciarse sin una denuncia formal?",
+                "¿Qué tipos de denuncias reciben?",
+                "¿Qué pasa si mi denuncia está incompleta?",
+                "¿En qué casos investigan de oficio?"
+            ],
+            "responses": [
+                "📘 Por denuncia o de oficio cuando hay indicios de falta (Art. 50).",
+                "🔹 Sí, especialmente en casos de violencia (Art. 50.3).",
+                "🎯 Directas de víctimas, de terceros o remitidas por primer contacto (Art. 50.2).",
+                "📘 Te pedirán aclararla en 5 días hábiles (Art. 55).",
+                "🔹 Violencia de género o cuando afecte interés universitario (Art. 58)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 50",
+            "topic": "Inicio de investigación"
+        },
+        {
+            "tag": "presentacion_denuncias",
+            "patterns": [
+                "¿Dónde presento una denuncia según Artículo 51?",
+                "¿Puedo denunciar directamente ante el Consejo General?",
+                "¿Quién recibe denuncias en mi centro universitario?",
+                "¿Hay que pagar para presentar una denuncia?",
+                "¿Qué pasa si denuncio a un secretario académico?"
+            ],
+            "responses": [
+                "📘 Ante secretarías de escuela/división o autoridades designadas (Art. 51).",
+                "🔹 Solo casos graves que ameriten facultad de atracción (Art. 38).",
+                "🎯 La Secretaría Académica o quien designe el Consejo.",
+                "📘 No, es gratuito.",
+                "🔹 Se activa un procedimiento especial para evitar conflicto de intereses (Art. 54)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 51",
+            "topic": "Presentación de denuncias"
+        },
+        {
+            "tag": "forma_presentacion",
+            "patterns": [
+                "¿Cómo debo presentar mi denuncia según Artículo 52?",
+                "¿Puedo denunciar anónimamente?",
+                "¿Hay un formato oficial para denuncias?",
+                "¿Aceptan denuncias por correo electrónico?",
+                "¿Qué ventajas tienen las denuncias electrónicas?"
+            ],
+            "responses": [
+                "📘 Física o electrónica, mediante formatos oficiales (Art. 52).",
+                "🔹 Sí, pero requieren ratificación posterior (Art. 56).",
+                "🎯 Sí, la universidad debe habilitar formatos accesibles.",
+                "📘 Solo si es un canal oficial autorizado.",
+                "🔹 Mayor accesibilidad y registro digital automático."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 52",
+            "topic": "Forma de presentación"
+        },
+        {
+            "tag": "requisitos_denuncia",
+            "patterns": [
+                "¿Qué debe contener mi denuncia según Artículo 53?",
+                "¿Puedo mantener mi identidad en reserva?",
+                "¿Qué datos debo incluir sobre el presunto responsable?",
+                "¿Debo presentar pruebas con la denuncia?",
+                "¿Cómo acredito que presenté mi denuncia?"
+            ],
+            "responses": [
+                "📘 Descripción clara de hechos, datos identificatorios y solicitud de medidas (Art. 53).",
+                "🔹 Sí, puedes pedir confidencialidad (Art. 53.I).",
+                "🎯 Nombre y cualquier dato que permita su identificación.",
+                "📘 No es obligatorio, pero ayuda a la investigación.",
+                "🔹 Deben darte constancia con fecha/hora de presentación (Art. 53.3)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 53",
+            "topic": "Requisitos de denuncia"
+        },
+        {
+            "tag": "denuncia_contra_autoridades",
+            "patterns": [
+                "¿Qué pasa si denuncio a una autoridad universitaria según Artículo 54?",
+                "¿Quién recibe mi denuncia en estos casos?",
+                "¿El denunciado puede participar en la decisión?",
+                "¿Es diferente el procedimiento?",
+                "¿Qué garantías tengo como denunciante?"
+            ],
+            "responses": [
+                "📘 Se activa un procedimiento especial para evitar conflicto de intereses (Art. 54).",
+                "🎯 Cualquier integrante de la Comisión de Responsabilidades correspondiente.",
+                "🔹 No, debe excusarse o ser recusado (Art. 54.III).",
+                "📘 Sí, con mayor escrutinio y perspectiva de género (Art. 54.IV).",
+                "🔹 Confidencialidad y protección contra represalias."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 54",
+            "topic": "Denuncia contra autoridades"
+        },
+        {
+            "tag": "aclaracion_denuncia",
+            "patterns": [
+                "¿Pueden pedirme que aclare mi denuncia según Artículo 55?",
+                "¿Qué pasa si no completo la información solicitada?",
+                "¿Cuánto tiempo tengo para aclarar?",
+                "¿En qué casos investigan aunque la denuncia sea deficiente?",
+                "¿Puedo agregar más información después?"
+            ],
+            "responses": [
+                "📘 Sí, si falta información esencial (Art. 55.1).",
+                "🔹 Pueden archivarla si no hay elementos para investigar (Art. 55.2).",
+                "🎯 5 días hábiles tras el requerimiento (Art. 55.1).",
+                "📘 En violencia de género o cuando haya indicios suficientes (Art. 55.3).",
+                "🔹 Sí, durante la investigación."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 55",
+            "topic": "Aclaración de denuncia"
+        },
+        {
+            "tag": "ratificacion_denuncia",
+            "patterns": [
+                "¿Cuándo debo ratificar mi denuncia según Artículo 56?",
+                "¿Qué pasa si presenté mi denuncia electrónicamente?",
+                "¿Una denuncia anónima puede proceder?",
+                "¿Cómo ratifico una denuncia presentada por terceros?",
+                "¿Puedo ratificar por medios electrónicos?"
+            ],
+            "responses": [
+                "📘 Cuando sea electrónica, anónima o presentada por terceros (Art. 56.1).",
+                "🔹 Debes ratificarla en 5 días hábiles para que proceda (Art. 56.I).",
+                "🎯 Sí, pero requiere identificación posterior para investigar.",
+                "📘 La víctima debe ratificar los hechos denunciados.",
+                "🔹 Sí, si la universidad ha habilitado este mecanismo."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 56",
+            "topic": "Ratificación de denuncia"
+        },
+        {
+            "tag": "traductores_denuncias",
+            "patterns": [
+                "¿Proveen traductor si no hablo español según Artículo 57?",
+                "¿Quién paga los servicios de traducción?",
+                "¿Puedo usar mi propio traductor?",
+                "¿Aplica para documentos escritos?",
+                "¿Qué idiomas están cubiertos?"
+            ],
+            "responses": [
+                "📘 Sí, la universidad debe facilitar traductor/intérprete gratuito (Art. 57).",
+                "🔹 Es gratuito para el denunciante.",
+                "🎯 Sí, puedes usar alguien de confianza (Art. 28.2).",
+                "📘 Sí, para traducción de documentos presentados.",
+                "🔹 Todos los idiomas indígenas y lenguas de señas mexicanas."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 57",
+            "topic": "Traductores para denuncias"
+        },
+        {
+            "tag": "investigacion_oficio",
+            "patterns": [
+                "¿Cuándo puede iniciarse investigación de oficio según Artículo 58?",
+                "¿Necesitan mi consentimiento para investigar?",
+                "¿Qué casos investigan obligatoriamente?",
+                "¿Cómo me entero si hay investigación en mi contra?",
+                "¿Pueden investigar hechos antiguos?"
+            ],
+            "responses": [
+                "📘 Cuando haya indicios de falta aunque no haya denuncia (Art. 58.1).",
+                "🔹 No, pero te notificarán para ejercer tu defensa.",
+                "🎯 Violencia de género y casos que afecten bienestar universitario (Art. 58.2).",
+                "📘 Te notificarán al iniciar el procedimiento formal (Art. 70).",
+                "🔹 Sí, si no han prescrito (3 años máximo, Art. 119)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 58",
+            "topic": "Investigación de oficio"
+        },
+        {
+            "tag": "competencia_investigacion",
+            "patterns": [
+                "¿Quién determina qué autoridad es competente según Artículo 59?",
+                "¿Qué pasa si la autoridad que recibió mi denuncia no es competente?",
+                "¿Cuánto tardan en resolver sobre competencia?",
+                "¿Puedo impugnar la determinación de competencia?",
+                "¿Cómo me notifican el cambio de autoridad?"
+            ],
+            "responses": [
+                "📘 La autoridad que recibe la denuncia, fundando y motivando (Art. 59).",
+                "🔹 Remitirá el caso a la autoridad competente en 2 días hábiles (Art. 59.3.I).",
+                "🎯 2 días hábiles tras recibir el expediente (Art. 59.3.II).",
+                "📘 Sí, mediante recurso de revisión (Art. 136).",
+                "🔹 Por los mismos medios que otras notificaciones (Art. 74)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 59",
+            "topic": "Determinación de competencia"
+        },
+        {
+            "tag": "delitos_durante_investigacion",
+            "patterns": [
+                "¿Qué hacen si descubren un delito durante la investigación según Artículo 60?",
+                "¿La investigación universitaria continúa en estos casos?",
+                "¿Comparten mi expediente con el Ministerio Público?",
+                "¿Debo denunciar también el delito?",
+                "¿Pueden suspenderme por un presunto delito?"
+            ],
+            "responses": [
+                "📘 Lo comunican a la Oficina de Abogacía General para acciones legales (Art. 60.1).",
+                "🔹 Sí, son procedimientos independientes.",
+                "🎯 Sí, copia del expediente en 5 días hábiles (Art. 60.2).",
+                "📘 Sí, todos tenemos esa obligación (Art. 6).",
+                "🔹 Sí, con medida cautelar de suspensión provisional (Art. 40.I)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 60",
+            "topic": "Delitos durante investigación"
+        },
+        {
+            "tag": "acceso_informacion",
+            "patterns": [
+                "¿Qué información pueden recabar durante la investigación según Artículo 61?",
+                "¿Pueden acceder a mis correos institucionales?",
+                "¿Qué pasa con información confidencial que obtengan?",
+                "¿Puedo negarme a proporcionar información?",
+                "¿Cómo protegen mis datos personales?"
+            ],
+            "responses": [
+                "📘 Cualquier información relevante, incluso confidencial (Art. 61.1).",
+                "🔹 Sí, si guarda relación con los hechos investigados.",
+                "🎯 Deben mantenerla en reserva y usarla solo para el caso (Art. 61.2).",
+                "📘 No, es obligatorio colaborar (Art. 62).",
+                "🔹 Con medidas de seguridad y limitando su uso (Art. 33.IX)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 61",
+            "topic": "Acceso a información"
+        },
+        {
+            "tag": "solicitud_informacion",
+            "patterns": [
+                "¿A quiénes pueden pedir información según Artículo 62?",
+                "¿Qué pasa si un profesor se niega a declarar?",
+                "¿Pueden solicitar mis calificaciones como prueba?",
+                "¿Hay información que no puedan solicitar?",
+                "¿Cuánto tiempo tienen para responder los requerimientos?"
+            ],
+            "responses": [
+                "📘 A cualquier integrante o dependencia universitaria (Art. 62.1).",
+                "🔹 Constituye falta administrativa (Art. 8).",
+                "🎯 Sí, si son relevantes para el caso.",
+                "📘 No, pero debe ser proporcional y relacionada con la investigación.",
+                "🔹 El reglamento no establece plazo, pero debe ser razonable."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 62",
+            "topic": "Solicitud de información"
+        },
+        {
+            "tag": "apoyo_tecnico",
+            "patterns": [
+                "¿Pueden asesorarse con expertos según Artículo 63?",
+                "¿Qué tipo de apoyo técnico pueden solicitar?",
+                "¿Puedo proponer mis propios peritos?",
+                "¿Quién paga estos servicios?",
+                "¿Cómo se integra su dictamen al expediente?"
+            ],
+            "responses": [
+                "📘 Sí, para cuestiones técnicas complejas (Art. 63).",
+                "🔹 Pericial, tecnológico o cualquier especializado necesario.",
+                "🎯 Sí, durante la etapa de substanciación (Art. 79).",
+                "📘 La universidad cubre los costos oficiales.",
+                "🔹 Como prueba documental o mediante declaración en audiencia."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 63",
+            "topic": "Apoyo técnico"
+        },
+        {
+            "tag": "conclusion_investigacion",
+            "patterns": [
+                "¿Cómo concluye la etapa de investigación según Artículo 64?",
+                "¿Qué pasa si no encuentran evidencias?",
+                "¿Puedo presentar más pruebas después?",
+                "¿Cómo sé si hay elementos para proceder?",
+                "¿Qué documento emiten al finalizar?"
+            ],
+            "responses": [
+                "📘 Analizando si hay elementos para determinar faltas (Art. 64).",
+                "🔹 Archivan el caso, pero puedes apelar (Art. 66).",
+                "🎯 Sí, durante la etapa de substanciación (Art. 79).",
+                "📘 Te notificarán al emitir el Informe de Presunta Responsabilidad.",
+                "🔹 El Informe de Presunta Responsabilidad (Art. 67)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 64",
+            "topic": "Conclusión de investigación"
+        },
+        {
+            "tag": "calificacion_faltas",
+            "patterns": [
+                "¿Cómo califican las faltas según Artículo 65?",
+                "¿Qué consideran para determinar la gravedad?",
+                "¿Pueden cambiar la calificación inicial?",
+                "¿Cómo afecta esto a las posibles sanciones?",
+                "¿Me notifican la calificación propuesta?"
+            ],
+            "responses": [
+                "📘 Según criterios como dolor, daño causado y reincidencia (Art. 65 + 24).",
+                "🔹 Impacto, intencionalidad y si hubo violencia (Art. 24).",
+                "🎯 Sí, durante la audiencia si surgen nuevos elementos.",
+                "📘 Directamente: faltas graves tienen sanciones mayores (Art. 23).",
+                "🔹 Sí, en el Informe de Presunta Responsabilidad (Art. 68)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 65",
+            "topic": "Calificación de faltas"
+        },
+        {
+            "tag": "archivo_asunto",
+            "patterns": [
+                "¿Cuándo se archiva un caso según el Artículo 66?",
+                "¿Se puede reabrir un caso archivado?",
+                "¿Se notifica a la víctima si se archiva?",
+                "¿Qué pasa si la falta prescribe?",
+                "¿Hay plazo para notificar el archivo?"
+            ],
+            "responses": [
+                "📘 Cuando no hay elementos suficientes para iniciar el procedimiento (Art. 66).",
+                "🔹 Sí, si aparecen nuevos indicios y no ha prescrito la falta (Art. 66).",
+                "🎯 Sí, se notifica en un plazo de 5 días hábiles (Art. 66).",
+                "📘 Es causal de improcedencia (Art. 121).",
+                "🔹 5 días hábiles después de la decisión (Art. 66)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 66",
+            "topic": "Archivo del asunto"
+        },
+        {
+            "tag": "informe_presunta_responsabilidad",
+            "patterns": [
+                "¿Qué debe contener el Informe de Presunta Responsabilidad (Art. 67)?",
+                "¿Quién firma el informe?",
+                "¿Se notifica a la víctima la falta atribuida?",
+                "¿Incluye pruebas recabadas?",
+                "¿Puede solicitar medidas cautelares aquí?"
+            ],
+            "responses": [
+                "📘 Descripción de hechos, falta atribuida, pruebas y fundamentos (Art. 67).",
+                "🔹 El presidente y secretario de la Comisión de Responsabilidades (Art. 67).",
+                "🎯 Sí, con la calificación de la falta y fecha de audiencia (Art. 68).",
+                "📘 Sí, las ofrecidas por la víctima y las de la investigación (Art. 67).",
+                "🔹 Sí, se pueden incluir o ratificar medidas cautelares (Art. 67)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 67",
+            "topic": "Informe de Presunta Responsabilidad"
+        },
+        {
+            "tag": "notificacion_victima",
+            "patterns": [
+                "¿Qué se notifica a la víctima según el Artículo 68?",
+                "¿Cómo se realiza la notificación?",
+                "¿Se informa sobre la audiencia?",
+                "¿Qué pasa si la víctima es menor de edad?",
+                "¿Puede la víctima agregar pruebas después?"
+            ],
+            "responses": [
+                "📘 La falta atribuida al responsable y su calificación (Art. 68).",
+                "🔹 Personalmente o por medios electrónicos (Art. 74).",
+                "🎯 Sí, se indica fecha, lugar y hora (Art. 68).",
+                "📘 Se notifica a quien ejerza su patria potestad (Art. 130).",
+                "🔹 Sí, durante la audiencia (Art. 130)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 68",
+            "topic": "Notificación a la víctima"
+        },
+        {
+            "tag": "inicio_procedimiento",
+            "patterns": [
+                "¿Cómo inicia el procedimiento de responsabilidad (Art. 69)?",
+                "¿Qué derechos tiene el señalado como responsable?",
+                "¿Qué pasa si se descubren otras faltas durante el proceso?",
+                "¿Cuánto tiempo hay entre notificación y audiencia?",
+                "¿Puede el responsable presentar pruebas?"
+            ],
+            "responses": [
+                "📘 Con el emplazamiento al señalado como responsable (Art. 69).",
+                "🔹 No declarar contra sí mismo, ofrecer pruebas y defenderse (Art. 69).",
+                "🎯 Se investigan o se remiten a la autoridad competente (Art. 70).",
+                "📘 Mínimo 5 días hábiles (Art. 130).",
+                "🔹 Sí, durante la audiencia (Art. 130)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 69",
+            "topic": "Inicio del procedimiento"
+        },
+        {
+            "tag": "otras_faltas_durante_procedimiento",
+            "patterns": [
+                "¿Qué pasa si durante el procedimiento se descubren más faltas?",
+                "¿Pueden investigarme por algo no mencionado en la denuncia inicial?",
+                "¿Cómo se manejan faltas adicionales durante el proceso?",
+                "¿Se puede ampliar la investigación a otros hechos?",
+                "¿Qué autoridad ve nuevas faltas descubiertas después de iniciado el caso?"
+            ],
+            "responses": [
+                "📘 Si se identifican nuevas faltas, se investigan por separado o se remiten a la autoridad competente (Art. 70).",
+                "🔹 Sí, pero se seguirá un procedimiento independiente o acumulado, según corresponda (Art. 70).",
+                "🎯 La autoridad actual puede investigarlas o derivarlas a otra instancia (Art. 70 + 60).",
+                "📘 Sí, siempre que estén vinculadas al caso original (Art. 70).",
+                "🔹 Depende: si son de su competencia, las investiga; si no, las remite (Art. 70)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 70",
+            "topic": "Faltas adicionales durante el procedimiento"
+        },
+        {
+            "tag": "dias_hábiles",
+            "patterns": [
+                "¿Qué se considera día hábil según el Artículo 71?",
+                "¿Pueden habilitarse días inhábiles?",
+                "¿Qué horas son hábiles para diligencias?",
+                "¿Aplica para notificaciones?",
+                "¿Hay excepciones para casos urgentes?"
+            ],
+            "responses": [
+                "📘 De lunes a viernes, excepto los declarados inhábiles por la Universidad (Art. 71).",
+                "🔹 Sí, si la autoridad lo considera necesario (Art. 71).",
+                "🎯 De 7:00 a 20:00 horas (Art. 71).",
+                "📘 Sí, salvo que se habiliten días/horas especiales (Art. 71).",
+                "🔹 Sí, para medidas cautelares urgentes (Art. 39)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 71",
+            "topic": "Días y horas hábiles"
+        },
+        {
+            "tag": "principios_procedimiento",
+            "patterns": [
+                "¿Qué principios rigen el procedimiento (Art. 72)?",
+                "¿Qué significa 'presunción de inocencia' aquí?",
+                "¿Cómo se garantiza la igualdad de género?",
+                "¿Qué es la 'verdad material'?",
+                "¿Pueden usarse pruebas obtenidas ilegalmente?"
+            ],
+            "responses": [
+                "📘 Legalidad, presunción de inocencia, buena fe, imparcialidad y derechos humanos (Art. 72).",
+                "🔹 El responsable no debe probar su inocencia; la autoridad debe demostrar su culpabilidad (Art. 83).",
+                "🎯 Con perspectiva de género en análisis y decisiones (Art. 72).",
+                "📘 La autoridad debe buscar los hechos reales, no solo lo alegado por las partes (Art. 72).",
+                "🔹 No, solo pruebas lícitas (Art. 78)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 72",
+            "topic": "Principios del procedimiento"
+        },
+        {
+            "tag": "partes_procedimiento",
+            "patterns": [
+                "¿Quiénes son partes en el procedimiento (Art. 73)?",
+                "¿Puede un denunciante no víctima participar?",
+                "¿Qué derechos tiene la víctima?",
+                "¿Y si el responsable es menor de edad?",
+                "¿Pueden tener representantes?"
+            ],
+            "responses": [
+                "📘 El señalado como responsable, la víctima (en violencia) y terceros afectados (Art. 73).",
+                "🔹 Sí, como tercero si afecta sus derechos (Art. 73).",
+                "🎯 Ser notificada, ofrecer pruebas y recibir protección (Art. 68 y 130).",
+                "📘 Debe asistir con quien ejerza su patria potestad (Art. 130).",
+                "🔹 Sí, con poder notarial o autorización expresa (Art. 130)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 73",
+            "topic": "Partes en el procedimiento"
+        },
+        {
+            "tag": "notificaciones",
+            "patterns": [
+                "¿Cómo se realizan las notificaciones según el Artículo 74?",
+                "¿Puedo solicitar notificaciones electrónicas?",
+                "¿Qué debe contener una notificación electrónica?",
+                "¿Quién está designado para realizar notificaciones?",
+                "¿Qué pasa si no recibo la notificación?"
+            ],
+            "responses": [
+                "📘 Personalmente o por medios electrónicos (Art. 74).",
+                "🔹 Sí, mediante solicitud por escrito con tu correo electrónico (Art. 74).",
+                "🎯 Datos del procedimiento, fecha, autoridad y contenido relevante (Art. 74).",
+                "📘 Personal autorizado por la autoridad universitaria (Art. 74).",
+                "🔹 Se considera notificada al día hábil siguiente (Art. 75)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 74",
+            "topic": "Notificaciones"
+        },
+        {
+            "tag": "efecto_notificaciones",
+            "patterns": [
+                "¿Cuándo surten efecto las notificaciones (Artículo 75)?",
+                "¿Se considera notificada si no la recibo personalmente?",
+                "¿Qué pasa si cambió mi domicilio?",
+                "¿Puedo rechazar una notificación?",
+                "¿Cómo se prueba que fui notificado?"
+            ],
+            "responses": [
+                "📘 Al día hábil siguiente de su realización (Art. 75).",
+                "🔹 Sí, si se dejó en domicilio registrado o correo electrónico (Art. 75).",
+                "🎯 Debes actualizar tus datos; de lo contrario, se notifica en el último domicilio conocido (Art. 74).",
+                "📘 No, pero se levantará acta con testigos (Art. 76).",
+                "🔹 Con acuse de recibo, acta o constancia electrónica (Art. 76)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 75",
+            "topic": "Efecto de las notificaciones"
+        },
+        {
+            "tag": "notificaciones_personales",
+            "patterns": [
+                "¿Qué reglas aplican para notificaciones personales (Artículo 76)?",
+                "¿Qué hago si no quiero firmar el acuse?",
+                "¿Puedo recibir notificaciones en otro domicilio?",
+                "¿Qué pasa si el notificador no verifica mi identidad?",
+                "¿Se usan testigos en notificaciones?"
+            ],
+            "responses": [
+                "📘 Verificación de identidad y firma en acuse de recibo (Art. 76).",
+                "🔹 El notificador levantará acta con testigos (Art. 76).",
+                "🎯 Sí, si lo solicitas por escrito (Art. 74).",
+                "📘 Es irregular; puedes impugnarla (Art. 76).",
+                "🔹 Sí, si te niegas a recibirla o firmar (Art. 76)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 76",
+            "topic": "Notificaciones personales"
+        },
+        {
+            "tag": "citatorio_notificacion",
+            "patterns": [
+                "¿Qué es un citatorio para notificar (Artículo 77)?",
+                "¿Qué pasa si no atiendo el citatorio?",
+                "¿Pueden dejar la notificación con un familiar?",
+                "¿Debe el citatorio incluir hora exacta?",
+                "¿Qué contiene el acta si no me notifican?"
+            ],
+            "responses": [
+                "📘 Aviso para presentarte a recibir una notificación (Art. 77).",
+                "🔹 Se fija la notificación en tu domicilio con acta de testigos (Art. 77).",
+                "🎯 Sí, si esa persona acepta y acredita su relación contigo (Art. 77).",
+                "📘 Sí, debe señalar día, lugar y hora específica (Art. 77).",
+                "🔹 Circunstancias del intento de notificación y nombres de testigos (Art. 77)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 77",
+            "topic": "Citatorio para notificar"
+        },
+        {
+            "tag": "pruebas_lícitas",
+            "patterns": [
+                "¿Qué pruebas son válidas según el Artículo 78?",
+                "¿Pueden usarse grabaciones sin consentimiento?",
+                "¿Qué pasa si una prueba se obtuvo ilegalmente?",
+                "¿Puedo presentar pruebas digitales?",
+                "¿Quién decide si una prueba es válida?"
+            ],
+            "responses": [
+                "📘 Todas las obtenidas lícitamente y que respeten derechos humanos (Art. 78).",
+                "🔹 Solo si no violan derechos a la privacidad (Art. 78 y 116).",
+                "🎯 Se desecha y no se considera en el procedimiento (Art. 78).",
+                "📘 Sí, correos, mensajes o redes sociales (Art. 85).",
+                "🔹 La autoridad universitaria competente (Art. 82)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 78",
+            "topic": "Licitud de las pruebas"
+        },
+        {
+            "tag": "derecho_pruebas",
+            "patterns": [
+                "¿Puedo ofrecer pruebas según el Artículo 79?",
+                "¿En qué etapa del procedimiento?",
+                "¿Hay límite de pruebas?",
+                "¿Qué pasa si no presento pruebas en la audiencia?",
+                "¿Puede la autoridad rechazar mis pruebas?"
+            ],
+            "responses": [
+                "📘 Sí, todas las necesarias para tu defensa (Art. 79).",
+                "🔹 En la audiencia (para el responsable) o al denunciar (para la víctima) (Art. 79).",
+                "🎯 No, pero la autoridad puede limitar redundancias (Art. 96).",
+                "📘 Pierdes oportunidad; solo excepcionalmente se admitirán después (Art. 79).",
+                "🔹 Sí, si son irrelevantes o ilícitas (Art. 82)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 79",
+            "topic": "Derecho a ofrecer pruebas"
+        },
+        {
+            "tag": "principio_inmediacion",
+            "patterns": [
+                "¿Qué es el principio de inmediación (Artículo 80)?",
+                "¿Puede otra persona tomar mi declaración?",
+                "¿La autoridad debe estar presente en todas las pruebas?",
+                "¿Cómo afecta esto a las pruebas documentales?",
+                "¿Y si la autoridad cambia durante el proceso?"
+            ],
+            "responses": [
+                "📘 Que la autoridad competente presida directamente las pruebas (Art. 80).",
+                "🔹 No, salvo en casos excepcionales (Art. 80).",
+                "🎯 Sí, especialmente en testimoniales e inspecciones (Art. 80).",
+                "📘 No aplica; se analizan por su contenido (Art. 85).",
+                "🔹 El nuevo titular debe revisar el expediente completo (Art. 80)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 80",
+            "topic": "Principio de inmediación"
+        },
+        {
+            "tag": "ofrecimiento_pruebas",
+            "patterns": [
+                "¿Cuándo debo ofrecer pruebas según el Artículo 81?",
+                "¿Puedo agregar pruebas después de la audiencia?",
+                "¿Qué pasa si ofrezco pruebas fuera de plazo?",
+                "¿Deben ser pruebas físicas o también testimonios?",
+                "¿Cómo ofrezco pruebas digitales?"
+            ],
+            "responses": [
+                "📘 En la audiencia (responsable) o al denunciar (víctima) (Art. 81).",
+                "🔹 Solo si la autoridad lo permite para mejor proveer (Art. 88).",
+                "🎯 Se desechan, salvo justificación válida (Art. 81).",
+                "📘 Ambas: documentales, testimoniales, periciales, etc. (Art. 85).",
+                "🔹 Exhibiendo archivos o señalando su ubicación electrónica (Art. 116)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 81",
+            "topic": "Ofrecimiento de pruebas"
+        },
+        {
+            "tag": "admision_pruebas",
+            "patterns": [
+                "¿Quién decide si se admiten mis pruebas (Artículo 82)?",
+                "¿Qué pruebas suelen rechazarse?",
+                "¿Puedo impugnar la no admisión?",
+                "¿Se notifica la decisión?",
+                "¿Hay plazo para resolver sobre admisión?"
+            ],
+            "responses": [
+                "📘 La autoridad universitaria competente (Art. 82).",
+                "🔹 Ilícitas, irrelevantes o redundantes (Art. 78 y 82).",
+                "🎯 Sí, en los alegatos finales o mediante recurso (Art. 136).",
+                "📘 Sí, en el acta de la audiencia (Art. 82).",
+                "🔹 Se resuelve durante la audiencia (Art. 82)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 82",
+            "topic": "Admisión de pruebas"
+        },
+        {
+            "tag": "presuncion_inocencia",
+            "patterns": [
+                "¿Qué garantiza la presunción de inocencia (Artículo 83)?",
+                "¿Pueden obligarme a declarar?",
+                "¿Mi silencio se usa en mi contra?",
+                "¿Quién tiene la carga de probar la falta?",
+                "¿Cómo aplica en violencia de género?"
+            ],
+            "responses": [
+                "📘 Que no eres culpable hasta que se pruebe lo contrario (Art. 83).",
+                "🔹 No, es tu derecho no declarar (Art. 83).",
+                "🎯 No, no implica reconocimiento de responsabilidad (Art. 83).",
+                "📘 La autoridad o quien te acusa (Art. 83).",
+                "🔹 Se mantiene, pero con enfoque en protección a víctimas (Art. 87)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 83",
+            "topic": "Presunción de inocencia"
+        },
+        {
+            "tag": "derecho_declarar",
+            "patterns": [
+                "¿Puedo declarar en mi defensa según el Artículo 84?",
+                "¿Es obligatorio declarar?",
+                "¿Puedo hacerlo por escrito?",
+                "¿Qué pasa si miento en mi declaración?",
+                "¿Puedo rectificar mi declaración después?"
+            ],
+            "responses": [
+                "📘 Sí, es tu derecho (Art. 84).",
+                "🔹 No, es voluntario (Art. 83).",
+                "🎯 Sí, en la audiencia (Art. 130).",
+                "📘 Podría ser sancionado por falsedad (Art. 12).",
+                "🔹 Sí, durante la audiencia (Art. 84)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 84",
+            "topic": "Derecho a declarar"
+        },
+        {
+            "tag": "tipos_pruebas",
+            "patterns": [
+                "¿Qué tipos de pruebas admite el Artículo 85?",
+                "¿Son válidos los mensajes de WhatsApp?",
+                "¿Puedo presentar videos como prueba?",
+                "¿Qué pruebas son más importantes en violencia sexual?",
+                "¿Cómo se valora una prueba pericial?"
+            ],
+            "responses": [
+                "📘 Declaraciones, testimonios, documentos, inspecciones y medios electrónicos (Art. 85).",
+                "🔹 Sí, si son relevantes y lícitos (Art. 116).",
+                "🎯 Sí, siempre que no violen derechos (Art. 85 y 116).",
+                "📘 Declaración de la víctima y contexto (Art. 94).",
+                "🔹 Según especialidad del perito y metodología usada (Art. 86)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 85",
+            "topic": "Tipos de pruebas"
+        },
+        {
+            "tag": "valoracion_pruebas",
+            "patterns": [
+                "¿Cómo se valoran las pruebas según el Artículo 86?",
+                "¿Qué es la 'sana crítica'?",
+                "¿Las pruebas documentales tienen más valor?",
+                "¿Puedo cuestionar el valor de una prueba?",
+                "¿Cómo se valora la prueba testimonial?"
+            ],
+            "responses": [
+                "📘 Con lógica, experiencia, perspectiva de género y derechos humanos (Art. 86).",
+                "🔹 Análisis racional sin prejuicios (Art. 86).",
+                "🎯 Tienen valor pleno salvo prueba en contrario (Art. 86).",
+                "📘 Sí, en alegatos o con contrapruebas (Art. 86).",
+                "🔹 Por congruencia, veracidad y relación con los hechos (Art. 86)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 86",
+            "topic": "Valoración de pruebas"
+        },
+        {
+            "tag": "valoracion_violencia_genero",
+            "patterns": [
+                "¿Qué reglas aplican para valorar pruebas en violencia de género (Artículo 87)?",
+                "¿Por qué es importante el contexto?",
+                "¿Qué son estereotipos de género?",
+                "¿Cómo se evita la victimización secundaria?",
+                "¿Puedo presentar pruebas psicológicas?"
+            ],
+            "responses": [
+                "📘 Análisis de poder, desigualdad e interseccionalidad (Art. 87).",
+                "🔹 Para identificar desequilibrios entre víctima y agresor (Art. 87).",
+                "🎯 Ideas preconcebidas sobre roles de género (ej. - ella lo provocó -) (Art. 87).",
+                "📘 Evitando preguntas repetitivas o revictimizantes (Art. 27).",
+                "🔹 Sí, son clave para acreditar daño emocional (Art. 87)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 87",
+            "topic": "Valoración en violencia de género"
+        },
+        {
+            "tag": "diligencias_mejor_proveer",
+            "patterns": [
+                "¿Qué son diligencias para mejor proveer (Artículo 88)?",
+                "¿Puede la autoridad ordenarlas de oficio?",
+                "¿Puedo solicitarlas?",
+                "¿Reabren la investigación?",
+                "¿Ejemplos de estas diligencias?"
+            ],
+            "responses": [
+                "📘 Actos para aclarar hechos, ordenados por la autoridad (Art. 88).",
+                "🔹 Sí, si considera necesario más elementos (Art. 88).",
+                "🎯 Sí, durante la audiencia (Art. 88).",
+                "📘 No, son parte de la substanciación (Art. 88).",
+                "🔹 Nuevos testimonios, peritajes o inspecciones (Art. 88)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 88",
+            "topic": "Diligencias para mejor proveer"
+        },
+        {
+            "tag": "documentos_informes",
+            "patterns": [
+                "¿Puede la autoridad solicitar documentos (Artículo 89)?",
+                "¿Qué pasa si una instancia no los entrega?",
+                "¿Puedo pedir que se requiera un informe?",
+                "¿Hay plazo para entregarlos?",
+                "¿Son confidenciales?"
+            ],
+            "responses": [
+                "📘 Sí, si son relevantes para el caso (Art. 89).",
+                "🔹 Puede ser sancionada por incumplimiento (Art. 62).",
+                "🎯 Sí, durante la audiencia (Art. 89).",
+                "📘 Lo fija la autoridad según urgencia (Art. 89).",
+                "🔹 Sí, pero se protegen en el expediente (Art. 48)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 89",
+            "topic": "Documentos e informes"
+        },
+        {
+            "tag": "hechos_notorios",
+            "patterns": [
+                "¿Qué son hechos notorios (Artículo 90)?",
+                "¿Necesitan prueba?",
+                "¿Ejemplos de hechos notorios?",
+                "¿Puedo impugnar que algo sea notorio?",
+                "¿Cómo los usa la autoridad?"
+            ],
+            "responses": [
+                "📘 Hechos de conocimiento público e indiscutibles (Art. 90).",
+                "🔹 No, se dan por acreditados (Art. 90).",
+                "🎯 Fechas oficiales, desastres naturales públicos (Art. 90).",
+                "📘 Sí, demostrando que no son de dominio público (Art. 90).",
+                "🔹 Como base para sus resoluciones (Art. 90)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 90",
+            "topic": "Hechos notorios"
+        },
+        {
+            "tag": "apoyo_instancias",
+            "patterns": [
+                "¿Pueden otras instancias apoyar en pruebas (Artículo 91)?",
+                "¿Quién cubre los costos?",
+                "¿Puedo rechazar su intervención?",
+                "¿Ejemplos de apoyo?",
+                "¿Cómo se integra su aportación?"
+            ],
+            "responses": [
+                "📘 Sí, si la autoridad lo solicita (Art. 91).",
+                "🔹 La universidad, salvo que sean pruebas propuestas por una parte (Art. 91).",
+                "🎯 No, si la autoridad lo ordena (Art. 91).",
+                "🔹 Traductores, peritos o tecnología especializada (Art. 91).",
+                "📘 Como prueba documental o acta (Art. 91)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 91",
+            "topic": "Apoyo de otras instancias"
+        },
+        {
+            "tag": "declaracion_responsable",
+            "patterns": [
+                "¿Cómo se rinde la declaración del responsable (Artículo 92)?",
+                "¿Puedo negarme a responder preguntas?",
+                "¿Se graba la declaración?",
+                "¿Puedo consultar un abogado durante ella?",
+                "¿Qué pasa si me contradigo?"
+            ],
+            "responses": [
+                "📘 Libremente, contestando preguntas en audiencia (Art. 92).",
+                "🔹 Sí, es tu derecho (Art. 83).",
+                "🎯 Depende de lo que disponga la autoridad (Art. 92).",
+                "📘 Sí, si tienes representante (Art. 92).",
+                "🔹 La autoridad lo considerará al valorar pruebas (Art. 86)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 92",
+            "topic": "Declaración del responsable"
+        },
+        {
+            "tag": "declaracion_violencia_mujer",
+            "patterns": [
+                "¿Cómo se toma la declaración a víctimas de violencia (Artículo 93)?",
+                "¿Puede evitarse su repetición?",
+                "¿Se usa su declaración inicial?",
+                "¿Puede declarar sin estar frente al agresor?",
+                "¿Qué ambiente debe garantizarse?"
+            ],
+            "responses": [
+                "📘 En espacio seguro, evitando revictimización (Art. 93).",
+                "🔹 Sí, registrándola para no repetirla (Art. 93).",
+                "🎯 Sí, salvo que quiera ampliarla (Art. 93).",
+                "📘 Sí, con medidas para evitar confrontación (Art. 93).",
+                "🔹 Privado, cómodo y con perspectiva de género (Art. 93)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 93",
+            "topic": "Declaración en violencia contra la mujer"
+        },
+        {
+            "tag": "declaracion_violencia_sexual",
+            "patterns": [
+                "¿Qué valor tiene la declaración en violencia sexual (Artículo 94)?",
+                "¿Por qué son casos difíciles de probar?",
+                "¿Cómo se analizan inconsistencias?",
+                "¿Qué otros elementos se consideran?",
+                "¿Pueden usarse indicios indirectos?"
+            ],
+            "responses": [
+                "📘 Es prueba fundamental, junto con contexto (Art. 94).",
+                "🔹 Suelen ocurrir en privado y sin testigos (Art. 94).",
+                "🎯 Con sensibilidad, por el trauma de la víctima (Art. 94).",
+                "📘 Edad, vulnerabilidad y entorno de la víctima (Art. 94).",
+                "🔹 Sí, si son consistentes (mensajes, conductas previas) (Art. 94)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 94",
+            "topic": "Declaración en violencia sexual"
+        },
+        {
+            "tag": "prueba_testimonial",
+            "patterns": [
+                "¿Quiénes están obligados a declarar como testigos según el Artículo 95?",
+                "¿Puedo negarme a ser testigo?",
+                "¿Qué pasa si miento en mi testimonio?",
+                "¿Se protege la identidad de testigos en casos de violencia?",
+                "¿Pueden declarar menores de edad?"
+            ],
+            "responses": [
+                "📘 Todo integrante de la comunidad universitaria con conocimiento de los hechos (Art. 95).",
+                "🔹 No, es obligatorio salvo causa justificada (Art. 95).",
+                "🎯 Podrías ser sancionado por falsedad (Art. 12).",
+                "📘 Sí, para evitar represalias (Art. 101).",
+                "🔹 Sí, con asistencia de quien ejerza su patria potestad (Art. 26)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 95",
+            "topic": "Prueba testimonial"
+        },
+        {
+            "tag": "ofrecimiento_testimonial",
+            "patterns": [
+                "¿Cómo ofrezco testigos según el Artículo 96?",
+                "¿Hay límite de testigos?",
+                "¿Quién fija la fecha para su declaración?",
+                "¿Pueden declarar por escrito?",
+                "¿Qué pasa si mi testigo no se presenta?"
+            ],
+            "responses": [
+                "📘 Por escrito en la audiencia, señalando su nombre y hechos que acreditarán (Art. 96).",
+                "🔹 La autoridad puede limitar redundancias (Art. 96).",
+                "🎯 La autoridad competente (Art. 96).",
+                "📘 Solo en casos excepcionales (Art. 99).",
+                "🔹 La autoridad puede citarlo, pero es tu responsabilidad presentarlo (Art. 97)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 96",
+            "topic": "Ofrecimiento de prueba testimonial"
+        },
+        {
+            "tag": "presentacion_testigos",
+            "patterns": [
+                "¿Quién debe presentar a los testigos según el Artículo 97?",
+                "¿Puede la autoridad citar a un testigo?",
+                "¿Qué pasa si el testigo no vive en la ciudad?",
+                "¿Se pueden usar declaraciones de otros procedimientos?",
+                "¿Puedo cuestionar la credibilidad de un testigo?"
+            ],
+            "responses": [
+                "📘 La parte que los ofreció (Art. 97).",
+                "🔹 Sí, si la parte lo solicita (Art. 97).",
+                "🎯 Puede declarar por videollamada o la autoridad ir a su ubicación (Art. 98).",
+                "📘 Solo si son admitidas como prueba documental (Art. 85).",
+                "🔹 Sí, durante el interrogatorio (Art. 102)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 97",
+            "topic": "Presentación de testigos"
+        },
+        {
+            "tag": "declaracion_imposibilitados",
+            "patterns": [
+                "¿Cómo declaran personas imposibilitadas según el Artículo 98?",
+                "¿Qué se considera imposibilidad?",
+                "¿Quién realiza la diligencia?",
+                "¿Puede un enfermo grave declarar?",
+                "¿Se graban estas declaraciones?"
+            ],
+            "responses": [
+                "📘 La autoridad acude a su domicilio o lugar donde estén (Art. 98).",
+                "🔹 Enfermedad, edad avanzada o discapacidad (Art. 98).",
+                "🎯 Un integrante de la Comisión designado (Art. 98).",
+                "📘 Sí, si su testimonio es esencial (Art. 98).",
+                "🔹 Depende de lo que decida la autoridad (Art. 98)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 98",
+            "topic": "Declaración de imposibilitados"
+        },
+        {
+            "tag": "declaracion_titulares",
+            "patterns": [
+                "¿Cómo declaran titulares de instancias según el Artículo 99?",
+                "¿Pueden negarse a declarar?",
+                "¿Responden preguntas por escrito?",
+                "¿Qué plazo tienen para responder?",
+                "¿Se pueden citar a audiencia?"
+            ],
+            "responses": [
+                "📘 Por escrito, respondiendo preguntas enviadas (Art. 99).",
+                "🔹 No, están obligados (Art. 95).",
+                "🎯 Sí, es el procedimiento establecido (Art. 99).",
+                "📘 Lo fija la autoridad según urgencia (Art. 99).",
+                "🔹 Solo excepcionalmente (Art. 99)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 99",
+            "topic": "Declaración de titulares"
+        },
+        {
+            "tag": "protesta_verdad",
+            "patterns": [
+                "¿Qué contiene la protesta de decir verdad según el Artículo 100?",
+                "¿Qué pasa si un testigo miente?",
+                "¿Se registran datos del testigo?",
+                "¿Puedo objetar un testigo por parcialidad?",
+                "¿Debe el testigo explicar cómo sabe lo que declara?"
+            ],
+            "responses": [
+                "📘 Compromiso de veracidad y datos del testigo (Art. 100).",
+                "🔹 Podría ser sancionado por falsedad (Art. 12).",
+                "🎯 Sí: nombre, domicilio, ocupación y relación con las partes (Art. 100).",
+                "📘 Sí, durante el interrogatorio (Art. 102).",
+                "🔹 Sí, debe señalar la fuente de su conocimiento (Art. 100)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 100",
+            "topic": "Protesta de decir verdad"
+        },
+        {
+            "tag": "interrogatorio_testigos",
+            "patterns": [
+                "¿Cómo se interroga a testigos según el Artículo 101?",
+                "¿Puedo hacerle preguntas al testigo de la otra parte?",
+                "¿Se evita la comunicación entre testigos?",
+                "¿Qué medidas aplican en casos de violencia?",
+                "¿Puede la autoridad hacer sus propias preguntas?"
+            ],
+            "responses": [
+                "📘 Por separado, iniciando la parte que lo ofreció (Art. 101).",
+                "🔹 Sí, durante tu turno (Art. 101).",
+                "🎯 Sí, para evitar influencias (Art. 101).",
+                "📘 Confidencialidad y evitar confrontación con el agresor (Art. 101).",
+                "🔹 Sí, para esclarecer hechos (Art. 101)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 101",
+            "topic": "Interrogatorio a testigos"
+        },
+        {
+            "tag": "formulacion_preguntas",
+            "patterns": [
+                "¿Cómo deben ser las preguntas a testigos según el Artículo 102?",
+                "¿Qué preguntas se desechan?",
+                "¿Se registran las preguntas rechazadas?",
+                "¿Puedo reformular una pregunta?",
+                "¿Qué pasa si insisto en preguntas inadmisibles?"
+            ],
+            "responses": [
+                "📘 Claras, directas y relacionadas con los hechos (Art. 102).",
+                "🔹 Insidiosas, capciosas o irrelevantes (Art. 102).",
+                "🎯 Sí, con la razón del rechazo (Art. 102).",
+                "📘 Sí, si corriges los defectos (Art. 102).",
+                "🔹 Podrías ser amonestado por la autoridad (Art. 125)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 102",
+            "topic": "Formulación de preguntas"
+        },
+        {
+            "tag": "acta_testimonial",
+            "patterns": [
+                "¿Qué contiene el acta de declaración según el Artículo 103?",
+                "¿Quiénes deben firmarla?",
+                "¿Qué pasa si no sé firmar?",
+                "¿Puedo pedir que se lea el acta antes de firmar?",
+                "¿Cómo declaran personas que no hablan español?"
+            ],
+            "responses": [
+                "📘 Preguntas, respuestas textuales y datos de los presentes (Art. 103).",
+                "🔹 Testigo, partes y autoridad (Art. 103).",
+                "🎯 Debes estampar tu huella digital (Art. 103).",
+                "📘 Sí, es tu derecho (Art. 103).",
+                "🔹 Con asistencia de un traductor (Art. 103)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 103",
+            "topic": "Acta de declaración testimonial"
+        },
+        {
+            "tag": "prueba_documental",
+            "patterns": [
+                "¿Qué se considera prueba documental según el Artículo 104?",
+                "¿Son válidos los archivos digitales?",
+                "¿Qué pasa si no tengo el original?",
+                "¿Puedo presentar documentos en otro idioma?",
+                "¿Cómo se exhiben documentos voluminosos?"
+            ],
+            "responses": [
+                "📘 Cualquier soporte con información escrita, visual o auditiva (Art. 104).",
+                "🔹 Sí, si cumplen con los requisitos (Art. 116).",
+                "🎯 Debes justificarlo y presentar copia certificada (Art. 107).",
+                "📘 Sí, con traducción al español (Art. 106).",
+                "🔹 Señalando la parte relevante o solicitando inspección (Art. 104)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 104",
+            "topic": "Prueba documental"
+        },
+        {
+            "tag": "documentos_publicos_privados",
+            "patterns": [
+                "¿Qué diferencia hay entre documentos públicos y privados según el Artículo 105?",
+                "¿Tienen más valor los públicos?",
+                "¿Cómo se impugna un documento público?",
+                "¿Qué documentos privados son comunes en procedimientos?",
+                "¿Puede la autoridad requerir documentos privados?"
+            ],
+            "responses": [
+                "📘 Públicos: emitidos por autoridades; Privados: cualquier otro (Art. 105).",
+                "🔹 Sí, tienen valor pleno salvo prueba en contrario (Art. 86).",
+                "🎯 Demostrando falsedad o alteración (Art. 108).",
+                "📘 Correos, mensajes, contratos privados (Art. 105).",
+                "🔹 Sí, si son relevantes (Art. 89)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 105",
+            "topic": "Documentos públicos y privados"
+        },
+        {
+            "tag": "traduccion_documentos",
+            "patterns": [
+                "¿Qué pasa con documentos en otros idiomas según el Artículo 106?",
+                "¿Quién paga la traducción?",
+                "¿Puedo objetar una traducción?",
+                "¿Qué idiomas son aceptados?",
+                "¿Cómo se garantiza la fidelidad de la traducción?"
+            ],
+            "responses": [
+                "📘 Deben presentarse con traducción al español (Art. 106).",
+                "🔹 La parte que lo presenta, salvo que la autoridad la solicite (Art. 106).",
+                "🎯 Sí, durante la audiencia (Art. 106).",
+                "📘 Cualquiera, pero debe traducirse al español (Art. 106).",
+                "🔹 Con traductor certificado o reconocido (Art. 106)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 106",
+            "topic": "Traducción de documentos"
+        },
+        {
+            "tag": "cotejo_documentos",
+            "patterns": [
+                "¿Cómo se cotejan documentos privados según el Artículo 107?",
+                "¿Qué pasa si no tengo el original?",
+                "¿Puedo cotejar solo una parte del documento?",
+                "¿Qué validez tiene una copia simple?",
+                "¿Cómo se cotejan documentos en expedientes grandes?"
+            ],
+            "responses": [
+                "📘 Presentando el original o justificando su ausencia (Art. 107).",
+                "🔹 Debes explicar por qué y presentar copia certificada (Art. 107).",
+                "🎯 Sí, señalando la parte relevante (Art. 107).",
+                "📘 Menor que el original; puede impugnarse (Art. 107).",
+                "🔹 Exhibiendo el expediente y señalando la parte pertinente (Art. 107)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 107",
+            "topic": "Cotejo de documentos privados"
+        },
+        {
+            "tag": "cotejo_firmas",
+            "patterns": [
+                "¿Cuándo se cotejan firmas según el Artículo 108?",
+                "¿Quién puede solicitarlo?",
+                "¿Cómo se coteja si el firmante niega su autenticidad?",
+                "¿Qué pasa si el firmante ha fallecido?",
+                "¿Puede usarse pericia caligráfica?"
+            ],
+            "responses": [
+                "📘 Cuando se duda de la autenticidad de un documento (Art. 108).",
+                "🔹 Cualquier parte afectada por el documento (Art. 108).",
+                "🎯 Citándolo para que firme en presencia de la autoridad (Art. 108).",
+                "📘 Con documentos indubitables o testigos (Art. 109).",
+                "🔹 Sí, si la autoridad lo considera necesario (Art. 111)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 108",
+            "topic": "Cotejo de firmas"
+        },
+        {
+            "tag": "documentos_indubitables",
+            "patterns": [
+                "¿Qué documentos son indubitables según el Artículo 109?",
+                "¿Puedo impugnar un documento indubitable?",
+                "¿Qué vale más: un documento reconocido o uno judicial?",
+                "¿Cómo se cotejan huellas digitales?",
+                "¿Qué pasa si el documento indubitable está alterado?"
+            ],
+            "responses": [
+                "📘 Reconocidos por las partes, judiciales o firmados ante autoridad (Art. 109).",
+                "🔹 Sí, demostrando falsedad material (Art. 108).",
+                "🎯 Ambos tienen valor pleno (Art. 109).",
+                "🔹 Con registro previo o nueva toma ante la autoridad (Art. 109).",
+                "📘 Pierde su carácter indubitable (Art. 109)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 109",
+            "topic": "Documentos indubitables"
+        },
+        {
+            "tag": "autenticidad_documentos",
+            "patterns": [
+                "¿Cómo se verifica la autenticidad de documentos según el Artículo 110?",
+                "¿Puede la autoridad usar tecnología para esto?",
+                "¿Qué pasa si se detecta falsificación?",
+                "¿Quién carga con los costos de verificación?",
+                "¿Puedo solicitar una pericia?"
+            ],
+            "responses": [
+                "📘 Por cualquier método confiable (comparación, tecnología, etc.) (Art. 110).",
+                "🔹 Sí, si garantiza precisión (Art. 110).",
+                "🎯 El responsable podría ser sancionado (Art. 12).",
+                "📘 La parte que impugna el documento (Art. 110).",
+                "🔹 Sí, como prueba pericial (Art. 111)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 110",
+            "topic": "Autenticidad de documentos"
+        },
+        {
+            "tag": "prueba_pericial",
+            "patterns": [
+                "¿Cómo funciona la prueba pericial según el Artículo 111?",
+                "¿Quién elige al perito?",
+                "¿Qué acredita su experiencia?",
+                "¿Puede la autoridad designar su propio perito?",
+                "¿Cómo se cuestiona un dictamen pericial?"
+            ],
+            "responses": [
+                "📘 Un experto emite opinión técnica sobre hechos relevantes (Art. 111).",
+                "🔹 La parte que la ofrece, pero la autoridad puede rechazarlo (Art. 111).",
+                "🎯 Títulos, publicaciones o experiencia profesional (Art. 111).",
+                "📘 Sí, para contrastar opiniones (Art. 111).",
+                "🔹 Con otro peritaje o interrogatorio al perito (Art. 111)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 111",
+            "topic": "Prueba pericial"
+        },
+        {
+            "tag": "prueba_inspeccion",
+            "patterns": [
+                "¿Cuándo se ordena una inspección según el Artículo 112?",
+                "¿Quién la realiza?",
+                "¿Puedo sugerir lo que debe inspeccionarse?",
+                "¿Qué medidas aplican en violencia sexual?",
+                "¿Necesita el inspector ser especialista?"
+            ],
+            "responses": [
+                "📘 Para observar lugares, objetos o hechos relevantes (Art. 112).",
+                "🔹 La autoridad designa a un integrante de la Comisión (Art. 112).",
+                "🎯 Sí, señalándolo al ofrecer la prueba (Art. 113).",
+                "📘 Evitar confrontación y usar personal especializado (Art. 112).",
+                "🔹 En violencia de género, sí (Art. 112)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 112",
+            "topic": "Prueba de inspección"
+        },
+        {
+            "tag": "objeto_inspeccion",
+            "patterns": [
+                "¿Cómo se especifica lo que se inspeccionará según el Artículo 113?",
+                "¿Puede la inspección ampliarse a otros elementos?",
+                "¿Qué pasa si el lugar a inspeccionar es privado?",
+                "¿Puedo negarme a la inspección?",
+                "¿Cómo se documenta?"
+            ],
+            "responses": [
+                "📘 La parte lo señala al ofrecer la prueba (Art. 113).",
+                "🔹 Sí, si la autoridad lo considera pertinente (Art. 112).",
+                "🎯 Se requiere consentimiento del dueño u orden judicial (Art. 112).",
+                "📘 Podría considerarse como obstrucción (Art. 62).",
+                "🔹 Con acta detallada y fotos si es necesario (Art. 114)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 113",
+            "topic": "Objeto de inspección"
+        },
+        {
+            "tag": "desahogo_inspeccion",
+            "patterns": [
+                "¿Cómo se desarrolla una inspección según el Artículo 114?",
+                "¿Puedo hacer observaciones durante ella?",
+                "¿Quiénes deben firmar el acta?",
+                "¿Qué pasa si no estoy de acuerdo con el acta?",
+                "¿Hay diferencias en casos de violencia sexual?"
+            ],
+            "responses": [
+                "📘 La autoridad observa y documenta el lugar/objeto (Art. 114).",
+                "🔹 Sí, para precisar detalles (Art. 114).",
+                "🎯 Los presentes; si no firman, se hace constar (Art. 114).",
+                "📘 Puedes manifestarlo por escrito en el expediente (Art. 114).",
+                "🔹 Sí, se evita la confrontación entre partes (Art. 114)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 114",
+            "topic": "Desahogo de inspección"
+        },
+        {
+            "tag": "pruebas_electronicas",
+            "patterns": [
+                "¿Qué pruebas electrónicas son válidas según el Artículo 115?",
+                "¿Cómo se garantiza su autenticidad?",
+                "¿Puedo presentar capturas de pantalla?",
+                "¿Son admisibles las redes sociales?",
+                "¿Qué pasa si el contenido se borra?"
+            ],
+            "responses": [
+                "📘 Correos, mensajes, redes sociales, etc. (Art. 115).",
+                "🔹 Verificando integridad y origen (Art. 116).",
+                "🎯 Sí, pero es mejor presentar el contenido original (Art. 115).",
+                "📘 Sí, si son relevantes (Art. 115).",
+                "🔹 Debes acreditar su existencia previa (Art. 116)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 115",
+            "topic": "Pruebas electrónicas"
+        },
+        {
+            "tag": "valor_pruebas_electronicas",
+            "patterns": [
+                "¿Cómo se valora una prueba electrónica según el Artículo 116?",
+                "¿Qué es el 'original electrónico'?",
+                "¿Son válidas las comunicaciones privadas?",
+                "¿Puedo impugnar su autenticidad?",
+                "¿Cómo se preservan para evitar alteraciones?"
+            ],
+            "responses": [
+                "📘 Por fiabilidad del método de generación y conservación (Art. 116).",
+                "🔹 Información íntegra y accesible desde su creación (Art. 116).",
+                "🎯 Solo si las aporta un participante de la comunicación (Art. 116).",
+                "📘 Sí, demostrando manipulación o falsedad (Art. 116).",
+                "🔹 Con copias autenticadas o hash de verificación (Art. 116)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 116",
+            "topic": "Valor de pruebas electrónicas"
+        },
+        {
+            "tag": "acumulacion_procedimientos",
+            "patterns": [
+                "¿Cuándo se acumulan procedimientos según el Artículo 117?",
+                "¿Qué pasa si las faltas son de distintas competencias?",
+                "¿Puede el Consejo General acumular casos?",
+                "¿Se unifican las sanciones?",
+                "¿Puedo oponerme a la acumulación?"
+            ],
+            "responses": [
+                "📘 Cuando están relacionados o involucran a mismos responsables (Art. 117).",
+                "🔹 Lo resuelve la autoridad de la falta más grave (Art. 118).",
+                "🎯 Sí, al ejercer facultad de atracción (Art. 118).",
+                "📘 No, cada falta se sanciona separadamente (Art. 117).",
+                "🔹 Sí, alegando falta de conexión (Art. 117)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 117",
+            "topic": "Acumulación de procedimientos"
+        },
+        {
+            "tag": "competencia_acumulados",
+            "patterns": [
+                "¿Quién es competente en procedimientos acumulados según el Artículo 118?",
+                "¿Qué es la facultad de atracción?",
+                "¿Puede acumularse un caso grave con uno leve?",
+                "¿Se notifica a las partes?",
+                "¿Puedo solicitar la acumulación?"
+            ],
+            "responses": [
+                "📘 La autoridad de la falta más grave (Art. 118).",
+                "🔹 Que el Consejo General asuma casos de otras autoridades (Art. 118).",
+                "🎯 Sí, si están vinculados (Art. 118).",
+                "📘 Sí, sobre la suspensión y resolución (Art. 118).",
+                "🔹 Sí, fundando la relación entre los casos (Art. 117)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 118",
+            "topic": "Competencia en acumulación"
+        },
+        {
+            "tag": "prescripcion",
+            "patterns": [
+                "¿Cuándo prescribe una falta según el Artículo 119?",
+                "¿Cómo se calcula el plazo?",
+                "¿Qué interrumpe la prescripción?",
+                "¿Puede oponerse en cualquier momento?",
+                "¿Hay faltas imprescriptibles?"
+            ],
+            "responses": [
+                "📘 A los 3 años desde que se cometió o cesó (Art. 119).",
+                "🔹 Desde el día siguiente a los hechos o su última repetición (Art. 119).",
+                "🎯 El Informe de Presunta Responsabilidad (Art. 120).",
+                "📘 Sí, hasta antes de la resolución definitiva (Art. 121).",
+                "🔹 No, todas prescriben a los 3 años (Art. 119)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 119",
+            "topic": "Prescripción"
+        },
+        {
+            "tag": "interrupcion_prescripcion",
+            "patterns": [
+                "¿Qué interrumpe la prescripción según el Artículo 120?",
+                "¿Se reinicia el plazo si se interrumpe?",
+                "¿Qué pasa si el procedimiento se archiva?",
+                "¿Cómo se acredita la interrupción?",
+                "¿Afecta a todos los responsables?"
+            ],
+            "responses": [
+                "📘 La emisión del Informe de Presunta Responsabilidad (Art. 120).",
+                "🔹 No, solo se detiene el cómputo (Art. 120).",
+                "🎯 Vuelve a correr el plazo original (Art. 120).",
+                "📘 Con la fecha del informe en el expediente (Art. 120).",
+                "🔹 Sí, si están vinculados en el mismo informe (Art. 120)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 120",
+            "topic": "Interrupción de prescripción"
+        },
+        {
+            "tag": "causas_improcedencia",
+            "patterns": [
+                "¿Qué causa improcedencia según el Artículo 121?",
+                "¿Cómo se declara?",
+                "¿Puede oponerse después de la audiencia?",
+                "¿Qué es la cosa juzgada?",
+                "¿Se puede reabrir un caso ya resuelto?"
+            ],
+            "responses": [
+                "📘 Prescripción o resolución previa sobre los mismos hechos (Art. 121).",
+                "🔹 Por acuerdo de la autoridad competente (Art. 121).",
+                "🎯 Sí, hasta antes de la resolución definitiva (Art. 121).",
+                "📘 Que el caso ya fue decidido y no puede revisarse (Art. 121).",
+                "🔹 No, salvo por recursos legales (Art. 121)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 121",
+            "topic": "Causas de improcedencia"
+        },
+        {
+            "tag": "sobreseimiento",
+            "patterns": [
+                "¿Qué causa sobreseimiento según el Artículo 122?",
+                "¿Quién puede solicitarlo?",
+                "¿Qué pasa si el responsable fallece?",
+                "¿Se notifica a la víctima?",
+                "¿Puede archivarse un caso sin sobreseer?"
+            ],
+            "responses": [
+                "📘 Improcedencia, derogación de la falta o muerte del responsable (Art. 122).",
+                "🔹 Las partes o de oficio por la autoridad (Art. 122).",
+                "🎯 Se sobresee el procedimiento (Art. 122).",
+                "📘 Sí, dentro de los 5 días hábiles (Art. 122).",
+                "🔹 Sí, por falta de elementos (Art. 66)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 122",
+            "topic": "Sobreseimiento"
+        },
+        {
+            "tag": "excusas_recusacion",
+            "patterns": [
+                "¿Cuándo puede excusarse o recusarse un integrante según el Artículo 123?",
+                "¿Cómo se solicita?",
+                "¿Quién resuelve?",
+                "¿Qué pasa si hay conflicto de intereses?",
+                "¿Puede recusarse a todo el consejo?"
+            ],
+            "responses": [
+                "📘 Por conflicto de interés o falta de imparcialidad (Art. 123).",
+                "🔹 Por escrito, señalando los motivos (Art. 123).",
+                "🎯 La Comisión de Responsabilidades del consejo respectivo (Art. 123).",
+                "📘 Debe excusarse o será recusado (Art. 123).",
+                "🔹 No, pero puede pedirse la atracción del caso (Art. 38)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 123",
+            "topic": "Excusas y recusación"
+        },
+        {
+            "tag": "sesiones_privadas",
+            "patterns": [
+                "¿Cómo son las sesiones según el Artículo 124?",
+                "¿Puedo asistir como público?",
+                "¿Qué pasa si interrumpo?",
+                "¿Se graban las sesiones?",
+                "¿Qué registra el secretario?"
+            ],
+            "responses": [
+                "📘 Privadas, con orden y respeto (Art. 124).",
+                "🔹 No, solo partes e involucrados (Art. 124).",
+                "🎯 Podrías ser amonestado o retirado (Art. 124).",
+                "📘 Depende de lo que decida la autoridad (Art. 124).",
+                "🔹 Fecha, asistentes, incidentes y acuerdos (Art. 124)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 124",
+            "topic": "Sesiones privadas"
+        },
+        {
+            "tag": "orden_audiencias",
+            "patterns": [
+                "¿Qué reglas de orden aplican en audiencias según el Artículo 125?",
+                "¿Puedo ser sancionado por mal comportamiento?",
+                "¿Qué medidas puede tomar quien preside?",
+                "¿Puedo grabarla por mi cuenta?",
+                "¿Hay protocolo para casos de violencia?"
+            ],
+            "responses": [
+                "📘 Respeto, prohibición de interrupciones y seguimiento de turnos (Art. 125).",
+                "🔹 Sí, con amonestación o apertura de nuevo procedimiento (Art. 125).",
+                "🎯 Amonestaciones, desalojo o suspensión (Art. 125).",
+                "📘 No, salvo autorización expresa (Art. 125).",
+                "🔹 Sí, evitar confrontación y proteger a la víctima (Art. 93)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 125",
+            "topic": "Orden en audiencias"
+        },
+        {
+            "tag": "tipos_resoluciones",
+            "patterns": [
+                "¿Qué tipos de resoluciones hay según el Artículo 126?",
+                "¿Qué es un auto preparatorio?",
+                "¿Puedo impugnar un acuerdo de trámite?",
+                "¿Qué diferencia a una resolución definitiva?",
+                "¿Cuándo se usan autos provisionales?"
+            ],
+            "responses": [
+                "📘 Acuerdos, autos provisionales, autos preparatorios y definitivas (Art. 126).",
+                "🔹 Ordena admisión/práctica de pruebas antes de la audiencia (Art. 126).",
+                "🎯 Solo si afecta derechos sustanciales (Art. 136).",
+                "📘 Decide el fondo del caso e impone sanciones (Art. 126).",
+                "🔹 Para medidas cautelares o decisiones urgentes (Art. 126)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 126",
+            "topic": "Tipos de resoluciones"
+        },
+        {
+            "tag": "firma_resoluciones",
+            "patterns": [
+                "¿Quién firma las resoluciones según el Artículo 127?",
+                "¿Qué pasa si un integrante no firma?",
+                "¿Puede votarse en contra en el pleno?",
+                "¿Son públicas las votaciones?",
+                "¿Qué validez tiene una resolución no firmada?"
+            ],
+            "responses": [
+                "📘 Presidente y secretario de la Comisión; todos en definitivas (Art. 127).",
+                "🔹 Debe hacer constar su disidencia por escrito (Art. 127).",
+                "🎯 Sí, y se registra en actas (Art. 127).",
+                "📘 No, las sesiones son privadas (Art. 124).",
+                "🔹 Ninguna; es requisito esencial (Art. 127)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 127",
+            "topic": "Firma de resoluciones"
+        },
+        {
+            "tag": "aclaracion_resoluciones",
+            "patterns": [
+                "¿Puedo pedir aclaración de una resolución según el Artículo 128?",
+                "¿Qué plazo tengo para solicitarla?",
+                "¿Puede modificarse el fondo de la resolución?",
+                "¿Qué conceptos se pueden aclarar?",
+                "¿Cómo se notifica la aclaración?"
+            ],
+            "responses": [
+                "📘 Sí, si hay conceptos oscuros o imprecisos (Art. 128).",
+                "🔹 3 días hábiles desde su notificación (Art. 128).",
+                "🎯 No, solo se precisan términos sin alterar lo resuelto (Art. 128).",
+                "📘 Solo aquellos que generen duda en su aplicación (Art. 128).",
+                "🔹 Igual que la resolución principal (Art. 128)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 128",
+            "topic": "Aclaración de resoluciones"
+        },
+        {
+            "tag": "resolucion_firme",
+            "patterns": [
+                "¿Cuándo queda firme una resolución según el Artículo 129?",
+                "¿Qué recursos puedo interponer?",
+                "¿Cuánto tiempo hay para impugnar?",
+                "¿Puede ejecutarse antes de ser firme?",
+                "¿Qué pasa si no impugno?"
+            ],
+            "responses": [
+                "📘 Al terminar plazos para impugnar sin que se interpongan (Art. 129).",
+                "🔹 Recurso de revisión ante el órgano superior (Art. 136).",
+                "🎯 Según lo previsto en la Ley Orgánica (Art. 136).",
+                "📘 No, salvo medidas cautelares provisionales (Art. 39).",
+                "🔹 Se procede a su ejecución (Art. 132)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 129",
+            "topic": "Resolución firme"
+        },
+        {
+            "tag": "procedimiento_responsabilidad",
+            "patterns": [
+                "¿Cómo se tramita el procedimiento según el Artículo 130?",
+                "¿Qué derechos tengo como responsable?",
+                "¿Puedo presentar pruebas en la audiencia?",
+                "¿Cómo se cierra la audiencia?",
+                "¿Qué plazo hay para resolver?"
+            ],
+            "responses": [
+                "📘 Con citatorio, audiencia, ofrecimiento de pruebas y resolución (Art. 130).",
+                "🔹 No autoincriminarte, ofrecer pruebas y ser oído (Art. 130).",
+                "🎯 Sí, documentales y señalando otras (Art. 130).",
+                "🔹 Con alegatos y declaración de cierre por la autoridad (Art. 130).",
+                "📘 7 días hábiles para proyecto de dictamen (Art. 130)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 130",
+            "topic": "Procedimiento de responsabilidad"
+        },
+        {
+            "tag": "resolucion_definitiva",
+            "patterns": [
+                "¿Qué debe contener la resolución definitiva según el Artículo 131?",
+                "¿Cómo se valoran las pruebas?",
+                "¿Puede ordenar investigar a otros responsables?",
+                "¿Se notifica a mi jefe inmediato?",
+                "¿Qué pasa si no estoy de acuerdo?"
+            ],
+            "responses": [
+                "📘 Hechos, fundamentos, valoración de pruebas y sanción (Art. 131).",
+                "🔹 Con lógica, perspectiva de género y derechos humanos (Art. 86).",
+                "🎯 Sí, si se identifican en el procedimiento (Art. 131).",
+                "📘 Sí, para ejecutar la sanción (Art. 130).",
+                "🔹 Puedes interponer recurso de revisión (Art. 136)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 131",
+            "topic": "Resolución definitiva"
+        },
+        {
+            "tag": "ejecucion_resoluciones",
+            "patterns": [
+                "¿Cómo se ejecuta una resolución según el Artículo 132?",
+                "¿Quién la ejecuta?",
+                "¿Puedo pedir suspensión por recurso?",
+                "¿Qué pasa si no cumplo la sanción?",
+                "¿Hay seguimiento?"
+            ],
+            "responses": [
+                "📘 Según lo ordenado en la resolución (Art. 132).",
+                "🔹 Las instancias universitarias correspondientes (Art. 132).",
+                "🎯 Depende de lo que decida el órgano recurrido (Art. 136).",
+                "📘 Podría agravarse la sanción (Art. 24).",
+                "🔹 Sí, con informe de cumplimiento (Art. 135)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 132",
+            "topic": "Ejecución de resoluciones"
+        },
+        {
+            "tag": "resolucion_no_responsabilidad",
+            "patterns": [
+                "¿Qué pasa si me declaran no responsable según el Artículo 133?",
+                "¿Me restituyen derechos automáticamente?",
+                "¿Puedo demandar por daños?",
+                "¿Queda registro en mi expediente?",
+                "¿Puedo solicitar una disculpa pública?"
+            ],
+            "responses": [
+                "📘 Se notifica a autoridades para restituir tus derechos (Art. 133).",
+                "🔹 Sí, salvo que existan otros procedimientos pendientes (Art. 133).",
+                "🎯 Sí, por la vía civil correspondiente (Art. 133).",
+                "📘 Sí, pero constará el resultado absolutorio (Art. 133).",
+                "🔹 No está previsto en el reglamento (Art. 133)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 133",
+            "topic": "Resolución de no responsabilidad"
+        },
+        {
+            "tag": "ejecucion_sancion",
+            "patterns": [
+                "¿Cuándo se ejecuta una sanción según el Artículo 134?",
+                "¿Puedo apelar antes de ejecutarse?",
+                "¿Qué pasa si la sanción es expulsión?",
+                "¿Cómo se aplica una suspensión?",
+                "¿Pueden ser modificadas?"
+            ],
+            "responses": [
+                "📘 Cuando la resolución queda firme (Art. 134).",
+                "🔹 Sí, con recurso de revisión (Art. 136).",
+                "🎯 Se cancela tu matrícula o contrato (Art. 134).",
+                "📘 Prohibición de actividades según lo ordenado (Art. 134).",
+                "🔹 Solo por recurso o revisión de oficio (Art. 136)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 134",
+            "topic": "Ejecución de sanciones"
+        },
+        {
+            "tag": "informe_cumplimiento",
+            "patterns": [
+                "¿Quién informa del cumplimiento según el Artículo 135?",
+                "¿Qué plazo hay?",
+                "¿Qué pasa si no se ejecuta?",
+                "¿Puedo probar que ya cumplí?",
+                "¿A quién se informa?"
+            ],
+            "responses": [
+                "📘 La instancia que ejecutó la sanción (Art. 135).",
+                "🔹 5 días hábiles desde su cumplimiento (Art. 135).",
+                "🎯 Podría iniciarse nuevo procedimiento (Art. 135).",
+                "📘 Sí, con documentos que lo acrediten (Art. 135).",
+                "🔹 A la autoridad que emitió la resolución (Art. 135)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 135",
+            "topic": "Informe de cumplimiento"
+        },
+        {
+            "tag": "medios_impugnacion",
+            "patterns": [
+                "¿Qué recursos existen según el Artículo 136?",
+                "¿Cuánto tiempo tengo para impugnar?",
+                "¿Ante quién se interpone?",
+                "¿Suspende la ejecución?",
+                "¿Puedo alegar violaciones al debido proceso?"
+            ],
+            "responses": [
+                "📘 Recurso de revisión, según la Ley Orgánica (Art. 136).",
+                "🔹 Plazo establecido en la Ley Orgánica (Art. 136).",
+                "🎯 Órgano superior al que emitió la resolución (Art. 136).",
+                "📘 Depende de lo que decida el órgano recurrido (Art. 136).",
+                "🔹 Sí, como causal de impugnación (Art. 136)."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo 136",
+            "topic": "Medios de impugnación"
+        },
+        {
+            "tag": "medidas_reeducativas",
+            "patterns": [
+                "¿Hay talleres para personas sancionadas por violencia?",
+                "¿Qué pasa si no asisto a las medidas reeducativas?",
+                "¿Quién imparte los programas para agresores?",
+                "¿Son obligatorios los cursos de género para sancionados?",
+                "¿Dónde encuentro información sobre medidas reeducativas?"
+            ],
+            "responses": [
+                "📚 Sí, la universidad debe implementar programas de formación para sancionados (Art. Décimo Transitorio).",
+                "⚠️ El incumplimiento puede agravar la sanción. Revisa tu resolución definitiva.",
+                "🏫 La Unidad para la Igualdad, en coordinación con otras instancias (Art. Décimo Transitorio).",
+                "✅ Sí, son obligatorios si la sanción lo establece (Art. 23 y Décimo Transitorio).",
+                "🔍 Solicita información en la Unidad para la Igualdad o la Defensoría de Derechos Universitarios."
+            ],
+            "document": "Reglamento de Responsabilidades Vinculadas con Faltas a la Normatividad Universitaria",
+            "article": "Artículo Décimo Transitorio",
+            "topic": "Medidas reeducativas"
+        }
+
+    ]
+}

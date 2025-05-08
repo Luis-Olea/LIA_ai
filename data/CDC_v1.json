@@ -1,0 +1,367 @@
+{
+    "main_topic": "Codigo de Conducta de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "objeto_codigo_conducta",
+            "patterns": [
+                "¿Cuál es el objetivo del Código de Conducta de la Universidad de Guadalajara?",
+                "¿Para qué sirve el Código de Conducta?",
+                "¿Qué establece el Código de Conducta en la UdeG?",
+                "¿Qué regula el Código de Conducta?",
+                "¿Qué incluye el Código de Conducta de la UdeG?"
+            ],
+            "responses": [
+                "📜 El objetivo del Código de Conducta de la Universidad de Guadalajara es establecer los criterios que orientarán el comportamiento de la comunidad universitaria.",
+                "🎯 Su propósito es aplicar los principios y valores establecidos en el Código de Ética de la Universidad de Guadalajara.",
+                "⚖️ El Código regula el comportamiento de las personas integrantes de la comunidad universitaria para cumplir con los principios y valores éticos.",
+                "🔍 El Código establece criterios para orientar el comportamiento de la comunidad universitaria conforme al Código de Ética.",
+                "📋 El Código de Conducta incluye los principios y valores que deben cumplir las personas integrantes de la comunidad universitaria."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 1",
+            "topic": "Objetivo del Código"
+        },
+        {
+            "tag": "ambito_aplicacion",
+            "patterns": [
+                "¿A quiénes aplica el Código de Conducta?",
+                "¿Quiénes deben seguir el Código de Conducta en la UdeG?",
+                "¿El Código de Conducta es obligatorio para todos?",
+                "¿A quiénes se dirige el Código de Conducta?",
+                "¿El Código de Conducta aplica para proveedores?"
+            ],
+            "responses": [
+                "👥 El Código de Conducta es de observancia general y obligatoria para todas las personas integrantes de la comunidad universitaria.",
+                "🤝 Aplica a todas las personas físicas o jurídicas con las que la Universidad tiene relación por convenios o contratos.",
+                "✅ Sí, el Código de Conducta es obligatorio para todas las personas integrantes de la comunidad universitaria.",
+                "📌 Se dirige a todas las personas que forman parte de la comunidad universitaria y a aquellas con las que la Universidad tiene relación.",
+                "🏢 Sí, el Código de Conducta aplica para proveedores, prestadores de servicios, contratistas y colaboradores."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 2",
+            "topic": "Ámbito de aplicación"
+        },
+        {
+            "tag": "definiciones_codigo_conducta",
+            "patterns": [
+                "¿Qué se entiende por comunidad universitaria en el Código de Conducta?",
+                "¿Qué es la cultura de denuncia?",
+                "¿Qué implica la cultura de la legalidad?",
+                "¿Qué es la cultura de paz según el Código de Conducta?",
+                "¿Qué se considera como espacio universitario?"
+            ],
+            "responses": [
+                "🏛️ La comunidad universitaria se refiere a la comunidad conformada según lo señalado por el artículo 10 de la Ley Orgánica de la Universidad de Guadalajara.",
+                "📢 La cultura de denuncia implica que las personas integrantes de la comunidad universitaria reconozcan la importancia de denunciar actos contrarios a derecho a la autoridad competente.",
+                "⚖️ La cultura de la legalidad contempla que las personas integrantes de la comunidad universitaria acepten las normas jurídicas basadas en convicciones personales, valores y principios.",
+                "🕊️ La cultura de paz está conformada por valores, actitudes y comportamientos que promueven la paz, el respeto a los derechos humanos y el rechazo a la violencia.",
+                "🏫 El espacio universitario se refiere a las instalaciones físicas que posee o administra la Universidad de Guadalajara."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 3",
+            "topic": "Definiciones del Código"
+        },
+        {
+            "tag": "aplicacion_principios_valores",
+            "patterns": [
+                "¿Qué deben hacer las personas integrantes de la comunidad universitaria con los principios y valores universitarios?",
+                "¿Cómo deben aplicar los principios y valores universitarios las personas en la UdeG?",
+                "¿Qué establece el Artículo 4 del Código de Conducta?",
+                "¿Qué comportamiento deben tener las personas de la comunidad universitaria respecto a los principios y valores?",
+                "¿Qué normas rigen el comportamiento de la comunidad universitaria en relación a los principios y valores?"
+            ],
+            "responses": [
+                "📜 Las personas integrantes de la comunidad universitaria deben aplicar los principios y valores universitarios conforme a los criterios establecidos en el Código de Conducta.",
+                "🎯 Deben seguir los criterios establecidos en el Código de Conducta para aplicar los principios y valores universitarios.",
+                "🔍 El Artículo 4 del Código de Conducta establece que la comunidad universitaria debe aplicar los principios y valores conforme a los criterios del Código.",
+                "👥 Deben comportarse de acuerdo con los principios y valores universitarios establecidos en el Código de Conducta.",
+                "⚖️ Las normas del Código de Conducta rigen el comportamiento de la comunidad universitaria en relación a los principios y valores."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 4",
+            "topic": "Aplicación de principios y valores"
+        },
+        {
+            "tag": "democracia",
+            "patterns": [
+                "¿Cómo se aplica el principio de democracia en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la democracia en la UdeG?",
+                "¿Qué establece el Artículo 5 sobre la democracia en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de democracia?",
+                "¿Qué comportamientos son necesarios para aplicar la democracia en la UdeG?"
+            ],
+            "responses": [
+                "🗳️ Las personas integrantes de la comunidad universitaria deben participar de forma respetuosa, consciente y crítica en las instancias universitarias.",
+                "🤝 Deben involucrarse en la toma de decisiones buscando el mayor beneficio para la comunidad universitaria.",
+                "📜 El Artículo 5 establece que deben tener apertura a la proposición de ideas y evitar la imposición de convicciones personales.",
+                "💬 Deben fomentar la libre expresión de ideas de manera respetuosa y promover la transparencia, la legalidad y el respeto al derecho al voto.",
+                "🔍 Las personas deben respetar la organización y fomentar la crítica constructiva para mejorar procesos y actividades."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 5",
+            "topic": "Democracia"
+        },
+        {
+            "tag": "desarrollo_sustentable",
+            "patterns": [
+                "¿Cómo se aplica el principio de desarrollo sustentable en la UdeG?",
+                "¿Qué conductas se esperan para fomentar el desarrollo sustentable en la UdeG?",
+                "¿Qué establece el Artículo 6 sobre el desarrollo sustentable en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de desarrollo sustentable?",
+                "¿Qué comportamientos son necesarios para aplicar el desarrollo sustentable en la UdeG?"
+            ],
+            "responses": [
+                "🌱 Las personas integrantes de la comunidad universitaria deben fomentar y cuidar la limpieza de los espacios universitarios.",
+                "💡 Deben evitar el desperdicio de energía eléctrica y reducir el consumo de papel imprimiendo sólo documentos indispensables.",
+                "📜 El Artículo 6 establece que deben proteger y cuidar las áreas verdes y reciclar y reutilizar los materiales y recursos.",
+                "💧 Deben reportar las fugas de agua potable y participar en la separación de residuos.",
+                "🔄 Deben emplear racionalmente todos los recursos y promover el uso de materiales reciclables o biodegradables."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 6",
+            "topic": "Desarrollo Sustentable"
+        },
+        {
+            "tag": "diversidad",
+            "patterns": [
+                "¿Cómo se aplica el principio de diversidad en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la diversidad en la UdeG?",
+                "¿Qué establece el Artículo 7 sobre la diversidad en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de diversidad?",
+                "¿Qué comportamientos son necesarios para aplicar la diversidad en la UdeG?"
+            ],
+            "responses": [
+                "🌈 Las personas integrantes de la comunidad universitaria deben reconocer y respetar las distintas características y creencias de los demás.",
+                "🤗 Deben ofrecer una actitud sensible, empática y solidaria hacia la diversidad en todas sus formas.",
+                "📜 El Artículo 7 establece que deben eliminar expresiones discriminatorias y respetar la dignidad de todas las personas.",
+                "♿ Deben propiciar un ambiente de respeto e inclusión para las personas con discapacidad y valorar las opiniones diversas.",
+                "🚫 Deben evitar cualquier tipo de broma o comentario que ridiculice a las personas por sus características individuales."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 7",
+            "topic": "Diversidad"
+        },
+        {
+            "tag": "educacion_paz",
+            "patterns": [
+                "¿Cómo se aplica el principio de educación para la paz en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la educación para la paz en la UdeG?",
+                "¿Qué establece el Artículo 8 sobre la educación para la paz en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de educación para la paz?",
+                "¿Qué comportamientos son necesarios para aplicar la educación para la paz en la UdeG?"
+            ],
+            "responses": [
+                "🕊️ Las personas integrantes de la comunidad universitaria deben propiciar un ambiente de armonía y cohesión en todos los ámbitos de la vida universitaria.",
+                "💬 Deben sugerir alternativas pacíficas para solucionar conflictos y mantener una comunicación asertiva.",
+                "📜 El Artículo 8 establece que deben abstenerse de emitir juicios personales que puedan generar un ambiente hostil.",
+                "👂 Deben mantener una escucha activa y promover el diálogo, la armonía y la paz.",
+                "🚫 Las personas deben evitar actos de violencia y promover la prevención y erradicación de la violencia."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 8",
+            "topic": "Educación para la Paz"
+        },
+        {
+            "tag": "equidad",
+            "patterns": [
+                "¿Cómo se aplica el principio de equidad en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la equidad en la UdeG?",
+                "¿Qué establece el Artículo 9 sobre la equidad en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de equidad?",
+                "¿Qué comportamientos son necesarios para aplicar la equidad en la UdeG?"
+            ],
+            "responses": [
+                "⚖️ Las personas integrantes de la comunidad universitaria deben otorgar el mismo trato a las personas en situaciones similares.",
+                "👩‍⚖️ Deben atender y resolver situaciones conflictivas con perspectiva de género.",
+                "📜 El Artículo 9 establece que deben implementar estrategias para evitar la exclusión y promover oportunidades para grupos vulnerables.",
+                "📊 Deben distribuir los recursos de manera equilibrada y propiciar condiciones para el acceso a las mismas oportunidades.",
+                "🤝 Las personas deben brindar atención eficiente y empática a los grupos vulnerables y promover la perspectiva de género en decisiones institucionales."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 9",
+            "topic": "Equidad"
+        },
+        {
+            "tag": "honestidad",
+            "patterns": [
+                "¿Cómo se aplica el principio de honestidad en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la honestidad en la UdeG?",
+                "¿Qué establece el Artículo 10 sobre la honestidad en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de honestidad?",
+                "¿Qué comportamientos son necesarios para aplicar la honestidad en la UdeG?"
+            ],
+            "responses": [
+                "🔍 Las personas integrantes de la comunidad universitaria deben tomar decisiones basadas en los principios y valores universitarios.",
+                "💯 Deben tener un comportamiento basado en la integridad, rectitud, probidad y veracidad.",
+                "📜 El Artículo 10 establece que deben transparentar los resultados de sus actividades relacionadas con recursos públicos.",
+                "🚫 Deben abstenerse de solicitar compensaciones extraordinarias y dar crédito a las aportaciones de otras personas.",
+                "📊 Las personas deben evitar generar datos falsos y fomentar un ambiente de confianza y credibilidad en la Universidad."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 10",
+            "topic": "Honestidad"
+        },
+        {
+            "tag": "igualdad",
+            "patterns": [
+                "¿Cómo se aplica el principio de igualdad en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la igualdad en la UdeG?",
+                "¿Qué establece el Artículo 11 sobre la igualdad en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de igualdad?",
+                "¿Qué comportamientos son necesarios para aplicar la igualdad en la UdeG?"
+            ],
+            "responses": [
+                "⚖️ Las personas integrantes de la comunidad universitaria deben generar relaciones igualitarias sin distinción basada en origen étnico, edad, discapacidad, entre otros.",
+                "🤝 Deben promover una vida libre de discriminación y proporcionar la misma información a todas las personas candidatas en procesos de selección.",
+                "📜 El Artículo 11 establece que deben ofrecer de manera igualitaria los trámites, servicios y procedimientos en la vida universitaria.",
+                "📊 Deben fomentar la igualdad de oportunidades y evitar situaciones de desigualdad por simpatía o preferencias personales.",
+                "👏 Las personas deben reconocer las aportaciones y contribuciones de todos los integrantes de la comunidad universitaria."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 11",
+            "topic": "Igualdad"
+        },
+        {
+            "tag": "justicia",
+            "patterns": [
+                "¿Cómo se aplica el principio de justicia en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la justicia en la UdeG?",
+                "¿Qué establece el Artículo 12 sobre la justicia en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de justicia?",
+                "¿Qué comportamientos son necesarios para aplicar la justicia en la UdeG?"
+            ],
+            "responses": [
+                "⚖️ Las personas integrantes de la comunidad universitaria deben informarse sobre los derechos humanos y promoverlos, respetarlos y protegerlos.",
+                "📜 Deben actuar en estricto apego a los derechos humanos y crear condiciones para que las resoluciones sean conforme a derecho.",
+                "📜 El Artículo 12 establece que deben aplicar la normatividad universitaria de manera imparcial y objetiva.",
+                "🏆 Deben reconocer los méritos de las personas integrantes de la comunidad universitaria y tomar decisiones basadas en criterios objetivos.",
+                "👔 Las personas deben actuar conforme a sus funciones y responsabilidades, antes que atender cuestiones personales."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 12",
+            "topic": "Justicia"
+        },
+        {
+            "tag": "legalidad",
+            "patterns": [
+                "¿Cómo se aplica el principio de legalidad en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la legalidad en la UdeG?",
+                "¿Qué establece el Artículo 13 sobre la legalidad en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de legalidad?",
+                "¿Qué comportamientos son necesarios para aplicar la legalidad en la UdeG?"
+            ],
+            "responses": [
+                "📜 Las personas integrantes de la comunidad universitaria deben informarse y conocer sobre la normatividad universitaria.",
+                "⚖️ Deben dar cumplimiento a la normatividad aplicable y promover su cumplimiento en la comunidad universitaria.",
+                "📜 El Artículo 13 establece que deben reconocer el valor de la normatividad y el derecho en sus actividades universitarias.",
+                "🚨 Deben denunciar actos de violencia y conductas ilegales a las autoridades competentes y fomentar la cultura de denuncia responsable.",
+                "🏛️ Las personas deben diseñar y participar en mecanismos de fortalecimiento de la cultura de la legalidad en la Universidad."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 13",
+            "topic": "Legalidad"
+        },
+        {
+            "tag": "libertad",
+            "patterns": [
+                "¿Cómo se aplica el principio de libertad en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la libertad en la UdeG?",
+                "¿Qué establece el Artículo 14 sobre la libertad en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de libertad?",
+                "¿Qué comportamientos son necesarios para aplicar la libertad en la UdeG?"
+            ],
+            "responses": [
+                "🗽 Las personas integrantes de la comunidad universitaria deben actuar conscientemente y respetar los derechos de otras personas.",
+                "💬 Deben contribuir a que la comunidad universitaria pueda expresarse sin temor a discriminación o represalias.",
+                "📜 El Artículo 14 establece que deben reconocer y asumir los límites de su libertad y actuar con responsabilidad.",
+                "🎓 Deben fomentar y respetar la libertad de cátedra, investigación, creación, pensamiento y expresión.",
+                "🌍 Las personas deben respetar el derecho al libre desarrollo de la personalidad humana de todas las personas en la comunidad universitaria."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 14",
+            "topic": "Libertad"
+        },
+        {
+            "tag": "respeto",
+            "patterns": [
+                "¿Cómo se aplica el principio de respeto en la UdeG?",
+                "¿Qué conductas se esperan para fomentar el respeto en la UdeG?",
+                "¿Qué establece el Artículo 15 sobre el respeto en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de respeto?",
+                "¿Qué comportamientos son necesarios para aplicar el respeto en la UdeG?"
+            ],
+            "responses": [
+                "🤝 Las personas integrantes de la comunidad universitaria deben brindar un trato cordial, digno y cortés a todas las personas.",
+                "🗣️ Deben respetar las lenguas, opiniones, pensamientos, creencias, ideologías y conocimientos de los demás.",
+                "📜 El Artículo 15 establece que deben evitar el lenguaje y comportamiento agresivo, ofensivo o abusivo.",
+                "👔 Deben ejercer el liderazgo con prudencia y sensatez y respetar las posesiones y el patrimonio de la Universidad.",
+                "💬 Las personas deben generar un ambiente de respeto mutuo y cortesía, independientemente de la jerarquía."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 15",
+            "topic": "Respeto"
+        },
+        {
+            "tag": "responsabilidad",
+            "patterns": [
+                "¿Cómo se aplica el principio de responsabilidad en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la responsabilidad en la UdeG?",
+                "¿Qué establece el Artículo 16 sobre la responsabilidad en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de responsabilidad?",
+                "¿Qué comportamientos son necesarios para aplicar la responsabilidad en la UdeG?"
+            ],
+            "responses": [
+                "💼 Las personas integrantes de la comunidad universitaria deben desempeñar sus actividades con eficacia, calidad y profesionalismo.",
+                "💰 Deben optimizar el uso de los recursos públicos y tomar decisiones convenientes para los fines de la Universidad.",
+                "📜 El Artículo 16 establece que deben administrar los recursos humanos, financieros, materiales y tecnológicos de manera responsable.",
+                "🏛️ Deben proteger y conservar los bienes del patrimonio de la Universidad y evitar conceder privilegios personales.",
+                "🚨 Las personas deben informar sobre situaciones que pongan en riesgo los fines de la Universidad y asumir las consecuencias de sus actos."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 16",
+            "topic": "Responsabilidad"
+        },
+        {
+            "tag": "solidaridad",
+            "patterns": [
+                "¿Cómo se aplica el principio de solidaridad en la UdeG?",
+                "¿Qué conductas se esperan para fomentar la solidaridad en la UdeG?",
+                "¿Qué establece el Artículo 17 sobre la solidaridad en la UdeG?",
+                "¿Qué deben hacer las personas universitarias para cumplir con el principio de solidaridad?",
+                "¿Qué comportamientos son necesarios para aplicar la solidaridad en la UdeG?"
+            ],
+            "responses": [
+                "🤲 Las personas integrantes de la comunidad universitaria deben ser conscientes de sus semejantes como parte de un sistema social.",
+                "🌍 Deben procurar soluciones para las necesidades de la sociedad, especialmente para sectores vulnerables.",
+                "📜 El Artículo 17 establece que deben promover el desarrollo del potencial humano de la comunidad universitaria.",
+                "👂 Deben conducir con una actitud sensible y empática, respetando y escuchando activamente a los demás.",
+                "💪 Las personas deben anteponer los intereses comunes o institucionales a los propios y promover la unión y cooperación."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 17",
+            "topic": "Solidaridad"
+        },
+        {
+            "tag": "autoridades_competentes",
+            "patterns": [
+                "¿Cuáles son las autoridades competentes para el cumplimiento del Código de Conducta en la UdeG?",
+                "¿Quiénes vigilan el cumplimiento del Código de Conducta en la UdeG?",
+                "¿Qué autoridades se encargan de fomentar y difundir el Código de Conducta en la UdeG?",
+                "¿Qué establece el Artículo 18 sobre las autoridades competentes en la UdeG?",
+                "¿Quiénes son las autoridades competentes según el Código de Conducta de la UdeG?"
+            ],
+            "responses": [
+                "🏛️ Las autoridades competentes para el fomento, difusión y vigilancia del cumplimiento del Código de Conducta son el Consejo General Universitario, la Contraloría General de la Universidad y las demás que la normatividad universitaria reconozca.",
+                "👮 El Consejo General Universitario, la Contraloría General de la Universidad y otras autoridades reconocidas por la normatividad universitaria son las encargadas de vigilar el cumplimiento del Código de Conducta.",
+                "📜 El Código de Conducta establece que las autoridades competentes son el Consejo General Universitario, la Contraloría General de la Universidad y otras autoridades reconocidas.",
+                "📢 Las autoridades encargadas de fomentar y difundir el Código de Conducta son el Consejo General Universitario, la Contraloría General de la Universidad y otras reconocidas por la normatividad universitaria.",
+                "🏛️ Según el Código de Conducta, las autoridades competentes son el Consejo General Universitario, la Contraloría General de la Universidad y otras autoridades reconocidas."
+            ],
+            "document": "Código de Conducta",
+            "article": "Artículo 18",
+            "topic": "Autoridades competentes"
+        }
+ 
+
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "main_topic": "Políticas y Normas del Presupuesto de Ingresos y Egresos 2025 - Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "politica_austeridad_transparencia",
+            "patterns": [
+                "¿Qué establece la política 1.2 sobre el uso de recursos?",
+                "¿Cómo fomenta la universidad la transparencia según la política 1.2?",
+                "¿Qué principios rigen el presupuesto según la política 1.2?",
+                "¿La política 1.2 permite gastos innecesarios?",
+                "¿Cómo se garantiza la racionalidad en el uso de recursos según la política 1.2?"
+            ],
+            "responses": [
+                "📌 La política 1.2 establece que se debe fomentar la austeridad 💰, el ahorro y la transparencia 🔍 en el uso de los recursos.",
+                "🏛️ Promueve la disciplina presupuestal y la racionalidad en el destino de los fondos, priorizando las funciones educativas 📚.",
+                "📜 Los principios son: austeridad 🚫💸, ahorro 🐖, transparencia 👁️ y racionalidad ⚖️ en la gestión de recursos.",
+                "❌ No, la política 1.2 prohíbe gastos superfluos y exige justificación para todo uso de recursos 📋.",
+                "🔎 Mediante evaluaciones constantes del cumplimiento de metas 🎯 y alineación con el Plan de Desarrollo Institucional 📊."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Política 1.2",
+            "topic": "Austeridad y transparencia presupuestal"
+        },
+        {
+            "tag": "contratacion_temporal",
+            "patterns": [
+                "¿Qué tipos de contratos temporales autoriza la norma 1.1?",
+                "¿Puedo ser contratado temporalmente para un puesto administrativo permanente según la norma 1.1?",
+                "¿Quién debe autorizar contratos de mandos medios según la norma 1.1?",
+                "¿La norma 1.1 permite contratos civiles para servicios profesionales?",
+                "¿Qué cargos temporales son equivalentes a Jefe de Unidad 'C' según la norma 1.1?"
+            ],
+            "responses": [
+                "📝 Solo autoriza contratos temporales para cargos como Jefe de Unidad 'C' 👨💼, Coordinador de Carrera 🎓 o Posgrado.",
+                "🚫 No, los contratos temporales no pueden sustituir puestos administrativos permanentes en la plantilla 📋.",
+                "🖋️ La Rectoría General debe autorizarlos, previa validación de Recursos Humanos 👥.",
+                "✅ Sí, pero solo para proyectos específicos 🎯 y temporales ⏳, nunca para funciones administrativas permanentes.",
+                "📌 Coordinadores de Carrera 🎓 o Posgrado son equivalentes, siempre que sean autorizados por la Rectoría 🏛️."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 1.1",
+            "topic": "Contratación temporal"
+        },
+        {
+            "tag": "prohibicion_recontratacion",
+            "patterns": [
+                "¿Qué prohíbe la norma 1.3 sobre recontratación?",
+                "¿Puedo ser recontratado si retire mis aportaciones del fondo de pensiones?",
+                "¿Qué requisitos exige la norma 1.3 antes de asignar actividades a personal temporal?",
+                "¿Cómo se solicita la autorización para contratar personal temporal según la norma 1.3?",
+                "¿Qué entidad verifica los requisitos para contratación en la norma 1.3?"
+            ],
+            "responses": [
+                "🚫 Prohíbe recontratar a personal que haya retirado sus aportaciones del Fondo de Pensiones y Jubilaciones 💰.",
+                "❌ No, la norma 1.3 lo prohíbe expresamente en todos los casos 📜.",
+                "📋 Se requiere visto bueno de Recursos Humanos 👥 y cumplimiento de formalidades universitarias 🏛️.",
+                "💻 Mediante solicitud electrónica 📧 a la Coordinación General de Recursos Humanos.",
+                "🔍 La Coordinación General de Recursos Humanos 👥 valida el cumplimiento de requisitos."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 1.3",
+            "topic": "Prohibición de recontratación"
+        },
+        {
+            "tag": "horas_extras",
+            "patterns": [
+                "¿Cuándo se permiten horas extras según la norma 1.4?",
+                "¿Cómo deben pagarse las horas extras según la norma 1.4?",
+                "¿Qué actividades justifican horas extras en la norma 1.4?",
+                "¿La norma 1.4 permite horas extras para cualquier función?",
+                "¿Qué ley regula el pago de horas extras en la norma 1.4?"
+            ],
+            "responses": [
+                "⏰ Solo en circunstancias extraordinarias ⚠️, para programas prioritarios 🎯 o de extrema urgencia.",
+                "💰 Deben retribuirse conforme a la Ley Federal del Trabajo ⚖️ y ser compatibles con las funciones del puesto.",
+                "📌 Actividades urgentes 🚨 o prioritarias propias de la dependencia o en apoyo a otras.",
+                "❌ No, solo si son compatibles con las funciones del puesto y están debidamente justificadas 📋.",
+                "📜 La Ley Federal del Trabajo ⚖️ establece los lineamientos para su retribución."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 1.4",
+            "topic": "Horas extras"
+        },
+        {
+            "tag": "cierre_presupuestal",
+            "patterns": [
+                "¿Cuándo se realiza la dispersión de recursos para el cierre 2025 según la norma 2.7?",
+                "¿Qué pasa con los recursos no comprometidos al 31 de diciembre según la norma 2.7?",
+                "¿Hasta cuándo se pueden pagar compromisos del 2025 según la norma 2.7?",
+                "¿Qué documentos respaldan los compromisos al cierre según la norma 2.7?",
+                "¿Cómo se manejan los ingresos autogenerados no ejercidos según la norma 2.7?"
+            ],
+            "responses": [
+                "📅 A más tardar el último día hábil de noviembre de 2025 🗓️.",
+                "💸 Se disponen según la norma aplicable a cada fuente de financiamiento, en enero 2026 📆.",
+                "⏳ Hasta el primer trimestre de 2026 📅, si cuentan con contrato u orden de compra registrada 📋.",
+                "📑 Contratos, órdenes de compra/trabajo/servicio 📄, o convenios aprobados y registrados.",
+                "💰 Se consideran ahorros 🐖 y pueden reasignarse en 2026 a proyectos prioritarios 🎯, previa autorización."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.7",
+            "topic": "Cierre presupuestal"
+        },
+        {
+            "tag": "prohibicion_obsequios",
+            "patterns": [
+                "¿Permite la norma 2.9 comprar obsequios con recursos institucionales?",
+                "¿Qué excepciones aplican para obsequios protocolarios según la norma 2.9?",
+                "¿Quién debe autorizar la compra de objetos de arte según la norma 2.9?",
+                "¿Qué recursos pueden usarse para eventos protocolarios según la norma 2.9?",
+                "¿Qué gastos se limitan en reuniones de trabajo según la norma 2.9?"
+            ],
+            "responses": [
+                "🎁 No, excepto en casos protocolarios debidamente justificados y autorizados 📋.",
+                "🤝 Solo para visitantes o personas que brinden apoyo no remunerado, con autorización expresa ✍️.",
+                "🖼️ La Rectoría General 🏛️ y la Comisión de Hacienda 💰, si incrementan el patrimonio artístico.",
+                "🍾 Solo Subsidio Estatal e Ingresos Autogenerados 💵, para flores 🌸, bebidas o música de cámara 🎵 austeras.",
+                "✈️ Viáticos y pasajes 🚖, fomentando el uso de infraestructura tecnológica 💻 para reducir costos."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.9",
+            "topic": "Prohibición de obsequios"
+        },
+        {
+            "tag": "modificaciones_presupuestales",
+            "patterns": [
+                "¿Qué tipos de modificaciones presupuestales permite la norma 2.16?",
+                "¿Quién autoriza las disminuciones de presupuesto según la norma 2.16?",
+                "¿Qué son las compensaciones internas en la norma 2.16?",
+                "¿Qué requisitos aplican a compensaciones externas según la norma 2.16?",
+                "¿Pueden usarse fondos federales para inversión física según la norma 2.16?"
+            ],
+            "responses": [
+                "🔄 Disminuciones/transferencias ↔️, compensaciones internas (entre proyectos) y externas (entre dependencias).",
+                "📝 La Comisión de Hacienda 💰, previa propuesta de la Rectoría General 🏛️ y Vicerrectoría Ejecutiva.",
+                "📊 Cambios de objeto del gasto dentro de un mismo proyecto o entre proyectos de una dependencia.",
+                "📑 Deben documentarse con acuerdos de compensación 🤝 y, si superan 1,000 UMA, requieren autorización de la Comisión de Hacienda 💰.",
+                "🚫 No, los recursos federales 🇺🇸 no pueden usarse en capítulos 5000/6000 (inversión física) 🏗️."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.16",
+            "topic": "Modificaciones presupuestales"
+        },
+        {
+            "tag": "infraestructura_fisica",
+            "patterns": [
+                "¿Qué establece la norma 1.10 sobre infraestructura física?",
+                "¿Cómo se priorizan las necesidades de infraestructura según la norma 1.10?",
+                "¿La norma 1.10 incluye equipamiento tecnológico?",
+                "¿Quién decide qué proyectos de infraestructura se ejecutan?",
+                "¿Qué tipo de infraestructura se considera prioritaria?"
+            ],
+            "responses": [
+                "🏗️ La norma 1.10 establece el fortalecimiento de la infraestructura física y tecnológica de la universidad.",
+                "🔝 Se atienden las necesidades prioritarias de las entidades y dependencias universitarias.",
+                "💻 Sí, incluye tanto infraestructura física como equipamiento tecnológico.",
+                "🏛️ Los proyectos son priorizados por el Consejo de Rectores y autorizados por la Comisión de Hacienda.",
+                "🎓 Se considera prioritaria la infraestructura educativa: aulas, laboratorios y espacios culturales."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 1.10",
+            "topic": "Infraestructura física y equipamiento"
+        },
+        {
+            "tag": "distribucion_REVOE",
+            "patterns": [
+                "¿Cómo se distribuyen los ingresos por REVOE según la norma 2.5?",
+                "¿Qué porcentaje de los ingresos por REVOE queda para las entidades?",
+                "¿Dónde se registran los proyectos para usar fondos REVOE?",
+                "¿Quién aprueba el uso del 30% de fondos REVOE?",
+                "¿Pueden las entidades usar libremente su 70% de REVOE?"
+            ],
+            "responses": [
+                "💰 El 70% para entidades generadoras y 30% para programas institucionales prioritarios.",
+                "📊 Las entidades reciben el 70% de los ingresos que generan por REVOE.",
+                "💻 En el SIIAU, módulo P3e, con aprobación de las instancias respectivas.",
+                "🏛️ La Rectoría General y Comisión de Hacienda deciden sobre el 30% institucional.",
+                "✅ Sí, pero deben registrar y justificar los proyectos en el sistema P3e."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.5",
+            "topic": "Distribución de ingresos por REVOE"
+        },
+        {
+            "tag": "ingresos_autogenerados",
+            "patterns": [
+                "¿Qué ingresos autogenerados se reembolsan al 100% según la norma 2.6?",
+                "¿Hay excepciones al reembolso de ingresos autogenerados?",
+                "¿Cómo se manejan los trámites de aspirantes a posgrado?",
+                "¿Qué documentos respaldan el reembolso de ingresos autogenerados?",
+                "¿Quién autoriza los reembolsos de ingresos autogenerados?"
+            ],
+            "responses": [
+                "💵 Servicios educacionales, arrendamientos, ventas y aportaciones extraordinarias.",
+                "⚠️ Sí, los trámites de aspirantes a posgrado tienen reglas especiales de proporcionalidad.",
+                "🎓 Se reembolsan según la proporción del costo de selección vs trámite completo.",
+                "📑 Facturas y comprobantes originales que justifiquen los ingresos generados.",
+                "🏦 La Dirección de Finanzas, previa validación de la documentación."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.6",
+            "topic": "Ingresos autogenerados"
+        },
+        {
+            "tag": "ahorro_recursos",
+            "patterns": [
+                "¿Qué establece la norma 2.12 sobre ahorro de recursos?",
+                "¿En qué servicios se debe reducir el gasto según la norma 2.12?",
+                "¿Cómo se promueve el uso racional de combustibles?",
+                "¿Quién es responsable de implementar medidas de ahorro?",
+                "¿Qué porcentaje de reducción se espera en servicios?"
+            ],
+            "responses": [
+                "💡 Implementar medidas para reducir gastos en energía, telefonía y combustibles.",
+                "🔌 Energía eléctrica, telefonía, telecomunicaciones y combustibles/lubricantes.",
+                "⛽ Estableciendo programas de uso racional y mantenimiento preventivo de vehículos.",
+                "👨💼 Los titulares de cada dependencia son responsables directos del ahorro.",
+                "📉 No especifica porcentaje, pero debe ser 'significativo' según disponibilidad."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.12",
+            "topic": "Ahorro de recursos"
+        },
+        {
+            "tag": "fideicomisos",
+            "patterns": [
+                "¿Quién autoriza la apertura de fideicomisos según la norma 2.4?",
+                "¿Qué rol tiene la Dirección de Finanzas en los fideicomisos?",
+                "¿Qué documentos se requieren para modificar un fideicomiso?",
+                "¿Quiénes integran los comités técnicos de fideicomisos?",
+                "¿Cómo se coordina la operación de fideicomisos?"
+            ],
+            "responses": [
+                "🏛️ La Comisión Permanente de Hacienda, a propuesta de la Rectoría General.",
+                "👥 El titular de Finanzas forma parte de todos los comités técnicos de fideicomisos.",
+                "📝 Propuesta de Rectoría + opinión de Contraloría y Dirección de Finanzas.",
+                "🤝 Designados por la Comisión de Hacienda, incluyendo al Director de Finanzas.",
+                "🔧 Por la dependencia universitaria asignada como coordinadora operativa."
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.4",
+            "topic": "Fideicomisos institucionales"
+        },
+        {
+            "tag": "transparencia_nominas",
+            "patterns": [
+                "¿Qué establece la norma 1.6 sobre transparencia en nóminas?",
+                "¿Dónde se publica la información de nóminas según la norma 1.6?",
+                "¿Qué leyes aplican a la publicación de nóminas en la norma 1.6?",
+                "¿Con qué frecuencia se actualiza la información de nóminas?",
+                "¿Quién es responsable de mantener actualizada la información de nóminas?"
+            ],
+            "responses": [
+                "📢 La norma 1.6 exige mantener actualizada y pública la información de nóminas a través del SESIP 🔍",
+                "🌐 La información se publica en el Sistema Electrónico de Solicitudes de Información Pública (SESIP) de la Coordinación de Transparencia 🖥️",
+                "⚖️ Debe cumplir con la Ley de Transparencia de Jalisco y la Ley General de Contabilidad Gubernamental 📜",
+                "🔄 La Dirección de Finanzas debe actualizarla periódicamente según lo requieran las leyes aplicables ⏱️",
+                "🏦 La Dirección de Finanzas es la responsable directa de esta actualización 👨💼"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 1.6",
+            "topic": "Transparencia en nóminas"
+        },
+        {
+            "tag": "plazas_vacantes",
+            "patterns": [
+                "¿Qué pasa con las plazas vacantes por jubilación según la norma 1.7?",
+                "¿Quién decide la redistribución de plazas vacantes?",
+                "¿Qué tipos de plazas cubre la norma 1.7?",
+                "¿Hay algún plazo para redistribuir las plazas vacantes?",
+                "¿Qué criterios se usan para redistribuir plazas?"
+            ],
+            "responses": [
+                "🔄 Las plazas vacantes por jubilación, pensión o fallecimiento se ponen a disposición de otras dependencias 🏛️",
+                "🤝 El Consejo de Rectores propone los criterios y la Rectoría General los aprueba 👨💼",
+                "📋 Aplica para todo tipo de plazas administrativas y académicas en la Red Universitaria 🎓",
+                "⏳ No se especifica plazo, pero deben redistribuirse oportunamente 📅",
+                "📊 Se consideran las necesidades prioritarias de cada dependencia universitaria 🔝"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 1.7",
+            "topic": "Redistribución de plazas vacantes"
+        },
+        {
+            "tag": "coordinadores_posgrado",
+            "patterns": [
+                "¿Cómo se pagan los salarios de coordinadores de posgrado según la norma 1.8?",
+                "¿Qué posgrados aplican para la norma 1.8?",
+                "¿La norma 1.8 incluye a todos los coordinadores de posgrado?",
+                "¿De qué partida presupuestal salen estos pagos?",
+                "¿Quién autoriza estos pagos?"
+            ],
+            "responses": [
+                "💰 Los salarios se pagan con cargo a la partida de servicios personales 📋",
+                "🎓 Solo aplica para posgrados incluidos en el PNPC del CONAHCyT 🏆",
+                "✅ Sí, pero solo para programas de calidad reconocida por el CONAHCyT ✔️",
+                "📑 Del capítulo de servicios personales del presupuesto institucional 💼",
+                "🏛️ La Rectoría General, conforme a la asignación presupuestal aprobada 👨💼"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 1.8",
+            "topic": "Pago a coordinadores de posgrado"
+        },
+        {
+            "tag": "incompatibilidades_laborales",
+            "patterns": [
+                "¿Quién aprueba las normas sobre incompatibilidades laborales según 1.9?",
+                "¿Qué tipo de incompatibilidades cubre esta norma?",
+                "¿Dónde se publican estas disposiciones?",
+                "¿Son aplicables a toda la comunidad universitaria?",
+                "¿Qué instancias participan en su aprobación?"
+            ],
+            "responses": [
+                "🏛️ Las Comisiones Permanentes de Hacienda y Normatividad del CGU las aprueban 📜",
+                "⚠️ Todas las que se susciten en la Universidad de Guadalajara 🏫",
+                "📰 Se publican en la Gaceta Universitaria cuando corresponda 🗞️",
+                "👥 Sí, aplican a todo el personal académico y administrativo 👨🏫",
+                "🤝 Ambas comisiones trabajan conjuntamente en su elaboración y aprobación ✍️"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 1.9",
+            "topic": "Incompatibilidades laborales"
+        },
+        {
+            "tag": "periodo_presupuestal",
+            "patterns": [
+                "¿Qué periodo cubre el presupuesto 2025 según la norma 2.1?",
+                "¿Qué pasa si no se aprueba el presupuesto a tiempo?",
+                "¿Se pueden hacer modificaciones al presupuesto durante el año?",
+                "¿Quiénes son responsables del ejercicio presupuestal?",
+                "¿Qué normas aplican si no hay presupuesto aprobado?"
+            ],
+            "responses": [
+                "📅 Del 1 de enero al 31 de diciembre de 2025 🗓️",
+                "🔄 Se aplican los montos y normas del último presupuesto aprobado ⏮️",
+                "✏️ Sí, mediante los procesos establecidos en la norma 2.16 📋",
+                "👨💼 Los titulares de cada dependencia o unidad responsable del gasto 🏛️",
+                "📜 Las Políticas y Normas del último ejercicio presupuestal aprobado 📑"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.1",
+            "topic": "Periodo presupuestal"
+        },
+        {
+            "tag": "clasificador_ingresos",
+            "patterns": [
+                "¿Cómo se clasifican los ingresos autogenerados según la norma 2.2?",
+                "¿Qué ejemplos de ingresos autogenerados menciona la norma?",
+                "¿Dónde se registran estos ingresos?",
+                "¿Quién define esta clasificación?",
+                "¿Todos los centros universitarios usan el mismo clasificador?"
+            ],
+            "responses": [
+                "📊 Dentro del Rubro 'Ingresos por Venta de Bienes, Servicios y Otros Ingresos' 💰",
+                "🎓 Inscripciones, exámenes, certificados, servicios educacionales y venta de productos 📋",
+                "💻 En el Sistema Integral de Información y Administración Universitaria (SIIAU) 🖥️",
+                "🏛️ El Consejo General Universitario a través de sus comisiones especializadas 👥",
+                "✅ Sí, es un clasificador único para toda la Red Universitaria 🏫"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.2",
+            "topic": "Clasificador de ingresos"
+        },
+        {
+            "tag": "programacion_presupuestal",
+            "patterns": [
+                "¿Cómo debe realizarse la programación presupuestal según la norma 2.3?",
+                "¿Qué sistema se utiliza para la programación presupuestal?",
+                "¿Qué información debe incluirse en cada proyecto?",
+                "¿Quién verifica que la programación sea correcta?",
+                "¿Se puede hacer programación presupuestal fuera del sistema establecido?"
+            ],
+            "responses": [
+                "📝 Por proyecto, identificando claramente la fuente de financiamiento 💰",
+                "🖥️ El módulo P3e del Sistema Integral de Información (SIIAU) 💻",
+                "🔍 Identificación del proyecto, montos, fuentes y periodos de ejecución 📅",
+                "👨💼 La Dirección de Finanzas en coordinación con las unidades responsables 🔎",
+                "🚫 No, toda la programación debe hacerse a través del sistema institucional establecido ❌"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.3",
+            "topic": "Programación presupuestal"
+        },
+        {
+            "tag": "auditoria_recursos",
+            "patterns": [
+                "¿Qué establece la norma 3.1 sobre comprobación de recursos?",
+                "¿Qué documentación se requiere para comprobar gastos?",
+                "¿Dónde deben registrarse las operaciones presupuestales?",
+                "¿Quién es responsable de conservar los comprobantes?",
+                "¿Qué leyes aplican a la comprobación de recursos?"
+            ],
+            "responses": [
+                "📋 Todas las operaciones deben respaldarse con documentación original que justifique los gastos 🖇️",
+                "🧾 Facturas, contratos, órdenes de compra y cualquier documento fiscal original 💰",
+                "💻 En el Sistema Contable Institucional, cumpliendo lineamientos de fiscalización 🖥️",
+                "🏛️ Cada dependencia universitaria debe conservar sus documentos comprobatorios 📦",
+                "⚖️ Ley General de Contabilidad Gubernamental y Ley de Disciplina Financiera 📜"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 3.1",
+            "topic": "Comprobación de recursos"
+        },
+        {
+            "tag": "auditoria_especifica",
+            "patterns": [
+                "¿Qué programas auditados específicamente menciona la norma 3.2?",
+                "¿Quién realiza las auditorías a programas de infraestructura?",
+                "¿Qué áreas cubre el programa de dignificación de espacios?",
+                "¿El equipamiento tecnológico está sujeto a auditoría especial?",
+                "¿Con qué frecuencia se realizan estas auditorías?"
+            ],
+            "responses": [
+                "🔍 Programas de dignificación de aulas/laboratorios y renovación de equipamiento tecnológico 🖥️",
+                "👨💼 La Contraloría General de la universidad realiza auditorías específicas 🔎",
+                "🏫 Aulas, laboratorios, baños y espacios recreativos/deportivos/culturales 🏟",
+                "✅ Sí, el programa de Renovación de Equipamiento Tecnológico tiene auditoría específica 💻",
+                "📅 No se especifica frecuencia, pero son obligatorias para estos programas ⏱️"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 3.2",
+            "topic": "Auditorías específicas"
+        },
+        {
+            "tag": "disposiciones_generales",
+            "patterns": [
+                "¿Qué establece la norma 4.1 sobre casos no previstos?",
+                "¿Quién resuelve situaciones excepcionales no contempladas?",
+                "¿Cómo se procesan las excepciones al reglamento presupuestal?",
+                "¿Qué instancia tiene la última palabra en interpretaciones?",
+                "¿Se pueden hacer modificaciones a estas normas durante el año?"
+            ],
+            "responses": [
+                "🔍 Los casos no previstos serán resueltos por la Comisión Permanente de Hacienda 🏛️",
+                "🤝 La Comisión de Hacienda del CGU, a propuesta de la Rectoría General 👨💼",
+                "📝 Mediante solicitud formal a través de la Rectoría General para su análisis ✍️",
+                "⚖️ La Comisión Permanente de Hacienda es la instancia resolutoria final 🧑⚖️",
+                "✏️ Solo mediante aprobación del Consejo General Universitario en sesión ordinaria 🗓️"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 4.1",
+            "topic": "Disposiciones generales"
+        },
+        {
+            "tag": "reduccion_presupuestal",
+            "patterns": [
+                "¿Qué establece la norma 2.21 ante disminución de ingresos?",
+                "¿En qué orden se deben hacer ajustes presupuestales?",
+                "¿Qué rubros son los primeros en reducirse según la norma?",
+                "¿Se pueden afectar programas sustantivos con estos recortes?",
+                "¿Quién autoriza recortes adicionales si los primeros no son suficientes?"
+            ],
+            "responses": [
+                "📉 Establece un orden prioritario para ajustar gastos ante disminución de ingresos 💸",
+                "🔢 1) Gastos de comunicación 2) Gasto corriente no subsidiado 3) Percepciones extraordinarias 🚦",
+                "📢 Primero comunicación social, luego gasto corriente no esencial 📊",
+                "🚫 No, no se deben afectar programas sustantivos de docencia/investigación 🎓",
+                "🏛️ La Comisión Permanente de Hacienda autoriza recortes adicionales si es necesario 👨💼"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.21",
+            "topic": "Reducción presupuestal"
+        },
+        {
+            "tag": "modificaciones_contratos",
+            "patterns": [
+                "¿Qué establece la norma 2.22 sobre modificaciones a contratos?",
+                "¿A qué artículo del reglamento remite para modificaciones?",
+                "¿Se pueden aumentar montos contratados libremente?",
+                "¿Qué requisitos aplican para cambios en contratos?",
+                "¿Quién debe autorizar las modificaciones contractuales?"
+            ],
+            "responses": [
+                "📝 Toda modificación de monto en contratos debe ajustarse al Reglamento de Obras y Servicios 🏗️",
+                "🔗 Al artículo 55 del Reglamento de Obras y Servicios Relacionados con las mismas ⚖️",
+                "🚫 No, deben justificarse y cumplir estrictamente con el reglamento aplicable 📋",
+                "📑 Justificación técnica, disponibilidad presupuestal y cumplimiento del artículo 55 📄",
+                "🏛️ La dependencia contratante siguiendo los procedimientos establecidos 👨💼"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.22",
+            "topic": "Modificaciones a contratos"
+        },
+        {
+            "tag": "infraestructura_educativa",
+            "patterns": [
+                "¿Qué establece la norma 2.23 sobre infraestructura educativa?",
+                "¿Qué porcentaje del presupuesto estatal recibe la universidad para infraestructura?",
+                "¿Cómo se administran los recursos para infraestructura?",
+                "¿Qué proyectos tienen prioridad para el FIFRU?",
+                "¿Quién decide la asignación de estos recursos?"
+            ],
+            "responses": [
+                "🏗️ La UdeG destinará al menos el 3% del presupuesto estatal para infraestructura educativa 💰",
+                "📊 El equivalente al 3% del Presupuesto de Egresos del Estado 🏛️",
+                "🏦 A través del Fideicomiso para el Fondo de Infraestructura Física (FIFRU) 🏢",
+                "🔝 Infraestructura nueva y mantenimiento mayor a la existente 🚧",
+                "🤝 El Consejo de Rectores prioriza y la Comisión de Hacienda autoriza 👨💼"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.23",
+            "topic": "Infraestructura educativa"
+        },
+        {
+            "tag": "fondos_externos",
+            "patterns": [
+                "¿Qué establece la norma 2.20 sobre fondos externos?",
+                "¿Los convenios con otras instituciones pueden tener sus propias normas?",
+                "¿Quién supervisa el uso de fondos externos?",
+                "¿Qué pasa si un convenio contradice las normas universitarias?",
+                "¿Cómo se registran los proyectos con fondos externos?"
+            ],
+            "responses": [
+                "🌍 Los recursos de convenios con entidades públicas/privadas se sujetan a normas universitarias 📜",
+                "✅ Sí, si el convenio lo establece expresamente prevalece su normatividad ✍️",
+                "🔍 La Contraloría General y la Dirección de Finanzas supervisan su ejercicio 💰",
+                "⚖️ Prevalece lo establecido en el convenio, si fue aprobado formalmente 🤝",
+                "💻 En el SIIAU, identificando claramente la fuente de financiamiento externo 🖥️"
+            ],
+            "document": "Políticas y Normas del Presupuesto 2025",
+            "article": "Norma 2.20",
+            "topic": "Fondos externos determinados"
+        }
+
+    ]
+}

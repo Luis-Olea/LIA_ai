@@ -1,0 +1,105 @@
+{
+    "main_topic": "Reglamento para Nominar a las Generaciones de Pasantes de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "nominacion_pasantes_benefactores",
+            "patterns": [
+                "¿Qué tipo de nombres pueden elegir las generaciones de pasantes según el artículo 1?",
+                "¿Pueden nombrar a su generación con el nombre de un maestro activo?",
+                "¿Qué requisitos debe cumplir un maestro para ser nominado?",
+                "¿Quién debe aprobar la elección del nombre?",
+                "¿Qué modificaciones ha tenido el artículo 1?"
+            ],
+            "responses": [
+                "📜 Art. 1: Las generaciones pueden elegir nombres de: 1) Benefactores de la humanidad, 2) Estadistas/filósofos progresistas, 3) Científicos insignes, o 4) Maestros UdeG con 5+ años de antigüedad y méritos indiscutibles. 🏛️",
+                "✅ Sí, si el maestro tiene al menos 5 años en la docencia y méritos universitarios reconocidos (Art. 1 modificado en 1967). 👨‍🏫",
+                "🎓 Requisitos para maestros: 1) 5+ años de antigüedad en UdeG, 2) Méritos universitarios comprobados (Art. 1). 📌",
+                "⚖️ Debe ser aprobado por el Consejo de Facultad/Escuela al que pertenezcan los pasantes (Art. 1). ✅",
+                "🔍 Modificado en 1967 (Dictamen 294). Cambios en requisitos para maestros activos. 📅"
+            ],
+            "document": "Reglamento para Nominar a las Generaciones de Pasantes",
+            "article": "Artículo 1",
+            "topic": "Criterios para nominación"
+        },
+        {
+            "tag": "nominacion_maestros_fallecidos",
+            "patterns": [
+                "¿Pueden elegir a un maestro fallecido según el artículo 2?",
+                "¿Qué requisitos aplican para maestros fallecidos?",
+                "¿Quién debe ratificar la decisión final?",
+                "¿Cómo se comprueban los méritos del maestro?",
+                "¿Pueden usar solo el apellido?"
+            ],
+            "responses": [
+                "🕊️ Art. 2: Sí, pueden elegir maestros fallecidos sin requisitos de antigüedad, destacando la gratitud de los pasantes. 🌹",
+                "📌 Deben acreditar ante el Consejo: 1) Excelencias del maestro, 2) Méritos profesionales (Art. 2 párr. 1). ✍️",
+                "👑 La Rectoría debe ratificar la aprobación del Consejo de Facultad/Escuela (Art. 2 párr. 2). 🎩",
+                "📚 Con documentos: 1) Publicaciones, 2) Testimonios de alumnos, 3) Reconocimientos institucionales (Art. 2 implícito). 📜",
+                "✔️ Sí, pueden usar: 1) Nombre + apellido, 2) Solo apellido (Art. 2 párr. 2). 🔤"
+            ],
+            "document": "Reglamento para Nominar a las Generaciones de Pasantes",
+            "article": "Artículo 2",
+            "topic": "Nominación de maestros fallecidos"
+        },
+        {
+            "tag": "facilidades_actos_solemnes",
+            "patterns": [
+                "¿Qué facilidades otorga la UdeG según el artículo 3?",
+                "¿Qué pasa si no siguen el reglamento?",
+                "¿Dónde se realizan los actos solemnes?",
+                "¿Qué prohibiciones aplican a infractores?",
+                "¿Pueden usar el escudo universitario sin aprobación?"
+            ],
+            "responses": [
+                "🏛️ Art. 3: La UdeG puede facilitar: 1) Uso de paraninfos/auditorios, 2) Apoyo logístico para ceremonias de nominación. 🎉",
+                "🚫 Sin derechos a: 1) Espacios físicos, 2) Uso de símbolos UdeG, 3) Participación de autoridades (Art. 3). ⚠️",
+                "📍 En: Paraninfos, auditorios o aulas universitarias (Art. 3). Previa solicitud formal. ✍️",
+                "🔒 Prohibido usar: 1) Nombre UdeG, 2) Insignias/sellos, 3) Franquicias institucionales (Art. 3). ⛔",
+                "🚫 No, sin aprobación formal pierden derechos sobre cualquier símbolo universitario (Art. 3). 🦅"
+            ],
+            "document": "Reglamento para Nominar a las Generaciones de Pasantes",
+            "article": "Artículo 3",
+            "topic": "Facilidades y sanciones"
+        },
+        {
+            "tag": "obligaciones_autoridades",
+            "patterns": [
+                "¿Qué obligaciones tienen las autoridades según el artículo 4?",
+                "¿Deben entregar personalmente los títulos?",
+                "¿Qué documentos incluye 'crédito y títulos profesionales'?",
+                "¿Es obligatorio presidir todos los actos?",
+                "¿Quién puede solicitar estos protocolos?"
+            ],
+            "responses": [
+                "⚖️ Art. 4: Las autoridades deben: 1) Presidir actos protocolarios, 2) Entregar personalmente constancias/títulos a los pasantes. 📜",
+                "✋ Sí, es una obligación explícita (Art. 4). Incluye firma y foto oficial si se solicita. 📸",
+                "📑 Incluye: 1) Constancia de pasante, 2) Cédula profesional, 3) Título, 4) Diplomas adicionales (Art. 4). 🎓",
+                "✅ Sí, cuando la generación lo solicite formalmente (Art. 4). Negarse incumple el reglamento. ⚠️",
+                "👥 Solo las generaciones de pasantes que hayan seguido el proceso de nominación (Art. 4 + Art. 1-2). ✍️"
+            ],
+            "document": "Reglamento para Nominar a las Generaciones de Pasantes",
+            "article": "Artículo 4",
+            "topic": "Protocolo de autoridades"
+        },
+        {
+            "tag": "prohibicion_actos_religiosos",
+            "patterns": [
+                "¿Qué establece el artículo 5 sobre actos religiosos?",
+                "¿Qué norma constitucional aplica?",
+                "¿Qué pasa si mezclan actividades con religión?",
+                "¿Hay excepciones para ceremonias culturales?",
+                "¿Qué sanciones adicionales podrían aplicar?"
+            ],
+            "responses": [
+                "⛪ Art. 5: Prohibido mezclar actos universitarios con actividades religiosas. Basado en el Art. 130 Constitucional. ⚖️",
+                "📌 Art. 130 Constitución: Separación Estado-Iglesia. Aplica a instituciones públicas como la UdeG. 🏛️",
+                "💥 Sanciones: 1) Pérdida de facilidades (Art. 3), 2) Responsabilidades legales adicionales (Art. 5). ⚠️",
+                "🎭 No aplica a expresiones culturales/históricas (ej: pastorelas), siempre que no promuevan dogma religioso. 🔍",
+                "👮‍♂️ Multas o procesos legales por violación a la laicidad educativa (Ley General de Educación). ⛔"
+            ],
+            "document": "Reglamento para Nominar a las Generaciones de Pasantes",
+            "article": "Artículo 5",
+            "topic": "Prohibición de actos religiosos"
+        }
+    ]
+}

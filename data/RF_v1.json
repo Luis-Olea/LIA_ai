@@ -1,0 +1,1207 @@
+{
+    "main_topic": "Reglamento del Sistema de Fiscalización de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "objeto_del_reglamento_fiscalizacion",
+            "patterns": [
+                "¿Cuál es el objetivo del Reglamento del Sistema de Fiscalización?",
+                "¿Qué regula este reglamento según el artículo 1?",
+                "¿Qué función tiene el Sistema de Fiscalización de la UdeG?",
+                "¿Qué aspectos cubre este reglamento?",
+                "¿Por qué se creó este reglamento?"
+            ],
+            "responses": [
+                "📘 El objetivo es regular el funcionamiento del Sistema de Fiscalización y la revisión de la Cuenta Universitaria para garantizar transparencia y eficiencia. 🏛️",
+                "🔹 Regula la creación del Sistema de Fiscalización, su operación y la revisión de la Cuenta Universitaria. 📜",
+                "🎯 Articula instancias universitarias para fiscalizar el gasto y proteger el patrimonio. ⚖️",
+                "📘 Cubre la fiscalización del ejercicio del gasto, transparencia y cumplimiento de programas. 🌟",
+                "🔹 Se creó para garantizar que los recursos se usen conforme a normas universitarias. ✅"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento fiscalizacion"
+        },
+        {
+            "tag": "objeto_sistema_fiscalizacion",
+            "patterns": [
+                "¿Cuál es el objetivo del Sistema de Fiscalización según el artículo 2?",
+                "¿Qué garantiza el Sistema de Fiscalización de la UdeG?",
+                "¿Qué áreas cubre el Sistema de Fiscalización?",
+                "¿Cómo se articula el Sistema de Fiscalización?",
+                "¿Qué protege el Sistema de Fiscalización?"
+            ],
+            "responses": [
+                "📘 Su objetivo es articular instancias universitarias para garantizar eficiencia, eficacia y transparencia en el gasto y protección del patrimonio. 🏛️",
+                "🔹 Garantiza que el ejercicio del gasto sea transparente y alineado con las políticas universitarias. ✅",
+                "🎯 Cubre todas las instancias de la Red universitaria vinculadas a fiscalización. 🌐",
+                "📘 Se articula mediante políticas y revisiones coordinadas entre dependencias. 🤝",
+                "🔹 Protege el patrimonio universitario y asegura el uso correcto de los recursos. 💰"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 2",
+            "topic": "Objeto del Sistema de Fiscalización"
+        },
+        {
+            "tag": "definiciones_estados_financieros",
+            "patterns": [
+                "¿Qué es el Estado de Situación Patrimonial según el artículo 3?",
+                "¿Qué incluye el Estado de Ingresos y Egresos?",
+                "¿Para qué sirve el Estado del Ejercicio Presupuestal?",
+                "¿Qué se entiende por Gestión Financiera en el artículo 3?",
+                "¿Qué es un Informe de Avances de Gestión Financiera?"
+            ],
+            "responses": [
+                "📘 Es un documento contable que refleja activos, pasivos y patrimonio de la UdeG a una fecha determinada. 📊",
+                "🔹 Muestra resultados operativos (ingresos, egresos, inversiones) en un período. 💵",
+                "🎯 Evalúa el cumplimiento de programas y metas con base en el presupuesto ejercido. 📋",
+                "📘 Es la administración de recursos universitarios para cumplir objetivos programáticos. 🔄",
+                "🔹 Informe consolidado que reporta avances físicos y financieros de los programas. 📈"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 3",
+            "topic": "Definiciones clave"
+        },
+        {
+            "tag": "revision_por_consejo_general",
+            "patterns": [
+                "¿Quién está a cargo de revisar la Cuenta Universitaria según el artículo 4?",
+                "¿La Contraloría puede contratar auditores externos?",
+                "¿La revisión de la Cuenta es exclusiva de la Contraloría?",
+                "¿Qué facultad tiene el Consejo General en la fiscalización?",
+                "¿La Contraloría necesita autorización para fiscalizar?"
+            ],
+            "responses": [
+                "📘 El Consejo General Universitario, con apoyo de la Contraloría. 👥",
+                "🔹 Sí, si el Consejo lo autoriza. 👨‍💼",
+                "🎯 No, el Consejo puede delegar en auditores externos. 🌟",
+                "📘 Aprueba la Cuenta y decide sobre auditorías externas. ⚖️",
+                "🔹 No, actúa de forma autónoma durante o después del ejercicio fiscal. 🛡️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 4",
+            "topic": "Revisión por el Consejo General"
+        },
+        {
+            "tag": "autonomia_contraloria",
+            "patterns": [
+                "¿La Contraloría puede fiscalizar en cualquier momento según el artículo 5?",
+                "¿Qué significa que la Contraloría sea autónoma?",
+                "¿La Contraloría depende de otras instancias para fiscalizar?",
+                "¿Puede la Contraloría revisar ejercicios fiscales pasados?",
+                "¿La fiscalización de la Contraloría es independiente?"
+            ],
+            "responses": [
+                "📘 Sí, durante o después del ejercicio fiscal que corresponda. ⏳",
+                "🔹 Decide su organización y plan de trabajo sin interferencia externa. 🏛️",
+                "🎯 No, es independiente de otros controles universitarios. ✅",
+                "📘 Sí, puede revisar ejercicios anteriores si lo considera necesario. 🔍",
+                "🔹 Sí, opera sin influencia de otras formas de control. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 5",
+            "topic": "Autonomía de la Contraloría"
+        },
+        {
+            "tag": "componentes_cuenta_universitaria",
+            "patterns": [
+                "¿Qué documentos integran la Cuenta Universitaria según el artículo 6?",
+                "¿El Estado de Situación Patrimonial es obligatorio en la Cuenta?",
+                "¿Qué información debe llevar el Estado del Ejercicio Presupuestal?",
+                "¿La Cuenta Universitaria incluye solo datos financieros?",
+                "¿Quién aprueba los estados financieros de la Cuenta?"
+            ],
+            "responses": [
+                "📘 Estado de Situación Patrimonial, Estado de Ingresos/Egresos/Inversiones y Estado del Ejercicio Presupuestal. 📂",
+                "🔹 Sí, es uno de los tres componentes obligatorios. ✅",
+                "🎯 Muestra el presupuesto ejercido por programa y su avance en metas. 📊",
+                "📘 No, también incluye información programática y económica. 🌐",
+                "🔹 El Consejo General Universitario, con base en el Presupuesto de Ingresos y Egresos. 👥"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 6",
+            "topic": "Componentes de la Cuenta Universitaria"
+        },
+        {
+            "tag": "plazos_informes_gestion_financiera",
+            "patterns": [
+                "¿Cuáles son los plazos para entregar los informes de avances de gestión financiera según el artículo 8?",
+                "¿Qué pasa si no se entrega el informe de gestión financiera a tiempo?",
+                "¿Se puede ampliar el plazo para entregar los informes de gestión financiera?",
+                "¿A quién se deben entregar los informes de avances de gestión financiera?",
+                "¿Qué información debe contener el informe del segundo semestre?"
+            ],
+            "responses": [
+                "📘 Primer semestre (enero-junio): hasta el 31 de julio. Segundo semestre: hasta el 15 de febrero del año siguiente. 📅",
+                "🔹 Puede haber sanciones, pero el Rector puede otorgar una prórroga justificada de hasta 1 mes. ⚠️",
+                "🎯 Sí, con solicitud justificada presentada con 10 días naturales de anticipación al plazo. 📝",
+                "📘 Al Rector General, quien lo remite a la Contraloría vía Comisión de Hacienda. 📨",
+                "🔹 Debe integrar los resultados totales del ejercicio anual (enero-diciembre). 📊"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 8",
+            "topic": "Plazos para informes de gestión financiera"
+        },
+        {
+            "tag": "consolidacion_cuenta_universitaria",
+            "patterns": [
+                "¿Cómo debe presentarse la Cuenta Universitaria al Consejo según el artículo 9?",
+                "¿La Cuenta Universitaria debe incluir datos de todo el año?",
+                "¿Qué significa que la Cuenta Universitaria debe consolidar la información?",
+                "¿Quién es responsable de consolidar la Cuenta Universitaria?",
+                "¿La Cuenta Universitaria incluye solo datos financieros?"
+            ],
+            "responses": [
+                "📘 Debe consolidar la información total del año (datos completos y unificados). 📂",
+                "🔹 Sí, debe reflejar la gestión anual completa (enero-diciembre). ✅",
+                "🎯 Que integra datos de todas las dependencias universitarias en un solo documento. 🌐",
+                "📘 La Contraloría General, con información proporcionada por las dependencias. 🏛️",
+                "🔹 No, incluye información contable, financiera, presupuestaria y programática. 📊"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 9",
+            "topic": "Consolidación de la Cuenta Universitaria"
+        },
+        {
+            "tag": "contenido_informes_avances",
+            "patterns": [
+                "¿Qué debe incluir el informe de avances de gestión financiera según el artículo 10?",
+                "¿Qué son los 'indicadores estratégicos' mencionados en el artículo 10?",
+                "¿Cómo se mide el avance de los programas en los informes?",
+                "¿Los informes deben mostrar programas concluidos?",
+                "¿Qué pasa si un programa no cumple con sus metas?"
+            ],
+            "responses": [
+                "📘 Flujo contable trimestral/acumulado, avance de programas con indicadores y procesos concluidos. 📋",
+                "🔹 Métodos de evaluación aprobados en el presupuesto para medir resultados. 📈",
+                "🎯 Comparando lo ejecutado vs. lo planeado en el presupuesto. ⚖️",
+                "📘 Sí, deben reportarse junto con su justificación. ✅",
+                "🔹 La Contraloría puede hacer observaciones y recomendaciones correctivas. ⚠️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 10",
+            "topic": "Contenido de informes de avances"
+        },
+        {
+            "tag": "auditorias_contraloria",
+            "patterns": [
+                "¿Puede la Contraloría auditar programas reportados como concluidos según el artículo 11?",
+                "¿Qué plazo tienen los titulares para responder observaciones de la Contraloría?",
+                "¿Qué tipo de observaciones puede hacer la Contraloría?",
+                "¿Las observaciones de la Contraloría son vinculantes?",
+                "¿Qué pasa si no se contestan las observaciones en plazo?"
+            ],
+            "responses": [
+                "📘 Sí, puede auditar y hacer observaciones sobre procesos concluidos. 🔍",
+                "🔹 15 días hábiles desde la notificación. ⏳",
+                "🎯 Sobre discrepancias financieras, incumplimiento de metas o irregularidades. ⚠️",
+                "📘 Sí, deben solventarse o justificarse ante el Consejo General. ✅",
+                "🔹 Puede derivar en sanciones o procedimientos de responsabilidad. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 11",
+            "topic": "Auditorías y observaciones"
+        },
+        {
+            "tag": "facultades_fiscalizacion",
+            "patterns": [
+                "¿La Contraloría puede realizar auditorías durante el ejercicio fiscal según el artículo 12?",
+                "¿Qué programas puede auditar la Contraloría?",
+                "¿Con qué frecuencia puede la Contraloría realizar auditorías?",
+                "¿Las auditorías son solo para programas concluidos?",
+                "¿Qué pasa si se detectan irregularidades durante una auditoría?"
+            ],
+            "responses": [
+                "📘 Sí, puede fiscalizar en cualquier momento, incluso durante el ejercicio en curso. 🔍",
+                "🔹 Cualquier programa o proceso reportado como concluido en los informes. 📋",
+                "🎯 No hay límite; depende de su plan de trabajo y necesidades de fiscalización. 📅",
+                "📘 No, también puede auditar programas en ejecución si lo considera necesario. ✅",
+                "🔹 Se levantan actas, se notifican observaciones y pueden iniciarse sanciones. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 12",
+            "topic": "Facultades de fiscalización"
+        },
+        {
+            "tag": "acceso_informacion",
+            "patterns": [
+                "¿Qué tipo de información puede solicitar la Contraloría según el artículo 13?",
+                "¿Las dependencias pueden negarse a proporcionar documentos a la Contraloría?",
+                "¿La Contraloría puede revisar libros contables?",
+                "¿Qué documentos justificativos debe proporcionar una dependencia?",
+                "¿Hay información confidencial que la Contraloría no pueda acceder?"
+            ],
+            "responses": [
+                "📘 Libros, documentación comprobatoria de ingresos/gastos y cualquier información relevante. 📂",
+                "🔹 No, están obligadas a colaborar (Artículo 15). Negarse es falta grave. ⚠️",
+                "🎯 Sí, es parte de su facultad para verificar el cumplimiento normativo. 🔍",
+                "📘 Facturas, contratos, informes de avance y respaldos de transacciones. 📋",
+                "🔹 No, salvo que esté protegida por ley. La Contraloría debe guardar confidencialidad (Artículo 18). 🤐"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 13",
+            "topic": "Acceso a información"
+        },
+        {
+            "tag": "practica_auditorias",
+            "patterns": [
+                "¿Quién puede realizar auditorías según el artículo 14?",
+                "¿Los auditores necesitan una autorización especial?",
+                "¿Qué debe presentar el personal comisionado para auditar?",
+                "¿Puede cualquier funcionario de la Contraloría realizar una auditoría?",
+                "¿Qué pasa si un auditor no sigue los procedimientos?"
+            ],
+            "responses": [
+                "📘 Solo personal expresamente comisionado o habilitado por la Contraloría. 👨‍💼",
+                "🔹 Sí, deben estar designados por escrito por el Contralor General. 📝",
+                "🎯 Oficio de comisión y identificación como personal de la Contraloría. 🆔",
+                "📘 No, solo quienes tengan asignación formal para ese proceso. ✅",
+                "🔹 Sus actuaciones podrían anularse y enfrentar sanciones internas. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 14",
+            "topic": "Práctica de auditorías"
+        },
+        {
+            "tag": "obligaciones_funcionarios",
+            "patterns": [
+                "¿Qué obligaciones tienen los funcionarios durante una auditoría según el artículo 15?",
+                "¿Se pueden negar los funcionarios a colaborar con los auditores?",
+                "¿Qué tipo de facilidades deben dar a los auditores?",
+                "¿Deben los funcionarios designar un enlace para las auditorías?",
+                "¿Qué pasa si un funcionario obstaculiza una auditoría?"
+            ],
+            "responses": [
+                "📘 Otorgar facilidades, proporcionar documentación y atender a los auditores. 🤝",
+                "🔹 No, es obligación colaborar (Artículo 39). Negarse es falta grave. ⚠️",
+                "🎯 Acceso a instalaciones, documentos y apoyo logístico. 🏢",
+                "📘 Sí, el titular puede designar a una persona para atender el proceso. 👥",
+                "🔹 Puede ser sancionado administrativamente o fincársele responsabilidad. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 15",
+            "topic": "Obligaciones durante auditorías"
+        },
+        {
+            "tag": "identificacion_auditores",
+            "patterns": [
+                "¿Cómo deben identificarse los auditores según el artículo 16?",
+                "¿Qué documento deben presentar los auditores al iniciar?",
+                "¿Puede un auditor realizar revisiones sin identificación?",
+                "¿Qué pasa si el titular de la dependencia no está presente al notificar una auditoría?",
+                "¿Los auditores pueden actuar sin orden escrita?"
+            ],
+            "responses": [
+                "📘 Mostrando oficio de comisión y identificándose como personal de la Contraloría. 🆔",
+                "🔹 El oficio de comisión firmado por el Contralor General. 📝",
+                "🎯 No, es requisito esencial para validar el proceso. ❌",
+                "📘 Se notifica a la persona de mayor jerarquía presente. 👥",
+                "🔹 No, toda auditoría debe basarse en una orden escrita (Artículo 25). ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 16",
+            "topic": "Identificación de auditores"
+        },
+        {
+            "tag": "actas_circunstanciadas",
+            "patterns": [
+                "¿Qué debe contener el acta circunstanciada según el artículo 17?",
+                "¿Quiénes deben estar presentes al levantar el acta?",
+                "¿Qué tipo de hechos se registran en el acta?",
+                "¿Las omisiones también se anotan en el acta?",
+                "¿Qué valor tiene el acta circunstanciada en un proceso de fiscalización?"
+            ],
+            "responses": [
+                "📘 Debe hacer constar hechos y omisiones encontrados durante la revisión, con firma de dos testigos. 📝",
+                "🔹 El personal comisionado y dos testigos (pueden ser funcionarios de la dependencia auditada). 👥",
+                "🎯 Irregularidades, incumplimientos o desviaciones detectadas en la auditoría. ⚠️",
+                "📘 Sí, tanto acciones como omisiones relevantes para la fiscalización. ✅",
+                "🔹 Es un documento probatorio clave para sustentar observaciones o sanciones. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 17",
+            "topic": "Actas circunstanciadas"
+        },
+        {
+            "tag": "reserva_informacion",
+            "patterns": [
+                "¿Quiénes están obligados a guardar reserva según el artículo 18?",
+                "¿Qué información debe mantenerse confidencial?",
+                "¿Qué consecuencias tiene violar la reserva?",
+                "¿La reserva aplica incluso después de concluir la auditoría?",
+                "¿Se pueden hacer públicas las observaciones de una auditoría?"
+            ],
+            "responses": [
+                "📘 Contralor General, contralores de centros, personal del Sistema de Fiscalización. 🤫",
+                "🔹 Documentos, observaciones y conclusiones de auditorías. 📂",
+                "🎯 Se considera falta grave y puede derivar en responsabilidades. ⚠️",
+                "📘 Sí, hasta que prescriban las acciones para fincar responsabilidades. ⏳",
+                "🔹 Solo el Consejo General Universitario puede autorizar su difusión. 🏛️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 18",
+            "topic": "Reserva de información"
+        },
+        {
+            "tag": "conservacion_documentos",
+            "patterns": [
+                "¿Cuánto tiempo conserva la Contraloría la Cuenta Universitaria según el artículo 19?",
+                "¿Qué documentos se archivan junto con la Cuenta?",
+                "¿Qué pasa si se detectan irregularidades años después?",
+                "¿Los informes de auditoría también se conservan?",
+                "¿Quién puede acceder a estos archivos?"
+            ],
+            "responses": [
+                "📘 Hasta que prescriban las facultades para fincar responsabilidades (plazos legales). ⏳",
+                "🔹 Informes de revisión, actas y respaldos de observaciones. 📂",
+                "🎯 La Contraloría puede reabrir investigaciones si no ha prescrito. 🔍",
+                "📘 Sí, son parte del expediente de fiscalización. ✅",
+                "🔹 Solo personal autorizado de la Contraloría y el Consejo General. 👨‍💼"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 19",
+            "topic": "Conservación de documentos"
+        },
+        {
+            "tag": "objetivos_revision",
+            "patterns": [
+                "¿Qué aspectos revisa la Contraloría en la Cuenta Universitaria según el artículo 20?",
+                "¿Cómo se verifica el cumplimiento de programas?",
+                "¿Qué son las 'desviaciones presupuestales'?",
+                "¿La Contraloría revisa el uso de recursos de financiamiento?",
+                "¿Qué pasa si se detectan daños al patrimonio?"
+            ],
+            "responses": [
+                "📘 Cumplimiento de programas, discrepancias presupuestales, desempeño y legalidad. 🔍",
+                "🔹 Comparando lo ejecutado vs. lo aprobado en el presupuesto, usando indicadores. 📊",
+                "🎯 Diferencias no justificadas entre montos autorizados y ejercidos. 💰",
+                "📘 Sí, verifica que se obtuvieron y aplicaron conforme a normas. ✅",
+                "🔹 Se inician procedimientos para reparar el daño y fincar responsabilidades. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 20",
+            "topic": "Objetivos de la revisión"
+        },
+        {
+            "tag": "turno_contraloria",
+            "patterns": [
+                "¿A quién se turna la Cuenta Universitaria para revisión según el artículo 21?",
+                "¿Qué papel juega la Comisión de Hacienda?",
+                "¿Puede el Consejo General revisar directamente la Cuenta?",
+                "¿Qué pasa si la Contraloría detecta errores graves?",
+                "¿Hay un plazo para turnar la Cuenta a la Contraloría?"
+            ],
+            "responses": [
+                "📘 A la Contraloría General, a través de la Comisión de Hacienda del Consejo General. 📨",
+                "🔹 Actúa como canal entre el Consejo y la Contraloría para fiscalización. 🤝",
+                "🎯 No, primero debe ser analizada por la Contraloría. 🏛️",
+                "📘 Se notifican al Consejo para medidas correctivas o sanciones. ⚠️",
+                "🔹 No está especificado, pero debe hacerse oportunamente para cumplir plazos (Artículo 22). ⏳"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 21",
+            "topic": "Turno a la Contraloría"
+        },
+        {
+            "tag": "plazo_informe_resultados",
+            "patterns": [
+                "¿Cuándo debe entregarse el Informe de Resultados según el artículo 22?",
+                "¿Quién aprueba la Cuenta Universitaria finalmente?",
+                "¿Qué pasa si la Contraloría no cumple el plazo?",
+                "¿El informe incluye observaciones de auditores externos?",
+                "¿A quién se presenta el Informe de Resultados?"
+            ],
+            "responses": [
+                "📘 Primera quincena de marzo (para revisión del año anterior). 📅",
+                "🔹 El Consejo General Universitario, a más tardar en la segunda quincena de marzo. 🏛️",
+                "🎯 Podría retrasar la aprobación de la Cuenta y generar sanciones internas. ⚠️",
+                "📘 Sí, si se contrataron auditores externos (Artículo 58). 👨‍💼",
+                "🔹 A la Comisión de Hacienda, quien lo turna al Consejo General. 📨"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 22",
+            "topic": "Plazo para informe de resultados"
+        },
+        {
+            "tag": "contenido_informe_resultados",
+            "patterns": [
+                "¿Qué debe incluir el Informe de Resultados según el artículo 23?",
+                "¿Cómo se evalúa la eficiencia de los programas?",
+                "¿Qué son las 'desviaciones presupuestales' en el informe?",
+                "¿Se incluyen comentarios de los auditados?",
+                "¿Qué pasa si no se cumplen los objetivos de un programa?"
+            ],
+            "responses": [
+                "📘 Dictámenes, evaluación de programas, cumplimiento normativo y análisis de desviaciones. 📋",
+                "🔹 Con indicadores estratégicos aprobados en el presupuesto. 📊",
+                "🎯 Diferencias entre lo presupuestado y lo ejercido, con justificación. 💰",
+                "📘 Sí, en una sección específica del informe. ✅",
+                "🔹 La Contraloría hace observaciones y recomendaciones correctivas. ⚠️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 23",
+            "topic": "Contenido del informe de resultados"
+        },
+        {
+            "tag": "informe_contraloria_consejo",
+            "patterns": [
+                "¿Qué debe incluir el informe que la Contraloría rinde al Consejo según el artículo 24?",
+                "¿A través de qué instancia se presenta el informe al Consejo?",
+                "¿Qué tipo de observaciones reporta la Contraloría?",
+                "¿Se informa sobre procedimientos de responsabilidad?",
+                "¿Qué sucede con las denuncias por hechos ilícitos?"
+            ],
+            "responses": [
+                "📘 Observaciones, recomendaciones, procedimientos de responsabilidad y denuncias por hechos ilícitos. 📋",
+                "🔹 A través de la Comisión de Hacienda del Consejo General. 🤝",
+                "🎯 Sobre irregularidades en el uso de recursos o incumplimiento de programas. ⚠️",
+                "📘 Sí, incluye los iniciados y las sanciones aplicadas. ⚖️",
+                "🔹 Se turnan al Abogado General para acciones legales. 👨⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 24",
+            "topic": "Informe de la Contraloría al Consejo"
+        },
+        {
+            "tag": "orden_auditoria",
+            "patterns": [
+                "¿Qué requisitos debe tener una orden de auditoría según el artículo 25?",
+                "¿Se puede modificar el alcance de una auditoría iniciada?",
+                "¿Quién puede ordenar una auditoría?",
+                "¿Qué información debe contener la fundamentación?",
+                "¿Se puede suspender una auditoría?"
+            ],
+            "responses": [
+                "📘 Tipo de auditoría, período a revisar, personal comisionado, rubros y fundamentación. 📝",
+                "🔹 Sí, notificando por escrito al titular de la dependencia. 🔄",
+                "🎯 Solo el Contralor General, por escrito. ✍️",
+                "📘 Razones objetivas que justifiquen la revisión (ej. denuncia o riesgo patrimonial). 🔍",
+                "🔹 Sí, con justificación y notificación al titular. ⏸️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 25",
+            "topic": "Orden de auditoría"
+        },
+        {
+            "tag": "notificacion_auditoria",
+            "patterns": [
+                "¿Cómo se notifica una auditoría según el artículo 26?",
+                "¿Qué pasa si el titular de la dependencia no está disponible?",
+                "¿Se puede iniciar una auditoría sin notificación previa?",
+                "¿Qué documentación se solicita al notificar?",
+                "¿Quién puede recibir la notificación en ausencia del titular?"
+            ],
+            "responses": [
+                "📘 Personalmente al titular, presentando la orden de auditoría y solicitando información. 📄",
+                "🔹 Se notifica al funcionario de mayor jerarquía presente. 👥",
+                "🎯 No, siempre debe notificarse según el procedimiento. ❌",
+                "📘 La necesaria para la revisión (ej. comprobantes, informes). 📂",
+                "🔹 Cualquier persona de nivel jerárquico superior en la dependencia. 🏢"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 26",
+            "topic": "Notificación de auditoría"
+        },
+        {
+            "tag": "acta_inicio_auditoria",
+            "patterns": [
+                "¿Qué debe contener el acta de inicio de auditoría según el artículo 27?",
+                "¿Quién firma el acta de inicio?",
+                "¿Qué pasa si no se proporciona la documentación solicitada?",
+                "¿Se puede designar un enlace para la auditoría?",
+                "¿El acta de inicio es obligatoria?"
+            ],
+            "responses": [
+                "📘 Nombre del receptor, documentación solicitada/proporcionada y nombre del designado para atenderla. 📋",
+                "🔹 El personal comisionado y el receptor de la notificación. ✍️",
+                "🎯 Se concede un plazo para presentarla; de lo contrario, se asienta en el acta. ⏳",
+                "📘 Sí, el titular puede designar a un responsable de apoyo. 👨💼",
+                "🔹 Sí, es requisito para validar el proceso. ✅"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 27",
+            "topic": "Acta de inicio de auditoría"
+        },
+        {
+            "tag": "desarrollo_auditoria",
+            "patterns": [
+                "¿Cómo se desarrolla una auditoría según el artículo 28?",
+                "¿Qué tipo de documentación se analiza?",
+                "¿Los auditores pueden solicitar información adicional?",
+                "¿Qué pasa si hay inconsistencias en los documentos?",
+                "¿Se pueden revisar operaciones de años anteriores?"
+            ],
+            "responses": [
+                "📘 Obteniendo y analizando documentación que compruebe las operaciones realizadas. 🔍",
+                "🔹 Comprobantes de ingresos/gastos, contratos, informes y respaldos contables. 📂",
+                "🎯 Sí, durante todo el proceso (Artículo 29). 🔄",
+                "📘 Se registran como observaciones en el informe preliminar. ⚠️",
+                "🔹 Sí, si están vinculadas al período auditado o son relevantes. ⏪"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 28",
+            "topic": "Desarrollo de la auditoría"
+        },
+        {
+            "tag": "solicitud_informacion",
+            "patterns": [
+                "¿Cómo se solicita información a otras dependencias según el artículo 29?",
+                "¿Quién debe hacer la solicitud formal?",
+                "¿Hay un plazo para responder requerimientos?",
+                "¿Se puede negar una dependencia a proporcionar información?",
+                "¿Qué pasa si la información solicitada no existe?"
+            ],
+            "responses": [
+                "📘 Por escrito, a través del Contralor General. 📨",
+                "🔹 El Contralor General o su personal expresamente autorizado. 👨💼",
+                "🎯 No está especificado, pero debe ser en tiempo razonable. ⏳",
+                "📘 No, es obligación colaborar (Artículo 15). ❌",
+                "🔹 Se asienta en el acta y se evalúa su impacto en la auditoría. 📋"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 29",
+            "topic": "Solicitud de información"
+        },
+        {
+            "tag": "informe_resultados_auditoria",
+            "patterns": [
+                "¿Qué contiene el Informe de Resultados según el artículo 30?",
+                "¿Quién elabora el informe final?",
+                "¿Qué es el pliego de Observaciones y Recomendaciones?",
+                "¿El informe debe ser aprobado por el Contralor?",
+                "¿Se entrega copia al auditado?"
+            ],
+            "responses": [
+                "📘 Hallazgos, conclusiones y pliego de Observaciones/Recomendaciones. 📋",
+                "🔹 El personal comisionado, bajo supervisión del Contralor. 👨💼",
+                "🎯 Documento anexo que detalla irregularidades y acciones correctivas. ⚠️",
+                "📘 Sí, antes de notificarlo al auditado. ✍️",
+                "🔹 Sí, al titular de la dependencia auditada. 📨"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 30",
+            "topic": "Informe de resultados"
+        },
+        {
+            "tag": "notificacion_resultados_auditado",
+            "patterns": [
+                "¿Qué plazo tiene el auditado para responder observaciones según el artículo 31?",
+                "¿Qué debe incluir la respuesta del titular?",
+                "¿Se pueden adjuntar documentos de respaldo?",
+                "¿Qué pasa si no se contesta en el plazo?",
+                "¿La notificación es siempre por escrito?"
+            ],
+            "responses": [
+                "📘 15 días hábiles desde la notificación. ⏳",
+                "🔹 Comentarios, aclaraciones y pruebas de solventación. 📝",
+                "🎯 Sí, son esenciales para justificar la respuesta. 📂",
+                "📘 La Contraloría puede exigir solventación y notificar a la Comisión de Hacienda. ⚠️",
+                "🔹 Sí, con acuse de recibo. 📨"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 31",
+            "topic": "Notificación de resultados"
+        },
+        {
+            "tag": "revision_respuesta_auditado",
+            "patterns": [
+                "¿Qué hace la Contraloría con la respuesta del auditado según el artículo 32?",
+                "¿Se pueden realizar verificaciones adicionales?",
+                "¿Quién decide si las observaciones fueron solventadas?",
+                "¿Qué pasa si la documentación es insuficiente?",
+                "¿El auditado puede solicitar una revisión adicional?"
+            ],
+            "responses": [
+                "📘 Revisa comentarios, aclaraciones y documentación proporcionada. 🔍",
+                "🔹 Sí, si hay dudas sobre la solventación. 🔄",
+                "🎯 La Contraloría, basándose en evidencias objetivas. ⚖️",
+                "📘 Se mantienen las observaciones y puede derivar en sanciones. ⚠️",
+                "🔹 No está especificado, pero puede hacerlo durante el plazo de 15 días. ⏳"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 32",
+            "topic": "Revisión de la respuesta"
+        },
+        {
+            "tag": "informe_final_auditoria",
+            "patterns": [
+                "¿A quién se turna el Informe final según el artículo 33?",
+                "¿Qué instancias reciben copia del informe?",
+                "¿El informe final incluye la respuesta del auditado?",
+                "¿Se pueden hacer públicas las conclusiones?",
+                "¿Qué pasa si hay observaciones no solventadas?"
+            ],
+            "responses": [
+                "📘 A la Comisión de Hacienda del Consejo General. 🏛️",
+                "🔹 Al titular de la dependencia auditada (copia). 📨",
+                "🎯 Sí, integra comentarios y documentación del auditado. 📋",
+                "📘 Solo si el Consejo General lo autoriza (Artículo 18). 🤐",
+                "🔹 La Contraloría notifica a la Comisión de Hacienda para medidas. ⚠️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 33",
+            "topic": "Informe final"
+        },
+        {
+            "tag": "solventacion_observaciones",
+            "patterns": [
+                "¿Qué pasa si no se solventan las observaciones en el plazo según el artículo 34?",
+                "¿A quién se notifica cuando hay observaciones no solventadas?",
+                "¿Puede la Contraloría exigir la solventación después del plazo?",
+                "¿Qué tipo de sanciones pueden aplicarse por no solventar?",
+                "¿El titular puede pedir una prórroga para solventar?"
+            ],
+            "responses": [
+                "📘 La Contraloría exige su cumplimiento y notifica a la Comisión de Hacienda. ⚠️",
+                "🔹 A la Comisión de Hacienda del Consejo General Universitario. 🏛️",
+                "🎯 Sí, puede requerirlo y hasta iniciar procedimientos sancionadores. ⚖️",
+                "📘 Desde administrativas (amonestaciones) hasta fincar responsabilidades. 📋",
+                "🔹 No está previsto en el reglamento; el plazo de 15 días hábiles es firme. ⏳"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 34",
+            "topic": "Solventación de observaciones"
+        },
+        {
+            "tag": "danos_patrimonio",
+            "patterns": [
+                "¿Qué hace la Contraloría si detecta daños al patrimonio según el artículo 35?",
+                "¿Cómo se calculan los intereses por daños al patrimonio?",
+                "¿Quién determina el monto del daño?",
+                "¿El responsable puede pagar en parcialidades?",
+                "¿Qué pasa si el daño es irreparable?"
+            ],
+            "responses": [
+                "📘 Requiere al titular o responsable el pago con intereses (tasa interbancaria mensual). 💰",
+                "🔹 Desde la fecha de afectación hasta el pago, con tasa interbancaria promedio. 📊",
+                "🎯 La Contraloría, basada en auditorías y documentos comprobatorios. 🔍",
+                "📘 No se especifica; el pago debe ser total según el requerimiento. ❌",
+                "🔹 Se turna al Abogado General para acciones legales de reparación. 👨⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 35",
+            "topic": "Daños al patrimonio"
+        },
+        {
+            "tag": "acciones_legales",
+            "patterns": [
+                "¿Qué pasa si no se paga un adeudo por daños según el artículo 36?",
+                "¿Quién ejecuta las acciones legales?",
+                "¿Qué tipo de acciones puede promover el Abogado General?",
+                "¿Hay un plazo para presentar estas acciones?",
+                "¿Se puede negociar antes de llegar a acciones legales?"
+            ],
+            "responses": [
+                "📘 Se turna a la Oficina del Abogado General para acciones jurídicas. ⚖️",
+                "🔹 La Oficina del Abogado General, por mandato de la Contraloría. 👨⚖️",
+                "🎯 Civiles (reparación) y/o penales (si hay delito). 📋",
+                "📘 Sí, antes de que prescriban las facultades para fincar responsabilidades. ⏳",
+                "🔹 No está regulado; el pago debe ser total según el requerimiento. 💰"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 36",
+            "topic": "Acciones legales"
+        },
+        {
+            "tag": "delitos_fiscales",
+            "patterns": [
+                "¿Qué hace la Contraloría ante hechos presuntamente delictivos según el artículo 37?",
+                "¿A quién se reportan estos hechos?",
+                "¿La Contraloría puede presentar denuncias penales directamente?",
+                "¿Qué tipo de delitos suelen detectarse?",
+                "¿Se suspende la auditoría si hay indicios de delito?"
+            ],
+            "responses": [
+                "📘 Notifica a la Comisión de Hacienda para que el Abogado General presente denuncia. 👮",
+                "🔹 A la Comisión de Hacienda del Consejo General. 🏛️",
+                "🎯 No, debe ser a través del Abogado General. ⚖️",
+                "📘 Desvío de recursos, fraudes o enriquecimiento ilícito. ⚠️",
+                "🔹 No, continúa hasta concluir el informe para sustentar la denuncia. 🔍"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 37",
+            "topic": "Hechos delictivos"
+        },
+        {
+            "tag": "faltas_administrativas",
+            "patterns": [
+                "¿Qué pasa con las faltas a la normativa universitaria según el artículo 38?",
+                "¿Quién impone las sanciones por faltas?",
+                "¿Qué tipo de sanciones existen?",
+                "¿Puede el sancionado defenderse?",
+                "¿Las sanciones se notifican por escrito?"
+            ],
+            "responses": [
+                "📘 Se notifican a la Comisión de Hacienda para turno a la Comisión de Responsabilidades. ⚖️",
+                "🔹 La Comisión de Responsabilidades y Sanciones competente. 👨⚖️",
+                "🎯 Desde amonestaciones hasta suspensión o destitución. 📋",
+                "📘 Sí, durante el procedimiento de responsabilidad. 🗣️",
+                "🔹 Sí, con acuse de recibo y fundamentación. 📨"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 38",
+            "topic": "Faltas administrativas"
+        },
+        {
+            "tag": "obligaciones_funcionarios",
+            "patterns": [
+                "¿Qué obligaciones tienen los funcionarios en fiscalización según el artículo 39?",
+                "¿Deben atender personalmente las auditorías?",
+                "¿Pueden negarse a proporcionar información?",
+                "¿Qué pasa si no se solventan observaciones?",
+                "¿Deben comparecer ante la Contraloría si son citados?"
+            ],
+            "responses": [
+                "📘 Rendir informes, atender auditorías, proporcionar datos y solventar observaciones. 📋",
+                "🔹 No, pueden designar a un enlace, pero son responsables finales. 👥",
+                "🎯 No, es falta grave (Artículo 15). ⚠️",
+                "📘 Pueden ser sancionados administrativamente. ⚖️",
+                "🔹 Sí, es obligatorio bajo apercibimiento de sanción. ✅"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 39",
+            "topic": "Obligaciones de funcionarios"
+        },
+        {
+            "tag": "derechos_funcionarios",
+            "patterns": [
+                "¿Qué derechos tienen los funcionarios durante auditorías según el artículo 40?",
+                "¿Pueden exigir una copia de la orden de auditoría?",
+                "¿Pueden designar a alguien para atender a los auditores?",
+                "¿Tienen derecho a presentar pruebas para defenderse?",
+                "¿Pueden solicitar una auditoría específica?"
+            ],
+            "responses": [
+                "📘 Ser notificados por escrito, designar enlace, presentar aclaraciones y solicitar auditorías. 📜",
+                "🔹 Sí, es un derecho (la orden debe cumplir con el Artículo 25). ✅",
+                "🎯 Sí, y esta persona será su conducto oficial. 👥",
+                "📘 Sí, durante el plazo de 15 días hábiles (Artículo 31). ⏳",
+                "🔹 Sí, pueden pedirlo formalmente a la Contraloría. 📨"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 40",
+            "topic": "Derechos de funcionarios"
+        },
+        {
+            "tag": "atribuciones_consejo_general",
+            "patterns": [
+                "¿Qué atribuciones tiene el Consejo General en fiscalización según el artículo 41?",
+                "¿Puede el Consejo ordenar auditorías externas?",
+                "¿Cómo evalúa el desempeño de la Contraloría?",
+                "¿Qué medidas puede tomar ante observaciones?",
+                "¿Quién aprueba los informes anuales de la Contraloría?"
+            ],
+            "responses": [
+                "📘 Revisar la Cuenta Universitaria, determinar auditorías externas y evaluar a la Contraloría. 🏛️",
+                "🔹 Sí, es una de sus facultades exclusivas. ✅",
+                "🎯 Con base en resultados de auditorías y cumplimiento de planes. 📊",
+                "📘 Correctivas (ej. ajustes presupuestales) o preventivas (ej. nuevos lineamientos). 🔄",
+                "🔹 El propio Consejo General Universitario. 👥"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 41",
+            "topic": "Atribuciones del Consejo General"
+        },
+        {
+            "tag": "comision_hacienda",
+            "patterns": [
+                "¿Qué funciones tiene la Comisión de Hacienda según el artículo 42?",
+                "¿Cómo se elige al despacho auditor externo?",
+                "¿Qué evalúa la Comisión en los informes de auditoría?",
+                "¿Puede calificar el desempeño financiero de las dependencias?",
+                "¿Quién aprueba el Dictamen de Auditoría Externa?"
+            ],
+            "responses": [
+                "📘 Proponer la Cuenta Universitaria al Consejo, conocer resultados de auditorías y seleccionar auditores externos. 💼",
+                "🔹 Por concurso, considerando calidad profesional, experiencia y costo. 📊",
+                "🎯 Cumplimiento de programas, legalidad y manejo de recursos. 🔍",
+                "📘 Sí, en general y en particular a la Dirección de Finanzas. ✅",
+                "🔹 El Consejo General, con base en la propuesta de la Comisión. 🏛️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 42",
+            "topic": "Comisión de Hacienda"
+        },
+        {
+            "tag": "naturaleza_contraloria",
+            "patterns": [
+                "¿De quién depende la Contraloría General según el artículo 43?",
+                "¿Qué funciones adicionales tiene en materia de responsabilidades?",
+                "¿Puede investigar faltas graves?",
+                "¿Qué normativa aplica para faltas no graves?",
+                "¿La Contraloría tiene autonomía operativa?"
+            ],
+            "responses": [
+                "📘 Del Consejo General Universitario, pero con autonomía técnica y de gestión. 🏛️",
+                "🔹 Investigar, substanciar y resolver faltas no graves vinculadas a recursos. ⚖️",
+                "🎯 Sí, pero solo investiga; las resuelve la Comisión de Responsabilidades. 👨⚖️",
+                "📘 El Reglamento de Responsabilidades Vinculadas con Recursos Públicos. 📜",
+                "🔹 Sí, en su organización interna y plan de trabajo (Artículo 12). ✅"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 43",
+            "topic": "Naturaleza de la Contraloría"
+        },
+        {
+            "tag": "estructura_contraloria",
+            "patterns": [
+                "¿Qué unidades integran la Contraloría según el artículo 44?",
+                "¿Qué hace la Unidad de Investigación?",
+                "¿Quién es el Jefe de la Unidad Técnica?",
+                "¿La Unidad de Substanciación resuelve faltas graves?",
+                "¿Cómo se elige al Secretario de la Contraloría?"
+            ],
+            "responses": [
+                "📘 Contralor General, Secretario, Unidades de Auditoría, Técnica, Investigación y Substanciación. 🏢",
+                "🔹 Recibe denuncias e investiga faltas graves y no graves. 🔍",
+                "🎯 Funcionario que elabora manuales, guías y evalúa el trabajo interno. 📋",
+                "📘 No, solo faltas no graves; las graves las resuelve el Consejo. ⚖️",
+                "🔹 Lo designa el Contralor General, cumpliendo requisitos del Artículo 47. 👨💼"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 44",
+            "topic": "Estructura de la Contraloría"
+        },
+        {
+            "tag": "eleccion_contralor_general",
+            "patterns": [
+                "¿Cómo se elige al Contralor General según el artículo 45?",
+                "¿Quién presenta la terna de candidatos?",
+                "¿Cuál es el plazo para elegir al Contralor General?",
+                "¿El nombramiento del Contralor coincide con el del Rector?",
+                "¿Puede el Consejo rechazar la terna propuesta?"
+            ],
+            "responses": [
+                "📘 Lo elige el Consejo General Universitario de una terna del Consejo Social. 🗳️",
+                "🔹 El Consejo Social Universitario. 👥",
+                "🎯 A más tardar el 1° de junio del año en que tome posesión el Rector General. 📅",
+                "📘 Sí, ambos procesos están vinculados en el mismo año. 🔄",
+                "🔹 No está especificado, pero debe elegir de la terna presentada. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 45",
+            "topic": "Elección del Contralor General"
+        },
+        {
+            "tag": "requisitos_contralor_general",
+            "patterns": [
+                "¿Qué requisitos debe cumplir el Contralor General según el artículo 46?",
+                "¿Se requiere título profesional específico?",
+                "¿Hay límite de edad para el cargo?",
+                "¿Qué se entiende por 'reconocida honorabilidad'?",
+                "¿Puede ser extranjero el Contralor General?"
+            ],
+            "responses": [
+                "📘 Nacionalidad mexicana, >30 años, título afín, experiencia y honorabilidad. 📋",
+                "🔹 Sí, licenciatura en áreas relacionadas (ej. contaduría, derecho, administración). 🎓",
+                "🎯 Mínimo 30 años cumplidos al momento de la designación. ⏳",
+                "📘 Ausencia de antecedentes éticos o legales que afecten su imparcialidad. ⚖️",
+                "🔹 No, debe ser mexicano por mandato legal. 🇲🇽"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 46",
+            "topic": "Requisitos del Contralor General"
+        },
+        {
+            "tag": "requisitos_secretario_jefes",
+            "patterns": [
+                "¿Los requisitos para Secretario y Jefes de Unidad son iguales que para el Contralor según el artículo 47?",
+                "¿Se exige experiencia específica para estos cargos?",
+                "¿Deben ser mayores de 30 años?",
+                "¿Quién designa a estos funcionarios?",
+                "¿Pueden ser removidos libremente?"
+            ],
+            "responses": [
+                "📘 Sí, mismos requisitos que el Contralor General (Artículo 46). 🔄",
+                "🔹 No se especifica, pero deben tener capacidad comprobada. 💼",
+                "🎯 No hay límite de edad mínimo para estos cargos. ❌",
+                "📘 El Contralor General, previo cumplimiento de requisitos. ✍️",
+                "🔹 Sí, son cargos de confianza según necesidades del servicio. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 47",
+            "topic": "Requisitos para Secretario y Jefes de Unidad"
+        },
+        {
+            "tag": "atribuciones_contralor_general",
+            "patterns": [
+                "¿Qué facultades tiene el Contralor General según el artículo 48?",
+                "¿Puede ordenar auditorías sin autorización previa?",
+                "¿Cómo aprueba los planes anuales de auditoría?",
+                "¿Puede opinar sobre normas de contabilidad?",
+                "¿Qué hace con las irregularidades detectadas?"
+            ],
+            "responses": [
+                "📘 Ordenar auditorías, aprobar planes de fiscalización y coordinar con auditores externos. 💼",
+                "🔹 Sí, es facultad exclusiva (Artículo 25). ✅",
+                "🎯 Los elabora la Contraloría y los aprueba el titular. 📋",
+                "📘 Sí, debe emitir opinión previa a su expedición. 🗣️",
+                "🔹 Informa al Consejo General y promueve acciones correctivas. ⚠️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 48",
+            "topic": "Atribuciones del Contralor General"
+        },
+        {
+            "tag": "atribuciones_secretario_contraloria",
+            "patterns": [
+                "¿Qué funciones tiene el Secretario de la Contraloría según el artículo 50?",
+                "¿Elabora el presupuesto de la Contraloría?",
+                "¿Lleva el control de bienes y recursos?",
+                "¿Supervisa al personal de la Contraloría?",
+                "¿Puede sustituir al Contralor General?"
+            ],
+            "responses": [
+                "📘 Gestiona presupuesto, control de bienes, nómina y apoya en evaluación de unidades. 📊",
+                "🔹 Sí, elabora el proyecto de presupuesto anual. 💰",
+                "🎯 Sí, lleva registros de bienes y ejercicio del gasto. 🏢",
+                "📘 Sí, apoya en evaluación de desempeño del personal. 👨💼",
+                "🔹 No, solo lo auxilia en funciones administrativas. ❌"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 50",
+            "topic": "Atribuciones del Secretario"
+        },
+        {
+            "tag": "funciones_jefe_auditoria_administracion",
+            "patterns": [
+                "¿Qué hace el Jefe de la Unidad de Auditoría a la Administración General según el artículo 51?",
+                "¿Puede proponer programas de auditoría?",
+                "¿Cómo reporta conductas ilícitas?",
+                "¿Supervisa a auditores internos?",
+                "¿Qué revisa en las Empresas Universitarias?"
+            ],
+            "responses": [
+                "📘 Coordina auditorías a dependencias centrales y empresas universitarias. 🔍",
+                "🔹 Sí, el Programa Anual de Inspecciones y Auditorías. 📅",
+                "🎯 Informa de inmediato al Contralor General. ⚠️",
+                "📘 Sí, supervisa su trabajo y da seguimiento a observaciones. 👀",
+                "🔹 Estados financieros y su congruencia con normativa. 💰"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 51",
+            "topic": "Funciones del Jefe de Auditoría a Administración"
+        },
+        {
+            "tag": "funciones_jefe_auditoria_centros",
+            "patterns": [
+                "¿Qué diferencias hay entre el Jefe de Auditoría a Centros y el de Administración según el artículo 52?",
+                "¿Quiénes son sus auditados principales?",
+                "¿Cómo se coordina con los contralores de centros?",
+                "¿Puede auditar programas académicos?",
+                "¿Qué reportes debe generar?"
+            ],
+            "responses": [
+                "📘 El de Centros supervisa CU y SEMS; el de Administración, dependencias centrales. 🏫",
+                "🔹 Centros Universitarios y Sistema de Educación Media Superior. 🎓",
+                "🎯 Supervisa su trabajo y recibe reportes para integrar el programa anual. 🤝",
+                "📘 Sí, si están vinculados a uso de recursos universitarios. ✅",
+                "🔹 Informes de auditorías y avances para el Contralor General. 📋"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 52",
+            "topic": "Funciones del Jefe de Auditoría a Centros"
+        },
+        {
+            "tag": "funciones_jefe_unidad_tecnica",
+            "patterns": [
+                "¿Qué hace el Jefe de la Unidad Técnica según el artículo 53?",
+                "¿Elabora manuales de procedimientos?",
+                "¿Cómo evalúa el trabajo de las unidades?",
+                "¿Desarrolla sistemas automatizados?",
+                "¿Qué informes integra?"
+            ],
+            "responses": [
+                "📘 Elabora programas, manuales y sistemas para mejorar la fiscalización. 💻",
+                "🔹 Sí, de organización y procedimientos para la Contraloría. 📘",
+                "🎯 Mediante indicadores de eficiencia y cumplimiento de metas. 📊",
+                "📘 Sí, para optimizar procesos de auditoría y control. 🔄",
+                "🔹 Informes semestrales/anuales de actividades y resultados de revisiones. 📋"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 53",
+            "topic": "Funciones del Jefe de Unidad Técnica"
+        },
+        {
+            "tag": "designacion_contralores_centros",
+            "patterns": [
+                "¿Cómo se designa a los contralores de centros según el artículo 55?",
+                "¿Cuánto dura su encargo?",
+                "¿Quién propone la terna de candidatos?",
+                "¿Hay un plazo máximo para su designación?",
+                "¿Pueden ser reelectos?"
+            ],
+            "responses": [
+                "📘 Por el Consejo del Centro Universitario o SEMS, de una terna del Consejo Social. 🗳️",
+                "🔹 Dos años (bianual), con posibilidad de reelección. ⏳",
+                "🎯 El Consejo Social del centro o SEMS correspondiente. 👥",
+                "📘 Sí, a más tardar el 1° de julio del año de designación. 📅",
+                "🔹 Sí, no hay límite en el reglamento. 🔄"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 55",
+            "topic": "Designación de contralores de centros"
+        },
+        {
+            "tag": "requisitos_contralores_centros",
+            "patterns": [
+                "¿Qué requisitos debe cumplir un Contralor de Centro Universitario según el artículo 56?",
+                "¿Se necesita cédula profesional para ser Contralor de Centro?",
+                "¿Qué experiencia se requiere para el cargo?",
+                "¿Hay un límite de edad mínimo?",
+                "¿Puede ser extranjero el Contralor de Centro?"
+            ],
+            "responses": [
+                "📘 Nacionalidad mexicana, >25 años, título de Contador Público o afín, cédula profesional, 2 años de experiencia en auditoría y honorabilidad. 📋",
+                "🔹 Sí, es requisito indispensable para ejercer. 🎓",
+                "🎯 Mínimo 2 años en áreas de auditoría o fiscalización. ⏳",
+                "📘 Sí, debe tener al menos 25 años cumplidos al momento de la designación. 🎂",
+                "🔹 No, debe ser mexicano por mandato del reglamento. 🇲🇽"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 56",
+            "topic": "Requisitos para contralores de centros"
+        },
+        {
+            "tag": "funciones_contralores_centros",
+            "patterns": [
+                "¿Qué funciones tiene un Contralor de Centro Universitario según el artículo 57?",
+                "¿Debe presentar un programa operativo anual?",
+                "¿Cómo reporta irregularidades graves?",
+                "¿Participa en procesos de entrega-recepción?",
+                "¿Puede proponer medidas correctivas?"
+            ],
+            "responses": [
+                "📘 Fiscalizar su centro, elaborar programas de auditoría, rendir informes y dar seguimiento a observaciones. 🔍",
+                "🔹 Sí, debe proponerlo al Contralor General e informar al Consejo de Centro. 📅",
+                "🎯 Informando de inmediato al Contralor General de la Universidad. ⚠️",
+                "📘 Sí, en cambios de titulares de dependencias del centro. 🤝",
+                "🔹 Sí, para mejorar el sistema de fiscalización del gasto. 💡"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 57",
+            "topic": "Funciones de los contralores de centros"
+        },
+        {
+            "tag": "auditorias_externas",
+            "patterns": [
+                "¿Cuándo puede la UdeG contratar auditores externos según el artículo 58?",
+                "¿Quién autoriza la contratación de auditores externos?",
+                "¿La Contraloría puede contratarlos directamente?",
+                "¿Qué tipo de revisiones hacen los auditores externos?",
+                "¿Los informes de auditores externos son vinculantes?"
+            ],
+            "responses": [
+                "📘 Cuando el Consejo General Universitario lo determine. 🏛️",
+                "🔹 El Consejo General Universitario, por mayoría. 🤝",
+                "🎯 No, requiere autorización del Consejo (Artículo 59). ❌",
+                "📘 Principalmente la Cuenta Universitaria, pero pueden ampliarse. 🔍",
+                "🔹 Sí, deben ser considerados por el Consejo para aprobar la Cuenta. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 58",
+            "topic": "Auditorías externas"
+        },
+        {
+            "tag": "dictamen_auditoria_externa",
+            "patterns": [
+                "¿Quién aprueba el Dictamen de auditoría externa según el artículo 59?",
+                "¿El Consejo puede rechazar el dictamen de un auditor externo?",
+                "¿Qué pasa si hay discrepancias con el dictamen externo?",
+                "¿La Contraloría debe validar el dictamen externo?",
+                "¿Con qué frecuencia se contrata auditoría externa?"
+            ],
+            "responses": [
+                "📘 El Consejo General Universitario. 🏛️",
+                "🔹 No está especificado, pero puede solicitar aclaraciones o nueva auditoría. ❓",
+                "🎯 La Contraloría analiza las diferencias y propone soluciones al Consejo. 🔄",
+                "📘 Sí, debe revisar su congruencia con la normativa universitaria. ✅",
+                "🔹 No hay periodicidad fija; depende de la decisión del Consejo. ⏳"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 59",
+            "topic": "Dictamen de auditoría externa"
+        },
+        {
+            "tag": "seleccion_auditores_externos",
+            "patterns": [
+                "¿Cómo se elige al despacho auditor externo según el artículo 60?",
+                "¿Qué criterios se consideran para la selección?",
+                "¿Quién coordina el concurso de selección?",
+                "¿Puede participar cualquier despacho?",
+                "¿La Contraloría interviene en la selección?"
+            ],
+            "responses": [
+                "📘 Por concurso organizado por la Comisión de Hacienda del Consejo. 🗳️",
+                "🔹 Prestigio, experiencia en entes públicos y capacidad operativa. 📊",
+                "🎯 La Comisión de Hacienda, con apoyo técnico de la Contraloría. 🤝",
+                "📘 Sí, si cumple con los requisitos públicos del concurso. 🌐",
+                "🔹 Sí, como asesor técnico, pero no decide. 👨💼"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 60",
+            "topic": "Selección de auditores externos"
+        },
+        {
+            "tag": "criterios_contratacion_auditores",
+            "patterns": [
+                "¿Qué criterios exige el artículo 61 para contratar auditores externos?",
+                "¿Por qué es importante la experiencia en entes públicos?",
+                "¿El costo es determinante en la selección?",
+                "¿Qué se entiende por 'estructura idónea'?",
+                "¿Puede contratarse a un auditor sin concurso?"
+            ],
+            "responses": [
+                "📘 Prestigio, experiencia en entes públicos y estructura acorde al tamaño de la UdeG. 🏆",
+                "🔹 Porque conocen normativas específicas del sector público y educativo. 🎓",
+                "🎯 Es uno de los factores, pero no el único. 💰",
+                "📘 Equipo humano y técnico suficiente para auditar una institución compleja. 👥",
+                "🔹 No, salvo casos excepcionales justificados ante el Consejo. ⚠️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 61",
+            "topic": "Criterios para contratación de auditores"
+        },
+        {
+            "tag": "instancias_apoyo_auditoria",
+            "patterns": [
+                "¿Quién determina las instancias de apoyo para auditorías externas según el artículo 62?",
+                "¿Qué función tienen estas instancias?",
+                "¿Puede la Contraloría ser instancia de apoyo?",
+                "¿Quiénes suelen ser designados como enlaces?",
+                "¿Estas instancias interfieren en la auditoría?"
+            ],
+            "responses": [
+                "📘 El Rector General de la Universidad. 👨💼",
+                "🔹 Facilitar acceso a información y coordinación con dependencias. 🤝",
+                "🎯 Sí, especialmente para proporcionar datos históricos. 📂",
+                "📘 Personal de la Coordinación Administrativa o Dirección de Finanzas. 💼",
+                "🔹 No, solo brindan apoyo logístico; los auditores trabajan con independencia. 🛡️"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 62",
+            "topic": "Instancias de apoyo para auditoría externa"
+        },
+        {
+            "tag": "contratacion_auditores_servicios",
+            "patterns": [
+                "¿En qué casos puede la Contraloría solicitar auditores por servicios profesionales según el artículo 63?",
+                "¿Quién autoriza estos contratos?",
+                "¿Qué son 'programas especiales de fiscalización'?",
+                "¿Se puede contratar auditores externos por insuficiencia de personal?",
+                "¿Estos auditores tienen las mismas facultades que los internos?"
+            ],
+            "responses": [
+                "📘 Para programas especiales, auditorías complejas o insuficiencia de personal. 🔍",
+                "🔹 El Rector General, previa solicitud justificada de la Contraloría. ✍️",
+                "🎯 Revisiones focalizadas (ej. denuncias específicas o riesgos patrimoniales). ⚠️",
+                "📘 Sí, si se afecta la cobertura de fiscalización. 👥",
+                "🔹 Sí, pero solo para el encargo específico que se les asigne. ✅"
+            ],
+            "document": "Reglamento del Sistema de Fiscalización",
+            "article": "Artículo 63",
+            "topic": "Contratación de auditores por servicios"
+        }
+
+       
+    ]
+}

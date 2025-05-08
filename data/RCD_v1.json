@@ -1,0 +1,847 @@
+{
+    "main_topic": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+    "intents": [
+        {
+            "tag": "objeto_reglamento_cursos",
+            "patterns": [
+                "¿Cuál es el objetivo principal de este reglamento?",
+                "¿Qué norma este reglamento?",
+                "¿Qué tipo de cursos regula este documento?",
+                "¿Este reglamento aplica para cursos de especialización médica?",
+                "¿Qué aspectos cubre el artículo 1?"
+            ],
+            "responses": [
+                "📘 El objetivo es normar la presentación y aprobación de cursos de actualización, diplomados y cursos de alta especialidad médica (Artículo 1).",
+                "🔹 Regula tres tipos de programas: cursos de actualización, diplomados y cursos de alta especialidad médica.",
+                "🎯 Sí, incluye específicamente los cursos de alta especialidad médica para médicos especialistas.",
+                "📘 El artículo 1 establece el alcance general sobre estos tres tipos de formación.",
+                "🔹 Cubre desde la propuesta hasta la aprobación de estos programas académicos."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento cursos"
+        },
+        {
+            "tag": "propuesta_cursos",
+            "patterns": [
+                "¿Quiénes pueden proponer cursos de actualización?",
+                "¿Cómo se proponen los cursos de alta especialidad médica?",
+                "¿Qué instancias aprueban los diplomados?",
+                "¿Todos los centros pueden ofertar alta especialidad médica?",
+                "¿Qué requisitos hay para proponer cursos médicos?"
+            ],
+            "responses": [
+                "📘 Los Departamentos de Centros Universitarios o Escuelas de Media Superior (Artículo 2).",
+                "🔹 Solo Centros que oferten Medicina, vía Colegios Departamentales → Consejos Divisionales → Consejo General Universitario.",
+                "🎯 Los Consejos Universitarios de cada Centro o del Sistema de Educación Media Superior.",
+                "📘 No, solo los que impartan la carrera de médico cirujano y partero.",
+                "🔹 Deben seguir el procedimiento escalonado de aprobación establecido."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 2",
+            "topic": "Propuesta de cursos"
+        },
+        {
+            "tag": "aprobacion_cursos",
+            "patterns": [
+                "¿Qué elementos se consideran para aprobar cursos?",
+                "¿Se evalúa el presupuesto de los cursos?",
+                "¿Qué significa 'utilidad y oportunidad' en los cursos?",
+                "¿Quién verifica los recursos humanos para los cursos?",
+                "¿Pueden agregarse otros requisitos de aprobación?"
+            ],
+            "responses": [
+                "📘 Objetivos, utilidad, recursos, presupuesto y otros necesarios (Artículo 3, fracciones I-V).",
+                "🔹 Sí, el presupuesto de ingresos/egresos es requisito (fracción IV).",
+                "🎯 Que el curso sea relevante para los programas académicos vigentes (fracción II).",
+                "📘 Los Consejos Universitarios evalúan los recursos humanos y materiales (fracción III).",
+                "🔹 Sí, los Consejos pueden requerir elementos adicionales (fracción V)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 3",
+            "topic": "Aprobación de cursos"
+        },
+        {
+            "tag": "definicion_cursos_actualizacion",
+            "patterns": [
+                "¿Qué son los cursos de actualización?",
+                "¿Dan créditos estos cursos?",
+                "¿Qué nivel académico cubren?",
+                "¿Quién aprueba los cursos de actualización?",
+                "¿Pueden ser técnicos estos cursos?"
+            ],
+            "responses": [
+                "📘 Son para adquirir conocimientos profesionales sobre avances recientes (Artículo 4).",
+                "🔹 No tienen valor en créditos (Artículo 7).",
+                "🎯 Nivel técnico, licenciatura o posgrado (Artículo 5).",
+                "📘 Consejos Universitarios de Centros o de Educación Media Superior.",
+                "🔹 Sí, pueden ser de nivel técnico profesional."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 4-5",
+            "topic": "Definición de cursos de actualización"
+        },
+        {
+            "tag": "costos_cursos_actualizacion",
+            "patterns": [
+                "¿Quién define el costo de los cursos?",
+                "¿Las cuotas son obligatorias?",
+                "¿Qué cubren los costos?",
+                "¿Hay cursos de actualización gratuitos?",
+                "¿Se pueden becar estos cursos?"
+            ],
+            "responses": [
+                "📘 El Consejo Universitario según requerimientos administrativos (Artículo 6).",
+                "🔹 Sí, salvo que la convocatoria especifique lo contrario (Artículo 8-III).",
+                "🎯 Gastos administrativos y servicios necesarios para impartirlos.",
+                "📘 No se menciona, depende de la política de cada Centro.",
+                "🔹 El reglamento no lo especifica; consultar convocatorias."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 6-8",
+            "topic": "Costos de cursos"
+        },
+        {
+            "tag": "requisitos_inscripcion",
+            "patterns": [
+                "¿Qué necesito para inscribirme a un curso?",
+                "¿Hay que pasar un examen de admisión?",
+                "¿La universidad puede rechazar mi solicitud?",
+                "¿Qué criterios usan para aceptar participantes?",
+                "¿Dónde encuentro los requisitos específicos?"
+            ],
+            "responses": [
+                "📘 Solicitud, cumplir requisitos de convocatoria y pagar cuotas (Artículo 8).",
+                "🔹 Depende; algunos cursos pueden requerir evaluaciones (Artículo 9-I).",
+                "🎯 Sí, por capacidad académica, cupo u otros criterios (Artículo 9).",
+                "📘 Capacidad académica, cupo y elementos del programa (Artículo 9).",
+                "🔹 En las convocatorias oficiales de cada Centro Universitario."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 8-9",
+            "topic": "Requisitos de inscripción"
+        },
+        {
+            "tag": "adquisicion_calidad_participante",
+            "patterns": [
+                "¿Cuándo adquiero la calidad de participante en un curso?",
+                "¿Qué derechos obtengo al ser participante?",
+                "¿Los participantes tienen acceso a instalaciones universitarias?",
+                "¿Qué obligaciones tienen los participantes?",
+                "¿Puedo perder mi condición de participante?"
+            ],
+            "responses": [
+                "📘 Al cumplir requisitos de ingreso y completar trámites de inscripción (Artículo 10).",
+                "🔹 Derecho a recibir el curso, usar instalaciones y obtener constancia (Artículo 16).",
+                "🎯 Sí, según lo establecido en el programa del curso (Artículo 16-I).",
+                "📘 Asistencia puntual, presentar evaluaciones y mantener buena conducta (Artículo 15).",
+                "🔹 Sí, por renuncia, incumplimiento >30% de actividades o faltas graves (Artículo 11)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 10",
+            "topic": "Adquisición de la calidad de participante"
+        },
+        {
+            "tag": "perdida_calidad_participante",
+            "patterns": [
+                "¿Por qué motivos puedo perder mi condición de participante?",
+                "¿Qué se considera falta grave para un participante?",
+                "¿Hay tolerancia en la asistencia a cursos?",
+                "¿Puedo renunciar a un curso después de empezarlo?",
+                "¿Qué pasa si pierdo mi condición de alumno regular de la UdeG?"
+            ],
+            "responses": [
+                "📘 Renuncia, incumplimiento >30% de actividades, sanción o faltas graves (Artículo 11).",
+                "🔹 Lo determina el Consejo Universitario (no se especifica en el reglamento).",
+                "🎯 Máximo 30% de inasistencia a carga horaria o actividades (Artículo 11-II).",
+                "📘 Sí, mediante renuncia expresa (Artículo 11-I).",
+                "🔹 Pierdes también la condición de participante en cursos (Artículo 11-III)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 11",
+            "topic": "Pérdida de la calidad de participante"
+        },
+        {
+            "tag": "propuesta_programas_actualizacion",
+            "patterns": [
+                "¿Quién propone los programas de cursos de actualización?",
+                "¿Qué instancia aprueba los programas?",
+                "¿Los profesores pueden proponer cursos directamente?",
+                "¿Los cursos para docentes tienen un proceso especial?",
+                "¿Dónde se imparten estos cursos?"
+            ],
+            "responses": [
+                "📘 Colegios Departamentales o Consejos de Escuela (Artículo 12).",
+                "🔹 Consejo de Centro Universitario o de Educación Media Superior.",
+                "🎯 No, deben hacerlo a través de su Colegio Departamental o Consejo de Escuela.",
+                "📘 Sí, los coordina la Coordinación General Académica (Artículo 32, párrafo 5).",
+                "🔹 En el Centro Universitario o Sistema de Educación Media Superior que los oferte."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 12",
+            "topic": "Propuesta de programas de actualización"
+        },
+        {
+            "tag": "contenido_programas_actualizacion",
+            "patterns": [
+                "¿Qué información debe incluir un programa de curso?",
+                "¿Deben especificarse los profesores responsables?",
+                "¿Se exige bibliografía mínima para los cursos?",
+                "¿Cómo se establecen los cupos para los cursos?",
+                "¿Qué requisitos de asistencia deben incluirse?"
+            ],
+            "responses": [
+                "📘 13 elementos: objetivos, profesores, duración, cupos, etc. (Artículo 13).",
+                "🔹 Sí, con nombre e institución responsable (Artículo 13-IV).",
+                "🎯 Sí, deben listarse materiales y bibliografía aconsejables (Artículo 13-XIII).",
+                "📘 Se fijan cupos máximos y mínimos en cada programa (Artículo 13-XII).",
+                "🔹 Debe especificar asistencia mínima para obtener constancia (Artículo 13-V)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 13",
+            "topic": "Contenido de programas de actualización"
+        },
+        {
+            "tag": "prorroga_duracion_cursos",
+            "patterns": [
+                "¿Se puede extender la duración de un curso?",
+                "¿Quién autoriza las prórrogas de cursos?",
+                "¿Qué se considera 'fuerza mayor' para prórrogas?",
+                "¿Cuántas veces se puede prorrogar un curso?",
+                "¿Debe informarse al Consejo Universitario?"
+            ],
+            "responses": [
+                "📘 Sí, por razones de fuerza mayor (Artículo 14).",
+                "🔹 El Rector del Centro Universitario o Director de Media Superior.",
+                "🎯 No se especifica; se evalúa caso por caso.",
+                "📘 Solo una vez (Artículo 14).",
+                "🔹 Sí, en la sesión siguiente a la autorización."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 14",
+            "topic": "Prórroga de duración de cursos"
+        },
+        {
+            "tag": "obligaciones_participantes",
+            "patterns": [
+                "¿Qué obligaciones tienen los participantes?",
+                "¿Puedo faltar a algunas sesiones del curso?",
+                "¿Hay evaluaciones obligatorias?",
+                "¿Qué conductas están prohibidas?",
+                "¿Pueden añadirse otras obligaciones?"
+            ],
+            "responses": [
+                "📘 Asistencia puntual, presentar evaluaciones y buena conducta (Artículo 15).",
+                "🔹 Sí, pero no exceder 30% de inasistencia (Artículo 11-II).",
+                "🎯 Sí, si el programa las incluye (Artículo 15-II).",
+                "📘 Cualquier conducta que el Consejo Universitario considere grave.",
+                "🔹 Sí, cada Consejo Universitario puede establecer obligaciones adicionales."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 15",
+            "topic": "Obligaciones de los participantes"
+        },
+        {
+            "tag": "derechos_participantes",
+            "patterns": [
+                "¿Qué derechos tengo como participante de un curso?",
+                "¿Puedo usar los laboratorios de la universidad para un curso de actualización?",
+                "¿Qué necesito para obtener mi constancia de participación?",
+                "¿La constancia de actualización tiene validez oficial?",
+                "¿Hay algún costo adicional para recibir la constancia?"
+            ],
+            "responses": [
+                "📘 Derecho a recibir el curso, usar instalaciones universitarias y obtener constancia (Artículo 16).",
+                "🔹 Sí, si el programa del curso así lo establece (Artículo 16-I).",
+                "🎯 Cumplir con todos los requisitos previstos en el programa (Artículo 16-II).",
+                "📘 Sí, es un documento oficial de la Universidad de Guadalajara.",
+                "🔹 No se menciona; depende de las cuotas establecidas para cada curso."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 16",
+            "topic": "Derechos de los participantes"
+        },
+        {
+            "tag": "evaluaciones_cursos",
+            "patterns": [
+                "¿Es obligatorio presentar evaluaciones en los cursos?",
+                "¿Puedo mandar a alguien más a presentar mi evaluación?",
+                "¿Qué tipo de evaluaciones aplican?",
+                "¿Hay sanciones por no presentar evaluaciones?",
+                "¿Las evaluaciones son escritas o prácticas?"
+            ],
+            "responses": [
+                "📘 Solo si el programa del curso las exige (Artículo 17).",
+                "🔹 No, deben presentarse personalmente (Artículo 17).",
+                "🎯 Las que determine el programa del curso (no se especifica tipo).",
+                "📘 Sí, puede considerarse incumplimiento de actividades (Artículo 11-II).",
+                "🔹 Depende del diseño de cada programa académico."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 17",
+            "topic": "Evaluaciones en cursos"
+        },
+        {
+            "tag": "revision_evaluaciones",
+            "patterns": [
+                "¿Puedo solicitar revisión de mis evaluaciones?",
+                "¿Cuánto tiempo tengo para pedir revisión?",
+                "¿Quién resuelve las revisiones?",
+                "¿La decisión de la comisión es definitiva?",
+                "¿Qué evaluaciones son revisables?"
+            ],
+            "responses": [
+                "📘 Sí, si el tipo de evaluación lo permite (Artículo 18-I).",
+                "🔹 3 días hábiles después de publicados resultados (Artículo 18-II).",
+                "🎯 Una comisión de 3 profesores del área (Artículo 19).",
+                "📘 Sí, su decisión es inapelable (Artículo 19).",
+                "🔹 Solo aquellas cuyo formato permita revisión objetiva."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 18-19",
+            "topic": "Revisión de evaluaciones"
+        },
+        {
+            "tag": "constancias_actualizacion",
+            "patterns": [
+                "¿Quién emite las constancias de actualización?",
+                "¿Qué información contiene la constancia?",
+                "¿Hay un tiempo mínimo de curso para obtener constancia?",
+                "¿Puedo obtener constancia si falto a algunas sesiones?",
+                "¿Qué validez tienen estas constancias?"
+            ],
+            "responses": [
+                "📘 Centros Universitarios, Educación Media Superior o Educación Continua (Artículo 20).",
+                "🔹 Datos del curso y cumplimiento de requisitos (no se especifica detalle).",
+                "🎯 Mínimo 20 horas de duración (Artículo 21).",
+                "📘 Solo si no excedes el 30% de inasistencia (Artículo 11-II).",
+                "🔹 Son documentos oficiales de educación continua de la UdeG."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 20-21",
+            "topic": "Constancias de actualización"
+        },
+        {
+            "tag": "duracion_minima_cursos",
+            "patterns": [
+                "¿Cuánto debe durar mínimo un curso de actualización?",
+                "¿Las horas incluyen prácticas o solo teoría?",
+                "¿Puede haber cursos intensivos de menos horas?",
+                "¿Cómo se calcula la duración total?",
+                "¿Hay máximo de horas para estos cursos?"
+            ],
+            "responses": [
+                "📘 Mínimo 20 horas (Artículo 21).",
+                "🔹 Incluye todas las actividades académicas del programa.",
+                "🎯 No, el mínimo de 20 horas es obligatorio.",
+                "📘 Sumando todas las sesiones programadas.",
+                "🔹 No se establece máximo, depende del diseño académico."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 21",
+            "topic": "Duración mínima de cursos"
+        },
+        {
+            "tag": "objeto_diplomados",
+            "patterns": [
+                "¿Qué son los diplomados según este reglamento?",
+                "¿Los diplomados otorgan créditos académicos?",
+                "¿En qué se diferencian de los cursos de actualización?",
+                "¿Pueden ser sobre cualquier tema?",
+                "¿Los diplomados son parte de posgrado?"
+            ],
+            "responses": [
+                "📘 Programas para enriquecer formación académica, laboral o cultural (Artículo 22).",
+                "🔹 Sí, según el Reglamento General de Planes de Estudio (Artículo 25).",
+                "🎯 Son más extensos (150-300 hrs) y con valor en créditos.",
+                "📘 Sí, mientras cumplan con los requisitos de aprobación.",
+                "🔹 No necesariamente, aunque pueden ser de nivel posgrado."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 22-23",
+            "topic": "Objeto de los diplomados"
+        },
+        {
+            "tag": "contenido_programas_diplomados",
+            "patterns": [
+                "¿Qué debe incluir el programa de un diplomado?",
+                "¿Deben listarse los profesores con sus credenciales?",
+                "¿Cómo se justifica la oferta de un diplomado?",
+                "¿Se especifican cupos mínimos y máximos?",
+                "¿Quién es el responsable académico del diplomado?"
+            ],
+            "responses": [
+                "📘 19 elementos: objetivos, duración, recursos, evaluación, etc. (Artículo 24).",
+                "🔹 Sí, con antecedentes académicos y profesionales (Artículo 24-X).",
+                "🎯 En la justificación y oportunidad del programa (Artículo 24-VII-VIII).",
+                "📘 Sí, es requisito en el programa (Artículo 24-XVII).",
+                "🔹 Debe identificarse en el programa (Artículo 24-XIX)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 24",
+            "topic": "Contenido de programas de diplomados"
+        },
+        {
+            "tag": "creditos_diplomados",
+            "patterns": [
+                "¿Los diplomados otorgan créditos académicos?",
+                "¿Cómo se calculan los créditos de un diplomado?",
+                "¿Dónde se especifica el valor en créditos?",
+                "¿Puedo convalidar créditos de diplomados con otras materias?",
+                "¿Los créditos son válidos para posgrados?"
+            ],
+            "responses": [
+                "📘 Sí, según el Reglamento General de Planes de Estudio (Artículo 25).",
+                "🔹 Se calculan conforme a la normativa universitaria aplicable.",
+                "🎯 En el programa específico de cada diplomado.",
+                "📘 Depende de los criterios de cada programa académico.",
+                "🔹 Sí, si el posgrado los reconoce en sus lineamientos."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 25",
+            "topic": "Créditos de diplomados"
+        },
+        {
+            "tag": "duracion_diplomados",
+            "patterns": [
+                "¿Cuánto debe durar mínimo un diplomado?",
+                "¿Hay límite máximo de horas para diplomados?",
+                "¿Puede haber diplomados intensivos de menos horas?",
+                "¿La duración incluye prácticas o solo teoría?",
+                "¿Cómo se distribuyen las horas en un diplomado?"
+            ],
+            "responses": [
+                "📘 Mínimo 150 horas (Artículo 26).",
+                "🔹 Máximo 300 horas (Artículo 26).",
+                "🎯 No, el mínimo de 150 horas es obligatorio.",
+                "📘 Incluye todas las actividades académicas programadas.",
+                "🔹 Según el diseño curricular de cada programa."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 26",
+            "topic": "Duración de diplomados"
+        },
+        {
+            "tag": "propuesta_diplomados",
+            "patterns": [
+                "¿Quiénes pueden proponer diplomados?",
+                "¿Los profesores individuales pueden proponer diplomados?",
+                "¿Qué instancia aprueba los diplomados?",
+                "¿Hay diferencias en la aprobación por área académica?",
+                "¿Los diplomados en línea tienen un proceso diferente?"
+            ],
+            "responses": [
+                "📘 Colegios Departamentales, Consejos de Escuela o Directores de Educación (Artículo 27).",
+                "🔹 No, deben hacerlo a través de las instancias establecidas.",
+                "🎯 El Consejo Universitario correspondiente (Artículo 27).",
+                "📘 No, el proceso es uniforme para todas las áreas.",
+                "🔹 Sí, los coordina Universidad Virtual (Artículo 32, párrafo 6)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 27",
+            "topic": "Propuesta de diplomados"
+        },
+        {
+            "tag": "convocatorias_diplomados",
+            "patterns": [
+                "¿Todos los diplomados requieren convocatoria pública?",
+                "¿Quién publica las convocatorias de diplomados?",
+                "¿Puede haber diplomados por solicitud especial?",
+                "¿Dónde se difunden las convocatorias?",
+                "¿Qué información debe incluir la convocatoria?"
+            ],
+            "responses": [
+                "📘 No, excepto cuando son por solicitud de parte interesada (Artículo 28).",
+                "🔹 El Rector del Centro o Director del Sistema de Media Superior.",
+                "🎯 Sí, cuando son a petición de instituciones o grupos específicos.",
+                "📘 En los canales oficiales de la Universidad y Centros.",
+                "🔹 Requisitos, costos, duración y programa académico."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 28",
+            "topic": "Convocatorias para diplomados"
+        },
+        {
+            "tag": "requisitos_inscripcion_diplomados",
+            "patterns": [
+                "¿Qué necesito para inscribirme a un diplomado?",
+                "¿Hay examen de admisión para diplomados?",
+                "¿Las cuotas son obligatorias en todos los diplomados?",
+                "¿Puedo solicitar beca para un diplomado?",
+                "¿Quién decide si me aceptan en un diplomado?"
+            ],
+            "responses": [
+                "📘 Solicitud, cumplir requisitos y pagar cuotas (Artículo 29).",
+                "🔹 Depende de los criterios del programa específico.",
+                "🎯 Sí, salvo que se establezca otra condición.",
+                "📘 El reglamento no lo especifica; consultar convocatoria.",
+                "🔹 Jefes de Departamento o Directores de Educación (Artículo 30)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 29-30",
+            "topic": "Requisitos para diplomados"
+        },
+        {
+            "tag": "cancelacion_diplomados",
+            "patterns": [
+                "¿Por qué razones pueden cancelar un diplomado?",
+                "¿Qué pasa si no se alcanza el cupo mínimo?",
+                "¿Me devuelven el pago si cancelan el diplomado?",
+                "¿Quién toma la decisión de cancelación?",
+                "¿Cómo se notifica la cancelación?"
+            ],
+            "responses": [
+                "📘 Por insuficiente cupo o imposibilidad de cumplir objetivos (Artículo 31).",
+                "🔹 Se cancela el diplomado (Artículo 31).",
+                "🎯 El reglamento no lo especifica; aplican políticas de cada Centro.",
+                "📘 Jefes de Departamento o Directores de Educación.",
+                "🔹 Por los medios oficiales establecidos en la convocatoria."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 31",
+            "topic": "Cancelación de diplomados"
+        },
+        {
+            "tag": "certificacion_diplomados",
+            "patterns": [
+                "¿Quién firma los diplomas?",
+                "¿Qué información contiene el diploma?",
+                "¿Hay diferencias en diplomas de Media Superior?",
+                "¿Qué pasa si pierdo mi diploma?",
+                "¿Los diplomas tienen validez internacional?"
+            ],
+            "responses": [
+                "📘 Rector del Centro, Director de División y responsable del programa (Artículo 33).",
+                "🔹 Características fundamentales del programa cursado.",
+                "🎯 Sí, los firma el Director General del Sistema de Media Superior.",
+                "📘 Puedes solicitar duplicado en la Coordinación Escolar.",
+                "🔹 Sí, son títulos oficiales de la Universidad de Guadalajara."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 33",
+            "topic": "Certificación de diplomados"
+        },
+        {
+            "tag": "cursos_formacion_docente",
+            "patterns": [
+                "¿Quién organiza los cursos para formación docente?",
+                "¿Pueden participar profesores de otros centros?",
+                "¿Los cursos docentes tienen requisitos especiales?",
+                "¿Se otorgan constancias específicas para docentes?",
+                "¿Dónde se publican estas convocatorias?"
+            ],
+            "responses": [
+                "📘 Coordinación General Académica e Innovación (Artículo 32, párrafo 5).",
+                "🔹 Sí, cuando los Centros no puedan ofrecerlos internamente.",
+                "🎯 Deben integrarse con académicos de los Centros involucrados.",
+                "📘 Sí, con las características del programa cursado.",
+                "🔹 En los canales oficiales de la Universidad y Centros."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 32",
+            "topic": "Cursos para formación docente"
+        },
+        {
+            "tag": "firmas_diplomas",
+            "patterns": [
+                "¿Quiénes firman los diplomas de los diplomados?",
+                "¿Hay diferencia en las firmas para diplomados de Media Superior?",
+                "¿Qué pasa si el diplomado lo organiza la Coordinación General Académica?",
+                "¿El diploma incluye sellos oficiales?",
+                "¿Quién es el 'responsable del programa' que firma el diploma?"
+            ],
+            "responses": [
+                "📘 Rector del Centro, Director de División y responsable del programa (Artículo 33, párr. 1).",
+                "🔹 Sí, los firma el Director General del Sistema de Media Superior (Artículo 33, párr. 2).",
+                "🎯 Los firma el Coordinador General Académico + secretario de la dependencia (Artículo 33, párr. 3).",
+                "📘 Sí, deben incluir sellos institucionales para ser válidos.",
+                "🔹 El académico designado como coordinador del diplomado."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 33",
+            "topic": "Firmas autorizadas para diplomas"
+        },
+        {
+            "tag": "resolucion_problemas_diplomados",
+            "patterns": [
+                "¿Quién resuelve problemas durante la realización de diplomados?",
+                "¿Qué tipo de conflictos puede resolver el Jefe de Departamento?",
+                "¿Hay instancias de apelación para decisiones sobre diplomados?",
+                "¿Los problemas académicos se resuelven igual en Media Superior?",
+                "¿Dónde debo presentar una queja sobre un diplomado?"
+            ],
+            "responses": [
+                "📘 El Jefe de Departamento o Director de Educación Media Superior (Artículo 34).",
+                "🔹 Conflictos académicos, administrativos o de cumplimiento de programa.",
+                "🎯 No se especifica; depende de los reglamentos internos de cada Centro.",
+                "📘 Sí, pero los resuelve el Director de Educación Media Superior.",
+                "🔹 Ante la instancia académica responsable del diplomado."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 34",
+            "topic": "Resolución de problemas en diplomados"
+        },
+        {
+            "tag": "objeto_cursos_alta_especialidad",
+            "patterns": [
+                "¿Qué son los cursos de alta especialidad médica?",
+                "¿En qué se diferencian de una especialidad médica común?",
+                "¿Estos cursos son para médicos generales o especialistas?",
+                "¿Qué tipo de técnicas se aprenden?",
+                "¿Son obligatorios para ejercer subespecialidades?"
+            ],
+            "responses": [
+                "📘 Programas para profundizar en temas médicos específicos con entrenamiento avanzado (Artículo 34 Bis1).",
+                "🔹 Requieren conocimientos previos de especialidad y son más técnicos.",
+                "🎯 Exclusivamente para médicos con especialidad previa (Artículo 34 Bis4-I).",
+                "📘 Técnicas que demandan habilidades adicionales a la formación base.",
+                "🔹 Depende de los requisitos de las autoridades sanitarias."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 34 Bis1",
+            "topic": "Objeto de cursos de alta especialidad médica"
+        },
+        {
+            "tag": "contenido_programas_alta_especialidad",
+            "patterns": [
+                "¿Qué debe incluir el programa de alta especialidad médica?",
+                "¿Se exige justificación de la pertinencia del curso?",
+                "¿Deben listarse las líneas de investigación de los profesores?",
+                "¿Cómo se establece el cupo para estos cursos?",
+                "¿Qué infraestructura se debe garantizar?"
+            ],
+            "responses": [
+                "📘 20 elementos: objetivos, perfil de ingreso, recursos, evaluación, etc. (Artículo 34 Bis2).",
+                "🔹 Sí, con estudio de pertinencia y factibilidad (Artículo 34 Bis2-VIII).",
+                "🎯 Sí, es parte del perfil de la planta académica (Artículo 34 Bis2-XV).",
+                "📘 Se fijan cupos mínimos y máximos por promoción (Artículo 34 Bis2-XVII).",
+                "🔹 Infraestructura física y apoyo administrativo adecuados (Artículo 34 Bis2-XVI)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 34 Bis2",
+            "topic": "Contenido de programas de alta especialidad"
+        },
+        {
+            "tag": "duracion_creditos_alta_especialidad",
+            "patterns": [
+                "¿Cuánto dura mínimo un curso de alta especialidad médica?",
+                "¿Cuántos créditos deben tener estos cursos?",
+                "¿Incluye tiempo de residencia médica?",
+                "¿Pueden ser cursos más cortos si son intensivos?",
+                "¿Los créditos son equivalentes a posgrados?"
+            ],
+            "responses": [
+                "📘 Mínimo 1 año (incluyendo residencia) (Artículo 34 Bis3).",
+                "🔹 Mínimo 180 créditos (Artículo 34 Bis3).",
+                "🎯 Sí, el periodo de residencia es parte integral del curso.",
+                "📘 No, el mínimo de 1 año es obligatorio.",
+                "🔹 Se rigen por el Reglamento General de Planes de Estudio."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 34 Bis3",
+            "topic": "Duración y créditos de cursos médicos"
+        },
+        {
+            "tag": "requisitos_ingreso_alta_especialidad",
+            "patterns": [
+                "¿Qué necesito para entrar a un curso de alta especialidad médica?",
+                "¿Piden promedio mínimo en la especialidad previa?",
+                "¿Es obligatorio el idioma extranjero?",
+                "¿Qué debe incluir la carta de motivos?",
+                "¿Puedo aplicar sin tener el lugar de residencia asignado?"
+            ],
+            "responses": [
+                "📘 Diploma de especialidad, promedio ≥80, idioma, carta de motivos y otros (Artículo 34 Bis4).",
+                "🔹 Sí, mínimo 80 en la especialidad precedente (Artículo 34 Bis4-II).",
+                "🎯 Sí, con examen de lectocomprensión aprobado (Artículo 34 Bis4-III).",
+                "📘 No se especifica, pero debe justificar el interés académico/profesional.",
+                "🔹 No, requieres carta de aceptación del lugar de residencia (Artículo 34 Bis4-V)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 34 Bis4",
+            "topic": "Requisitos de ingreso"
+        },
+        {
+            "tag": "seleccion_alumnos_alta_especialidad",
+            "patterns": [
+                "¿Cómo seleccionan a los alumnos para alta especialidad médica?",
+                "¿Qué criterios académicos consideran?",
+                "¿Hay examen de admisión?",
+                "¿El cupo es limitado?",
+                "¿Puedo aplicar a varios cursos simultáneamente?"
+            ],
+            "responses": [
+                "📘 Por capacidad académica, cupo y evaluaciones específicas (Artículo 34 Bis5).",
+                "🔹 Promedio, antecedentes y resultados de evaluaciones (Artículo 34 Bis5-I).",
+                "🎯 Depende del programa específico (Artículo 34 Bis5-III).",
+                "📘 Sí, se establecen cupos máximos por promoción.",
+                "🔹 No, está prohibido (Artículo 34 Bis8)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 34 Bis5-8",
+            "topic": "Selección de alumnos"
+        },
+        {
+            "tag": "derechos_obligaciones_alumnos",
+            "patterns": [
+                "¿Qué derechos tengo como alumno de alta especialidad?",
+                "¿Puedo usar instalaciones universitarias?",
+                "¿Qué obligaciones académicas tengo?",
+                "¿Hay tolerancia para inasistencias?",
+                "¿Qué pasa si no mantengo el promedio?"
+            ],
+            "responses": [
+                "📘 Recibir el programa, usar instalaciones y obtener diploma (Artículo 34 Bis10).",
+                "🔹 Sí, las asignadas para el curso (Artículo 34 Bis10-II).",
+                "🎯 Asistencia, evaluaciones y conducta ética (Artículo 34 Bis11).",
+                "📘 No se especifica, pero se exige promedio mínimo de 80 (Artículo 34 Bis14-II).",
+                "🔹 Pierdes la condición de alumno (Artículo 34 Bis14-II)."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 34 Bis10-11-14",
+            "topic": "Derechos y obligaciones"
+        },
+        {
+            "tag": "diploma_alta_especialidad",
+            "patterns": [
+                "¿Qué necesito para obtener el diploma de alta especialidad?",
+                "¿Quién firma el diploma?",
+                "¿Hay que pagar derechos para el diploma?",
+                "¿Qué pasa si no apruebo todas las unidades?",
+                "¿El diploma tiene validez nacional?"
+            ],
+            "responses": [
+                "📘 Cubrir créditos, pagos, aprobar exámenes y no adeudos (Artículo 34 Bis12).",
+                "🔹 Rector General y Secretario General (Artículo 34 Bis13).",
+                "🎯 Sí, se deben cubrir aranceles establecidos (Artículo 34 Bis12-IV).",
+                "📘 No obtienes el diploma (Artículo 34 Bis14-I).",
+                "🔹 Sí, es un título oficial de la Universidad de Guadalajara."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 34 Bis12-13",
+            "topic": "Obtención del diploma"
+        },
+        {
+            "tag": "situaciones_no_previstas",
+            "patterns": [
+                "¿Quién resuelve situaciones no previstas en estos cursos?",
+                "¿Se pueden hacer excepciones a los requisitos?",
+                "¿A qué normas se apegan las resoluciones?",
+                "¿Hay instancias de apelación para decisiones?",
+                "¿Los alumnos pueden proponer modificaciones?"
+            ],
+            "responses": [
+                "📘 El Rector del Centro Universitario sede (Artículo 34 Bis19).",
+                "🔹 Solo si no contradice la normativa universitaria.",
+                "🎯 A la Ley Orgánica, Estatuto General y este reglamento.",
+                "📘 No se especifica en el reglamento.",
+                "🔹 No se menciona; sugerencias deben canalizarse por instancias oficiales."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 34 Bis19",
+            "topic": "Resolución de situaciones no previstas"
+        },
+        {
+            "tag": "responsabilidades_academicos",
+            "patterns": [
+                "¿Los profesores de diplomados pueden descuidar sus otras funciones?",
+                "¿Hay límite de horas para impartir diplomados?",
+                "¿Qué pasa si un académico incumple sus labores por dar diplomados?",
+                "¿Los profesores deben reportar su participación en diplomados?",
+                "¿Se evalúa el desempeño en diplomados igual que en otras actividades?"
+            ],
+            "responses": [
+                "📘 No, deben priorizar sus funciones académicas regulares (Artículo 35).",
+                "🔹 No se especifica, pero no deben afectar otras responsabilidades.",
+                "🎯 Podría ser sujeto a procedimientos disciplinarios.",
+                "📘 Sí, según los mecanismos de reporte de cada Centro.",
+                "🔹 Depende de los criterios de evaluación de cada departamento."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 35",
+            "topic": "Responsabilidades del personal académico"
+        },
+        {
+            "tag": "registro_cursos",
+            "patterns": [
+                "¿Llevan registro oficial de los cursos y diplomados?",
+                "¿Qué información se registra sobre los cursos?",
+                "¿Quién debe recibir los registros de constancias expedidas?",
+                "¿En qué plazo se reportan las constancias emitidas?",
+                "¿Dónde puedo verificar la validez de mi constancia?"
+            ],
+            "responses": [
+                "📘 Sí, cada Centro lleva registro de programas y constancias (Artículo 36).",
+                "🔹 Datos del programa, participantes y constancias emitidas.",
+                "🎯 Coordinación Escolar de la Administración General.",
+                "📘 15 días después de concluido el curso/diplomado (Artículo 36).",
+                "🔹 En la Coordinación Escolar del Centro que lo impartió."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 36",
+            "topic": "Registro de programas y constancias"
+        },
+        {
+            "tag": "cancelacion_por_falsedad",
+            "patterns": [
+                "¿Pueden cancelar mi inscripción si miento en mis documentos?",
+                "¿Qué documentos suelen verificarse?",
+                "¿Hay consecuencias legales por falsificar documentos?",
+                "¿Puedo apelar una cancelación por este motivo?",
+                "¿Me devuelven el pago si cancelan por documentos falsos?"
+            ],
+            "responses": [
+                "📘 Sí, si se comprueba falsedad total o parcial (Artículo 37).",
+                "🔹 Títulos, certificados de estudios, identificación, etc.",
+                "🎯 Sí, puede derivarse a instancias penales universitarias.",
+                "📘 No se especifica en el reglamento.",
+                "🔹 No se menciona; aplican políticas de cada Centro."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 37",
+            "topic": "Cancelación por documentación falsa"
+        },
+        {
+            "tag": "ingresos_extraordinarios",
+            "patterns": [
+                "¿Cómo se administran los ingresos por cursos y diplomados?",
+                "¿Los profesores reciben pago adicional por impartirlos?",
+                "¿Qué pasa con los ingresos de cursos de alta especialidad médica?",
+                "¿Pueden los Centros disponer libremente de estos recursos?",
+                "¿Dónde se establecen las cuotas para los cursos?"
+            ],
+            "responses": [
+                "📘 Según el Reglamento de Ingresos Extraordinarios (Artículo 39).",
+                "🔹 Depende de las políticas de remuneración de cada Centro.",
+                "🎯 Se distribuyen conforme a normas presupuestales (Artículo 39, párrafo 2).",
+                "📘 No, deben seguir las normas de distribución establecidas.",
+                "🔹 En los presupuestos aprobados por cada Consejo Universitario."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 39",
+            "topic": "Gestión de ingresos"
+        },
+        {
+            "tag": "normativa_supletoria",
+            "patterns": [
+                "¿Qué normas aplican para casos no previstos en este reglamento?",
+                "¿El Reglamento General de Planes de Estudio es supletorio?",
+                "¿Pueden los Centros crear reglas adicionales?",
+                "¿Qué pasa si hay conflicto entre normas?",
+                "¿Dónde consulto la normativa complementaria?"
+            ],
+            "responses": [
+                "📘 Reglamento General de Planes de Estudio y normativa universitaria (Artículo 40).",
+                "🔹 Sí, es la norma supletoria principal.",
+                "🎯 Sí, mientras no contradigan este reglamento.",
+                "📘 Prevalece este reglamento sobre normas supletorias.",
+                "🔹 En la Oficina de la Abogacía General de la UdeG."
+            ],
+            "document": "Reglamento de Cursos de Actualización, Diplomados y Cursos de Alta Especialidad Médica",
+            "article": "Artículo 40",
+            "topic": "Normativa supletoria"
+        }
+
+
+    ]
+}

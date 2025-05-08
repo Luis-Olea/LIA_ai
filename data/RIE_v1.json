@@ -1,0 +1,546 @@
+{
+    "main_topic": "Reglamento de Ingresos Extraordinarios de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "objeto_reglamento_ingresos_extra",
+            "patterns": [
+                "¿Qué regula este reglamento según el artículo 1?",
+                "¿A qué tipo de ingresos aplica este reglamento?",
+                "¿Los ingresos ordinarios están incluidos en este reglamento?",
+                "¿Qué significa 'ingresos extraordinarios' en este contexto?",
+                "¿Este reglamento aplica a todas las dependencias de la UdeG?"
+            ],
+            "responses": [
+                "📘 Regula los ingresos extraordinarios percibidos por la Universidad de Guadalajara (párrafo único).",
+                "🔹 Solo a ingresos no incluidos en los presupuestos ordinarios anuales (artículo 2).",
+                "🎯 No, solo a ingresos extraordinarios (no presupuestados).",
+                "📘 Recursos generados por servicios, enajenación de bienes, aportaciones, etc. (artículo 2).",
+                "🔹 Sí, a toda la Red Universitaria."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento ingresos extraordinarios"
+        },
+        {
+            "tag": "conceptos_ingresos_extraordinarios",
+            "patterns": [
+                "¿Qué actividades generan ingresos extraordinarios según el artículo 2?",
+                "¿La venta de propiedad intelectual es ingreso extraordinario?",
+                "¿Las donaciones cuentan como ingresos extraordinarios?",
+                "¿Los arrendamientos de espacios universitarios son ingresos extraordinarios?",
+                "¿Qué no se considera ingreso extraordinario?"
+            ],
+            "responses": [
+                "📘 Servicios profesionales, enajenación de bienes, aportaciones, licencias de patentes y concesiones (fracciones I-V).",
+                "🔹 Sí, por licencias de patentes o derechos de autor (fracción IV).",
+                "🎯 Sí, sean con o sin fines específicos (fracción III).",
+                "📘 Sí, por enajenación o arrendamiento de bienes (fracción II).",
+                "🔹 Ingresos presupuestados en el ejercicio fiscal anual."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 2",
+            "topic": "Conceptos de ingresos extraordinarios"
+        },
+        {
+            "tag": "control_percepcion_ingresos",
+            "patterns": [
+                "¿Quién controla los ingresos extraordinarios según el artículo 3?",
+                "¿En qué plazo deben depositarse estos ingresos en Tesorería?",
+                "¿Las dependencias pueden administrar directamente estos ingresos?",
+                "¿Qué pasa si no se concentran los ingresos en Tesorería?",
+                "¿La Tesorería gestiona el uso de estos fondos?"
+            ],
+            "responses": [
+                "📘 Tesorería General (control y percepción), pero las dependencias los administran (párrafo 1).",
+                "🔹 2 días hábiles posteriores a su percepción (párrafo 1).",
+                "🎯 Sí, pero deben reportarlos a Tesorería (párrafo 1).",
+                "📘 Es causa de responsabilidad universitaria (artículo 9).",
+                "🔹 No, solo controla su ingreso; las dependencias administran los fondos."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 3",
+            "topic": "Control y percepción de ingresos"
+        },
+        {
+            "tag": "informe_consejo_general",
+            "patterns": [
+                "¿Quién supervisa el uso de ingresos extraordinarios según el artículo 4?",
+                "¿Con qué frecuencia se informa al Consejo General?",
+                "¿El informe incluye detalles por dependencia?",
+                "¿Puede el Consejo modificar la asignación de estos ingresos?",
+                "¿Dónde se publican estos informes?"
+            ],
+            "responses": [
+                "📘 El Consejo General Universitario recibe informe anual (párrafo único).",
+                "🔹 Anualmente, sobre ejercicio y control (párrafo único).",
+                "🎯 Sí, debe detallar origen y aplicación de los recursos.",
+                "📘 No, solo recibe información; las asignaciones siguen el artículo 5.",
+                "🔹 En portales oficiales de transparencia de la UdeG."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 4",
+            "topic": "Informe al Consejo General"
+        },
+        {
+            "tag": "distribucion_ingresos",
+            "patterns": [
+                "¿Cómo se distribuyen los ingresos extraordinarios según el artículo 5?",
+                "¿Las donaciones con fin específico siguen esta distribución?",
+                "¿Qué son 'programas prioritarios institucionales'?",
+                "¿Las dependencias pueden gastar libremente su 70% asignado?",
+                "¿Qué pasa si no se usa el 30% para programas prioritarios?"
+            ],
+            "responses": [
+                "📘 30% a programas prioritarios; 70% líquido a dependencias generadoras (párrafo 1).",
+                "🔹 No, se usan 100% para el fin designado (excepción del párrafo 1).",
+                "🎯 Proyectos de impacto universitario definidos por la Rectoría.",
+                "📘 Sí, pero con reportes trimestrales a Tesorería (párrafo 1).",
+                "🔹 Es irregularidad sancionable (artículo 9)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 5",
+            "topic": "Distribución de ingresos"
+        },
+        {
+            "tag": "resolucion_dudas",
+            "patterns": [
+                "¿Quién resuelve dudas sobre clasificación de ingresos según el artículo 6?",
+                "¿Puede una dependencia apelar la resolución del Secretario General?",
+                "¿Qué criterios usa el Secretario para resolver?",
+                "¿Las resoluciones son públicas?",
+                "¿Hay plazos para emitir estas resoluciones?"
+            ],
+            "responses": [
+                "📘 El Secretario General (párrafo único).",
+                "🔹 No, sus resoluciones son definitivas en lo administrativo.",
+                "🎯 El reglamento y normativa financiera universitaria.",
+                "📘 Sí, deben registrarse en Tesorería.",
+                "🔹 No hay plazo definido, pero debe ser oportuno."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 6",
+            "topic": "Resolución de dudas"
+        },
+        {
+            "tag": "patrimonio_universitario",
+            "patterns": [
+                "¿Qué pasa con los bienes comprados con ingresos extraordinarios según el artículo 7?",
+                "¿Una dependencia puede vender estos bienes sin autorización?",
+                "¿Los inventarios incluyen estos bienes?",
+                "¿Quién audita estos bienes?",
+                "¿Las patentes generadas con estos fondos son propiedad de la UdeG?"
+            ],
+            "responses": [
+                "📘 Pasan a ser parte del patrimonio universitario (párrafo único).",
+                "🔹 No, requieren autorización conforme a normativa universitaria.",
+                "🎯 Sí, deben registrarse en Contraloría.",
+                "📘 Contraloría Interna y órganos de vigilancia (artículo 8).",
+                "🔹 Sí, salvo acuerdo en contrario con los inventores (artículo 13)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 7",
+            "topic": "Patrimonio universitario"
+        },
+        {
+            "tag": "vigilancia_control",
+            "patterns": [
+                "¿Quién vigila el uso de ingresos extraordinarios según el artículo 8?",
+                "¿Qué facultades tiene la Rectoría para esta vigilancia?",
+                "¿La Tesorería puede auditar a las dependencias?",
+                "¿Qué pasa si se detectan irregularidades?",
+                "¿Las facultades de vigilancia incluyen proyectos académicos?"
+            ],
+            "responses": [
+                "📘 La Rectoría, a través de órganos competentes (párrafo único).",
+                "🔹 Según Ley Orgánica (fracciones XI, XVII, XX) y este reglamento.",
+                "🎯 Sí, en coordinación con Contraloría.",
+                "📘 Se inicia procedimiento sancionador (artículo 9).",
+                "🔹 Sí, todos los proyectos que generen estos ingresos."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 8",
+            "topic": "Vigilancia y control"
+        },
+        {
+            "tag": "responsabilidades",
+            "patterns": [
+                "¿Qué conductas son sancionables según el artículo 9?",
+                "¿Quiénes pueden ser responsables por irregularidades?",
+                "¿La responsabilidad es solo administrativa?",
+                "¿Qué pasa si no se reporta información sobre el uso de fondos?",
+                "¿Se puede contratar personal con estos ingresos libremente?"
+            ],
+            "responses": [
+                "📘 4 causales: no concentrar ingresos, ocultar información, contratar irregularmente, incumplir reglamento (fracciones I-IV).",
+                "🔹 Titulares de dependencias, responsables de proyectos y personal involucrado (párrafo 1).",
+                "🎯 No, también puede haber responsabilidad civil o penal (párrafo 2).",
+                "📘 Es causal de responsabilidad (fracción II).",
+                "🔹 No, debe sujetarse a lo dispuesto en el reglamento (fracción III)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 9",
+            "topic": "Responsabilidades"
+        },
+        {
+            "tag": "origen_ingresos",
+            "patterns": [
+                "¿De dónde provienen los ingresos extraordinarios según el artículo 10?",
+                "¿Las cuotas de cursos de educación continua son ingresos extraordinarios?",
+                "¿Las becas externas cuentan como ingresos extraordinarios?",
+                "¿Qué son 'aportaciones gratuitas'?",
+                "¿Los ingresos por concesiones de cafeterías aplican aquí?"
+            ],
+            "responses": [
+                "📘 Uso de bienes universitarios, prestación de servicios y aportaciones sin contraprestación (párrafo único).",
+                "🔹 Sí, si no están presupuestadas (son servicios educativos).",
+                "🎯 No, a menos que sean donativos no etiquetados.",
+                "📘 Donaciones o subsidios sin obligación de retribución.",
+                "🔹 Sí, son contraprestaciones por concesiones (artículo 2, fracción V)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 10",
+            "topic": "Origen de los ingresos"
+        },
+        {
+            "tag": "destino_aportaciones",
+            "patterns": [
+                "¿Cómo se deben usar las aportaciones gratuitas según el artículo 11?",
+                "¿Puede una dependencia desviar fondos de una donación etiquetada?",
+                "¿Qué pasa si no se cumple el fin específico de una aportación?",
+                "¿Quién audita el uso de estas aportaciones?",
+                "¿Las donaciones sin fin específico tienen restricciones?"
+            ],
+            "responses": [
+                "📘 Exclusivamente para los fines designados por el donante (párrafo único).",
+                "🔹 No, es causal de responsabilidad (artículo 9).",
+                "🎯 El donante puede exigir reintegro y se sanciona a los responsables.",
+                "📘 Contraloría Interna y Tesorería General.",
+                "🔹 Se rigen por el artículo 5 (30% programas prioritarios, 70% a dependencia)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 11",
+            "topic": "Destino de aportaciones gratuitas"
+        },
+        {
+            "tag": "convenios_servicios",
+            "patterns": [
+                "¿Qué convenios deben aprobarse ante el Secretario General según el artículo 12?",
+                "¿Las dependencias pueden firmar convenios pequeños sin autorización?",
+                "¿Qué monto define si un convenio requiere revisión del Secretario?",
+                "¿Qué debe incluir el informe a Rectoría de convenios menores?",
+                "¿Los convenios con otras universidades siguen este procedimiento?"
+            ],
+            "responses": [
+                "📘 Todos, excepto los ≤ 3 salarios mínimos anuales de ZMG (párrafo único).",
+                "🔹 Sí, si no exceden 3 salarios mínimos (con informe posterior a Rectoría).",
+                "🎯 3 salarios mínimos generales anuales de Zona Metropolitana de Guadalajara.",
+                "📘 Detalles del convenio, monto y contraprestaciones.",
+                "🔹 Sí, salvo que exista un marco de colaboración institucional previo."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 12",
+            "topic": "Convenios de prestación de servicios"
+        },
+        {
+            "tag": "distribucion_ingresos_propiedad_intelectual",
+            "patterns": [
+                "¿Cómo se distribuyen los ingresos por patentes según el artículo 13?",
+                "¿Los inventores pueden recibir más del 40% establecido?",
+                "¿Qué pasa si una invención involucra a múltiples dependencias?",
+                "¿Los estudiantes participan en la repartición de estos ingresos?",
+                "¿Estos porcentajes aplican a derechos de autor?"
+            ],
+            "responses": [
+                "📘 30% a dependencia, 40% a autores, 30% a programas prioritarios (fracciones I-III).",
+                "🔹 No, salvo acuerdo excepcional del Consejo General.",
+                "🎯 Los titulares de las dependencias deciden la distribución (párrafo 2).",
+                "📘 Sí, si son coautores registrados en la patente.",
+                "🔹 Sí, para explotación de derechos de autor registrados por la UdeG."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 13",
+            "topic": "Distribución de ingresos por propiedad intelectual"
+        },
+        {
+            "tag": "control_gastos",
+            "patterns": [
+                "¿A qué normas se sujetan los gastos para generar ingresos según el artículo 14?",
+                "¿Las dependencias pueden crear sus propias reglas de gasto?",
+                "¿Qué pasa si un gasto no está contemplado en este capítulo?",
+                "¿Los viáticos requieren autorización especial?",
+                "¿Cómo se fiscalizan estos gastos?"
+            ],
+            "responses": [
+                "📘 A este Capítulo III y, subsidiariamente, a normas generales de gastos (párrafo único).",
+                "🔹 No, deben seguir este reglamento y lineamientos de Tesorería.",
+                "🎯 Se aplican las normas generales de gastos universitarios.",
+                "📘 Sí, por Tesorería (artículo 19).",
+                "🔹 Mediante informes semestrales y auditorías (artículo 17)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 14",
+            "topic": "Control de gastos"
+        },
+        {
+            "tag": "autorizaciones_tesoreria",
+            "patterns": [
+                "¿Qué autoriza Tesorería según el artículo 15?",
+                "¿Quién decide en qué banco se abren cuentas para estos fondos?",
+                "¿Los funcionarios pueden manejar fondos sin autorización expresa?",
+                "¿Cómo se designa a los responsables del manejo de recursos?",
+                "¿Las obligaciones fiscales son independientes por proyecto?"
+            ],
+            "responses": [
+                "📘 Apertura de cuentas, instituciones bancarias, responsables de manejo y cumplimiento fiscal (fracciones I-IV).",
+                "🔹 Tesorería y Contraloría conjuntamente (fracción II).",
+                "🎯 No, deben estar nombrados en los acuerdos (fracción III).",
+                "📘 Mediante acuerdos específicos de Tesorería/Contraloría (fracción III).",
+                "🔹 No, la UdeG las centraliza (fracción IV)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 15",
+            "topic": "Autorizaciones de Tesorería"
+        },
+        {
+            "tag": "financiamiento_previo",
+            "patterns": [
+                "¿Puede Tesorería adelantar fondos para proyectos según el artículo 16?",
+                "¿Qué gastos pueden financiarse con este mecanismo?",
+                "¿Las dependencias deben justificar la solicitud de financiamiento?",
+                "¿Hay límite al monto que puede adelantarse?",
+                "¿Qué pasa si el proyecto no genera los ingresos esperados?"
+            ],
+            "responses": [
+                "📘 Sí, con cargo a ingresos futuros del proyecto (párrafo único).",
+                "🔹 Adquisición de bienes y remuneraciones por servicios (párrafo único).",
+                "🎯 Sí, con presupuesto y calendario (artículo 17).",
+                "📘 No, pero debe ser proporcional a los ingresos proyectados.",
+                "🔹 La dependencia debe reponer los fondos o justificar el déficit."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 16",
+            "topic": "Financiamiento previo"
+        },
+        {
+            "tag": "obligaciones_dependencias",
+            "patterns": [
+                "¿Qué deben reportar las dependencias sobre proyectos según el artículo 17?",
+                "¿Con qué frecuencia se informa sobre avances de proyectos?",
+                "¿Quiénes son las unidades administrativas competentes?",
+                "¿Qué modificaciones deben reportarse?",
+                "¿Las dependencias deben tener sistemas de control interno?"
+            ],
+            "responses": [
+                "📘 Avances, modificaciones presupuestales, desviaciones e irregularidades (fracciones II-III).",
+                "🔹 Semestralmente o según indiquen las unidades competentes (fracción IIa).",
+                "🎯 Dirección General Administrativa y Departamento de Presupuesto (párrafo final).",
+                "📘 Cambios en presupuesto, calendario de fondos o ejecución (fracción IIb).",
+                "🔹 Sí, para control y evaluación de fondos (fracción III)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 17",
+            "topic": "Obligaciones de las dependencias"
+        },
+        {
+            "tag": "comprobacion_gastos",
+            "patterns": [
+                "¿Qué requisitos tienen los comprobantes de gastos según el artículo 18?",
+                "¿Los comprobantes electrónicos son válidos?",
+                "¿Qué pasa si un gasto no tiene comprobante?",
+                "¿Hay formatos universitarios para comprobación?",
+                "¿Quién verifica que los comprobantes estén completos?"
+            ],
+            "responses": [
+                "📘 Deben estar amparados con documentación comprobatoria completa (párrafo único).",
+                "🔹 Sí, si cumplen con normativa fiscal y universitaria.",
+                "🎯 No es gasto válido; el responsable debe reponer el monto.",
+                "📘 Sí, establecidos por Tesorería y Contraloría.",
+                "🔹 Tesorería al recibir los informes (artículo 22)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 18",
+            "topic": "Comprobación de gastos"
+        },
+        {
+            "tag": "tipos_erogaciones",
+            "patterns": [
+                "¿Qué erogaciones pueden hacer las dependencias según el artículo 19?",
+                "¿Qué son 'gastos menores' en este contexto?",
+                "¿Necesitan autorización para cada viático?",
+                "¿Quién paga los honorarios de servicios profesionales?",
+                "¿Las dependencias pueden retener parte de los ingresos para gastos?"
+            ],
+            "responses": [
+                "📘 Viáticos y gastos menores con autorización general de Tesorería (fracción I).",
+                "🔹 Aquellos ≤ al 10% del salario mínimo diario (según lineamientos).",
+                "🎯 No, si están dentro de la autorización general.",
+                "📘 Tesorería, previa solicitud de la dependencia (fracción II).",
+                "🔹 No, todos los ingresos deben depositarse en Tesorería (artículo 3)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 19",
+            "topic": "Tipos de erogaciones"
+        },
+        {
+            "tag": "plazos_pagos",
+            "patterns": [
+                "¿En qué plazo debe pagar Tesorería según el artículo 20?",
+                "¿Qué comprobantes se necesitan para pagos de Tesorería?",
+                "¿Pueden descentralizarse los pagos de proyectos?",
+                "¿Qué pasa si Tesorería no paga en el plazo establecido?",
+                "¿Los proveedores pueden cobrar intereses por mora?"
+            ],
+            "responses": [
+                "📘 5 días hábiles tras recibir comprobantes (párrafo 1).",
+                "🔹 Facturas, recibos o documentos fiscales válidos.",
+                "🎯 Sí, mediante sistemas descentralizados autorizados (párrafo 2).",
+                "📘 La dependencia puede solicitar revisión urgente a Rectoría.",
+                "🔹 Sí, si la mora es imputable a la UdeG."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 20",
+            "topic": "Plazos para pagos"
+        },
+        {
+            "tag": "anticipos_gastos",
+            "patterns": [
+                "¿Cómo se manejan los anticipos para gastos según el artículo 21?",
+                "¿Qué son 'gastos pendientes de comprobación'?",
+                "¿Las dependencias deben devolver anticipos no utilizados?",
+                "¿Con qué frecuencia se entregan estos anticipos?",
+                "¿Qué pasa si no se comprueba un gasto realizado con anticipo?"
+            ],
+            "responses": [
+                "📘 Mediante entregas periódicas basadas en el calendario del proyecto (párrafo único).",
+                "🔹 Fondos entregados previamente que aún no tienen comprobante fiscal.",
+                "🎯 Sí, dentro de los 30 días posteriores al cierre del proyecto (artículo 23).",
+                "📘 Según el calendario acordado con Tesorería (artículo 17).",
+                "🔹 Se deduce del siguiente anticipo y puede generar sanción (artículo 9)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 21",
+            "topic": "Anticipos para gastos"
+        },
+        {
+            "tag": "plazos_entrega_anticipos",
+            "patterns": [
+                "¿En qué plazo debe Tesorería entregar anticipos según el artículo 22?",
+                "¿Quién debe firmar la solicitud de anticipos?",
+                "¿Qué justifica la suspensión de ministración de fondos?",
+                "¿Puede una dependencia apelar la suspensión de anticipos?",
+                "¿Qué documentación se necesita para reposición de gastos?"
+            ],
+            "responses": [
+                "📘 48 horas tras la solicitud firmada por el titular y secretario (párrafo 1).",
+                "🔹 El titular de la dependencia y su secretario administrativo.",
+                "🎯 Falta de saldo o incumplimiento en comprobación (párrafo 2).",
+                "📘 Sí, ante la Rectoría con pruebas de regularización.",
+                "🔹 Comprobantes fiscales y reporte de actividades (artículo 18)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 22",
+            "topic": "Plazos para entrega de anticipos"
+        },
+        {
+            "tag": "cierre_proyectos",
+            "patterns": [
+                "¿Qué plazo hay para comprobar gastos al finalizar un proyecto según el artículo 23?",
+                "¿Los comprobantes deben ser originales?",
+                "¿Qué incluye la 'documentación comprobatoria' completa?",
+                "¿Quién verifica los documentos al cierre?",
+                "¿Qué pasa si hay gastos sin comprobar tras el plazo?"
+            ],
+            "responses": [
+                "📘 30 días naturales posteriores a la terminación (párrafo único).",
+                "🔹 Sí, o copias certificadas si son electrónicas.",
+                "🎯 Facturas, contratos, informes técnicos y justificación de viáticos.",
+                "📘 Tesorería y Contraloría en conjunto.",
+                "🔹 Se consideran irregularidades y generan responsabilidad (artículo 9)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 23",
+            "topic": "Cierre de proyectos"
+        },
+        {
+            "tag": "registro_personal",
+            "patterns": [
+                "¿Qué personal debe registrarse ante Tesorería según el artículo 24?",
+                "¿Los becarios deben incluirse en este registro?",
+                "¿Hay un formato oficial para el reporte de personal?",
+                "¿Qué pasa si no se reporta a un colaborador externo?",
+                "¿Este registro aplica para personal académico en proyectos?"
+            ],
+            "responses": [
+                "📘 Todo colaborador remunerado en proyectos (párrafo único).",
+                "🔹 Solo si reciben remuneración adicional a la beca.",
+                "🎯 Sí, establecido por Tesorería (artículo 15).",
+                "📘 Es causal de responsabilidad administrativa (artículo 9).",
+                "🔹 Sí, si reciben pago adicional por el proyecto (artículo 26)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 24",
+            "topic": "Registro de personal"
+        },
+        {
+            "tag": "contratacion_servicios",
+            "patterns": [
+                "¿Qué tipos de contratos permite el artículo 25?",
+                "¿Los contratos por obra determinada requieren plazos mínimos?",
+                "¿Qué pasa si un servicio de campo excede 28 días?",
+                "¿Las dependencias pueden crear sus propios formatos de contrato?",
+                "¿Los honorarios deben alinearse al tabulador universitario?"
+            ],
+            "responses": [
+                "📘 Servicios profesionales y por obra determinada (párrafo 1).",
+                "🔹 No, pero deben especificar entregables y fechas.",
+                "🎯 Debe formalizarse contrato definitivo (párrafo 2).",
+                "📘 No, deben usar los formatos autorizados por Tesorería.",
+                "🔹 No, son independientes del tabulador (artículo 27)."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 25",
+            "topic": "Contratación de servicios"
+        },
+        {
+            "tag": "participacion_academicos",
+            "patterns": [
+                "¿Qué requisitos aplican a académicos en proyectos según el artículo 26?",
+                "¿Un académico puede negarse a participar en estos proyectos?",
+                "¿La participación afecta sus labores ordinarias?",
+                "¿Deben firmar contrato adicional los académicos?",
+                "¿Los estudiantes pueden ser coautores en proyectos remunerados?"
+            ],
+            "responses": [
+                "📘 Acuerdo previo del titular de su dependencia (párrafo único).",
+                "🔹 Sí, es voluntaria y no afecta su evaluación.",
+                "🎯 No, debe ser adicional a sus funciones regulares.",
+                "📘 Solo si reciben remuneración extra (artículo 27).",
+                "🔹 Sí, con autorización del tutor académico."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 26",
+            "topic": "Participación de académicos"
+        },
+        {
+            "tag": "remuneraciones_adicionales",
+            "patterns": [
+                "¿Qué debe incluir el contrato de remuneraciones adicionales según el artículo 27?",
+                "¿Estos pagos generan antigüedad o prestaciones?",
+                "¿Puede un administrativo recibir pagos adicionales por proyectos?",
+                "¿Los contratos tienen plazo máximo?",
+                "¿Qué pasa si un proyecto se extiende más allá del contrato?"
+            ],
+            "responses": [
+                "📘 Objeto del trabajo, derechos/obligaciones, carácter excepcional y duración (párrafo 1).",
+                "🔹 No, son temporales y no generan derechos laborales (párrafo 2).",
+                "🎯 Sí, bajo las mismas condiciones que los académicos.",
+                "📘 Sí, deben coincidir con la duración del proyecto.",
+                "🔹 Debe renovarse el contrato con justificación."
+            ],
+            "document": "Reglamento de Ingresos Extraordinarios",
+            "article": "Artículo 27",
+            "topic": "Remuneraciones adicionales"
+        }
+
+    ]
+}

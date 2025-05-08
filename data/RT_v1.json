@@ -1,0 +1,936 @@
+{
+    "main_topic": "Reglamento General de Titulación - Universidad de Guadalajara",
+    "intents": [
+
+        {
+            "tag": "objeto_del_reglamento_titulacion",
+            "patterns": [
+                "¿Cuál es el propósito principal del reglamento de titulación?",
+                "¿Qué niveles educativos contempla este reglamento?",
+                "¿El reglamento aplica para estudios de posgrado?",
+                "¿Qué debe demostrar un pasante según este artículo?",
+                "¿Quién está obligado a cumplir este reglamento?",
+                "¿Este reglamento sustituye a los reglamentos particulares?",
+                "¿Qué tipo de profesionales pueden titularse bajo estas normas?",
+                "¿El reglamento establece sanciones por incumplimiento?",
+                "¿Dónde se publicó este reglamento?",
+                "¿Qué artículo establece el objeto del reglamento?"
+            ],
+            "responses": [
+                "🎯 El propósito es normar los procedimientos de titulación para técnicos superiores, licenciaturas y nivel medio superior. 📜",
+                "🔹 Cubre 3 niveles: 1) Técnico Superior Universitario 🛠️ 2) Licenciatura 🎓 3) Profesional Medio Superior 🏫",
+                "❌ No aplica para posgrados, solo para los niveles mencionados en el Artículo 1. 🚫",
+                "📚 Debe demostrar capacidad para ejercer su profesión y nivel de formación adquirido. ✅",
+                "👥 Todos los pasantes de los niveles mencionados y el personal académico involucrado. 🏛️",
+                "⚖️ No, los reglamentos particulares lo complementan según cada carrera. 📋",
+                "🎓 Técnicos superiores, licenciados y profesionales de nivel medio superior. 👨‍🔧👩‍⚕️👨‍🏫",
+                "⚠️ No especifica sanciones, pero es de observancia obligatoria (Artículo 3). ⚠️",
+                "📰 En La Gaceta de la UdeG (publicación del 17/abril/2023). 🗞️",
+                "📌 El Artículo 1 establece el objeto y alcance del reglamento. 🔍"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento titulacion"
+        },
+        {
+            "tag": "objetivos_evaluacion_titulacion",
+            "patterns": [
+                "¿Cuáles son los tres objetivos principales de la evaluación?",
+                "¿Qué evalúa el personal académico según este artículo?",
+                "¿Cómo se acreditan socialmente los conocimientos?",
+                "¿Qué aspectos del curriculum se valoran?",
+                "¿La evaluación mide solo conocimientos teóricos?",
+                "¿Quién verifica el cumplimiento de estos objetivos?",
+                "¿Estos objetivos aplican para todas las modalidades?",
+                "¿Qué documento acredita oficialmente la titulación?",
+                "¿Se evalúan habilidades prácticas?",
+                "¿Dónde se mencionan estos objetivos?"
+            ],
+            "responses": [
+                "🎯 1) Capacidad profesional 👨‍⚖️ 2) Calidad curricular 📊 3) Acreditación social 🏛️",
+                "🔍 La calidad y pertinencia del curriculum y proceso enseñanza-aprendizaje. 🧑‍🏫",
+                "📜 Mediante documentos oficiales (títulos y cédulas profesionales). 🎓",
+                "📚 Contenidos académicos y metodologías de enseñanza. 📝",
+                "🛠️ No, también habilidades, destrezas y juicio profesional. ⚖️",
+                "👨‍⚖️ Los Comités de Titulación y sinodales designados. 🏛️",
+                "✅ Sí, independientemente de la modalidad elegida. 🔄",
+                "📄 El título profesional expedido por la Universidad. 🏅",
+                "⚙️ Sí, especialmente en modalidades prácticas y artísticas. 🎭🔧",
+                "📌 En el Artículo 2 del Reglamento. 🔍"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 2",
+            "topic": "Objetivos de la evaluación"
+        },
+        {
+            "tag": "aplicacion_modalidades",
+            "patterns": [
+                "¿Quién decide qué modalidades aplican para cada carrera?",
+                "¿Los centros universitarios pueden modificar las modalidades?",
+                "¿Qué consejo supervisa la educación media superior?",
+                "¿Las modalidades son iguales en todos los campus?",
+                "¿Puede una carrera tener varias modalidades?",
+                "¿Dónde se publican las modalidades por carrera?",
+                "¿Los reglamentos particulares pueden restringir modalidades?",
+                "¿Qué artículo autoriza a los centros a establecer modalidades?",
+                "¿Quién aprueba los cambios en las modalidades?",
+                "¿Los estudiantes pueden proponer nuevas modalidades?"
+            ],
+            "responses": [
+                "🏛️ Los Consejos de Centro y el Consejo Universitario de Educación Media Superior. 📋",
+                "🔄 Sí, mediante reglamentos particulares aprobados. ✅",
+                "🎓 El Consejo Universitario de Educación Media Superior (CUEMS). 👨‍⚖️",
+                "⚖️ No, varían según los reglamentos de cada centro. 📍",
+                "✅ Sí, pueden ofrecer múltiples opciones según su perfil. 🔢",
+                "📰 En los reglamentos particulares de cada dependencia. 📜",
+                "⚠️ Sí, si justifican académicamente la restricción. 📚",
+                "📌 El Artículo 3 establece esta facultad. 🔍",
+                "👨‍⚖️ Los consejos respectivos en sesión ordinaria. 🏛️",
+                "💡 Solo mediante petición formal al Comité de Titulación. ✍️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 3",
+            "topic": "Aplicación de modalidades"
+        },
+        {
+            "tag": "bases_criterios_titulacion",
+            "patterns": [
+                "¿Qué establece este artículo sobre los títulos profesionales?",
+                "¿El reglamento aplica para títulos técnicos?",
+                "¿Qué tipos de programas cubre este artículo?",
+                "¿Los títulos de medio superior tienen mismo proceso?",
+                "¿Quién verifica el cumplimiento de estos criterios?",
+                "¿Los centros pueden añadir requisitos adicionales?",
+                "¿Dónde se especifican los criterios por carrera?",
+                "¿Este artículo menciona las modalidades de titulación?",
+                "¿Los criterios son iguales para carreras similares?",
+                "¿Qué autoridad respalda estos lineamientos?"
+            ],
+            "responses": [
+                "📜 Establece bases y criterios generales para expedición de títulos. ⚖️",
+                "🔧 Sí, para Técnico Superior Universitario. 🛠️",
+                "🎓 Medio superior, TSU y licenciatura. 📚",
+                "⚖️ Proceso similar pero con ajustes para ese nivel. 🏫",
+                "👨‍⚖️ Los Comités de Titulación y Control Escolar. 📋",
+                "✅ Sí, en sus reglamentos particulares. 📌",
+                "📄 En los planes de estudio y reglamentos internos. 🗂️",
+                "🔍 No, las modalidades se detallan desde el Artículo 8. 📌",
+                "🔄 Pueden variar según perfil de egreso. 📊",
+                "🏛️ El Consejo General Universitario. 👨‍⚖️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 4",
+            "topic": "Bases y criterios"
+        },
+        {
+            "tag": "proposito_lineamientos",
+            "patterns": [
+                "¿Qué beneficios busca la diversificación de modalidades?",
+                "¿Cómo se fortalece la eficiencia terminal?",
+                "¿Qué se entiende por estructuras colegiadas?",
+                "¿Qué debe demostrar el egresado en su evaluación?",
+                "¿Este artículo aplica para educación continua?",
+                "¿Los lineamientos son obligatorios?",
+                "¿Dónde se publican los indicadores de eficiencia terminal?",
+                "¿Cómo se valora el criterio profesional?",
+                "¿Los centros deben reportar sus resultados?",
+                "¿Qué artículo habla sobre los objetivos de los lineamientos?"
+            ],
+            "responses": [
+                "📈 Mayor flexibilidad y opciones para los estudiantes. 🔄",
+                "🎯 Reduciendo obstáculos administrativos en la titulación. ⏳",
+                "👥 Órganos como comités y consejos académicos. 🏛️",
+                "🧠 Conocimientos generales y aplicación profesional. 🛠️",
+                "❌ Solo para programas formales de los niveles mencionados. 🚫",
+                "✅ Sí, para toda la Red Universitaria. ⚖️",
+                "📊 En informes anuales de cada dependencia. 📑",
+                "⚖️ Mediante análisis de casos prácticos y sustentaciones. 💼",
+                "📋 Sí, a la Coordinación General de Planeación. 📈",
+                "📌 El Artículo 5 establece estos propósitos. 🔍"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 5",
+            "topic": "Propósito de lineamientos"
+        },
+        {
+            "tag": "definicion_modalidad",
+            "patterns": [
+                "¿Cómo define el artículo 6 la modalidad de titulación?",
+                "¿Qué elementos debe demostrar el sustentante?",
+                "¿La modalidad evalúa solo conocimientos teóricos?",
+                "¿Se consideran habilidades prácticas en la evaluación?",
+                "¿Qué se entiende por juicio crítico profesional?",
+                "¿Puede variar la definición entre carreras?",
+                "¿Dónde se especifican los detalles de cada modalidad?",
+                "¿El juicio profesional se evalúa en todas las modalidades?",
+                "¿Qué artículo establece esta definición general?",
+                "¿Las aptitudes son parte de la evaluación?"
+            ],
+            "responses": [
+                "📘 Procedimiento para demostrar conocimientos, habilidades, aptitudes, destrezas y juicio crítico adquiridos. 🎓",
+                "🔹 Debe mostrar: conocimientos teóricos 🧠, habilidades prácticas 🛠️, aptitudes 💡 y juicio profesional ⚖️.",
+                "❌ No, también evalúa aplicación práctica y criterio profesional. 📊",
+                "✅ Sí, especialmente en modalidades como demostración de habilidades o exámenes prácticos. 🔧",
+                "⚖️ Capacidad para analizar situaciones profesionales y tomar decisiones fundamentadas. 🤔",
+                "🔄 La definición base es general, cada carrera adapta los criterios. 📌",
+                "📜 En los reglamentos particulares de cada centro universitario. 🏛️",
+                "✔️ Sí, es un requisito transversal en todas las modalidades. 🌐",
+                "📌 El Artículo 6 contiene esta definición fundamental. 🔍",
+                "🌟 Sí, son evaluadas mediante proyectos, exámenes o demostraciones. 🏆"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 6",
+            "topic": "Definición de modalidad"
+        },
+        {
+            "tag": "requisitos_modalidades",
+            "patterns": [
+                "¿Qué parámetros deben cumplir las modalidades según el artículo 7?",
+                "¿Los trabajos de titulación requieren rigor académico?",
+                "¿Quién establece los requisitos metodológicos?",
+                "¿Pueden los centros añadir requerimientos adicionales?",
+                "¿Qué pasa si no se siguen los parámetros establecidos?",
+                "¿Los requisitos son iguales para tesis y exámenes?",
+                "¿Dónde se detallan los formatos específicos?",
+                "¿El reglamento general establece estándares mínimos?",
+                "¿Qué artículo regula estos requisitos?",
+                "¿Se aceptan metodologías innovadoras?"
+            ],
+            "responses": [
+                "📋 Deben seguir: 1) Rigor académico 🎓, 2) Requisitos metodológicos 📐, 3) Normativas institucionales ⚖️.",
+                "✅ Sí, todos los trabajos deben cumplir estándares académicos altos. 📚",
+                "🏛️ Este reglamento y los reglamentos particulares de cada centro. 📜",
+                "➕ Sí, siempre que no contradigan este reglamento general. ✔️",
+                "⚠️ El Comité de Titulación puede rechazar trabajos no conformes. ❌",
+                "⚖️ No, cada modalidad tiene sus propios requisitos. 🔄",
+                "📄 En los anexos o manuales de cada dependencia. 🗂️",
+                "📌 Sí, el Artículo 7 fija los lineamientos básicos. 🔍",
+                "📌 El Artículo 7 establece estos parámetros generales. ⚖️",
+                "💡 Sí, previa validación del Comité de Titulación. 🌟"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 7",
+            "topic": "Requisitos de modalidades"
+        },
+        {
+            "tag": "opciones_genericas_titulacion",
+            "patterns": [
+                "¿Cuáles son las 6 modalidades genéricas según el artículo 8?",
+                "¿Puedo titularme solo con mi promedio?",
+                "¿La investigación cuenta como modalidad?",
+                "¿Hay opciones para carreras artísticas?",
+                "¿Qué modalidad es mejor para proyectos tecnológicos?",
+                "¿Puedo combinar varias modalidades?",
+                "¿Dónde encuentro qué modalidades ofrece mi carrera?",
+                "¿El servicio social sirve para titularse?",
+                "¿Qué artículo lista las opciones generales?",
+                "¿Las modalidades tienen igual valor académico?"
+            ],
+            "responses": [
+                "🎓 1) Desempeño académico 📊 2) Exámenes 📝 3) Materiales educativos 📚 4) Investigación 🔍 5) Habilidades 🛠️ 6) Tesis/tesina 📄.",
+                "✅ Sí, mediante Excelencia Académica (95+) o Titulación por Promedio (90+). 🏆",
+                "🔍 Sí, en la modalidad de Investigación y Estudios de Posgrado. 🎓",
+                "🎨 Sí, mediante Demostración de Habilidades (recitales, exposiciones, etc.). 🎭",
+                "⚙️ Diseño de Equipo (Artículo 12) o Tesis con prototipos. 🔧",
+                "🔄 No, debes elegir una sola modalidad. ⚠️",
+                "🏫 En el reglamento particular de tu centro o con tu coordinador. 📋",
+                "📝 Sí, mediante Informe de Servicio Social (Artículo 14). 🤝",
+                "📌 El Artículo 8 establece este listado general. 🔍",
+                "⚖️ Sí, todas conducen al mismo título válido. 🎓"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 8",
+            "topic": "Opciones genéricas"
+        },
+        {
+            "tag": "titulacion_por_promedio",
+            "patterns": [
+                "¿Qué promedio necesito para titulación por excelencia académica?",
+                "¿Cuántas materias en extraordinario se permiten para excelencia?",
+                "¿La titulación por promedio requiere examen profesional?",
+                "¿Qué pasa si tengo 89.9 de promedio global?",
+                "¿Debo solicitar esta modalidad formalmente?",
+                "¿Hay que entregar algún trabajo escrito?",
+                "¿Esta opción está disponible en todas las carreras?",
+                "¿Qué artículo regula la titulación por promedio?",
+                "¿El promedio incluye todas las materias?",
+                "¿Dónde verifico si cumplo los requisitos?"
+            ],
+            "responses": [
+                "🏆 Mínimo 95 de promedio global sin redondeo. 📊",
+                "⚠️ Máximo 10% del total de materias cursadas. 🧮",
+                "🚫 No, es un trámite administrativo automático. 📋",
+                "📉 No calificas, necesitas mínimo 90 para Titulación por Promedio. ❌",
+                "✅ Sí, mediante solicitud en Control Escolar. ✍️",
+                "📄 No, pero debes presentar historial académico oficial. 🗂️",
+                "✔️ Sí, salvo que el reglamento particular de tu carrera lo restrinja. 📌",
+                "📌 El Artículo 9 establece estos requisitos. 🔍",
+                "🧾 Sí, todas las asignaturas del plan de estudios. 📚",
+                "🏫 En la Coordinación de Control Escolar de tu centro. 🖥️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 9",
+            "topic": "Titulación por promedio"
+        },
+        {
+            "tag": "modalidades_examen",
+            "patterns": [
+                "¿Qué tipos de exámenes de titulación existen?",
+                "¿El examen global teórico-práctico es oral o escrito?",
+                "¿Cómo funciona el examen de certificación CENEVAL?",
+                "¿Puedo elegir el formato de mi examen?",
+                "¿Qué temas incluye la réplica verbal?",
+                "¿Todos los exámenes requieren jurado?",
+                "¿Dónde se aplican los exámenes profesionales?",
+                "¿Qué artículo describe estas opciones?",
+                "¿El examen de capacitación profesional es igual a una tesis?",
+                "¿Puedo presentar examen en otro campus?"
+            ],
+            "responses": [
+                "📝 5 tipos: 1) Global teórico-práctico 🧠🛠️ 2) Global teórico 🧠 3) CENEVAL 🏅 4) Capacitación profesional 👨‍💼 5) Réplica verbal/written 🗣️.",
+                "🔄 Puede ser ambos, según determine tu Comité de Titulación. 📋",
+                "📊 Debes acreditar puntaje de excelencia en EGEL-CENEVAL. ✅",
+                "⚖️ Depende de los lineamientos de tu carrera. 📌",
+                "📚 Sobre materias del plan de estudios o quehacer profesional. 💼",
+                "👨‍⚖️ Sí, todos son evaluados por sinodales designados. 🏛️",
+                "🏫 En tu centro universitario, salvo casos excepcionales. 📍",
+                "📌 El Artículo 10 detalla estas modalidades. 🔍",
+                "❌ No, es una defensa oral de investigación documental o de campo. 📄",
+                "🌐 Solo con autorización expresa de ambos centros. ⚠️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 10",
+            "topic": "Modalidades por examen"
+        },
+        {
+            "tag": "modalidades_materiales_educativos",
+            "patterns": [
+                "¿Qué materiales educativos son válidos para titulación?",
+                "¿Una guía ilustrada debe ser publicada?",
+                "¿Qué características debe tener un paquete didáctico?",
+                "¿Puedo hacer materiales digitales?",
+                "¿La propuesta pedagógica requiere implementación real?",
+                "¿Hay extensión mínima para estos trabajos?",
+                "¿Quién evalúa los materiales educativos?",
+                "¿Qué artículo regula esta modalidad?",
+                "¿Puedo trabajar en equipo?",
+                "¿Los prototipos didácticos requieren manual?"
+            ],
+            "responses": [
+                "📚 1) Guías comentadas/ilustradas 📖 2) Paquetes didácticos 🎒 3) Propuestas pedagógicas 🧑‍🏫.",
+                "🖨️ No, pero debe ser inédito y validado académicamente. ✅",
+                "🧩 Debe ser producto de investigación y útil para enseñanza específica. 🎯",
+                "💻 Sí, si cumplen con los requisitos técnicos y pedagógicos. ✔️",
+                "📌 No, pero debe ser viable y fundamentada teóricamente. 🤔",
+                "📏 Lo establece cada centro, generalmente 40+ cuartillas. 📄",
+                "👨‍🏫 Jurado especializado designado por el Comité de Titulación. 🏛️",
+                "📌 El Artículo 11 autoriza esta modalidad. 🔍",
+                "👥 Sí, si el reglamento particular de tu carrera lo permite. 📋",
+                "📑 Sí, con especificaciones técnicas y justificación pedagógica. 🔧"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 11",
+            "topic": "Materiales educativos"
+        },
+        {
+            "tag": "modalidades_investigacion",
+            "patterns": [
+                "¿Qué opciones de investigación existen para titulación?",
+                "¿Puedo titularme con créditos de maestría?",
+                "¿Un seminario de investigación equivale a tesis?",
+                "¿Qué profundidad debe tener un trabajo monográfico?",
+                "¿El diseño de equipo requiere prototipo físico?",
+                "¿Hay duración mínima para seminarios de titulación?",
+                "¿Los estudios de posgrado deben ser en la UdeG?",
+                "¿Qué artículo cubre estas opciones?",
+                "¿Puedo usar mi trabajo de servicio social?",
+                "¿Los informes de práctica son modalidad de investigación?"
+            ],
+            "responses": [
+                "🔬 1) Créditos de posgrado 🎓 2) Trabajos monográficos 📄 3) Seminarios 🧑‍🏫 4) Diseño de equipo ⚙️.",
+                "✅ Sí, si cubres los créditos requeridos y los vinculas a tu licenciatura. 🔗",
+                "📚 Sí, los productos tienen valor equivalente ante el Comité. ⚖️",
+                "📊 Debe ofrecer visión global e integradora de la profesión. 🌐",
+                "🛠️ No siempre, pero debe incluir planos y especificaciones técnicas. 📐",
+                "⏳ 3-6 meses según lo establezca tu programa. 📅",
+                "🌍 No, pero la institución debe ser reconocida. 🏛️",
+                "📌 El Artículo 12 detalla estas alternativas. 🔍",
+                "❌ No, son modalidades distintas (ver Artículo 14). ⚠️",
+                "📌 No, pertenecen a otra modalidad (Artículo 14, fracción III). 🔄"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 12",
+            "topic": "Investigación y posgrado"
+        },
+        {
+            "tag": "modalidades_artisticas",
+            "patterns": [
+                "¿Qué carreras pueden titularse por demostración de habilidades?",
+                "¿Cuánto debe durar un recital de música?",
+                "¿Una obra teatral cuenta como examen profesional?",
+                "¿Las exposiciones de arte requieren catálogo?",
+                "¿Puedo presentar videograbación de mi performance?",
+                "¿Qué elementos evalúan en danza?",
+                "¿Hay requisitos de originalidad para obras visuales?",
+                "¿Qué artículo regula estas modalidades?",
+                "¿Puedo combinar disciplinas artísticas?",
+                "¿Quién conforma el jurado para estas evaluaciones?"
+            ],
+            "responses": [
+                "🎭 Música 🎵, Danza 💃, Teatro 🎭, y Artes Visuales 🎨.",
+                "⏱️ Mínimo 45 minutos para música, 1 hora para teatro. ⏳",
+                "✅ Sí, si participas como actor, director o escenógrafo. 🎬",
+                "📑 Sí, con justificación conceptual y técnica. ✨",
+                "📹 Solo para obras monumentales realizadas fuera del campus. 🌐",
+                "💃 Técnica, creatividad coreográfica y ejecución escénica. 🌟",
+                "🆕 Sí, deben ser obras originales o rediseños innovadores. 💡",
+                "📌 El Artículo 13 establece estos requisitos. 🔍",
+                "🔄 Sí, mediante propuestas interdisciplinarias (Art. 13, V). 🎨",
+                "👨‍⚖️ Especialistas en tu disciplina designados por el Comité. 🏛️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 13",
+            "topic": "Demostración de habilidades"
+        },
+        {
+            "tag": "modalidades_tesis",
+            "patterns": [
+                "¿Qué diferencia hay entre tesis y tesina?",
+                "¿Cuál es la extensión mínima para una tesina?",
+                "¿El informe de prácticas requiere experiencia laboral?",
+                "¿Puedo titularme solo con mi servicio social?",
+                "¿Todos los informes deben sustentarse?",
+                "¿La tesis puede ser un proyecto de diseño?",
+                "¿Qué artículo habla sobre estas opciones?",
+                "¿Hay formato oficial para tesis?",
+                "¿Quién elige el tema de investigación?",
+                "¿Los informes tienen estructura definida?"
+            ],
+            "responses": [
+                "📚 Tesis = Investigación original 🆕; Tesina = Monografía (45-60 cuartillas). 📏",
+                "📄 Mínimo 45 cuartillas, máximo 60 para TSU/licenciatura. ✍️",
+                "💼 Sí, mínimo 2 años de ejercicio profesional comprobable. ⏳",
+                "✅ Sí, mediante Informe de Servicio Social (Art. 14, IV). 🤝",
+                "👨‍⚖️ Sí, ante jurado designado por el Comité. 🏛️",
+                "🎨 Sí, en carreras de diseño el producto final puede ser prototipo. ✏️",
+                "📌 El Artículo 14 regula estas modalidades. 🔍",
+                "📋 Sí, cada centro tiene su manual de estilo. 🖊️",
+                "💡 Tú lo propones, pero debe ser aprobado por el Comité. ✅",
+                "📑 Sí, deben incluir: introducción, desarrollo, conclusiones y anexos. 📊"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 14",
+            "topic": "Tesis, tesina e informes"
+        },
+        {
+            "tag": "requisitos_generales_titulacion",
+            "patterns": [
+                "¿Qué requisitos son comunes a todas las modalidades?",
+                "¿El servicio social es obligatorio?",
+                "¿Puedo iniciar trámites si debo una materia?",
+                "¿Los requisitos son iguales para TSU y licenciatura?",
+                "¿Dónde obtengo la constancia de no adeudo?",
+                "¿Qué pasa si no cumplo el servicio social?",
+                "¿Qué artículo establece estos requisitos?",
+                "¿Hay requisitos adicionales para extranjeros?",
+                "¿Debo estar inscrito para titularme?",
+                "¿Los créditos de optativas cuentan para el 100%?"
+            ],
+            "responses": [
+                "✅ 1) Plan completo 📚 2) Servicio social ⏳ 3) Aprobar modalidad elegida 🎯.",
+                "✔️ Sí, por el número de horas que exija tu carrera. ⏱️",
+                "🚫 No, necesitas el 100% de créditos/materias. ❌",
+                "⚖️ Básicos sí, pero cada nivel puede tener especificidades. 📌",
+                "🏫 En la Tesorería de tu centro universitario. 💰",
+                "⛔ No podrás titularte hasta regularizarlo. ⚠️",
+                "📌 El Artículo 15 los establece claramente. 🔍",
+                "🌍 Sí, documentación migratoria adicional (consultar en Control Escolar). 📋",
+                "📅 No, puedes titularte hasta 2 años después de egresar. 🗓️",
+                "🧮 Sí, todas las asignaturas del plan de estudios. 📊"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 15",
+            "topic": "Requisitos generales"
+        },
+        {
+            "tag": "criterios_trabajos_titulacion",
+            "patterns": [
+                "¿Qué criterios se consideran para evaluar trabajos?",
+                "¿Puedo hacer un trabajo interdisciplinario?",
+                "¿Cómo adaptan las modalidades a cada carrera?",
+                "¿Influye el paradigma de investigación?",
+                "¿Qué significa 'diversidad de objetos de estudio'?",
+                "¿Puedo usar metodologías creativas?",
+                "¿Qué artículo menciona estos criterios?",
+                "¿Los trabajos prácticos requieren marco teórico?",
+                "¿Quién verifica que se cumplan estos criterios?",
+                "¿Hay ejemplos de trabajos anteriores?"
+            ],
+            "responses": [
+                "🔍 1) Objetos de estudio 🌐 2) Paradigmas de investigación 🧪 3) Formas de demostrar competencias 🏅.",
+                "🔄 Sí, con aprobación del Comité de Titulación. ✅",
+                "📌 Mediante reglamentos particulares que ajustan los lineamientos generales. ⚖️",
+                "📊 Sí, cualitativo, cuantitativo o mixto según tu enfoque. 🔬",
+                "🌍 Que cada profesión evalúa aspectos distintos (clínicos, sociales, técnicos, etc.). 💼",
+                "💡 Sí, si están fundamentadas y aprobadas por tu director. ✨",
+                "📌 El Artículo 16 establece esta flexibilidad. 🔍",
+                "📚 Sí, todos deben incluir sustento teórico. 🧠",
+                "👨‍⚖️ El Comité de Titulación y los sinodales designados. 🏛️",
+                "🏫 Sí, en bibliotecas o coordinaciones de tu centro. 📂"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 16",
+            "topic": "Criterios para trabajos"
+        },
+        {
+            "tag": "titulacion_equipos",
+            "patterns": [
+                "¿Puedo hacer mi trabajo de titulación en equipo?",
+                "¿Cuántos integrantes puede tener un equipo?",
+                "¿Todos reciben el título al mismo tiempo?",
+                "¿Cómo se evalúa la contribución individual?",
+                "¿Qué modalidades permiten trabajo colaborativo?",
+                "¿Necesitamos un director para equipo?",
+                "¿Qué artículo autoriza esta opción?",
+                "¿Puedo unirme a un equipo ya formado?",
+                "¿Hay carreras que no permiten esta modalidad?",
+                "¿Dónde registro nuestro equipo?"
+            ],
+            "responses": [
+                "👥 Sí, en modalidades grupales autorizadas por tu carrera. ✅",
+                "🔢 Lo define cada centro (generalmente 2-5 personas). 📋",
+                "⏳ Sí, cuando todos cumplan requisitos simultáneamente. 🎓",
+                "📝 Mediante informe del director que detalle aportaciones. ✍️",
+                "🔄 Investigación, materiales educativos o proyectos técnicos. 🔧",
+                "✅ Sí, designado por el Comité de Titulación. 👨‍🏫",
+                "📌 El Artículo 17 establece estas disposiciones. 🔍",
+                "🔄 Solo con aprobación del Comité y consentimiento del equipo. 🤝",
+                "⚠️ Sí, si su reglamento particular lo restringe. ❌",
+                "🏫 En la coordinación de tu carrera, con acta oficial. 📄"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 17",
+            "topic": "Titulación en equipo"
+        },
+        {
+            "tag": "integracion_comites",
+            "patterns": [
+                "¿Quiénes integran los Comités de Titulación?",
+                "¿Cuántos miembros tiene el comité en licenciatura?",
+                "¿Quién preside el comité en educación media superior?",
+                "¿Pueden ser académicos externos?",
+                "¿Qué artículo regula esta integración?",
+                "¿Hay comités por carrera o por centro?",
+                "¿Quién designa a los profesores?",
+                "¿Los estudiantes participan en los comités?",
+                "¿Cuál es la función del secretario?",
+                "¿Dónde se publican los integrantes?"
+            ],
+            "responses": [
+                "🏛️ 1) Director/Coordinador (presidente) 👨‍💼 2) Académicos de la carrera 👨‍🏫.",
+                "🔢 Mínimo 4 miembros + Coordinador de Carrera. 📋",
+                "🎓 El Director de la Escuela, según Artículo 18. 📌",
+                "🚫 No, deben ser académicos de la dependencia. ❌",
+                "📌 El Artículo 18 establece su composición. 🔍",
+                "📚 Por carrera en licenciatura/TSU; por escuela en medio superior. 🏫",
+                "👨‍💼 El Director de Escuela o División. 🏛️",
+                "👥 No, son órganos exclusivamente académicos. 🚫",
+                "📋 Llevar el registro de actas y procesos. ✍️",
+                "📜 En los tableros oficiales de tu dependencia. 🏫"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 18",
+            "topic": "Integración de comités"
+        },
+        {
+            "tag": "funciones_comites",
+            "patterns": [
+                "¿Qué funciones tiene el Comité de Titulación?",
+                "¿Pueden rechazar un tema de tesis?",
+                "¿Cómo promueven la eficiencia terminal?",
+                "¿Los comités dan seguimiento a egresados?",
+                "¿Qué artículo lista estas atribuciones?",
+                "¿Pueden modificar fechas de evaluaciones?",
+                "¿Organizan eventos de titulación?",
+                "¿Cómo profesionalizan la asesoría?",
+                "¿Qué vinculación tienen con otros departamentos?",
+                "¿Rinden informes de sus actividades?"
+            ],
+            "responses": [
+                "📋 1) Aprobar temas 📑 2) Asignar directores 👨‍🏫 3) Controlar procesos 🗂️ 4) Evaluar trabajos 📊.",
+                "✅ Sí, si no cumple con lineamientos académicos. ⚠️",
+                "📈 Mediante estrategias que agilizan trámites. ⏩",
+                "📊 Sí, mediante estudios de seguimiento. 👣",
+                "📌 El Artículo 19 detalla estas funciones. 🔍",
+                "🗓️ Sí, por causas justificadas. ⏳",
+                "🎓 Sí, como coloquios o seminarios de titulación. 💼",
+                "🧑‍🏫 Con capacitaciones metodológicas y disciplinarias. 📚",
+                "🤝 Coordinan con control escolar, biblioteca y departamentos académicos. 🏛️",
+                "✅ Sí, anualmente al Consejo de Centro. 📄"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 19",
+            "topic": "Funciones del comité"
+        },
+        {
+            "tag": "requisitos_integrantes_comite",
+            "patterns": [
+                "¿Qué requisitos deben cumplir los integrantes?",
+                "¿Necesitan título profesional?",
+                "¿Cuánta antigüedad se requiere?",
+                "¿Pueden ser profesores de asignatura?",
+                "¿Qué artículo establece estos requisitos?",
+                "¿Hay capacitación obligatoria?",
+                "¿Deben pertenecer al SNI?",
+                "¿Los suplentes cumplen mismos requisitos?",
+                "¿Dónde verifico si un profesor puede ser integrante?",
+                "¿Los requisitos son iguales para todos los niveles?"
+            ],
+            "responses": [
+                "✅ 1) Ser académico de carrera 🏫 2) 1+ año de antigüedad ⏳ 3) Título del nivel correspondiente 🎓.",
+                "📜 Sí, del mismo nivel que evalúan (ej: licenciatura para licenciaturas). ⚖️",
+                "📅 Mínimo 1 año en la UdeG. 🗓️",
+                "❌ No, deben ser de carrera o definitivos. 🚫",
+                "📌 El Artículo 20 los especifica. 🔍",
+                "📚 No obligatoria, pero sí recomendada. 💡",
+                "🌟 No, pero es un mérito adicional. 🏅",
+                "✔️ Sí, mismos requisitos que titulares. 📋",
+                "🏫 En la Dirección de tu dependencia. 🖥️",
+                "⚖️ Sí, aplican igual para medio superior, TSU y licenciatura. 📌"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 20",
+            "topic": "Requisitos para integrantes"
+        },
+        {
+            "tag": "periodo_comites",
+            "patterns": [
+                "¿Cuánto duran en su cargo los integrantes?",
+                "¿Pueden ser ratificados?",
+                "¿Cuántas reelecciones permiten?",
+                "¿Qué pasa si un integrante deja el comité?",
+                "¿Qué artículo regula estos periodos?",
+                "¿Hay reconocimiento por esta función?",
+                "¿Quién decide la ratificación?",
+                "¿Pueden renunciar antes del periodo?",
+                "¿Se publican los cambios de integrantes?",
+                "¿Los suplentes completan el periodo?"
+            ],
+            "responses": [
+                "⏳ 2 años, con posibilidad de ratificación. 🔄",
+                "✅ Sí, hasta por 3 periodos adicionales (8 años máximo). 📅",
+                "🔢 Máximo 3 ratificaciones (4 periodos totales). ⚠️",
+                "🔄 Entra su suplente o se designa nuevo integrante. 👨‍⚖️",
+                "📌 El Artículo 21 establece estos plazos. 🔍",
+                "🏅 Sí, como parte de su carga académica. 📊",
+                "👨‍💼 El Director de la dependencia, basado en evaluación. 📋",
+                "📝 Sí, mediante escrito justificado. ✍️",
+                "📢 Sí, en gaceta interna de la dependencia. 🗞️",
+                "✔️ Sí, hasta concluir el periodo original. 🗓️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 21",
+            "topic": "Periodo en comités"
+        },
+        {
+            "tag": "sesiones_comites",
+            "patterns": [
+                "¿Cada cuánto se reúnen los comités?",
+                "¿Cuál es el quórum mínimo?",
+                "¿Pueden sesionar virtualmente?",
+                "¿Dónde se registran los acuerdos?",
+                "¿Qué artículo norma estas sesiones?",
+                "¿Hay sesiones extraordinarias?",
+                "¿Los estudiantes pueden asistir?",
+                "¿Cómo se convoca a sesión?",
+                "¿Qué pasa si no hay quórum?",
+                "¿Se publican las minutas?"
+            ],
+            "responses": [
+                "🗓️ Ordinarias: mensuales; extraordinarias: cuando se requiera. 📅",
+                "👥 Mitad + 1 de los integrantes. ✅",
+                "💻 Sí, si el reglamento particular lo permite. 🌐",
+                "📝 En actas firmadas por presidente y secretario. ✍️",
+                "📌 El Artículo 22 establece estas normas. 🔍",
+                "⚠️ Sí, para casos urgentes. 🔔",
+                "🚫 No, son órganos técnico-académicos. ❌",
+                "📨 Por escrito con 48 horas de anticipación. ✉️",
+                "⏳ Se pospone y se reconvoca dentro de 5 días. 🗓️",
+                "📜 Sí, en espacios oficiales de la dependencia. 🏫"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 22",
+            "topic": "Sesiones de comités"
+        },
+        {
+            "tag": "directores_titulacion",
+            "patterns": [
+                "¿Quiénes pueden ser directores de titulación?",
+                "¿Qué requisitos deben cumplir?",
+                "¿Los académicos externos pueden dirigir?",
+                "¿Cuántos trabajos puede dirigir simultáneamente?",
+                "¿Qué artículo regula esta función?",
+                "¿Se reconoce curricularmente?",
+                "¿Pueden ser investigadores?",
+                "¿Hay capacitación para directores?",
+                "¿Dónde se registran las direcciones?",
+                "¿Puedo cambiar de director?"
+            ],
+            "responses": [
+                "👨‍🏫 1) Académicos internos 🏫 2) Investigadores afines 🔍 3) Externos de reconocida trayectoria 🌟.",
+                "✅ 1) 1+ año de antigüedad ⏳ 2) Título del nivel 🎓 3) Formación afín al tema 📚.",
+                "🌍 Sí, con aval del Comité de Titulación. ✔️",
+                "🔢 Máximo 3, según normativa de cada centro. ⚠️",
+                "📌 El Artículo 23 establece estos lineamientos. 🔍",
+                "🏅 Sí, como parte de su producción académica. 📊",
+                "🔬 Sí, si están adscritos a institutos o centros de investigación. 🧪",
+                "📚 Opcional, pero recomendada por la institución. 💡",
+                "🗂️ En los archivos del Comité de Titulación. 📋",
+                "🔄 Sí, con justificación y aprobación del Comité. ✅"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 23",
+            "topic": "Directores de titulación"
+        },
+        {
+            "tag": "asesoria_titulacion",
+            "patterns": [
+                "¿En qué consiste la asesoría de titulación?",
+                "¿Es obligatorio tener asesor?",
+                "¿Qué modalidades requieren asesoría?",
+                "¿Los asesores son asignados o elegidos?",
+                "¿Qué artículo habla de esta figura?",
+                "¿Puede ser el mismo director?",
+                "¿Hay horarios establecidos para asesorías?",
+                "¿Los asesores reciben remuneración?",
+                "¿Dónde se registran las asesorías?",
+                "¿Puedo cambiar de asesor?"
+            ],
+            "responses": [
+                "🧑‍🏫 Orientación académica y metodológica para elaborar trabajos. 📚",
+                "⚠️ Depende de la modalidad (sí para tesis/investigación). 📌",
+                "🔍 Tesis, tesina, informes, investigación y materiales educativos. 📄",
+                "🔄 Puedes proponer, pero el Comité asigna oficialmente. ✅",
+                "📌 El Artículo 24 establece este servicio. 🔍",
+                "✅ Sí, si cumple con ambos roles. 👨‍🏫",
+                "⏳ Se acuerda entre asesor y pasante. 🗓️",
+                "💰 No, pero tiene valor curricular. 🏅",
+                "📋 En actas del Comité de Titulación. 🏛️",
+                "✍️ Sí, mediante solicitud justificada al Comité. ✔️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 24",
+            "topic": "Asesoría"
+        },
+        {
+            "tag": "reconocimiento_asesores",
+            "patterns": [
+                "¿La asesoría cuenta para el CV?",
+                "¿Cómo se acredita esta función?",
+                "¿Vale para promociones académicas?",
+                "¿Qué artículo menciona este reconocimiento?",
+                "¿Hay constancia oficial?",
+                "¿Cuánto vale curricularmente?",
+                "¿Los asesores externos también reciben reconocimiento?",
+                "¿Dónde se registra este mérito?",
+                "¿Hay incentivos adicionales?",
+                "¿Se considera como docencia?"
+            ],
+            "responses": [
+                "🏅 Sí, como actividad de tutoría especializada. 📊",
+                "📜 Mediante constancia firmada por autoridades. ✍️",
+                "📈 Sí, en los apartados de tutorías y formación. ✅",
+                "📌 El Artículo 25 lo establece. 🔍",
+                "✅ Sí, expedida por la dependencia educativa. 🏛️",
+                "📌 Según normativa de cada centro (generalmente 1 punto por trabajo). 💯",
+                "🌍 Sí, si están formalmente registrados. ✔️",
+                "🗂️ En su expediente académico y SIASE. 💻",
+                "🌟 Depende de los estímulos de cada dependencia. 💰",
+                "📚 Sí, como actividad complementaria. 🧑‍🏫"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 25",
+            "topic": "Reconocimiento a asesores"
+        },
+        {
+            "tag": "registro_temas",
+            "patterns": [
+                "¿Cómo registro mi tema de titulación?",
+                "¿Qué información debe incluir la solicitud?",
+                "¿Ante quién se presenta?",
+                "¿Qué artículo regula este trámite?",
+                "¿Hay fechas límite para registro?",
+                "¿Puedo cambiar mi tema después?",
+                "¿Cuánto tarda la aprobación?",
+                "¿Qué pasa si mi tema es rechazado?",
+                "¿Dónde consulto temas anteriores?",
+                "¿Necesito firmas de aprobación?"
+            ],
+            "responses": [
+                "📋 Solicitud escrita al Comité de Titulación con tema y modalidad. ✍️",
+                "ℹ️ 1) Datos personales 👤 2) Modalidad 📑 3) Tema específico 🗂️ 4) Director propuesto (si aplica) 👨‍🏫.",
+                "🏛️ Presidente del Comité (Director/Coordinador de carrera). 👨‍💼",
+                "📌 El Artículo 26 establece este proceso. 🔍",
+                "🗓️ Sí, según calendario de tu centro (consultar Control Escolar). 📅",
+                "🔄 Sí, con nueva solicitud y justificación. ✅",
+                "⏳ Máximo 15 días hábiles según Artículo 27. ⏱️",
+                "✍️ Recibirás observaciones por escrito para modificación. 📄",
+                "🏫 En la biblioteca o coordinación de tu carrera. 📚",
+                "✅ Sí, del director de tesis (si aplica) y presidente del Comité. ✍️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 26",
+            "topic": "Registro de temas"
+        },
+        {
+            "tag": "aprobacion_temas",
+            "patterns": [
+                "¿Quién aprueba definitivamente mi tema?",
+                "¿Qué pasa después del registro?",
+                "¿En qué plazo se resuelve?",
+                "¿Qué artículo establece estos plazos?",
+                "¿Puedo iniciar mi trabajo sin aprobación?",
+                "¿Cómo me notifican la resolución?",
+                "¿Qué requisitos verifican?",
+                "¿Puedo apelar un rechazo?",
+                "¿Dónde se archiva la aprobación?",
+                "¿La aprobación tiene vigencia?"
+            ],
+            "responses": [
+                "👨‍⚖️ El Comité de Titulación en sesión ordinaria. 🏛️",
+                "📋 El Comité revisa y emite resolución por escrito. ✉️",
+                "⏳ Máximo 15 días hábiles según Artículo 27. 📅",
+                "📌 El Artículo 27 regula estos tiempos. 🔍",
+                "🚫 No, debes esperar aprobación formal. ⚠️",
+                "📨 Por escrito vía correo institucional o entrega física. ✍️",
+                "✅ 1) Originalidad 🆕 2) Viabilidad 📐 3) Pertinencia académica 🎓.",
+                "⚖️ Sí, mediante recurso ante el Consejo de Centro. 📜",
+                "🗂️ En tu expediente y archivos del Comité. 📋",
+                "🗓️ Sí, generalmente 2 años (consultar reglamento particular). ⏳"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 27",
+            "topic": "Aprobación de temas"
+        },
+        {
+            "tag": "requisitos_evaluacion",
+            "patterns": [
+                "¿Qué necesito para presentar mi examen profesional?",
+                "¿La constancia de no adeudo es obligatoria?",
+                "¿Qué artículo lista estos requisitos?",
+                "¿Quién emite la constancia de estudios?",
+                "¿Hay que pagar derechos?",
+                "¿Qué incluye la solicitud de exámenes?",
+                "¿Puedo presentar sin servicio social?",
+                "¿Dónde consigo los formatos?",
+                "¿Los requisitos son iguales para todas las modalidades?",
+                "¿Qué pasa si falto a mi evaluación?"
+            ],
+            "responses": [
+                "📋 1) Constancia de estudios completos 🎓 2) No adeudos 💰 3) Pago de arancel 💳 4) Solicitud por escrito ✍️.",
+                "✔️ Sí, emitida por Tesorería. 🏛️",
+                "📌 El Artículo 28 los especifica. 🔍",
+                "🏫 Control Escolar de tu dependencia. 🖥️",
+                "💲 Sí, según tarifas vigentes (consultar en Tesorería). 💰",
+                "📝 1) Datos personales 👤 2) Modalidad 📑 3) Tema 🗂️ 4) Firma ✍️.",
+                "⛔ No, es requisito indispensable. ❌",
+                "📄 En la página de tu centro o Control Escolar. 🌐",
+                "⚖️ Básicos sí, pero cada modalidad puede tener adicionales. 📌",
+                "⚠️ Se considera como reprobado (Artículo 31). ⏳"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 28",
+            "topic": "Requisitos para evaluación"
+        },
+        {
+            "tag": "integracion_jurados",
+            "patterns": [
+                "¿Cómo se forma el jurado evaluador?",
+                "¿Cuántos sinodales son necesarios?",
+                "¿Puedo proponer algún integrante?",
+                "¿Qué artículo regula esta integración?",
+                "¿Hay suplentes obligatorios?",
+                "¿Qué pasa si un sinodal no asiste?",
+                "¿Los jurados son iguales para todas las carreras?",
+                "¿Dónde se publican las listas de jurados?",
+                "¿Puedo recusar a algún sinodal?",
+                "¿Quién preside el jurado?"
+            ],
+            "responses": [
+                "👨‍⚖️ Designado por el Comité: Presidente, Secretario y Vocal (+suplentes). 📋",
+                "🔢 Mínimo 3 titulares (pueden ser más según reglamento particular). 📌",
+                "💡 Sí, pero el Comité decide finalmente. ✅",
+                "📌 El Artículo 29 establece estas normas. 🔍",
+                "✅ Sí, para cada titular. 🔄",
+                "🔄 Participa su suplente designado previamente. ⏳",
+                "🔄 No, varían según disciplina y nivel educativo. 🎓",
+                "🏫 En los tableros oficiales de tu dependencia. 📢",
+                "⚖️ Sí, con causa justificada y por escrito. ✍️",
+                "🎓 El académico de mayor jerarquía o antigüedad. 👨‍⚖️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 29",
+            "topic": "Integración de jurados"
+        },
+        {
+            "tag": "registro_evaluaciones",
+            "patterns": [
+                "¿Qué datos lleva el acta de evaluación?",
+                "¿Quién firma el acta de titulación?",
+                "¿Qué artículo especifica estos requisitos?",
+                "¿Dónde se archivan las actas?",
+                "¿Hay diferencias entre modalidades con/sin jurado?",
+                "¿Qué información contiene la toma de protesta?",
+                "¿Los registros son físicos o digitales?",
+                "¿Puedo obtener copia de mi acta?",
+                "¿Quién custodia estos documentos?",
+                "¿Las firmas son autógrafas o digitales?"
+            ],
+            "responses": [
+                "📝 1) Lugar/fecha 🗓️ 2) Sinodales 👨‍⚖️ 3) Modalidad/tema 📑 4) Nombre pasante 👤 5) Calificación 📊 6) Firmas ✍️.",
+                "🏛️ Con jurado: Presidente y Secretario. Sin jurado: Coordinador y otro integrante del Comité. ✅",
+                "📌 El Artículo 30 detalla estos requisitos. 🔍",
+                "🗄️ En Control Escolar y archivo de la dependencia. 📋",
+                "⚖️ Sí, en procedimiento de firma (Art. 30, VI). 📌",
+                "🤝 Declaración de ejercer la profesión con ética. 🌟",
+                "💻 Ambos, según normativa de cada centro. 🖥️",
+                "✅ Sí, solicitándola en Control Escolar. 📄",
+                "🏫 La Secretaría Académica de tu dependencia. 🏛️",
+                "🖋️ Autógrafas, salvo reglamentos que permitan firma digital. ✍️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 30",
+            "topic": "Registro de evaluaciones"
+        },
+        {
+            "tag": "reprobacion_reevaluacion",
+            "patterns": [
+                "¿Cuántas veces puedo presentar una evaluación?",
+                "¿Qué pasa si repruebo mi examen profesional?",
+                "¿Qué artículo establece estos plazos?",
+                "¿Puedo cambiar de modalidad al reintentar?",
+                "¿Hay costo adicional por reevaluación?",
+                "¿El período de espera es igual para todas las modalidades?",
+                "¿Quién autoriza un nuevo intento?",
+                "¿Qué documentos necesito para volver a presentar?",
+                "¿Mi calificación anterior afecta el nuevo intento?",
+                "¿Dónde consulto el historial de mis evaluaciones?"
+            ],
+            "responses": [
+                "🔢 Máximo 3 intentos según reglamento particular. ⚠️",
+                "⏳ Debes esperar 6 meses para volver a presentar. 📅",
+                "📌 El Artículo 31 regula este proceso. 🔍",
+                "🔄 Sí, con aprobación del Comité de Titulación. ✅",
+                "💲 Sí, debes pagar derechos nuevamente. 💰",
+                "✔️ Sí, 6 meses para todas las modalidades. ⏳",
+                "🏛️ El Comité de Titulación de tu dependencia. 👨‍⚖️",
+                "📋 Los mismos que la primera evaluación (Art. 28). 📝",
+                "📊 No, cada evaluación es independiente. ✅",
+                "🏫 En Control Escolar de tu centro universitario. 🖥️"
+            ],
+            "document": "Reglamento General de Titulación",
+            "article": "Artículo 31",
+            "topic": "Reevaluación"
+        }
+    ]
+}

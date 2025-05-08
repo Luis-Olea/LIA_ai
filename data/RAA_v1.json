@@ -1,0 +1,1667 @@
+{
+    "main_topic": "Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios 2022",
+    "intents": [
+        {
+            "tag": "objeto_del_reglamento_adquisiciones",
+            "patterns": [
+                "¿Cuál es el objetivo principal del Reglamento según el Artículo 1?",
+                "¿Qué áreas cubre este Reglamento?",
+                "¿Quién debe cumplir con lo establecido en el Artículo 1?",
+                "¿Qué comités se mencionan en el Artículo 1?",
+                "¿Qué pasa con los fondos públicos federales o estatales?"
+            ],
+            "responses": [
+                "📘 El Artículo 1 establece los criterios, bases y procedimientos para adquisiciones, arrendamientos y contratación de servicios en la Universidad.",
+                "🔹 Cubre adquisiciones de bienes, arrendamientos, contratación de servicios y funcionamiento de comités de compras.",
+                "🎯 Todas las dependencias y centros universitarios de la Universidad de Guadalajara deben cumplirlo.",
+                "📘 Menciona al Comité General de Compras y los comités de centros universitarios y del Sistema de Educación Media Superior.",
+                "🔹 Cuando se usen fondos públicos federales/estatales, se aplicarán los convenios y normativas específicas (Artículo 1Bis)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 1",
+            "topic": "Objeto del Reglamento adquisiciones"
+        },
+        {
+            "tag": "integracion_comite_general",
+            "patterns": [
+                "¿Quiénes forman parte del Comité General según el Artículo 2?",
+                "¿Los miembros del Comité reciben sueldo?",
+                "¿Qué institución representa el Secretario Ejecutivo?",
+                "¿Hay suplentes para los miembros del Comité?",
+                "¿Quién puede ser presidente del Comité?"
+            ],
+            "responses": [
+                "📘 Lo integran: representante del Gobernador, presidente del Consejo Social, cámaras empresariales, y el Coordinador General de Servicios Administrativos (Secretario Ejecutivo).",
+                "🔹 No, los cargos son honoríficos (no remunerados).",
+                "🎯 El Secretario Ejecutivo es el Coordinador General de Servicios Administrativos e Infraestructura Tecnológica.",
+                "📘 Sí, los representantes de las fracciones I a V del Artículo 2 tienen suplentes (Artículo 3).",
+                "🔹 Debe ser un representante empresarial, electo por mayoría cada 2 años (Artículo 4)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 2",
+            "topic": "Integración del Comité General"
+        },
+        {
+            "tag": "suplentes_comite",
+            "patterns": [
+                "¿Quiénes pueden tener suplentes en el Comité General?",
+                "¿El presidente del Comité tiene suplente?",
+                "¿Cómo se designan los suplentes?",
+                "¿Qué pasa si un miembro titular falta?",
+                "¿Los suplentes tienen voto en las sesiones?"
+            ],
+            "responses": [
+                "📘 Los representantes de las fracciones I a V del Artículo 2 (Gobernador, Consejo Social, cámaras empresariales).",
+                "🔹 No, el Presidente del Comité no tiene suplente (Artículo 3, párrafo final).",
+                "🎯 Los designa la institución que representan (ej.: el Gobernador nombra a su representante y suplente).",
+                "📘 El suplente asiste y vota en ausencia del titular, excepto si el suplente es el Presidente.",
+                "🔹 Sí, tienen los mismos derechos que el titular cuando actúan en su representación."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 3",
+            "topic": "Suplentes del Comité"
+        },
+        {
+            "tag": "eleccion_presidente_comite",
+            "patterns": [
+                "¿Cómo se elige al presidente del Comité General?",
+                "¿Cada cuánto se renueva la presidencia?",
+                "¿Quiénes pueden ser presidentes?",
+                "¿Qué pasa si hay empate en la votación?",
+                "¿El Secretario Ejecutivo puede ser presidente?"
+            ],
+            "responses": [
+                "📘 Por mayoría simple de votos entre los miembros del Comité (Artículo 4).",
+                "🔹 Cada 2 años.",
+                "🎯 Solo representantes empresariales (fracciones III, IV o V del Artículo 2).",
+                "📘 El presidente tiene voto de calidad para desempatar.",
+                "🔹 No, el Secretario Ejecutivo (Coordinador General) no puede ser presidente."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 4",
+            "topic": "Elección del Presidente del Comité"
+        },
+        {
+            "tag": "atribuciones_comite_general",
+            "patterns": [
+                "¿Qué facultades tiene el Comité General según el Artículo 5?",
+                "¿Puede el Comité modificar el Reglamento?",
+                "¿Qué montos de contratación aprueba el Comité?",
+                "¿Cómo supervisa a los proveedores?",
+                "¿Puede asesorar al Rector en compras?"
+            ],
+            "responses": [
+                "📘 Entre otras: proponer modificaciones al Reglamento, resolver contrataciones >180 UMA, y supervisar bases de datos de proveedores.",
+                "🔹 Sí, puede proponer cambios al Rector General (fracción I).",
+                "🎯 Resuelve adquisiciones superiores a 180 UMA (antes de IVA, fracción III).",
+                "📘 Verifica que se actualice la base de datos con RFC, precios, y datos de proveedores (fracción XI).",
+                "🔹 Sí, puede asesorar al Rector sobre condiciones de mercado para bienes muebles/inmuebles (fracción VI)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 5",
+            "topic": "Atribuciones del Comité General"
+        },
+        {
+            "tag": "organos_auxiliares",
+            "patterns": [
+                "¿Qué dependencias apoyan al Comité General según el Artículo 6?",
+                "¿Qué función tiene la Coordinación General de Servicios Administrativos?",
+                "¿La Dirección de Finanzas participa en las decisiones del Comité?",
+                "¿Estos órganos tienen voto en el Comité?",
+                "¿Quién nombra a estos órganos auxiliares?"
+            ],
+            "responses": [
+                "📘 La Coordinación General de Servicios Administrativos e Infraestructura Tecnológica y la Dirección de Finanzas.",
+                "🔹 Brindan apoyo técnico y consultivo al Comité (ej.: análisis de propuestas, documentación).",
+                "🎯 No deciden, pero proporcionan información financiera para las adjudicaciones.",
+                "📘 No, son solo órganos de apoyo sin derecho a voto.",
+                "🔹 Son dependencias universitarias designadas por su ámbito de competencia."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 6",
+            "topic": "Órganos Auxiliares del Comité"
+        },
+        {
+            "tag": "atribuciones_presidente",
+            "patterns": [
+                "¿Qué funciones tiene el Presidente del Comité según el Artículo 7?",
+                "¿Puede el Presidente convocar sesiones extraordinarias?",
+                "¿Qué pasa si hay empate en una votación?",
+                "¿El Presidente informa al Rector sobre los acuerdos?",
+                "¿Quién autoriza las actas de las sesiones?"
+            ],
+            "responses": [
+                "📘 Autorizar el orden del día, presidir sesiones, convocar sesiones extraordinarias, y firmar actas.",
+                "🔹 Sí, puede convocarlas por urgencia (Artículo 11).",
+                "🎯 El Presidente tiene voto de calidad para desempatar (fracción II).",
+                "📘 Sí, debe informar anualmente en febrero al Rector (fracción VI).",
+                "🔹 El Presidente y el Secretario Ejecutivo las autorizan conjuntamente (fracción IV)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 7",
+            "topic": "Atribuciones del Presidente del Comité"
+        },
+        {
+            "tag": "atribuciones_secretario_ejecutivo",
+            "patterns": [
+                "¿Qué hace el Secretario Ejecutivo según el Artículo 8?",
+                "¿Quién convoca a las sesiones del Comité?",
+                "¿El Secretario puede tomar decisiones sin el Presidente?",
+                "¿Quién elabora el informe de actividades?",
+                "¿Puede el Secretario ser auxiliado por otros?"
+            ],
+            "responses": [
+                "📘 Convoca sesiones, integra expedientes, levanta actas, y vigila el cumplimiento de acuerdos.",
+                "🔹 El Secretario Ejecutivo, previa autorización del Presidente (fracción II).",
+                "🎯 No, sus funciones son operativas (ej.: documentación), no decisorias.",
+                "📘 El Secretario Ejecutivo lo elabora (fracción VII).",
+                "🔹 Sí, puede recibir apoyo de comités técnicos o dependencias universitarias (párrafo final)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 8",
+            "topic": "Atribuciones del Secretario Ejecutivo"
+        },
+        {
+            "tag": "sesiones_comite",
+            "patterns": [
+                "¿Qué tipos de sesiones hay según el Artículo 9?",
+                "¿Cada cuánto se realizan las sesiones ordinarias?",
+                "¿Quién puede convocar sesiones extraordinarias?",
+                "¿Qué se necesita para que una sesión sea válida?",
+                "¿Las sesiones del SEMS son iguales?"
+            ],
+            "responses": [
+                "📘 Ordinarias (programadas) y extraordinarias (por urgencia).",
+                "🔹 Semanalmente para el Comité General; cada 15 días para comités de centros/SEMS (Artículo 10).",
+                "🎯 El Presidente o al menos 3 miembros del Comité (Artículo 11).",
+                "📘 Asistencia de mayoría simple de miembros (Artículo 12).",
+                "🔹 No, los comités del SEMS sesionan al menos cada 15 días (Artículo 10, párrafo 2)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 9",
+            "topic": "Sesiones del Comité"
+        },
+        {
+            "tag": "sesiones_ordinarias",
+            "patterns": [
+                "¿Con cuánta anticipación se convocan las sesiones ordinarias?",
+                "¿Qué documentos se entregan antes de las sesiones?",
+                "¿Pueden tratarse temas no incluidos en el orden del día?",
+                "¿Qué pasa si no se entrega la documentación a tiempo?",
+                "¿Las sesiones del Comité General son públicas?"
+            ],
+            "responses": [
+                "📘 Con 3 días hábiles de anticipación (Artículo 10).",
+                "🔹 El orden del día y documentos relacionados con los asuntos a tratar (Artículo 13).",
+                "🎯 No, solo se discuten los temas incluidos en el orden del día autorizado.",
+                "📘 Podría invalidarse la sesión si no se cumple este requisito.",
+                "🔹 No se especifica, pero las actas son documentos públicos."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 10",
+            "topic": "Sesiones Ordinarias"
+        },
+        {
+            "tag": "sesiones_extraordinarias",
+            "patterns": [
+                "¿Qué son las sesiones extraordinarias según el Artículo 11?",
+                "¿Quién puede convocar una sesión extraordinaria?",
+                "¿Con cuánta anticipación se debe convocar?",
+                "¿Qué temas se tratan en estas sesiones?",
+                "¿Se necesita quórum para las sesiones extraordinarias?"
+            ],
+            "responses": [
+                "📘 Son sesiones convocadas por urgencia o importancia de los asuntos (Artículo 11).",
+                "🔹 El Presidente del Comité o al menos 3 de sus miembros.",
+                "🎯 Con 1 día hábil de anticipación (vs. 3 días para ordinarias).",
+                "📘 Solo los asuntos urgentes señalados en la convocatoria.",
+                "🔹 Sí, igual que las ordinarias: mayoría simple de miembros (Artículo 12)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 11",
+            "topic": "Sesiones Extraordinarias"
+        },
+        {
+            "tag": "validez_sesiones",
+            "patterns": [
+                "¿Qué se necesita para que una sesión sea válida según el Artículo 12?",
+                "¿Qué pasa si no hay quórum en una sesión?",
+                "¿Los suplentes cuentan para el quórum?",
+                "¿Se pueden tomar decisiones sin quórum?",
+                "¿Cómo se registra la asistencia?"
+            ],
+            "responses": [
+                "📘 Asistencia de mayoría simple de los miembros del Comité.",
+                "🔹 No se pueden tratar asuntos; debe reprogramarse.",
+                "🎯 Sí, si actúan en lugar de los titulares.",
+                "📘 No, cualquier decisión sin quórum es nula.",
+                "🔹 En el acta de la sesión, que firman los asistentes (Artículo 14)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 12",
+            "topic": "Validez de las Sesiones"
+        },
+        {
+            "tag": "documentacion_sesiones",
+            "patterns": [
+                "¿Qué documentos se entregan antes de las sesiones según el Artículo 13?",
+                "¿Con cuánta anticipación se entregan para sesiones ordinarias?",
+                "¿Y para sesiones extraordinarias?",
+                "¿Qué pasa si no se cumple este plazo?",
+                "¿Los documentos son públicos?"
+            ],
+            "responses": [
+                "📘 El orden del día y toda la documentación relacionada con los asuntos a tratar.",
+                "🔹 3 días hábiles antes de sesiones ordinarias.",
+                "🎯 1 día hábil antes para extraordinarias.",
+                "📘 Podría invalidarse la sesión si afecta la deliberación.",
+                "🔹 Las actas son públicas; otros documentos pueden ser reservados según la ley."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 13",
+            "topic": "Documentación para Sesiones"
+        },
+        {
+            "tag": "actas_sesiones",
+            "patterns": [
+                "¿Qué información debe contener el acta según el Artículo 14?",
+                "¿Quiénes firman el acta?",
+                "¿Qué son los 'listados de asuntos' mencionados?",
+                "¿Qué pasa si un asistente no firma el acta?",
+                "¿Se pueden corregir errores en el acta después?"
+            ],
+            "responses": [
+                "📘 Los asuntos tratados, acuerdos y votaciones, en listados resumidos.",
+                "🔹 Todos los asistentes a la sesión.",
+                "🎯 Resúmenes de los casos dictaminados, con firma de los miembros.",
+                "📘 No invalida el acta, pero se nota su ausencia en el registro.",
+                "🔹 Sí, con aprobación del Comité en la siguiente sesión."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 14",
+            "topic": "Actas de Sesiones"
+        },
+        {
+            "tag": "ausencias_presidente_secretario",
+            "patterns": [
+                "¿Qué pasa si faltan el Presidente o Secretario según el Artículo 15?",
+                "¿Quién los sustituye temporalmente?",
+                "¿El sustituto tiene las mismas facultades?",
+                "¿Cómo se elige al sustituto?",
+                "¿Debe registrarse esta sustitución?"
+            ],
+            "responses": [
+                "📘 El Comité elige a otro miembro para presidir o actuar como secretario durante esa sesión.",
+                "🔹 Cualquier otro miembro del Comité, elegido por mayoría.",
+                "🎯 Sí, para los fines de esa sesión.",
+                "📘 Por acuerdo de los miembros presentes en el momento.",
+                "🔹 Sí, se asienta en el acta correspondiente."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 15",
+            "topic": "Ausencias del Presidente o Secretario"
+        },
+        {
+            "tag": "procedimientos_contratacion",
+            "patterns": [
+                "¿Qué procedimientos de contratación establece el Artículo 16?",
+                "¿Qué monto requiere licitación pública?",
+                "¿Cuándo se usa adjudicación directa?",
+                "¿Los montos incluyen IVA?",
+                "¿Cómo se actualiza el valor de la UMA?"
+            ],
+            "responses": [
+                "📘 Licitación pública (>1,700 UMA), concurso (180-1,700 UMA), invitación (75-180 UMA), y adjudicación directa (≤75 UMA).",
+                "🔹 Contratos mayores a 1,700 veces el valor mensual de la UMA.",
+                "🎯 Para montos ≤75 UMA (≤37 UMA en Educación Media Superior).",
+                "📘 No, los montos referidos son antes de IVA.",
+                "🔹 Según las actualizaciones anuales del INEGI (Artículo 16, párrafo 2)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 16",
+            "topic": "Procedimientos de Contratación"
+        },
+        {
+            "tag": "comite_revisor",
+            "patterns": [
+                "¿Qué contratos se turnan al comité revisor según el Artículo 16-BIS?",
+                "¿Qué instancias deben enviar contratos al comité revisor?",
+                "¿Qué procedimiento sigue el comité revisor?",
+                "¿Este artículo aplica para obras?",
+                "¿Qué pasa si no se cumple con este artículo?"
+            ],
+            "responses": [
+                "📘 Contratos ≥400 UMA realizados por instancias de la Red Universitaria.",
+                "🔹 Todas las dependencias universitarias, excepto las ya reguladas por el Comité General.",
+                "🎯 El procedimiento del Capítulo IV del Reglamento de Obras.",
+                "📘 No, solo adquisiciones y servicios (las obras tienen su propio reglamento).",
+                "🔹 La contratación podría declararse nula por incumplimiento."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 16-BIS",
+            "topic": "Comité Revisor para Contratos Mayores"
+        },
+        {
+            "tag": "resolucion_coordinacion_general",
+            "patterns": [
+                "¿Qué resuelve la Coordinación General según el Artículo 17?",
+                "¿Qué montos maneja la Coordinación?",
+                "¿Puede delegar estas decisiones?",
+                "¿Qué pasa si el monto supera 180 UMA?",
+                "¿Cómo se notifican estas resoluciones?"
+            ],
+            "responses": [
+                "📘 Adquisiciones, arrendamientos y servicios entre 75 y 180 UMA para la Administración General.",
+                "🔹 Montos >75 UMA y ≤180 UMA (antes de IVA).",
+                "🎯 No, es su atribución exclusiva, salvo excepciones legales.",
+                "📘 Debe turnarse al Comité General (Artículo 5, fracción III).",
+                "🔹 Por escrito, con copia al área solicitante y al proveedor adjudicado."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 17",
+            "topic": "Atribuciones de la Coordinación General"
+        },
+        {
+            "tag": "sistema_electronico",
+            "patterns": [
+                "¿Qué establece el Artículo 18 sobre el sistema electrónico?",
+                "¿Quién administra este sistema?",
+                "¿Es obligatorio usarlo para todas las contrataciones?",
+                "¿Qué ventajas tiene este sistema?",
+                "¿Dónde se publican las convocatorias?"
+            ],
+            "responses": [
+                "📘 Que las contrataciones se operarán mediante un sistema electrónico para dar transparencia.",
+                "🔹 La Coordinación General Administrativa.",
+                "🎯 Sí, salvo que el Rector General establezca excepciones.",
+                "📘 Simplifica procesos, reduce trámites burocráticos y aumenta la publicidad.",
+                "🔹 En el sistema electrónico y, opcionalmente, en medios impresos (Artículo 19)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 18",
+            "topic": "Sistema Electrónico de Contrataciones"
+        },
+        {
+            "tag": "publicacion_convocatorias",
+            "patterns": [
+                "¿Dónde se publican las convocatorias según el Artículo 19?",
+                "¿Pueden participar proveedores internacionales?",
+                "¿Qué medios se consideran de 'amplia cobertura'?",
+                "¿Hay un plazo mínimo para publicar convocatorias?",
+                "¿Quién decide el medio de publicación?"
+            ],
+            "responses": [
+                "📘 En medios electrónicos o impresos de amplia cobertura (ej.: portal oficial, periódicos).",
+                "🔹 Sí, siempre que cumplan con los requisitos del Reglamento.",
+                "🎯 Aquellos que garanticen la mayor competencia (ej.: Gaceta Universitaria, plataformas gubernamentales).",
+                "📘 No se especifica, pero debe respetarse el plazo de anticipación para cada procedimiento (Artículo 16).",
+                "🔹 El Comité respectivo, según el tipo de contratación."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 19",
+            "topic": "Publicación de Convocatorias"
+        },
+        {
+            "tag": "licitacion_publica",
+            "patterns": [
+                "¿Qué es una licitación pública según el Artículo 20?",
+                "¿Qué requisitos debe tener la convocatoria?",
+                "¿Quién puede presentar proposiciones?",
+                "¿Hay algún costo para participar?",
+                "¿Cómo se garantiza la transparencia?"
+            ],
+            "responses": [
+                "📘 Un procedimiento abierto donde se invita públicamente a presentar propuestas.",
+                "🔹 Bases completas, plazos claros y criterios de adjudicación objetivos.",
+                "🎯 Cualquier proveedor que cumpla con las bases publicadas.",
+                "📘 No se menciona en el artículo, pero las bases pueden establecerlo.",
+                "🔹 Con juntas públicas de apertura de propuestas y actas firmadas (Artículo 24 bis)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 20",
+            "topic": "Licitación Pública"
+        },
+        {
+            "tag": "procedimiento_concurso",
+            "patterns": [
+                "¿Qué es un concurso según el Artículo 21?",
+                "¿Cuántos proveedores deben ser invitados?",
+                "¿Qué pasa si no se presentan al menos 3 propuestas?",
+                "¿Quién evalúa las propuestas en un concurso?",
+                "¿Qué documentos deben presentar los proveedores?"
+            ],
+            "responses": [
+                "📘 Procedimiento para contratos entre 180 y 1,700 UMA donde se convoca a mínimo 6 proveedores.",
+                "🔹 Al menos 6 proveedores, pero deben presentarse mínimo 3 propuestas válidas.",
+                "🎯 Se declara desierto y puede repetirse el proceso o cambiar a adjudicación directa (Artículo 26).",
+                "📘 El Comité respectivo, con apoyo técnico de la Coordinación General (Artículo 6).",
+                "🔹 Propuesta técnica, económica, RFC, y documentos que exijan las bases."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 21",
+            "topic": "Procedimiento por Concurso"
+        },
+        {
+            "tag": "invitacion_proveedores",
+            "patterns": [
+                "¿Qué establece el Artículo 22 sobre la invitación a proveedores?",
+                "¿Cuántas propuestas se requieren para validar el proceso?",
+                "¿Quién selecciona a los proveedores invitados?",
+                "¿Pueden participar proveedores no invitados?",
+                "¿Qué montos aplican para este procedimiento?"
+            ],
+            "responses": [
+                "📘 Que se invite a mínimo 3 proveedores y se reciban al menos 2 propuestas (para montos de 75-180 UMA).",
+                "🔹 Mínimo 2 propuestas válidas; de lo contrario, se declara desierto.",
+                "🎯 El área requirente, basándose en especialidad y capacidad (Artículo 24).",
+                "📘 No, solo los invitados formalmente.",
+                "🔹 Contratos entre 75 y 180 veces el valor de la UMA (antes de IVA)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 22",
+            "topic": "Invitación a Proveedores"
+        },
+        {
+            "tag": "adjudicacion_directa",
+            "patterns": [
+                "¿Quién resuelve la adjudicación directa según el Artículo 23?",
+                "¿Qué montos maneja la adjudicación directa?",
+                "¿Hay diferencias para el Sistema de Educación Media Superior?",
+                "¿Se requiere justificación para este procedimiento?",
+                "¿Qué pasa si el monto supera 75 UMA?"
+            ],
+            "responses": [
+                "📘 El titular de la dependencia solicitante (para montos ≤75 UMA).",
+                "🔹 Hasta 75 UMA (37 UMA para Educación Media Superior).",
+                "🎯 Sí, montos ≤37 UMA los resuelve el titular; entre 37-75 UMA, la Secretaría Administrativa del SEMS.",
+                "📘 No, pero debe registrarse en el sistema electrónico (Artículo 18).",
+                "📘 Debe usarse invitación a 3 proveedores (Artículo 22) o concurso (Artículo 21)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 23",
+            "topic": "Adjudicación Directa"
+        },
+        {
+            "tag": "seleccion_proveedores",
+            "patterns": [
+                "¿Qué criterios usa la Universidad para seleccionar proveedores según el Artículo 24?",
+                "¿Cómo se verifica la capacidad operativa de un proveedor?",
+                "¿La Universidad puede rechazar proveedores sin justificación?",
+                "¿Dónde se registra la información de los proveedores?",
+                "¿Qué pasa si un proveedor no cumple con los requisitos?"
+            ],
+            "responses": [
+                "📘 Especialidad, capacidad operativa/financiera, y cumplimiento de requisitos legales.",
+                "🔹 Con documentación que acredite experiencia, infraestructura y referencias.",
+                "🎯 No, debe fundarse en los criterios del Reglamento y notificarse al proveedor.",
+                "📘 En la base de datos del sistema electrónico (Artículo 18).",
+                "🔹 Se excluye del proceso y puede inhabilitarse (Artículo 62)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 24",
+            "topic": "Selección de Proveedores"
+        },
+        {
+            "tag": "apertura_proposiciones",
+            "patterns": [
+                "¿Qué establece el Artículo 24 bis sobre la apertura de proposiciones?",
+                "¿Quién preside el acto de apertura?",
+                "¿Qué debe contener el acta de apertura?",
+                "¿Pueden los proveedores impugnar el acta?",
+                "¿Qué pasa si un licitante no firma el acta?"
+            ],
+            "responses": [
+                "📘 Que sea en junta pública, con acta que registre propuestas aceptadas/rechazadas y causas.",
+                "🔹 El titular del área requirente o su designado.",
+                "🎯 Propuestas recibidas, motivos de rechazo (si aplica), y firma de asistentes.",
+                "📘 Sí, ante la Contraloría General en 10 días hábiles (Artículo 65).",
+                "🔹 No invalida el acta, pero se asienta su ausencia."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 24 bis",
+            "topic": "Apertura Pública de Proposiciones"
+        },
+        {
+            "tag": "criterios_adjudicacion",
+            "patterns": [
+                "¿Qué criterios usa el Comité para adjudicar contratos según el Artículo 25?",
+                "¿El precio es el único factor decisivo?",
+                "¿Cómo se evalúa la capacidad financiera del proveedor?",
+                "¿Qué son 'condiciones favorables' para la Universidad?",
+                "¿Puede adjudicarse a un proveedor no económico?"
+            ],
+            "responses": [
+                "📘 Precio, calidad, tiempo de entrega, financiamiento, y antecedentes del proveedor.",
+                "🔹 No, también se consideran calidad, plazo, y otros factores (Artículo 25, fracción II).",
+                "🎯 Con estados financieros, referencias bancarias, o historial contractual.",
+                "📘 Beneficios adicionales como garantías extendidas, capacitación, o descuentos por volumen.",
+                "🔹 Sí, si justifica mejor valor global (ej.: calidad superior con diferencia de precio ≤10%)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 25",
+            "topic": "Criterios de Adjudicación"
+        },
+        {
+            "tag": "incumplimiento_proveedor",
+            "patterns": [
+                "¿Qué pasa si el proveedor adjudicado no firma el contrato según el Artículo 26?",
+                "¿Puede asignarse al segundo lugar sin nuevo proceso?",
+                "¿Qué diferencia de precio permite esta asignación?",
+                "¿Quién decide repetir el procedimiento?",
+                "¿Cómo se sanciona al proveedor incumplido?"
+            ],
+            "responses": [
+                "📘 El Comité puede asignar al segundo lugar o repetir el proceso (Artículo 26).",
+                "🔹 Sí, si la diferencia de precio es ≤10% vs. la propuesta original.",
+                "🎯 Máximo 10% sobre el monto adjudicado inicialmente.",
+                "📘 El Comité, fundando y motivando su decisión.",
+                "🔹 Con inhabilitación temporal (Artículo 62)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 26",
+            "topic": "Incumplimiento de Proveedor Adjudicado"
+        },
+        {
+            "tag": "excepciones_procedimientos",
+            "patterns": [
+                "¿Qué casos están exentos de licitación/concurso según el Artículo 27?",
+                "¿Quién autoriza adjudicaciones por urgencia?",
+                "¿Qué son 'condiciones excepcionalmente favorables'?",
+                "¿Cómo se justifica una adjudicación a proveedor único?",
+                "¿Debe informarse al Comité sobre estas excepciones?"
+            ],
+            "responses": [
+                "📘 Urgencias, seguridad universitaria, condiciones excepcionales, o proveedor único (fracciones I-IV).",
+                "🔹 El titular de la dependencia, con validación de la Coordinación General o Secretaría Administrativa.",
+                "🎯 Ofertas con garantías, precios o calidad muy superiores al mercado, avaladas por la Comisión de Hacienda.",
+                "📘 Demostrando que no hay otros proveedores del bien/servicio en el mercado.",
+                "🔹 Sí, en la sesión inmediata siguiente a la adjudicación (párrafo final)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 27",
+            "topic": "Excepciones a los Procedimientos"
+        },
+        {
+            "tag": "fraccionamiento_contratos",
+            "patterns": [
+                "¿Qué prohíbe el Artículo 28 sobre fraccionamiento de contratos?",
+                "¿Cómo se detecta un fraccionamiento ilegal?",
+                "¿Qué sanciones aplican por fraccionar contratos?",
+                "¿Hay excepciones a esta regla?",
+                "¿Quién supervisa el cumplimiento de este artículo?"
+            ],
+            "responses": [
+                "📘 Dividir contratos para evadir los topes de adjudicación directa, invitación o concurso.",
+                "🔹 Comparando contratos similares en monto, objeto y periodo cercano.",
+                "🎯 Nulidad del contrato, inhabilitación del proveedor, y/o responsabilidades administrativas.",
+                "📘 No, salvo que sean adquisiciones independientes debidamente justificadas.",
+                "🔹 La Contraloría General (Artículo 78)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 28",
+            "topic": "Prohibición de Fraccionamiento"
+        },
+        {
+            "tag": "impedimentos_contratacion",
+            "patterns": [
+                "¿Quiénes no pueden ser proveedores según el Artículo 29?",
+                "¿Qué familiares de directivos están impedidos?",
+                "¿Las empresas de funcionarios pueden participar?",
+                "¿Qué pasa si un proveedor está en mora con la Universidad?",
+                "¿Dónde se publica la lista de proveedores impedidos?"
+            ],
+            "responses": [
+                "📘 Directivos, integrantes de comités, sus familiares hasta 4° grado, y empresas vinculadas.",
+                "🔹 Cónyuge, concubinos, y parientes por consanguinidad/afinidad hasta 4° grado.",
+                "🎯 No, si el funcionario es accionista, administrador, apoderado o comisario.",
+                "📘 No puede participar hasta regularizar su situación.",
+                "🔹 En el sistema electrónico de contrataciones (Artículo 81)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 29",
+            "topic": "Impedimentos para Contratar"
+        },
+        {
+            "tag": "adquisiciones_bienes_perecederos",
+            "patterns": [
+                "¿Qué establece el Artículo 30 sobre bienes perecederos?",
+                "¿Requieren contrato escrito las compras de perecederos?",
+                "¿Qué monto aplica para estos casos?",
+                "¿Quién autoriza la compra de perecederos?",
+                "¿Cómo se garantiza la transparencia?"
+            ],
+            "responses": [
+                "📘 Que están exentos de formalizar contrato escrito, independientemente del monto (Artículo 29Bis, párrafo 3).",
+                "🔹 No, pero debe emitirse orden de compra si supera 6 UMA.",
+                "🎯 No hay límite; se aplican las mismas reglas de adjudicación según monto.",
+                "📘 El titular del área requirente, con validación de almacén o área técnica.",
+                "🔹 Con registro en el sistema electrónico y facturación conforme a ley."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 30",
+            "topic": "Adquisición de Bienes Perecederos"
+        },
+        {
+            "tag": "verificacion_bienes",
+            "patterns": [
+                "¿Qué responsabilidades tienen las dependencias según el Artículo 31?",
+                "¿A quién deben reportar irregularidades en las adquisiciones?",
+                "¿Cuánto tiempo se debe conservar la documentación de compras?",
+                "¿Qué tipo de irregularidades deben reportarse?",
+                "¿La documentación puede ser solicitada por autoridades externas?"
+            ],
+            "responses": [
+                "📘 Verificar que los bienes cumplan especificaciones y conservar documentación por 10 años.",
+                "🔹 A la Coordinación General de Servicios Administrativos o Secretaría Administrativa correspondiente.",
+                "🎯 Mínimo 10 años, según el párrafo II del Artículo 31.",
+                "📘 Defectos en bienes, incumplimiento de plazos, o discrepancias con lo contratado.",
+                "🔹 Sí, en auditorías o procedimientos legales."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 31",
+            "topic": "Verificación de Bienes Adquiridos"
+        },
+        {
+            "tag": "contratacion_servicios",
+            "patterns": [
+                "¿Cuándo se justifica contratar servicios según el Artículo 32?",
+                "¿Qué tipos de servicios cubre este artículo?",
+                "¿Se requiere justificación para no usar recursos internos?",
+                "¿Quién autoriza la contratación de servicios?",
+                "¿Cómo se selecciona al proveedor de servicios?"
+            ],
+            "responses": [
+                "📘 Cuando la Universidad no pueda realizarlos con recursos propios (ej.: reparaciones especializadas).",
+                "🔹 Mantenimiento, reparación de bienes muebles/inmuebles, y otros servicios técnicos.",
+                "🎯 Sí, debe documentarse la imposibilidad de usar personal o equipos universitarios.",
+                "📘 El titular del área requirente, siguiendo los procedimientos por monto (Artículo 16).",
+                "🔹 Según el monto: adjudicación directa, invitación, concurso o licitación."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 32",
+            "topic": "Contratación de Servicios"
+        },
+        {
+            "tag": "arrendamiento_inmuebles",
+            "patterns": [
+                "¿En qué casos se permite arrendar inmuebles según el Artículo 33?",
+                "¿Qué significa 'onerosa su compra' en la fracción IV?",
+                "¿Se puede arrendar sin justificación presupuestal?",
+                "¿Quién evalúa la necesidad de arrendar vs. comprar?",
+                "¿Los arrendamientos requieren contrato escrito?"
+            ],
+            "responses": [
+                "📘 Cuando no haya presupuesto para compra, no exista inmueble disponible en el patrimonio, sea temporal, o el arrendamiento sea más económico.",
+                "🔹 Que el costo de compra supere significativamente el valor de arrendamiento (ej.: inmuebles en zonas costosas).",
+                "🎯 No, debe justificarse con el presupuesto disponible (Artículo 34).",
+                "📘 La Comisión de Hacienda del Consejo General Universitario (Artículo 38).",
+                "🔹 Sí, siempre, independientemente del monto (Artículo 29Ter)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 33",
+            "topic": "Arrendamiento de Inmuebles"
+        },
+        {
+            "tag": "autorizacion_arrendamientos",
+            "patterns": [
+                "¿Quién autoriza los arrendamientos según el Artículo 34?",
+                "¿Qué documentos debe incluir la solicitud?",
+                "¿Los Rectores pueden delegar esta autorización?",
+                "¿Cómo se verifica que cumpla el Artículo 33?",
+                "¿Qué pasa si no hay presupuesto para el arrendamiento?"
+            ],
+            "responses": [
+                "📘 Los Rectores de Centros Universitarios o titulares del SEMS, según su presupuesto.",
+                "🔹 Justificación de necesidad, comparativo de costos (arriendo vs. compra), y disponibilidad presupuestal.",
+                "🎯 No, es una atribución exclusiva del Rector o titular.",
+                "📘 Con un informe técnico que acredite los supuestos del Artículo 33.",
+                "🔹 No se puede autorizar; debe gestionarse reasignación presupuestal."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 34",
+            "topic": "Autorización de Arrendamientos"
+        },
+        {
+            "tag": "renovacion_arrendamientos",
+            "patterns": [
+                "¿Qué establece el Artículo 35 sobre renovación de arrendamientos?",
+                "¿Se pueden aumentar los montos al renovar?",
+                "¿Quién negocia los incrementos?",
+                "¿Requiere nueva autorización del Rector?",
+                "¿Qué pasa si no hay acuerdo en la renovación?"
+            ],
+            "responses": [
+                "📘 Que al vencimiento, la Coordinación General o titulares pueden negociar incrementos según condiciones de mercado.",
+                "🔹 Sí, si se justifica por ajustes de mercado o mejoras al inmueble.",
+                "🎯 La Coordinación General de Servicios Administrativos o los titulares de centros/SEMS.",
+                "📘 No, si el incremento está dentro de lo pactado en el contrato original.",
+                "🔹 Se devuelve el inmueble o se inicia nuevo proceso de contratación."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 35",
+            "topic": "Renovación de Contratos de Arrendamiento"
+        },
+        {
+            "tag": "responsabilidad_proveedores",
+            "patterns": [
+                "¿Qué responsabilidades tienen los proveedores según el Artículo 36?",
+                "¿Qué se considera 'vicios ocultos' en los bienes?",
+                "¿Cómo se reclaman incumplimientos?",
+                "¿Los proveedores deben dar garantías?",
+                "¿Qué sanciones aplican por incumplimiento?"
+            ],
+            "responses": [
+                "📘 Responder por defectos, vicios ocultos, falta de calidad, o incumplimientos contractuales.",
+                "🔹 Fallas no evidentes al momento de la entrega que afecten funcionalidad o seguridad.",
+                "🎯 Por escrito al área contratante, con copia a la Contraloría General (Artículo 79).",
+                "🔹 Sí, según el monto y tipo de contrato (Artículos 56-58).",
+                "📘 Desde multas hasta inhabilitación temporal (Artículo 62)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 36",
+            "topic": "Responsabilidad de Proveedores"
+        },
+        {
+            "tag": "adquisicion_inmuebles",
+            "patterns": [
+                "¿Qué proceso sigue la compra de inmuebles según el Artículo 37?",
+                "¿Quién debe fundamentar la necesidad de compra?",
+                "¿Qué revisa la Comisión de Hacienda?",
+                "¿Se puede comprar sin verificar el inventario universitario?",
+                "¿Qué pasa si hay inmuebles disponibles?"
+            ],
+            "responses": [
+                "📘 La dependencia solicita al Rector General, quien lo turna a la Comisión de Hacienda del Consejo Universitario.",
+                "🔹 El área requirente, con un informe técnico y justificación económica.",
+                "🎯 El inventario de inmuebles de la Universidad para evitar compras innecesarias (Artículo 38).",
+                "📘 No, es requisito legal (Artículo 38).",
+                "🔹 Se asignan los disponibles en lugar de comprar nuevos."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 37",
+            "topic": "Adquisición de Inmuebles"
+        },
+        {
+            "tag": "inventario_inmuebles",
+            "patterns": [
+                "¿Qué función tiene la Comisión de Hacienda según el Artículo 38?",
+                "¿Qué documentos analiza para autorizar compras?",
+                "¿Puede negarse la compra de un inmueble?",
+                "¿Cómo se asignan inmuebles disponibles?",
+                "¿Quién actualiza el inventario?"
+            ],
+            "responses": [
+                "📘 Revisar el inventario de inmuebles y determinar si es necesaria la compra o puede asignarse uno existente.",
+                "🔹 Inventario universitario, justificación técnica, y estudio de mercado.",
+                "🎯 Sí, si existe un inmueble disponible que cumpla con la necesidad.",
+                "📘 La Comisión los asigna a centros o dependencias según disponibilidad y prioridad.",
+                "🔹 La Coordinación General de Servicios Administrativos."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 38",
+            "topic": "Inventario de Inmuebles"
+        },
+        {
+            "tag": "compra_inmuebles",
+            "patterns": [
+                "¿Qué pasa si no hay inmuebles disponibles según el Artículo 39?",
+                "¿Con qué partida se compran los inmuebles?",
+                "¿Se requiere licitación pública para comprar inmuebles?",
+                "¿Qué debe incluir el estudio de mercado?",
+                "¿Quién firma la escrituración?"
+            ],
+            "responses": [
+                "📘 Se adquiere uno nuevo, previa autorización de la Comisión de Hacienda y con cargo al presupuesto.",
+                "🔹 Con la partida presupuestal autorizada para adquisiciones de bienes inmuebles.",
+                "🎯 Sí, salvo excepciones por urgencia o proveedor único (Artículo 27).",
+                "📘 Comparativo de precios, ubicación, y condiciones legales del inmueble.",
+                "🔹 El apoderado legal de la Universidad con facultades notariales."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 39",
+            "topic": "Procedimiento para Compra de Inmuebles"
+        },
+        {
+            "tag": "integracion_comites_centros",
+            "patterns": [
+                "¿Quiénes integran los comités de compras de centros universitarios según el Artículo 40?",
+                "¿El representante del Ayuntamiento es obligatorio?",
+                "¿Quién funge como Secretario Ejecutivo?",
+                "¿Los cargos son remunerados?",
+                "¿Qué pasa si un centro no puede integrar su comité?"
+            ],
+            "responses": [
+                "📘 Representante del Ayuntamiento, Consejo Social, cámaras locales, Secretario Administrativo (Secretario Ejecutivo), Secretario Académico, y un representante de la Coordinación General.",
+                "🔹 Sí, es miembro permanente por disposición del Artículo 40, fracción I.",
+                "🎯 El Secretario o Director Administrativo del centro o sistema.",
+                "📘 No, son honoríficos (párrafo final del Artículo 40).",
+                "🔹 El Comité General de Compras asume sus funciones (Artículo Quinto Transitorio)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 40",
+            "topic": "Integración de Comités en Centros Universitarios"
+        },
+        {
+            "tag": "suplentes_comites_centros",
+            "patterns": [
+                "¿Quiénes pueden tener suplentes en los comités de centros según el Artículo 41?",
+                "¿Cómo se designan los suplentes?",
+                "¿El Secretario Ejecutivo tiene suplente?",
+                "¿Los suplentes pueden votar en sesiones?",
+                "¿Qué pasa si un suplente falta repetidamente?"
+            ],
+            "responses": [
+                "📘 Los representantes externos (fracciones I-III del Artículo 40: Ayuntamiento, Consejo Social, cámaras locales).",
+                "🔹 Los nombra la institución que representan (ej.: el Ayuntamiento designa a su representante y suplente).",
+                "🎯 No, el Secretario Ejecutivo (funcionario universitario) no tiene suplente.",
+                "📘 Sí, cuando actúen en lugar del titular.",
+                "🔹 La institución representada debe designar un nuevo suplente."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 41",
+            "topic": "Suplentes en Comités de Centros"
+        },
+        {
+            "tag": "funcionamiento_comites_centros",
+            "patterns": [
+                "¿Qué reglas aplican a los comités de centros según el Artículo 42?",
+                "¿Quién debe ser el presidente de estos comités?",
+                "¿Con qué frecuencia sesionan?",
+                "¿Pueden crear reglas propias?",
+                "¿Qué pasa si no se cumple el quórum?"
+            ],
+            "responses": [
+                "📘 Las mismas que para el Comité General (Artículos 9-15), con presidencia externa.",
+                "🔹 Un miembro externo a la Universidad (ej.: representante de cámara local).",
+                "🎯 Mínimo cada 15 días (Artículo 10 vs. semanal para el Comité General).",
+                "📘 No, deben seguir este Reglamento, pero pueden emitir recomendaciones operativas.",
+                "🔹 Se pospone la sesión y se reconvoca."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 42",
+            "topic": "Funcionamiento de Comités de Centros"
+        },
+        {
+            "tag": "atribuciones_comites_centros",
+            "patterns": [
+                "¿Qué funciones tienen los comités de centros según el Artículo 43?",
+                "¿Qué montos de contratación aprueban?",
+                "¿Pueden proponer cambios al Reglamento?",
+                "¿Cómo verifican la calidad de bienes/servicios?",
+                "¿Qué pasa si un centro no tiene comité?"
+            ],
+            "responses": [
+                "📘 Resolver contrataciones >75 UMA, verificar cumplimiento de especificaciones, y emitir recomendaciones.",
+                "🔹 Contratos >75 UMA en su ámbito (Artículo 43, fracción I).",
+                "🎯 Sí, pueden proponer modificaciones al Reglamento (fracción III).",
+                "📘 Con inspecciones físicas, pruebas técnicas, o dictámenes de áreas especializadas.",
+                "🔹 El Comité General asume sus funciones (Artículo Quinto Transitorio)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 43",
+            "topic": "Atribuciones de Comités de Centros"
+        },
+        {
+            "tag": "recursos_federales",
+            "patterns": [
+                "¿Qué establece el Artículo 44 sobre recursos federales?",
+                "¿Los convenios con autoridades federales prevalecen sobre este Reglamento?",
+                "¿Qué documentos prueban los criterios específicos?",
+                "¿Quién verifica el cumplimiento de estos convenios?",
+                "¿Dónde se publican los lineamientos federales?"
+            ],
+            "responses": [
+                "📘 Que cuando haya convenios con autoridades federales, se aplicarán sus criterios y procedimientos.",
+                "🔹 Sí, en lo que respecta a adquisiciones con esos recursos (Artículo 44).",
+                "🎯 Los convenios firmados y normativas federales asociadas (ej.: Ley de Obras Públicas).",
+                "📘 La Contraloría General y la dependencia federal que otorgó los recursos.",
+                "🔹 En el DOF y en el sistema electrónico de la Universidad (Artículo 18)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 44",
+            "topic": "Contratación con Recursos Federales"
+        },
+        {
+            "tag": "procedimientos_recursos_federales",
+            "patterns": [
+                "¿Qué procedimientos aplican para recursos federales según el Artículo 45?",
+                "¿Es obligatoria la licitación pública?",
+                "¿Qué factores se consideran para elegir el procedimiento?",
+                "¿Puede usarse adjudicación directa?",
+                "¿Quién decide el procedimiento a seguir?"
+            ],
+            "responses": [
+                "📘 Licitación pública, invitación a 3 personas, o adjudicación directa, buscando las mejores condiciones.",
+                "🔹 Es la regla general, pero hay excepciones (Artículo 51).",
+                "🎯 Precio, calidad, financiamiento, oportunidad, y circunstancias del mercado.",
+                "📘 Sí, en casos excepcionales autorizados por la normativa federal.",
+                "🔹 El área requirente, con validación de la Contraloría General."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 45",
+            "topic": "Procedimientos con Recursos Federales"
+        },
+        {
+            "tag": "investigacion_mercado",
+            "patterns": [
+                "¿Qué debe incluir la investigación de mercado según el Artículo 46?",
+                "¿Quién realiza esta investigación?",
+                "¿Cómo se documentan los resultados?",
+                "¿Qué pasa si no se hace la investigación?",
+                "¿Se puede contratar sin este requisito en emergencias?"
+            ],
+            "responses": [
+                "📘 Análisis de precios, calidad, disponibilidad, y condiciones de proveedores para el bien/servicio requerido.",
+                "🔹 El área usuaria o requirente, con apoyo de la Coordinación General.",
+                "🎯 En un informe firmado que se anexa al expediente de contratación.",
+                "📘 La contratación podría declararse nula por incumplimiento.",
+                "🔹 Solo en casos de urgencia justificada (Artículo 27, fracción I)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 46",
+            "topic": "Investigación de Mercado"
+        },
+        {
+            "tag": "licitacion_publica_federal",
+            "patterns": [
+                "¿Cómo se realiza una licitación pública con recursos federales según el Artículo 47?",
+                "¿Qué reglamento complementa este proceso?",
+                "¿Dónde se publican las convocatorias?",
+                "¿Hay diferencias con las licitaciones ordinarias?",
+                "¿Quién supervisa estas licitaciones?"
+            ],
+            "responses": [
+                "📘 Según el Capítulo IV del Reglamento de Obras y Servicios relacionados con las mismas de la UdeG.",
+                "🔹 El Reglamento de Obras y la Ley de Adquisiciones del Sector Público.",
+                "🎯 En el sistema electrónico de la Universidad y, opcionalmente, en COMPRANET.",
+                "📘 Sí, deben alinearse a la normativa federal adicional.",
+                "🔹 La Contraloría General y la SHCP (cuando aplique)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 47",
+            "topic": "Licitación Pública con Recursos Federales"
+        },
+        {
+            "tag": "invitacion_tres_proveedores",
+            "patterns": [
+                "¿Qué requiere el procedimiento de invitación según el Artículo 48?",
+                "¿Cómo se seleccionan los proveedores invitados?",
+                "¿Qué información debe incluir la invitación?",
+                "¿Puede declararse desierto este procedimiento?",
+                "¿Qué pasa si solo se recibe una propuesta?"
+            ],
+            "responses": [
+                "📘 Invitar a mínimo 3 proveedores y recibir al menos 3 propuestas válidas.",
+                "🔹 Por capacidad, especialización y antecedentes (Artículo 24).",
+                "🎯 Especificaciones técnicas, plazos, criterios de adjudicación, y montos.",
+                "📘 Sí, si no se cumplen los requisitos mínimos de propuestas.",
+                "🔹 Podría optarse por adjudicación directa, justificando la excepción (Artículo 51)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 48",
+            "topic": "Invitación a Tres Proveedores"
+        },
+        {
+            "tag": "procedimiento_invitacion_federal",
+            "patterns": [
+                "¿Qué normativa aplica para invitaciones con recursos federales según el Artículo 49?",
+                "¿Hay un formato oficial para las invitaciones?",
+                "¿Se debe notificar a la Contraloría?",
+                "¿Qué plazo tienen los proveedores para responder?",
+                "¿Cómo se elige al ganador?"
+            ],
+            "responses": [
+                "📘 El Artículo 44 del Reglamento de Obras y Servicios relacionados con las mismas de la UdeG.",
+                "🔹 Sí, el manual de procedimientos de la Universidad lo establece.",
+                "🎯 Sí, con copia del expediente al finalizar el proceso.",
+                "📘 El que señalen las bases de la invitación (mínimo 5 días hábiles).",
+                "🔹 Por mejor evaluación técnico-económica, documentada en acta."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 49",
+            "topic": "Procedimiento de Invitación Federal"
+        },
+        {
+            "tag": "adjudicacion_directa_federal",
+            "patterns": [
+                "¿Quién resuelve la adjudicación directa con recursos federales según el Artículo 50?",
+                "¿Qué requisitos debe cumplir el proveedor?",
+                "¿Se necesita justificación por escrito?",
+                "¿Qué información debe contener las bases?",
+                "¿Cómo se notifica al proveedor?"
+            ],
+            "responses": [
+                "📘 La Coordinación General Administrativa, Secretaría Administrativa o equivalente en la Red Universitaria.",
+                "🔹 Capacidad técnica, financiera, y cumplimiento de especificaciones.",
+                "🎯 Sí, con análisis de mercado y motivos para no hacer licitación/invitación.",
+                "📘 Catálogo de bienes/servicios con claves, especificaciones, y unidades de medida.",
+                "🔹 Por escrito, con copia al área usuaria y registro en el sistema."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 50",
+            "topic": "Adjudicación Directa con Recursos Federales"
+        },
+        {
+            "tag": "excepciones_licitacion_publica",
+            "patterns": [
+                "¿En qué casos se puede omitir la licitación pública según el Artículo 51?",
+                "¿Qué ley federal regula estas excepciones?",
+                "¿Quién debe firmar la justificación para no licitar?",
+                "¿Qué información debe incluir el informe mensual a Contraloría?",
+                "¿Se pueden invitar proveedores sin capacidad técnica?"
+            ],
+            "responses": [
+                "📘 En los supuestos del Artículo 41 de la Ley de Adquisiciones del Sector Público (ej.: urgencia, proveedor único).",
+                "🔹 Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público (Artículo 51, párrafo 1).",
+                "🎯 El titular del área requirente, con dictamen que acredite criterios de economía y transparencia.",
+                "📘 Copia de la justificación y análisis de proposiciones recibidas (Artículo 51, párrafo 4).",
+                "🔹 No, deben tener capacidad comprobada (Artículo 51, párrafo 3)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 51",
+            "topic": "Excepciones a la Licitación Pública"
+        },
+        {
+            "tag": "contratacion_sin_licitacion",
+            "patterns": [
+                "¿Qué permite el Artículo 52 en contrataciones con recursos federales?",
+                "¿Qué hipótesis de la Ley de Adquisiciones aplican?",
+                "¿Se requiere autorización previa de la SHCP?",
+                "¿Cómo se garantiza la transparencia en estos casos?",
+                "¿Qué pasa si se fracciona el contrato para usar esta excepción?"
+            ],
+            "responses": [
+                "📘 Usar invitación a 3 personas o adjudicación directa cuando apliquen excepciones de la Ley de Adquisiciones.",
+                "🔹 Las del Artículo 41 de dicha ley (ej.: obras artísticas, seguridad nacional).",
+                "🎯 Solo en casos específicos; generalmente, basta con la justificación interna.",
+                "📘 Con informe mensual a Contraloría y registro en el sistema electrónico.",
+                "🔹 Es violación al Artículo 28 y acarrea sanciones (inhabilitación, responsabilidades)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 52",
+            "topic": "Contratación sin Licitación"
+        },
+        {
+            "tag": "montos_maximos_federales",
+            "patterns": [
+                "¿Qué establece el Artículo 53 sobre montos máximos?",
+                "¿Dónde se publican estos montos?",
+                "¿Qué pasa si el contrato supera el monto autorizado?",
+                "¿Se aplica el límite del 30% del presupuesto?",
+                "¿Cómo se calcula el tope para adjudicación directa?"
+            ],
+            "responses": [
+                "📘 Que los montos máximos para excepciones a licitación se fijan en el Presupuesto de Egresos de la Federación.",
+                "🔹 En el Diario Oficial de la Federación y el sistema electrónico de la Universidad.",
+                "🎯 Debe hacerse licitación pública, salvo nueva justificación excepcional.",
+                "📘 No, este límite se derogó (Artículo 54, párrafos 1-2).",
+                "🔹 Según el salario mínimo vigente (300 SMG para cotizaciones previas)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 53",
+            "topic": "Montos Máximos para Excepciones"
+        },
+        {
+            "tag": "limite_presupuestal_excepciones",
+            "patterns": [
+                "¿Qué límites establecía el Artículo 54 (derogado)?",
+                "¿Qué operaciones ya no tienen restricción del 30%?",
+                "¿Qué normativa lo reemplaza?",
+                "¿Cómo se controlan los gastos sin este límite?",
+                "¿Dónde se consulta la derogación?"
+            ],
+            "responses": [
+                "📘 Que las adjudicaciones directas no podían superar el 30% del presupuesto de adquisiciones anual.",
+                "🔹 Las de invitación a 3 personas y adjudicación directa con recursos federales.",
+                "🎯 Los topes del Presupuesto de Egresos de la Federación (Artículo 53).",
+                "📘 Con auditorías de Contraloría y rendición de cuentas trimestral.",
+                "🔹 En el Dictamen II/2022/002 publicado en la Gaceta Universitaria."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 54",
+            "topic": "Límite Presupuestal para Excepciones (Derogado)"
+        },
+        {
+            "tag": "contratos_recursos_federales",
+            "patterns": [
+                "¿Qué debe contener un contrato con recursos federales según el Artículo 55?",
+                "¿Hay cláusulas obligatorias por ley federal?",
+                "¿Quién debe firmar el contrato?",
+                "¿Se requiere registro en sistema electrónico?",
+                "¿Qué pasa si no se incluyen todos los requisitos?"
+            ],
+            "responses": [
+                "📘 Lo establecido en el Artículo 45 de la Ley de Adquisiciones (ej.: objeto, monto, plazos, garantías).",
+                "🔹 Sí, como penalizaciones por incumplimiento y causales de rescisión.",
+                "🎯 El apoderado legal de la Universidad con facultades notariales.",
+                "📘 Sí, en el sistema administrativo y COMPRANET (si aplica).",
+                "🔹 Podría declararse nulo por incumplimiento a normativa federal."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 55",
+            "topic": "Contratos con Recursos Federales"
+        },
+        {
+            "tag": "garantias_contratos_federales",
+            "patterns": [
+                "¿Qué garantías exige el Artículo 56 para contratos federales?",
+                "¿Qué cubre la fianza de cumplimiento?",
+                "¿En qué plazo se deben constituir las garantías?",
+                "¿Se pueden aceptar otras formas de garantía?",
+                "¿Quién recibe las fianzas?"
+            ],
+            "responses": [
+                "📘 Fianza para anticipos (100% del monto) y fianza de cumplimiento (10% del contrato).",
+                "🔹 El 10% del monto total, para asegurar la ejecución del contrato.",
+                "🎯 6 días naturales tras la notificación del fallo (Artículo 56, párrafos I-II).",
+                "📘 No, salvo que la ley federal permita alternativas (ej.: seguros).",
+                "🔹 La Universidad de Guadalajara, a través de la Tesorería General."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 56",
+            "topic": "Garantías para Contratos Federales"
+        },
+        {
+            "tag": "exencion_fianzas",
+            "patterns": [
+                "¿Cuándo se puede eximir de fianzas según el Artículo 57?",
+                "¿Qué debe contener la carta compromiso?",
+                "¿Aplica esta exención para contratos grandes?",
+                "¿Quién autoriza la exención?",
+                "¿Qué pasa si el proveedor incumple sin fianza?"
+            ],
+            "responses": [
+                "📘 Para adjudicaciones directas ≤37 UMA, sustituyendo fianza por carta compromiso.",
+                "🔹 Obligación de cumplir el contrato y aceptar penalizaciones por incumplimiento.",
+                "🎯 No, solo para montos menores (Artículo 57).",
+                "📘 El titular del área contratante, bajo su responsabilidad.",
+                "🔹 Se inhabilitará al proveedor y podrá demandarse el cumplimiento."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 57",
+            "topic": "Exención de Fianzas"
+        },
+        {
+            "tag": "pago_final_contratos",
+            "patterns": [
+                "¿Qué establece el Artículo 58 sobre pagos finales sin fianza?",
+                "¿Por qué se retiene el 30% del pago?",
+                "¿Aplica para todos los tipos de contrato?",
+                "¿Cómo se protege a la Universidad en estos casos?",
+                "¿Qué pasa si el proveedor rechaza esta condición?"
+            ],
+            "responses": [
+                "📘 Que el pago final no sea inferior al 30% del monto total si no hay fianza de cumplimiento.",
+                "🔹 Como resguardo ante posibles incumplimientos post-entrega.",
+                "🎯 Solo para contratos donde se exonera la fianza (Artículo 57).",
+                "📘 Con inspecciones previas al pago y cláusulas de penalización.",
+                "🔹 Debe constituir la fianza del 10% o no se formaliza el contrato."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 58",
+            "topic": "Pago Final en Contratos sin Fianza"
+        },
+        {
+            "tag": "impedimentos_contratacion_federal",
+            "patterns": [
+                "¿Qué prohíbe el Artículo 59 sobre contratación con ciertas personas?",
+                "¿Los familiares de funcionarios pueden ser proveedores?",
+                "¿Qué empresas están impedidas?",
+                "¿Cómo se verifica el cumplimiento de este artículo?",
+                "¿Qué sanciones aplican por violación?"
+            ],
+            "responses": [
+                "📘 Contratar con directivos, sus familiares hasta 4° grado, o empresas vinculadas (Artículo 29).",
+                "🔹 No, si son parientes hasta 4° grado de funcionarios con injerencia en el proceso.",
+                "🎯 Aquellas donde funcionarios sean accionistas, administradores o apoderados.",
+                "📘 Con declaraciones patrimoniales y cruce de datos en el sistema electrónico.",
+                "🔹 Nulidad del contrato, inhabilitación y posibles acciones penales."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 59",
+            "topic": "Impedimentos para Contratación Federal"
+        },
+        {
+            "tag": "suspension_rescision_contratos",
+            "patterns": [
+                "¿Qué facultades tiene la Universidad según el Artículo 60?",
+                "¿Qué se considera 'causa justificada' para rescindir?",
+                "¿Se puede suspender parcialmente un contrato?",
+                "¿Cómo se notifica al proveedor?",
+                "¿Qué pasa con los pagos pendientes tras la rescisión?"
+            ],
+            "responses": [
+                "📘 Suspender total/parcialmente o rescindir contratos por incumplimiento justificado.",
+                "🔹 Incumplimiento de plazos, calidad insuficiente, o vicios ocultos (Artículo 36).",
+                "🎯 Sí, si solo parte del bien/servicio presenta problemas.",
+                "📘 Por escrito, con copia a Contraloría y oportunidad para defensa.",
+                "🔹 Se retienen hasta cubrir daños, deduciendo de garantías si aplica."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 60",
+            "topic": "Suspensión y Rescisión de Contratos"
+        },
+                {
+            "tag": "normativa_aplicable",
+            "patterns": [
+                "¿Qué normativa complementaria aplica según el Artículo 61?",
+                "¿El Reglamento de Obras prevalece sobre este?",
+                "¿Dónde se consulta la Ley de Adquisiciones?",
+                "¿Qué pasa si hay conflicto entre normativas?",
+                "¿Se aplican normas internacionales?"
+            ],
+            "responses": [
+                "📘 El Reglamento de Obras y Servicios relacionados con las mismas de la UdeG y la Ley de Adquisiciones del Sector Público.",
+                "🔹 Solo para contrataciones de obras públicas; este reglamento rige adquisiciones y servicios.",
+                "🎯 En el Diario Oficial de la Federación y el portal de la SHCP.",
+                "📘 Prevalece la normativa específica del convenio o recurso aplicable (Artículo 44).",
+                "🔹 Solo si el contrato o convenio lo establece explícitamente."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 61",
+            "topic": "Normativa Aplicable"
+        },
+        {
+            "tag": "inhabilitacion_proveedores",
+            "patterns": [
+                "¿Qué causales de inhabilitación establece el Artículo 62?",
+                "¿Quién impone la inhabilitación?",
+                "¿La inhabilitación es permanente?",
+                "¿Se puede apelar una inhabilitación?",
+                "¿Cómo se notifica al proveedor?"
+            ],
+            "responses": [
+                "📘 Incumplir contratos, dañar a la Universidad, o actuar con dolo/mala fe (fracciones I-III).",
+                "🔹 La Contraloría General de la Universidad.",
+                "🎯 No, dura de 3 meses a 5 años según gravedad (Artículo 63).",
+                "📘 No, pero puede solicitar revisión administrativa.",
+                "🔹 Por escrito, con acuse de recibo y publicación en el sistema electrónico."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 62",
+            "topic": "Inhabilitación de Proveedores"
+        },
+        {
+            "tag": "plazo_inhabilitacion",
+            "patterns": [
+                "¿Qué rango de plazo tiene una inhabilitación según el Artículo 63?",
+                "¿Cuándo inicia a correr el plazo?",
+                "¿Se puede reducir la inhabilitación?",
+                "¿Qué pasa si el proveedor reincide?",
+                "¿Dónde se registran las inhabilitaciones?"
+            ],
+            "responses": [
+                "📘 Mínimo 3 meses, máximo 5 años.",
+                "🔹 Desde el día siguiente a la notificación a las dependencias (Artículo 63).",
+                "🎯 Sí, si el proveedor demuestra reparación de daños y medidas correctivas.",
+                "📘 Se aplica el plazo máximo (5 años) y posible acción legal.",
+                "🔹 En el sistema electrónico y lista de proveedores impedidos (Artículo 81)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 63",
+            "topic": "Plazo de Inhabilitación"
+        },
+        {
+            "tag": "reporte_infracciones",
+            "patterns": [
+                "¿Qué plazo hay para reportar infracciones según el Artículo 64?",
+                "¿Qué documentación debe enviarse a Contraloría?",
+                "¿Quién puede reportar una infracción?",
+                "¿Qué pasa si no se cumple el plazo de 15 días?",
+                "¿Se investigan reportes anónimos?"
+            ],
+            "responses": [
+                "📘 15 días naturales desde que se detecta la infracción.",
+                "🔹 Pruebas documentales, testimonios, y análisis técnico (Artículo 64).",
+                "🎯 Cualquier dependencia universitaria o proveedor afectado.",
+                "📘 La investigación puede retrasarse, pero no se archiva automáticamente.",
+                "🔹 Sí, si aportan evidencia concreta, pero no generan derecho a seguimiento."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 64",
+            "topic": "Reporte de Infracciones"
+        },
+        {
+            "tag": "inconformidades_proveedores",
+            "patterns": [
+                "¿Cómo puede inconformarse un proveedor según el Artículo 65?",
+                "¿Qué plazo tiene para presentar la inconformidad?",
+                "¿Qué debe incluir la inconformidad?",
+                "¿Se requiere abogado para presentarla?",
+                "¿Qué pasa si no se acredita la personalidad?"
+            ],
+            "responses": [
+                "📘 Por escrito o vía electrónica ante la Contraloría General.",
+                "🔹 10 días hábiles desde el acto impugnado (Artículo 65, fracción I).",
+                "🎯 Irregularidades observadas y documentación soporte (fracción II).",
+                "📘 No, pero debe acreditar su personalidad (ej.: poder notarial si actúa por representación).",
+                "🔹 Se desecha sin admitir a trámite (Artículo 65, fracción IV)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 65",
+            "topic": "Inconformidades de Proveedores"
+        },
+        {
+            "tag": "sanciones_manifestaciones_falsas",
+            "patterns": [
+                "¿Qué sanciona el Artículo 66 sobre información falsa?",
+                "¿Qué se considera 'notoriamente improcedente'?",
+                "¿Cómo se prueba el dolo en una inconformidad?",
+                "¿Qué pasa si se retrasa el procedimiento sin causa?",
+                "¿A qué otras normas se remite este artículo?"
+            ],
+            "responses": [
+                "📘 Manifestar hechos falsos o inconformidades solo para retrasar procesos.",
+                "🔹 Cuando no se adjunta prueba alguna o se violan plazos evidentes.",
+                "🎯 Con análisis de antecedentes del proveedor y contradicciones en sus argumentos.",
+                "📘 El proveedor puede ser sancionado con inhabilitación (Artículo 62, fracción III).",
+                "🔹 A la fracción III del Artículo 62 y normativa penal aplicable."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 66",
+            "topic": "Sanciones por Manifestaciones Falsas"
+        },
+        {
+            "tag": "investigaciones_contraloria",
+            "patterns": [
+                "¿Qué plazo tiene Contraloría para investigar según el Artículo 67?",
+                "¿Puede ampliarse el plazo de investigación?",
+                "¿Qué facultades tiene Contraloría en estas investigaciones?",
+                "¿Se puede solicitar pruebas adicionales?",
+                "¿Qué pasa si no se emite resolución en plazo?"
+            ],
+            "responses": [
+                "📘 30 días hábiles para investigar + 30 días hábiles para resolver (total 60 días hábiles).",
+                "🔹 No, salvo autorización excepcional del Rector por complejidad del caso.",
+                "🎯 Solicitar información, realizar visitas de inspección, y citar a declarar.",
+                "📘 Sí, Contraloría puede requerir lo necesario a las dependencias.",
+                "🔹 El afectado puede recurrir al Rector General por omisión."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 67",
+            "topic": "Investigaciones de la Contraloría"
+        },
+        {
+            "tag": "requerimiento_informacion",
+            "patterns": [
+                "¿Qué establece el Artículo 68 sobre requerimientos de información?",
+                "¿Qué plazo tienen las dependencias para responder?",
+                "¿Se puede negar la información a Contraloría?",
+                "¿Qué pasa si no se cumple el plazo de 5 días?",
+                "¿La información requerida es confidencial?"
+            ],
+            "responses": [
+                "📘 Que las dependencias deben entregar información a Contraloría en 5 días naturales.",
+                "🔹 5 días naturales desde la recepción del requerimiento.",
+                "🎯 No, salvo que sea reservada por ley (ej.: datos personales).",
+                "📘 Puede considerarse falta administrativa para el responsable.",
+                "🔹 Solo si está clasificada así; de lo contrario, es parte del expediente."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 68",
+            "topic": "Requerimientos de Información"
+        },
+        {
+            "tag": "terceros_perjudicados",
+            "patterns": [
+                "¿Qué derechos tienen terceros perjudicados según el Artículo 69?",
+                "¿Cómo se notifica a estos terceros?",
+                "¿Qué plazo tienen para manifestarse?",
+                "¿Qué pasa si no responden en el plazo?",
+                "¿Pueden aportar nuevas pruebas?"
+            ],
+            "responses": [
+                "📘 Ser notificados y opinar en investigaciones que los afecten.",
+                "🔹 Por escrito o correo electrónico, según datos del expediente.",
+                "🎯 10 días hábiles desde la notificación (Artículo 69).",
+                "📘 Se considera precluido su derecho a participar (párrafo final).",
+                "🔹 Sí, dentro del plazo establecido."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 69",
+            "topic": "Derechos de Terceros Perjudicados"
+        },
+        {
+            "tag": "suspension_procedimientos",
+            "patterns": [
+                "¿Cuándo puede suspenderse un procedimiento según el Artículo 70?",
+                "¿Quién solicita la suspensión?",
+                "¿Se requiere fianza para solicitar suspensión?",
+                "¿Qué pasa si el tercero perjudicado da contrafianza?",
+                "¿Cómo se reanuda el procedimiento?"
+            ],
+            "responses": [
+                "📘 Cuando haya indicios de irregularidades o riesgo de daño a la Universidad.",
+                "🔹 Contraloría de oficio o el proveedor inconforme (con fianza).",
+                "🎯 Sí, si la solicita el proveedor; el monto lo fija Contraloría.",
+                "📘 La suspensión se levanta inmediatamente (Artículo 70, párrafo 2).",
+                "🔹 Por orden de Contraloría, una vez resuelta la investigación."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 70",
+            "topic": "Suspensión de Procedimientos"
+        },
+        {
+            "tag": "resolucion_inconformidades",
+            "patterns": [
+                "¿Qué tipos de resoluciones puede emitir Contraloría según el Artículo 71?",
+                "¿La nulidad de un acto implica repetir todo el proceso?",
+                "¿Qué son las 'directrices para reposición'?",
+                "¿Se puede declarar nulo un procedimiento completo?",
+                "¿La resolución de Contraloría es definitiva?"
+            ],
+            "responses": [
+                "📘 Nulidad de actos irregulares, nulidad total del procedimiento, o improcedencia de la inconformidad (fracciones I-III).",
+                "🔹 Solo si se declara nulo todo el procedimiento; de lo contrario, se corrige el acto específico.",
+                "🎯 Instrucciones para corregir errores (ej.: revaluar propuestas, notificar omitidos).",
+                "📘 Sí, si las irregularidades afectan la validez global (fracción II).",
+                "🔹 Sí, no caben recursos internos (Artículo 73)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 71",
+            "topic": "Resolución de Inconformidades"
+        },
+        {
+            "tag": "efectos_resolucion",
+            "patterns": [
+                "¿Qué efectos tiene la resolución de Contraloría según el Artículo 72?",
+                "¿Cómo se reponen actos irregulares?",
+                "¿La nulidad beneficia al proveedor inconforme?",
+                "¿Qué pasa si se declara improcedente la inconformidad?",
+                "¿Se pueden compensar daños a la Universidad?"
+            ],
+            "responses": [
+                "📘 Anula actos o procedimientos, establece correctivos, o archiva el caso.",
+                "🔹 Siguiendo las directrices de Contraloría (ej.: nueva invitación a proveedores).",
+                "🎯 No necesariamente; puede ordenarse un nuevo procedimiento abierto.",
+                "📘 El proceso continúa y el proveedor puede ser sancionado si actuó de mala fe (Artículo 66).",
+                "🔹 Sí, deduciéndose de garantías o mediante acción legal."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 72",
+            "topic": "Efectos de la Resolución"
+        },
+        {
+            "tag": "irrecurribilidad_resoluciones",
+            "patterns": [
+                "¿Se puede apelar la resolución de Contraloría según el Artículo 73?",
+                "¿Qué opciones tiene un proveedor si disiente?",
+                "¿Existe instancia universitaria superior a Contraloría?",
+                "¿Se puede judicializar el caso?",
+                "¿Qué plazo hay para demandar?"
+            ],
+            "responses": [
+                "📘 No, es definitiva en el ámbito administrativo universitario.",
+                "🔹 Acción legal ante tribunales federales (juicio de amparo).",
+                "🎯 No para este tipo de resoluciones; el Rector no puede revocarlas.",
+                "📘 Sí, ante el Poder Judicial de la Federación.",
+                "🔹 15 días hábiles desde la notificación (Ley de Amparo)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 73",
+            "topic": "Irrecurribilidad de Resoluciones"
+        },
+        {
+            "tag": "gestion_expedientes",
+            "patterns": [
+                "¿Quién gestiona los expedientes según el Artículo 74?",
+                "¿Qué información contiene el banco de datos?",
+                "¿Las autoridades externas pueden acceder a estos datos?",
+                "¿Cómo se clasifican los proveedores?",
+                "¿Por cuánto tiempo se conservan los expedientes?"
+            ],
+            "responses": [
+                "📘 El Secretario Ejecutivo de cada comité, en su ámbito de competencia.",
+                "🔹 Giros comerciales, historial de contratos, cumplimiento, y sanciones.",
+                "🎯 Sí, en auditorías o requerimientos legales.",
+                "📘 Por tipo de bien/servicio (ej.: equipo médico, construcción).",
+                "🔹 Mínimo 10 años (Artículo 76)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 74",
+            "topic": "Gestión de Expedientes"
+        },
+        {
+            "tag": "exclusion_proveedores",
+            "patterns": [
+                "¿Qué causales permiten excluir proveedores según el Artículo 75?",
+                "¿Quién toma esta decisión?",
+                "¿Qué plazo tiene el proveedor para defenderse?",
+                "¿Se puede excluir sin audiencia previa?",
+                "¿Cómo se notifica la resolución?"
+            ],
+            "responses": [
+                "📘 Incumplir contratos, no formalizar adjudicaciones, o proporcionar información falsa (fracciones I-III).",
+                "🔹 El Comité respectivo (General o de Centro).",
+                "🎯 5 días hábiles desde la notificación del supuesto (Artículo 75, párrafo 2).",
+                "📘 No, debe otorgarse derecho de audiencia.",
+                "🔹 Por escrito, con acuse de recibo y publicación en sistema electrónico."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 75",
+            "topic": "Exclusión Temporal de Proveedores"
+        },
+        {
+            "tag": "conservacion_documentacion",
+            "patterns": [
+                "¿Qué documentación debe conservarse según el Artículo 76?",
+                "¿Quién es responsable de su custodia?",
+                "¿En qué formato se almacena?",
+                "¿Qué pasa si se pierde documentación?",
+                "¿Se requiere digitalización obligatoria?"
+            ],
+            "responses": [
+                "📘 Toda la que justifique adquisiciones, arrendamientos y servicios (órdenes de compra, contratos, actas).",
+                "🔹 Coordinación General de Servicios Administrativos y Secretarías Administrativas de centros/SEMS.",
+                "🎯 Física y/o electrónica, según lo disponga el sistema institucional.",
+                "📘 El responsable puede ser sancionado administrativamente.",
+                "🔹 Sí, para contratos >75 UMA (Artículo 18)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 76",
+            "topic": "Conservación de Documentación"
+        },
+        {
+            "tag": "gestion_arrendamientos",
+            "patterns": [
+                "¿Quién gestiona los contratos de arrendamiento según el Artículo 77?",
+                "¿Qué debe incluir el registro de estos contratos?",
+                "¿Se centraliza la información de arrendamientos?",
+                "¿Cómo se actualizan los montos de renta?",
+                "¿Qué pasa si no se registra un arrendamiento?"
+            ],
+            "responses": [
+                "📘 Coordinación General de Servicios Administrativos y Secretarías Administrativas de centros/SEMS.",
+                "🔹 Fechas, montos, cláusulas clave, y renovaciones (Artículo 35).",
+                "🎯 Sí, en el sistema electrónico de la Universidad.",
+                "📘 Negociándose según condiciones de mercado al renovar (Artículo 35).",
+                "🔹 Es nulo de pleno derecho y no se pagan rentas."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 77",
+            "topic": "Gestión de Arrendamientos"
+        },
+        {
+            "tag": "auditorias_operaciones",
+            "patterns": [
+                "¿Qué facultad tiene Contraloría según el Artículo 78?",
+                "¿Con qué frecuencia se auditan las operaciones?",
+                "¿Pueden auditarse contratos ya concluidos?",
+                "¿Qué pasa si se detectan irregularidades?",
+                "¿Los proveedores están obligados a colaborar?"
+            ],
+            "responses": [
+                "📘 Auditar sistemáticamente todas las operaciones reguladas por este Reglamento.",
+                "🔹 Anualmente o por denuncia, según programa de auditoría.",
+                "🎯 Sí, hasta 10 años después (Artículo 76).",
+                "📘 Se inicia procedimiento administrativo o legal.",
+                "🔹 Sí, deben facilitar información requerida (Artículo 68)."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 78",
+            "topic": "Auditorías a Operaciones"
+        },
+        {
+            "tag": "quejas_incumplimiento",
+            "patterns": [
+                "¿Cómo se presentan quejas por incumplimiento según el Artículo 79?",
+                "¿Qué documentación debe acompañar la queja?",
+                "¿Qué plazo hay para resolverlas?",
+                "¿Pueden los proveedores quejarse de la Universidad?",
+                "¿Dónde se registran estas quejas?"
+            ],
+            "responses": [
+                "📘 Por escrito, ante la Coordinación General de Servicios Administrativos o Secretarías correspondientes.",
+                "🔹 Contrato, evidencias de incumplimiento, y comunicación previa al proveedor.",
+                "🎯 No está especificado, pero Contraloría debe investigar en 30 días hábiles (Artículo 67).",
+                "📘 Sí, mediante inconformidad (Artículo 65).",
+                "🔹 En el sistema de seguimiento de la Contraloría."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 79",
+            "topic": "Quejas por Incumplimiento"
+        },
+        {
+            "tag": "servicios_honorarios",
+            "patterns": [
+                "¿Qué establece el Artículo 80 sobre servicios por honorarios?",
+                "¿Los honorarios requieren contrato escrito?",
+                "¿Se aplica retención de ISR?",
+                "¿Qué pasa si el monto supera 75 UMA?",
+                "¿Cómo se justifica la excepción a este reglamento?"
+            ],
+            "responses": [
+                "📘 Que no están sujetos a este Reglamento (se rigen por normativa fiscal y laboral).",
+                "🔹 No obligatoriamente, pero se recomienda acuerdo de términos.",
+                "🎯 Sí, conforme a la Ley del ISR.",
+                "📘 Debe formalizarse como contrato de servicios (Artículo 29Bis).",
+                "🔹 Por su naturaleza de prestación personal no empresarial."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 80",
+            "topic": "Servicios por Honorarios"
+        },
+        {
+            "tag": "lista_proveedores_impedidos",
+            "patterns": [
+                "¿Qué información contiene la lista de proveedores impedidos según el Artículo 81?",
+                "¿Quién actualiza esta lista?",
+                "¿Dónde se publica?",
+                "¿Cómo se notifica al proveedor inhabilitado?",
+                "¿Qué pasa si un proveedor impedido participa?"
+            ],
+            "responses": [
+                "📘 Nombre, motivo de inhabilitación, tipo de incumplimiento, y vigencia (Artículo 81, fracciones I-IV).",
+                "🔹 La Contraloría General, basada en resoluciones de inhabilitación.",
+                "🎯 En el sistema electrónico de contrataciones de la Universidad.",
+                "📘 Por escrito, con acuse de recibo y copia al área de contrataciones.",
+                "🔹 Su propuesta se desecha y puede ampliarse su inhabilitación."
+            ],
+            "document": "Reglamento de Adquisiciones",
+            "article": "Artículo 81",
+            "topic": "Lista de Proveedores Impedidos"
+        }
+    
+
+    ]
+}

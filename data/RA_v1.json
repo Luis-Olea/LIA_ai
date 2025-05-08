@@ -1,0 +1,326 @@
+{
+    "main_topic": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+    "intents": [
+        {
+            "tag": "objeto_reglamento_tabaco",
+            "patterns": [
+                "¿Cuál es el objetivo principal de este reglamento según el artículo 1?",
+                "¿Qué protege este reglamento?",
+                "¿A quiénes beneficia este reglamento?",
+                "¿Qué derechos garantiza el artículo 1?",
+                "¿Incluye este reglamento la promoción de hábitos saludables?"
+            ],
+            "responses": [
+                "📘 El artículo 1 establece que el objetivo es proteger a la comunidad universitaria de los efectos nocivos del humo de tabaco, garantizando espacios 100% libres de humo.",
+                "🔹 Protege la salud de todas las personas en instalaciones universitarias y el derecho de los no fumadores a espacios libres de humo (artículo 1-I y II).",
+                "🎯 Beneficia a estudiantes, académicos, administrativos y visitantes en todos los espacios de la UDG (artículo 1).",
+                "📘 Garantiza el derecho a convivir en espacios libres de humo de tabaco (artículo 1-II).",
+                "🔹 Sí, el artículo 1-IV promueve hábitos saludables y educación sobre riesgos del tabaco."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento tabaco"
+        },
+        {
+            "tag": "definiciones_generales",
+            "patterns": [
+                "¿Qué se considera 'espacio universitario' según el artículo 2?",
+                "¿Qué incluye la definición de 'humo de tabaco'?",
+                "¿Quién es el 'responsable universitario'?",
+                "¿Qué es una 'denuncia ciudadana' en este contexto?",
+                "¿Los vehículos de la UDG están incluidos en este reglamento?"
+            ],
+            "responses": [
+                "📘 El artículo 2-III define 'espacio universitario' como cualquier área física (cerrada o al aire libre) de bienes inmuebles o vehículos propiedad de la UDG.",
+                "🔹 Incluye emisiones de cualquier producto de tabaco al encenderlo o consumirlo (artículo 2-IV).",
+                "🎯 Es el personal designado por el titular de la instancia universitaria para vigilar el cumplimiento del reglamento (artículo 2-VIII).",
+                "📘 Es la notificación a autoridades sobre incumplimientos al reglamento (artículo 2-II).",
+                "🔹 Sí, los vehículos oficiales son espacios universitarios según el artículo 2-III."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 2",
+            "topic": "Definiciones generales"
+        },
+        {
+            "tag": "espacios_libres_humo",
+            "patterns": [
+                "¿Todos los espacios de la UDG son libres de humo según el artículo 4?",
+                "¿Se puede fumar en patios o áreas abiertas?",
+                "¿Qué prohibiciones adicionales hay para educación media superior?",
+                "¿Hay excepciones a la regla de espacios libres de humo?",
+                "¿Qué pasa si alguien fuma en un espacio prohibido?"
+            ],
+            "responses": [
+                "📘 Sí, el artículo 4 declara todos los espacios universitarios como 100% libres de humo de tabaco.",
+                "🔹 No, incluso áreas al aire libre están prohibidas si son parte de la UDG (artículo 4).",
+                "🎯 En nivel medio superior, también se prohíbe introducir productos de tabaco para comercialización (artículo 4, párrafo 2).",
+                "📘 Sí, solo espacios dedicados a investigación sobre tabaco o inmuebles con fines comerciales (artículo 5).",
+                "🔹 Se puede reportar al responsable universitario o presentar denuncia ciudadana (artículos 9-11)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 4",
+            "topic": "Espacios 100% libres de humo"
+        },
+        {
+            "tag": "excepciones_zonas_fumadores",
+            "patterns": [
+                "¿Hay zonas para fumar en la UDG según el artículo 5?",
+                "¿Qué se necesita para habilitar una zona exclusiva para fumar?",
+                "¿Los laboratorios de investigación pueden ser excepción?",
+                "¿Quién autoriza las zonas para fumar?",
+                "¿Los centros comerciales en la UDG pueden tener zonas para fumar?"
+            ],
+            "responses": [
+                "📘 Solo en inmuebles con fines comerciales no educativos y previa autorización del Rector General (artículo 5-II).",
+                "🔹 Requiere autorización por escrito del Rector General y opinión de comisiones universitarias (artículo 5).",
+                "🎯 Sí, si la investigación está relacionada con problemáticas de salud por tabaco (artículo 5-I).",
+                "📘 El Rector General, previa opinión de las Comisiones de Normatividad y Educación (artículo 5).",
+                "🔹 Sí, si su actividad principal es comercial y cumplen con la ley (artículo 5-II)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 5",
+            "topic": "Excepciones y zonas para fumar"
+        },
+        {
+            "tag": "senalizacion_obligatoria",
+            "patterns": [
+                "¿Dónde debe colocarse la señalética según el artículo 6?",
+                "¿Qué información debe incluir la señalética?",
+                "¿Los vehículos oficiales necesitan señalización?",
+                "¿Quién decide la ubicación de las señales?",
+                "¿Hay un diseño oficial para la señalética?"
+            ],
+            "responses": [
+                "📘 En accesos a inmuebles, interior de edificios y vehículos oficiales (artículo 6-I a III).",
+                "🔹 Debe indicar la prohibición de fumar y números para reportes/denuncias (artículo 6).",
+                "🎯 Sí, tanto en interior como exterior (artículo 6-III).",
+                "📘 El titular de cada instancia universitaria (artículo 6).",
+                "🔹 Hasta que se emitan requisitos específicos, se usa el Manual de Identidad Institucional (artículo Tercero Transitorio)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 6",
+            "topic": "Señalización obligatoria"
+        },
+        {
+            "tag": "designacion_responsables",
+            "patterns": [
+                "¿Quién puede ser designado como responsable universitario según el artículo 7?",
+                "¿Cómo se formaliza la designación del responsable universitario?",
+                "¿El responsable universitario debe ser un académico?",
+                "¿Se puede revocar la designación del responsable?",
+                "¿Dónde se publican los nombres de los responsables?"
+            ],
+            "responses": [
+                "📘 El titular de cada instancia universitaria designa al personal que considere conveniente como responsable (artículo 7, párrafo 1).",
+                "🔹 Debe constar por escrito y difundirse electrónicamente y en formato físico (artículo 7, párrafo 2).",
+                "🎯 No necesariamente; puede ser cualquier personal designado por el titular (artículo 2-VIII).",
+                "📘 Sí, el titular puede revocar la designación mediante escrito (artículo 7).",
+                "🔹 Se difunde internamente en la instancia universitaria correspondiente (artículo 7)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 7",
+            "topic": "Designación de responsables universitarios"
+        },
+        {
+            "tag": "obligaciones_externos",
+            "patterns": [
+                "¿Las personas externas deben cumplir este reglamento según el artículo 8?",
+                "¿Qué pasa si un arrendatario de la UDG permite fumar?",
+                "¿Pueden cancelar un contrato por incumplir este reglamento?",
+                "¿Qué sanciones aplican a externos que violen el reglamento?",
+                "¿Los visitantes están obligados a acatar estas normas?"
+            ],
+            "responses": [
+                "📘 Sí, cualquier persona externa que posea espacios universitarios debe cumplirlo (artículo 8, párrafo 1).",
+                "🔹 Puede ser sancionado legalmente y hasta cancelarse el contrato (artículo 8, párrafo 2).",
+                "🎯 Sí, es una posibilidad según el artículo 8.",
+                "📘 Sanciones legales aplicables y/o terminación de relación contractual (artículo 8).",
+                "🔹 Sí, todos deben respetar los espacios libres de humo (artículo 4 + 8)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 8",
+            "topic": "Obligaciones de personas externas"
+        },
+        {
+            "tag": "procedimiento_abordaje_fumadores",
+            "patterns": [
+                "¿Qué debo hacer si veo a alguien fumando en la UDG según el artículo 9?",
+                "¿Puedo pedirle directamente que deje de fumar?",
+                "¿Qué pasa si el fumador se niega?",
+                "¿Hay un protocolo para abordar fumadores?",
+                "¿Debo reportar incluso si es un visitante?"
+            ],
+            "responses": [
+                "📘 Solicitar respetuosamente que deje de fumar; si se niega, exhortarlo a abandonar el espacio (artículo 9).",
+                "🔹 Sí, es el primer paso según el artículo 9.",
+                "🎯 Debe reportarse al responsable universitario o presentar denuncia ciudadana (artículos 9-11).",
+                "📘 Sí: 1) Solicitud respetuosa, 2) Exhorto a abandonar el espacio, 3) Reporte (artículo 9).",
+                "🔹 Sí, los visitantes también deben cumplir el reglamento (artículo 8)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 9",
+            "topic": "Procedimiento para abordar fumadores"
+        },
+        {
+            "tag": "obligaciones_conductores",
+            "patterns": [
+                "¿Los conductores de vehículos oficiales deben vigilar que no se fume según el artículo 10?",
+                "¿Qué hacer si un pasajero se niega a apagar su cigarro?",
+                "¿Puede un conductor negarse a transportar a un fumador?",
+                "¿Los vehículos de la UDG son espacios libres de humo?",
+                "¿Dónde reportar a un conductor que permite fumar?"
+            ],
+            "responses": [
+                "📘 Sí, deben verificar que nadie fume y actuar si ocurre (artículo 10).",
+                "🔹 Solicitar que abandone el vehículo si persiste (artículo 10).",
+                "🎯 Sí, está obligado a hacerlo (artículo 10).",
+                "📘 Sí, según el artículo 4 y 6-III.",
+                "🔹 Al responsable universitario o mediante denuncia ciudadana (artículos 11-12)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 10",
+            "topic": "Obligaciones de conductores"
+        },
+        {
+            "tag": "reportes_internos_externos",
+            "patterns": [
+                "¿Cómo reportar a un alumno o trabajador que fuma según el artículo 11?",
+                "¿Qué pasa si el infractor es externo a la UDG?",
+                "¿Hay diferencia entre reporte y denuncia ciudadana?",
+                "¿A dónde se envía el reporte interno?",
+                "¿Los reportes son confidenciales?"
+            ],
+            "responses": [
+                "📘 Presentar un reporte al responsable universitario (artículo 11).",
+                "🔹 Se presenta denuncia ciudadana ante autoridades competentes (artículo 11).",
+                "🎯 Sí: reporte es interno (UDG); denuncia es ante autoridades externas (artículo 2-II y VIII).",
+                "📘 Al responsable universitario de la instancia correspondiente (artículo 11).",
+                "🔹 Sí, se protegen datos personales del denunciante (artículo 14)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 11",
+            "topic": "Reportes internos y denuncias ciudadanas"
+        },
+        {
+            "tag": "requisitos_reportes",
+            "patterns": [
+                "¿Qué información debe incluir un reporte según el artículo 12?",
+                "¿Puedo reportar verbalmente?",
+                "¿Necesito pruebas para presentar un reporte?",
+                "¿Hay un formato oficial para reportes?",
+                "¿Qué significa 'circunstancias de modo, tiempo y lugar'?"
+            ],
+            "responses": [
+                "📘 Descripción del hecho, identificación del infractor (si es posible) y pruebas (artículo 12).",
+                "🔹 Sí, por teléfono o presencialmente (artículo 12).",
+                "🎯 Sí, deben adjuntarse pruebas si se tienen (artículo 12-III).",
+                "📘 No se especifica, pero puede ser escrito o verbal (artículo 12).",
+                "🔹 Detalles como fecha, hora, ubicación exacta y cómo ocurrió el incidente (artículo 12-I)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 12",
+            "topic": "Requisitos para presentar reportes"
+        },
+        {
+            "tag": "procesamiento_reportes",
+            "patterns": [
+                "¿Qué hace el responsable universitario al recibir un reporte según el artículo 13?",
+                "¿Elaboran un acta de hechos?",
+                "¿Quién impone sanciones después del reporte?",
+                "¿Hay un plazo para atender reportes?",
+                "¿Puedo seguir el estatus de mi reporte?"
+            ],
+            "responses": [
+                "📘 Elabora un acta descriptiva y la remite a la autoridad competente (artículo 13).",
+                "🔹 Sí, documentando detalles del incidente (artículo 13).",
+                "🎯 La autoridad administrativa competente (artículo 2-I y 13).",
+                "📘 No se especifica plazo en el reglamento.",
+                "🔹 Debes consultarlo con la instancia donde presentaste el reporte."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 13",
+            "topic": "Procesamiento de reportes"
+        },
+        {
+            "tag": "proteccion_datos",
+            "patterns": [
+                "¿Protegen mi identidad si presento un reporte según el artículo 14?",
+                "¿Qué leyes respaldan la confidencialidad?",
+                "¿Puedo reportar anónimamente?",
+                "¿Qué datos personales protegen?",
+                "¿El infractor puede conocer al denunciante?"
+            ],
+            "responses": [
+                "📘 Sí, el artículo 14 garantiza protección a datos personales del denunciante.",
+                "🔹 Leyes federales y estatales de protección de datos (artículo 14).",
+                "🎯 El reglamento no lo especifica, pero se protege al denunciante identificado.",
+                "📘 Todos los datos proporcionados en el reporte (artículo 14).",
+                "🔹 No, salvo que la autoridad competente lo determine en procedimientos legales."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 14",
+            "topic": "Protección de datos personales"
+        },
+        {
+            "tag": "sanciones",
+            "patterns": [
+                "¿Qué tipo de sanciones aplican según el artículo 15?",
+                "¿Un alumno puede ser expulsado por fumar?",
+                "¿Las sanciones son acumulativas con multas externas?",
+                "¿Quién define la gravedad de la sanción?",
+                "¿Hay sanciones para responsables que no actúen?"
+            ],
+            "responses": [
+                "📘 Sanciones según normatividad universitaria y leyes aplicables (artículo 15).",
+                "🔹 Depende de la gravedad y reincidencia, según normativa interna (artículo 15).",
+                "🎯 Sí, son independientes de sanciones legales externas (artículo 15).",
+                "📘 La autoridad administrativa competente (artículo 2-I).",
+                "🔹 El reglamento no lo especifica, pero podrían aplicarse por incumplimiento de funciones."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 15",
+            "topic": "Sanciones por incumplimiento"
+        },
+        {
+            "tag": "vigilancia_cumplimiento",
+            "patterns": [
+                "¿Quién vigila el cumplimiento del reglamento según el artículo 16?",
+                "¿Los responsables universitarios tienen autoridad sancionadora?",
+                "¿Cómo se coordina la vigilancia en toda la Red Universitaria?",
+                "¿Hay inspecciones periódicas?",
+                "¿Los estudiantes pueden participar en la vigilancia?"
+            ],
+            "responses": [
+                "📘 El titular de cada instancia universitaria (artículo 16).",
+                "🔹 No, solo reciben reportes y los derivan a autoridades competentes (artículo 13).",
+                "🎯 Cada instancia aplica el reglamento localmente, bajo lineamientos generales (artículo 16).",
+                "📘 No se especifica, pero los titulares deben garantizar cumplimiento (artículo 16).",
+                "🔹 Sí, pueden reportar incumplimientos (artículos 9-12)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 16",
+            "topic": "Vigilancia del cumplimiento"
+        },
+        {
+            "tag": "actividades_fomento",
+            "patterns": [
+                "¿Qué actividades de prevención promueve la UDG según el artículo 17?",
+                "¿Hay clases sobre riesgos del tabaco?",
+                "¿La UDG ofrece programas para dejar de fumar?",
+                "¿Se investiga sobre tabaquismo en la universidad?",
+                "¿Hay campañas anuales contra el tabaco?"
+            ],
+            "responses": [
+                "📘 Educación en planes de estudio, investigación, campañas y apoyo a fumadores (artículo 17).",
+                "🔹 Sí, en planes de estudio que se consideren relevantes (artículo 17-I).",
+                "🎯 Sí, programas de orientación y atención (artículo 17-IV).",
+                "📘 Sí, se fomenta la investigación sobre el tema (artículo 17-II).",
+                "🔹 Sí, campañas de prevención de adicciones (artículo 17-III)."
+            ],
+            "document": "Reglamento de Protección contra la Exposición al Humo de Tabaco",
+            "article": "Artículo 17",
+            "topic": "Actividades de fomento a la salud"
+        }
+
+    ]
+}

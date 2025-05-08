@@ -1,0 +1,205 @@
+{
+    "main_topic": "Reglamento del Sistema de Contabilidad de la Universidad de Guadalajara",
+    "intents": [
+        {
+            "tag": "creacion_sistema_contabilidad",
+            "patterns": [
+                "¿Qué establece el artículo 1 del Reglamento de Contabilidad?",
+                "¿Qué se crea según el artículo 1?",
+                "¿Cómo se integra el Sistema de Contabilidad según el artículo 1?",
+                "¿Qué conforma el Sistema de Contabilidad de la UdeG?",
+                "¿A qué se refiere el artículo 1 sobre la contabilidad universitaria?"
+            ],
+            "responses": [
+                "📘 El artículo 1 crea el Sistema de Contabilidad de la Universidad de Guadalajara, integrado por la contabilidad de cada dependencia de la Red Universitaria. �",
+                "🔹 Se crea el Sistema de Contabilidad, que incluye los registros financieros de todas las dependencias universitarias. 📊",
+                "🎯 El sistema se integra con la contabilidad individual de centros universitarios, sistemas educativos y áreas administrativas. 🏛️",
+                "📘 Conforma un sistema unificado para gestionar los recursos financieros de toda la Red Universitaria. 💰",
+                "🔹 Establece la base legal para centralizar la información contable de la UdeG. ⚖️"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 1",
+            "topic": "Creación del Sistema de Contabilidad"
+        },
+        {
+            "tag": "dependencias_red_universitaria",
+            "patterns": [
+                "¿Qué dependencias incluye la Red Universitaria según el artículo 2?",
+                "¿Quiénes forman parte del Sistema de Contabilidad según el artículo 2?",
+                "¿El Sistema de Educación Media Superior está incluido en el artículo 2?",
+                "¿La Rectoría General participa en el Sistema de Contabilidad?",
+                "¿Qué figuras administrativas menciona el artículo 2?"
+            ],
+            "responses": [
+                "📘 El artículo 2 incluye centros universitarios, Sistemas de Educación Media Superior y Virtual, Rectoría General, Vicerrectoría Ejecutiva, Secretaría General, coordinaciones generales y la Contraloría General. 🏢",
+                "🔹 Sí, el Sistema de Educación Media Superior es una de las dependencias listadas. 🎓",
+                "🎯 La Rectoría General y Vicerrectoría Ejecutiva son parte esencial del sistema contable. 👥",
+                "📘 Menciona figuras como coordinaciones generales y la Contraloría como responsables de su contabilidad. 📋",
+                "🔹 Todas las dependencias académicas y administrativas de la UdeG están integradas. 🌐"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 2",
+            "topic": "Dependencias de la Red Universitaria"
+        },
+        {
+            "tag": "contabilidad_fondos",
+            "patterns": [
+                "¿Qué es la contabilidad de fondos según el artículo 3?",
+                "¿Cómo define la UdeG la contabilidad de fondos?",
+                "¿Qué criterios usa la contabilidad de fondos del artículo 3?",
+                "¿Por qué se adopta la contabilidad de fondos?",
+                "¿Qué recursos considera el artículo 3 para su registro?"
+            ],
+            "responses": [
+                "📘 El artículo 3 adopta la contabilidad de fondos, que agrupa operaciones financieras según el destino y restricciones de los recursos. 💼",
+                "🔹 Es una técnica que prioriza el uso específico de los recursos (restringidos o no). 🔍",
+                "🎯 Clasifica los fondos por su finalidad (ej. investigación, infraestructura) para garantizar transparencia. 🏗️",
+                "📘 Se usa para asegurar que los recursos se apliquen según lo autorizado por donantes o normativas. ⚠️",
+                "🔹 Registra ingresos, gastos y transferencias vinculados a cada fondo. 📈"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 3",
+            "topic": "Contabilidad de Fondos"
+        },
+        {
+            "tag": "definicion_fondo",
+            "patterns": [
+                "¿Qué es un fondo según el artículo 4?",
+                "¿Qué componentes tiene un fondo contable?",
+                "¿Por qué se dice que un fondo es auto-balanceable?",
+                "¿Cómo se garantiza el uso correcto de los fondos?",
+                "¿Qué evita el registro separado de fondos?"
+            ],
+            "responses": [
+                "📘 El artículo 4 define el fondo como una entidad contable con cuentas auto-balanceables (activos, pasivos, patrimonio, ingresos y gastos). 🧾",
+                "🔹 Incluye cuentas de activos, pasivos, patrimonio, ingresos, gastos y transferencias. 💱",
+                "🎯 Es auto-balanceable porque cada fondo equilibra sus propias cuentas sin mezclarse con otros. ⚖️",
+                "📘 El registro separado evita desvíos y asegura el cumplimiento de restricciones legales. 🚫",
+                "🔹 Garantiza que los recursos se usen solo para sus fines autorizados (ej. becas no para gastos operativos). ✅"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 4",
+            "topic": "Definición de Fondo"
+        },
+        {
+            "tag": "objetivos_contabilidad",
+            "patterns": [
+                "¿Cuáles son los objetivos de la contabilidad según el artículo 5?",
+                "¿Qué busca garantizar el Sistema de Contabilidad?",
+                "¿Cómo ayuda la contabilidad a la administración universitaria?",
+                "¿Por qué es importante la transparencia en el artículo 5?",
+                "¿Qué información proporciona el sistema a las fuentes de financiamiento?"
+            ],
+            "responses": [
+                "📘 El artículo 5 lista 7 objetivos, incluyendo administración efectiva de recursos, transparencia y registro preciso de ingresos/gastos. 🎯",
+                "🔹 Busca claridad en el uso de recursos y rendición de cuentas a autoridades y donantes. 👁️",
+                "🎯 Proporciona datos para asignar recursos eficientemente y evaluar operaciones financieras. 📉",
+                "📘 La transparencia es clave para cumplir con normativas y mantener la confianza pública. ✨",
+                "🔹 Informa costos de funciones sustantivas (ej. investigación) y verifica el uso correcto de fondos. 🔎"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 5",
+            "topic": "Objetivos del Sistema de Contabilidad"
+        },
+        {
+            "tag": "integracion_siiau",
+            "patterns": [
+                "¿Dónde debe integrarse la contabilidad según el artículo 6?",
+                "¿Qué es el SIIAU?",
+                "¿Cómo se vincula el módulo de finanzas al SIIAU?",
+                "¿Por qué es importante el artículo 6 para la contabilidad?",
+                "¿Qué sistema usa la UdeG para gestionar su contabilidad?"
+            ],
+            "responses": [
+                "📘 El artículo 6 exige integrar la contabilidad en el módulo de finanzas del SIIAU (Sistema Integral de Información y Administración Universitaria). 💻",
+                "🔹 El SIIAU es la plataforma unificada de la UdeG para gestionar datos académicos, administrativos y financieros. 🌐",
+                "🎯 Centraliza la información contable para facilitar supervisiones y reportes automáticos. 📡",
+                "📘 Garantiza uniformidad en los registros y evita duplicidad de sistemas. 🔗",
+                "🔹 Todo el proceso contable debe operar dentro del SIIAU según la normativa. ⚙️"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 6",
+            "topic": "Integración al SIIAU"
+        },
+        {
+            "tag": "atribuciones_coordinadores_finanzas",
+            "patterns": [
+                "¿Qué funciones tienen los coordinadores de finanzas?",
+                "¿Quién revisa las facturas en las dependencias?",
+                "¿Qué pasa si no se comprueba un gasto a tiempo?",
+                "¿Cómo se registra la comprobación del gasto?",
+                "¿Quién autoriza los paquetes de comprobantes?"
+            ],
+            "responses": [
+                "📘 El artículo 7 asigna a coordinadores de finanzas llevar la contabilidad, verificar facturas y solicitar comprobación de gastos. 📑",
+                "🔹 Revisan que las facturas cumplan requisitos fiscales y se ajusten a montos autorizados. 🔎",
+                "🎯 Si no hay comprobación en plazo, pueden requerir reembolso de recursos no ejercidos. ⏳",
+                "📘 Tras autorización del secretario administrativo, se registra en la contabilidad de la dependencia. ✅",
+                "🔹 Los paquetes de comprobantes los autorizan titulares de dependencias (ej. rectores). 🖋️"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 7",
+            "topic": "Atribuciones de Coordinadores de Finanzas"
+        },
+        {
+            "tag": "responsabilidades_secretarios_administrativos",
+            "patterns": [
+                "¿Qué atribuciones tienen los secretarios administrativos según el artículo 8?",
+                "¿Quién verifica la contabilidad de las dependencias?",
+                "¿Qué revisan los secretarios antes de autorizar gastos?",
+                "¿Quién firma la comprobación del gasto?",
+                "¿Qué garantiza el artículo 8 sobre la información contable?"
+            ],
+            "responses": [
+                "📘 El artículo 8 les asigna verificar que la contabilidad sea confiable, autorizar gastos y revisar documentos comprobatorios. 📊",
+                "🔹 Aseguran que facturas cumplan requisitos fiscales y coincidan con proyectos autorizados. 🧐",
+                "🎯 Revisan montos, objetos del gasto y validan paquetes de comprobantes. ✔️",
+                "📘 Los secretarios firman reportes que luego validan titulares de dependencias. 📝",
+                "🔹 Garantiza información contable útil, veraz y oportuna para la toma de decisiones. 🌟"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 8",
+            "topic": "Responsabilidades de Secretarios Administrativos"
+        },
+        {
+            "tag": "atribuciones_autoridades_superiores",
+            "patterns": [
+                "¿Qué deben autorizar las autoridades superiores según el artículo 9?",
+                "¿Quién remite la comprobación del gasto a la Dirección de Finanzas?",
+                "¿Qué informan los rectores a la Dirección de Finanzas?",
+                "¿Qué pasa si no se cumplen las normas en la comprobación de gastos?",
+                "¿Quiénes son considerados autoridades superiores en el artículo 9?"
+            ],
+            "responses": [
+                "📘 El artículo 9 obliga a rectores y coordinadores generales a autorizar comprobaciones de gastos tras verificar su legalidad. 👨⚖️",
+                "🔹 Los titulares de dependencias remiten documentación a la Dirección de Finanzas en plazos establecidos. ⏱️",
+                "🎯 Informan acciones para recuperar recursos no comprobados o reembolsos pendientes. 💸",
+                "📘 Si no se cumplen normas, la Dirección de Finanzas puede rechazar comprobaciones o aplicar sanciones. ⚠️",
+                "🔹 Incluye al Rector General, vicerrectores, rectores de centros y directores de sistemas educativos. 👥"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 9",
+            "topic": "Atribuciones de Autoridades Superiores"
+        },
+        {
+            "tag": "funciones_direccion_finanzas",
+            "patterns": [
+                "¿Qué hace la Dirección de Finanzas según el artículo 10?",
+                "¿Quién supervisa la contabilidad de las dependencias?",
+                "¿Qué informes emite la Dirección de Finanzas?",
+                "¿Cómo se enteran las autoridades de irregularidades?",
+                "¿Quién conserva los archivos contables de la UdeG?"
+            ],
+            "responses": [
+                "📘 El artículo 10 le asigna llevar la contabilidad general, emitir estados financieros y supervisar a dependencias. 📂",
+                "🔹 Supervisa que la documentación comprobatoria cumpla normativas mediante auditorías. 🔍",
+                "🎯 Emite informes de supervisión a autoridades y manuales de procedimientos. 📑",
+                "📘 Reporta irregularidades detectadas en revisiones (ej. gastos no autorizados). 🚨",
+                "🔹 Resguarda el archivo contable histórico de la universidad. 🗄️"
+            ],
+            "document": "Reglamento del Sistema de Contabilidad",
+            "article": "Artículo 10",
+            "topic": "Funciones de la Dirección de Finanzas"
+        }
+    ]
+}

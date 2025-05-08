@@ -1,0 +1,906 @@
+{
+    "main_topic": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+    "intents": [
+        {
+            "tag": "objeto_del_reglamento_revalidaciones",
+            "patterns": [
+                "¿Qué regula el artículo 1 del reglamento de revalidaciones?",
+                "¿Cuál es el objetivo principal de este reglamento según el artículo 1?",
+                "¿Qué aspectos cubre el artículo 1?",
+                "¿Para qué niveles educativos aplica este reglamento según el artículo 1?",
+                "¿Qué tipo de estudios se pueden revalidar según el artículo 1?"
+            ],
+            "responses": [
+                "📘 El artículo 1 establece que este reglamento regula la revalidación, equivalencia y acreditación de estudios de nivel medio superior y superior en la Universidad de Guadalajara.",
+                "🔹 Su objetivo principal es normar el reconocimiento de estudios realizados fuera del sistema educativo nacional o dentro de él, así como la acreditación de materias cursadas en la UDG.",
+                "🎯 El artículo 1 cubre tres procesos: revalidación (para estudios extranjeros), equivalencias (para estudios nacionales) y acreditación (para estudios internos en la UDG).",
+                "📘 Aplica para niveles educativos medio superior (bachillerato) y superior (licenciatura, maestría, doctorado).",
+                "🔹 Según el artículo 1, se pueden revalidar estudios siempre que correspondan a planes o programas similares a los de la UDG."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 1",
+            "topic": "Objeto del reglamento revalidaciones"
+        },
+        {
+            "tag": "instituciones_autorizadas",
+            "patterns": [
+                "¿Quién puede revalidar o establecer equivalencias según el artículo 2?",
+                "¿Los centros universitarios pueden revalidar estudios de cualquier nivel?",
+                "¿Qué condición debe cumplir una institución para que la UDG revalide sus estudios?",
+                "¿El Sistema de Educación Media Superior puede acreditar estudios de posgrado?",
+                "¿Qué límites tiene la revalidación según el artículo 2?"
+            ],
+            "responses": [
+                "📘 El artículo 2 indica que solo el Sistema de Educación Media Superior y los Centros Universitarios de la UDG pueden revalidar o establecer equivalencias.",
+                "🔹 No, solo pueden hacerlo para los niveles educativos que ellos mismos imparten (ejemplo: un centro que ofrece licenciatura no puede revalidar bachillerato).",
+                "🎯 La condición es que los estudios a revalidar deben corresponder a planes o programas similares a los de la UDG.",
+                "📘 No, el artículo 2 especifica que solo pueden revalidar estudios del nivel que imparten (medio superior para el SEMS).",
+                "🔹 El artículo 2 no establece límites porcentuales, pero sí que los estudios deben ser equiparables a los de la UDG."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 2",
+            "topic": "Instituciones autorizadas"
+        },
+        {
+            "tag": "definicion_revalidacion",
+            "patterns": [
+                "¿Qué es la revalidación de estudios según el artículo 3?",
+                "¿La revalidación aplica para estudios dentro del sistema educativo nacional?",
+                "¿Qué validez otorga la revalidación según el artículo 3?",
+                "¿La UDG puede revalidar estudios de primaria?",
+                "¿Qué diferencia hay entre revalidación y equivalencia según este artículo?"
+            ],
+            "responses": [
+                "📘 El artículo 3 define la revalidación como el reconocimiento de validez oficial que la UDG otorga a estudios realizados en instituciones fuera del Sistema Educativo Nacional.",
+                "🔹 No, el artículo 3 especifica que aplica solo para instituciones no incorporadas al sistema educativo nacional.",
+                "🎯 Otorga validez oficial para continuar estudios en la UDG, pero no implica admisión automática (según artículo 10).",
+                "📘 No, el artículo 4 aclara que solo se revalidan estudios de nivel medio superior y superior.",
+                "🔹 La revalidación es para estudios extranjeros (artículo 3), mientras que la equivalencia es para estudios nacionales (artículo 21)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 3",
+            "topic": "Definición de revalidación"
+        },
+        {
+            "tag": "proposito_revalidacion",
+            "patterns": [
+                "¿Para qué efectos sirve la revalidación según el artículo 4?",
+                "¿Se puede revalidar solo para obtener un título según el artículo 4?",
+                "¿La revalidación garantiza ingreso a la UDG?",
+                "¿Qué niveles cubre la revalidación según el artículo 4?",
+                "¿Se puede revalidar estudios superiores para cursar bachillerato?"
+            ],
+            "responses": [
+                "📘 El artículo 4 establece que la revalidación solo sirve para efectos de cursar estudios de nivel medio superior o superior en la UDG.",
+                "🔹 No, el artículo 4 aclara que es únicamente para continuar estudios, no para obtener títulos directamente.",
+                "🎯 No, el artículo 10 especifica que la revalidación no confiere derechos de admisión.",
+                "📘 Cubre únicamente niveles medio superior (bachillerato) y superior (licenciatura, posgrado).",
+                "🔹 No, el artículo 4 limita la revalidación al mismo nivel o superior (ejemplo: bachillerato para licenciatura, no viceversa)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 4",
+            "topic": "Propósito de la revalidación"
+        },
+        {
+            "tag": "equiparabilidad_estudios",
+            "patterns": [
+                "¿Qué condición deben cumplir los estudios extranjeros para ser revalidados según el artículo 5?",
+                "¿Qué significa 'equiparables' en el artículo 5?",
+                "¿La UDG puede revalidar estudios de cualquier país?",
+                "¿Quién determina si los estudios son equiparables según el artículo 5?",
+                "¿Qué pasa si mis estudios no son equiparables a los de la UDG?"
+            ],
+            "responses": [
+                "📘 El artículo 5 exige que los estudios sean equiparables a los planes de estudio vigentes en la UDG.",
+                "🔹 'Equiparables' significa que deben tener objetivos, contenidos y duración similares a los de la UDG (según artículo 15).",
+                "🎯 Sí, pero solo si cumplen con los criterios de equiparabilidad del artículo 5 y presentan documentos legalizados.",
+                "📘 Lo determina la Comisión de Revalidación de Estudios, Títulos y Grados (artículo 13).",
+                "🔹 Si no son equiparables, la UDG no los revalidará (artículo 5) y deberás cursar el plan completo."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 5",
+            "topic": "Equiparabilidad de estudios"
+        },
+        {
+            "tag": "modalidades_revalidacion",
+            "patterns": [
+                "¿En qué modalidades se puede otorgar la revalidación según el artículo 6?",
+                "¿Se puede revalidar por materias sueltas?",
+                "¿Qué significa revalidación por niveles educativos?",
+                "¿La revalidación por asignaturas requiere un plan de estudios completo?",
+                "¿Puedo revalidar solo algunas materias de mi carrera?"
+            ],
+            "responses": [
+                "📘 El artículo 6 permite tres modalidades: por niveles educativos (ejemplo: bachillerato completo), por grados escolares (ejemplo: 1er año), o por asignaturas.",
+                "🔹 Sí, el artículo 6 menciona que se puede revalidar por 'asignaturas u otras unidades de enseñanza-aprendizaje'.",
+                "🎯 Significa revalidar un ciclo completo (ejemplo: todo el bachillerato, no materias individuales).",
+                "📘 Sí, según el artículo 11, debes presentar el plan de estudios completo aunque solicites revalidación parcial.",
+                "🔹 Sí, el artículo 6 lo permite, pero el porcentaje máximo de créditos revalidados es del 40% (artículo 17)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 6",
+            "topic": "Modalidades de revalidación"
+        },
+        {
+            "tag": "revalidacion_total_parcial",
+            "patterns": [
+                "¿Qué diferencia hay entre revalidación total y parcial según el artículo 7?",
+                "¿Para qué sirve la revalidación parcial?",
+                "¿Cuándo se usa la revalidación total?",
+                "¿La revalidación total aplica para posgrados?",
+                "¿Puedo solicitar ambos tipos de revalidación simultáneamente?"
+            ],
+            "responses": [
+                "📘 El artículo 7 diferencia: la revalidación parcial es para concluir estudios en la UDG, mientras que la total es para ingresar a licenciatura o posgrado.",
+                "🔹 La parcial permite continuar estudios (ejemplo: revalidar materias para terminar una carrera), según el artículo 7.",
+                "🎯 La total se usa para ingresar a un nuevo nivel (ejemplo: revalidar bachillerato extranjero para entrar a licenciatura).",
+                "📘 Sí, el artículo 7 menciona que aplica para ingreso a especialidad, maestría o doctorado.",
+                "🔹 Sí, el artículo 8 permite solicitar ambas si cumples los requisitos (ejemplo: revalidar bachillerato total y materias de licenciatura parcial)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 7",
+            "topic": "Revalidación total vs. parcial"
+        },
+        {
+            "tag": "solicitud_simultanea",
+            "patterns": [
+                "¿Puedo revalidar bachillerato y licenciatura al mismo tiempo según el artículo 8?",
+                "¿Qué requisitos exige el artículo 8 para revalidación simultánea?",
+                "¿La revalidación total es obligatoria para ingresar a posgrado?",
+                "¿Qué efectos tiene la revalidación total según el artículo 8?",
+                "¿Un estudiante de maestría puede revalidar su licenciatura extranjera?"
+            ],
+            "responses": [
+                "📘 Sí, el artículo 8 permite solicitar revalidación total de un nivel y parcial del siguiente (ejemplo: bachillerato total + licenciatura parcial).",
+                "🔹 Requiere haber estudiado en instituciones no incorporadas al sistema educativo nacional y presentar documentos legales (artículo 8 + 11).",
+                "🎯 Sí, si tus estudios previos son extranjeros, según el artículo 8.",
+                "📘 La revalidación total permite el registro oficial ante la UDG y el ingreso a un nuevo nivel educativo.",
+                "🔹 Sí, si su licenciatura fue en el extranjero, puede revalidarla para efectos de registro (artículo 8)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 8",
+            "topic": "Solicitud simultánea"
+        },
+        {
+            "tag": "presentacion_solicitudes",
+            "patterns": [
+                "¿Dónde se presentan las solicitudes de revalidación según el artículo 9?",
+                "¿Hay fechas específicas para solicitar revalidación?",
+                "¿Puedo entregar mi solicitud en cualquier momento?",
+                "¿Qué oficina recibe las solicitudes de bachillerato?",
+                "¿Las solicitudes de posgrado van al mismo lugar?"
+            ],
+            "responses": [
+                "📘 El artículo 9 indica que las solicitudes se presentan por escrito en la Secretaría Administrativa del Centro Universitario o del SEMS.",
+                "🔹 Sí, deben presentarse en los períodos establecidos en los calendarios de primer ingreso (artículo 9).",
+                "🎯 No, el artículo 9 exige ajustarse a los calendarios oficiales de trámite.",
+                "📘 Las de bachillerato van al Sistema de Educación Media Superior (SEMS).",
+                "🔹 No, las de posgrado se presentan en la Secretaría del Centro Universitario que imparte el programa (artículo 9)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 9",
+            "topic": "Presentación de solicitudes"
+        },
+        {
+            "tag": "derechos_admision",
+            "patterns": [
+                "¿La revalidación garantiza mi ingreso a la UDG según el artículo 10?",
+                "¿Qué significa que la revalidación no confiere derechos de admisión?",
+                "¿Puedo ser rechazado aunque mi revalidación sea aprobada?",
+                "¿La UDG está obligada a aceptarme si revalido mis estudios?",
+                "¿Qué trámites adicionales necesito para ingresar después de revalidar?"
+            ],
+            "responses": [
+                "📘 No, el artículo 10 aclara que la revalidación no garantiza admisión; es un proceso separado.",
+                "🔹 Significa que la UDG puede negar tu ingreso por otros criterios (ejemplo: cupo, promedio).",
+                "🎯 Sí, el artículo 10 establece que la admisión depende de otros requisitos institucionales.",
+                "📘 No, el artículo 10 es claro: la revalidación solo otorga validez académica, no derecho a ingreso.",
+                "🔹 Debes cumplir con los requisitos de convocatoria (ejemplo: examen de admisión, entrevista)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 10",
+            "topic": "Derechos de admisión"
+        },
+        {
+            "tag": "documentacion_revalidacion_parcial",
+            "patterns": [
+                "¿Qué documentos necesito para revalidación parcial de bachillerato según el artículo 11?",
+                "¿El certificado de educación básica es obligatorio para revalidación parcial?",
+                "¿Qué debo incluir si quiero revalidar materias de licenciatura?",
+                "¿Los programas de estudio deben ser oficiales?",
+                "¿Necesito traducción si mis documentos están en inglés?"
+            ],
+            "responses": [
+                "📘 Según el artículo 11-I, para revalidación parcial de bachillerato necesitas: certificado de educación básica, certificado de los estudios a revalidar, plan de estudios y programas de las materias.",
+                "🔹 Sí, el artículo 11-I-a exige el certificado de educación básica legalizado.",
+                "🎯 Para licenciatura, debes presentar certificado de bachillerato, plan de estudios y programas de las materias (artículo 11-I).",
+                "📘 Sí, el artículo 11 exige que los planes y programas sean documentos oficiales de la institución de origen.",
+                "🔹 Sí, el artículo 11 establece que documentos en otro idioma deben traducirse por perito autorizado."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 11-I",
+            "topic": "Documentación para revalidación parcial"
+        },
+        {
+            "tag": "documentacion_revalidacion_total",
+            "patterns": [
+                "¿Qué pide el artículo 11 para revalidación total de bachillerato?",
+                "¿Necesito título para revalidar licenciatura total?",
+                "¿El certificado de maestría es suficiente para revalidación total de doctorado?",
+                "¿Qué documentos son exclusivos para revalidación total de posgrado?",
+                "¿Los títulos deben estar apostillados?"
+            ],
+            "responses": [
+                "📘 El artículo 11-II exige: certificado de educación básica, certificado total de bachillerato, plan de estudios y programas de materias.",
+                "🔹 Sí, el artículo 11-III-c requiere título de licenciatura para revalidación total de especialidad.",
+                "🎯 No, el artículo 11-V también exige el título de maestría y plan de estudios.",
+                "📘 Para posgrado, el artículo 11-III a V menciona títulos y grados previos (ejemplo: título de licenciatura para maestría).",
+                "🔹 Sí, el artículo 11 indica que todos los documentos deben estar legalizados/apostillados."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 11-II a V",
+            "topic": "Documentación para revalidación total"
+        },
+        {
+            "tag": "proceso_revision_documental",
+            "patterns": [
+                "¿Qué revisa la UDG en 5 días según el artículo 12?",
+                "¿Cómo verifican la autenticidad de mis documentos?",
+                "¿Qué pasa si hay un error en mi documentación?",
+                "¿La UDG puede negarse a tramitar mi solicitud?",
+                "¿Quién notifica si mi documentación es incompleta?"
+            ],
+            "responses": [
+                "📘 El artículo 12 detalla que en 5 días hábiles se revisa: autenticidad de documentos, nivel educativo, impedimentos legales y procedencia.",
+                "🔹 El artículo 12-I menciona que verifican sellos, firmas y legalizaciones.",
+                "🎯 Si hay errores, la Secretaría Administrativa puede declarar improcedente tu solicitud (artículo 12-IV).",
+                "📘 Sí, si no cumples los requisitos del artículo 12 (ejemplo: documentos falsos).",
+                "🔹 La Secretaría Administrativa del Centro Universitario o SEMS (artículo 12)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 12",
+            "topic": "Proceso de revisión documental"
+        },
+        {
+            "tag": "envio_comision_dictamen",
+            "patterns": [
+                "¿A dónde van mis documentos después de la revisión inicial?",
+                "¿Quién emite el dictamen de revalidación según el artículo 13?",
+                "¿Qué hace el Presidente del Consejo Universitario con mi solicitud?",
+                "¿Puedo saber quiénes integran la Comisión de Revalidación?",
+                "¿Qué documentos se envían a la Comisión?"
+            ],
+            "responses": [
+                "📘 El artículo 13 indica que la Secretaría Administrativa envía las solicitudes procedentes al Presidente del Consejo Universitario.",
+                "🔹 La Comisión de Revalidación de Estudios, Títulos y Grados (artículo 13).",
+                "🎯 Deriva tu solicitud a la Comisión para que emita dictamen (artículo 13).",
+                "📘 El reglamento no especifica su composición, pero son órganos internos de la UDG.",
+                "🔹 Se envía toda la documentación probatoria mencionada en el artículo 11."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 13",
+            "topic": "Envío a Comisión para dictamen"
+        },
+        {
+            "tag": "plazo_dictamen_revalidacion",
+            "patterns": [
+                "¿Cuánto tarda la Comisión en emitir dictamen según el artículo 14?",
+                "¿El plazo de 20 días es prorrogable?",
+                "¿Qué pasa si la Comisión no responde en 20 días?",
+                "¿El dictamen depende del nivel educativo?",
+                "¿La Comisión puede pedir más documentos?"
+            ],
+            "responses": [
+                "📘 El artículo 14 establece un plazo máximo de 20 días hábiles para emitir dictamen.",
+                "🔹 El reglamento no menciona prórrogas; el plazo es perentorio.",
+                "🎯 No hay sanción explícita, pero puedes solicitar información a la Secretaría Administrativa.",
+                "📘 No, el plazo aplica para todos los niveles (medio superior y superior).",
+                "🔹 Sí, si requiere información adicional, aunque el artículo 14 no lo detalla."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 14",
+            "topic": "Plazo para dictamen de revalidación"
+        },
+        {
+            "tag": "criterios_igualdad_academica",
+            "patterns": [
+                "¿Qué factores analiza la Comisión según el artículo 15?",
+                "¿Los créditos son determinantes para la revalidación?",
+                "¿Cómo comparan los planes de estudio extranjeros?",
+                "¿La bibliografía influye en la decisión?",
+                "¿Qué se considera en posgrados según el artículo 15-IX?"
+            ],
+            "responses": [
+                "📘 El artículo 15 lista 9 factores: objetivos del plan, estructura, duración, contenidos, carga horaria, seriación, evaluación, metodología y (para posgrados) investigación.",
+                "🔹 Sí, el artículo 15-II menciona que se evalúa el valor en créditos de las asignaturas.",
+                "🎯 Comparando objetivos, contenidos y duración con los planes de la UDG (artículo 15-I a IV).",
+                "📘 Sí, el artículo 15-V considera la bibliografía recomendada en las unidades de aprendizaje.",
+                "🔹 La carga de investigación en los programas (artículo 15-IX)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 15",
+            "topic": "Criterios para igualdad académica"
+        },
+        {
+            "tag": "contenido_resolucion_revalidacion",
+            "patterns": [
+                "¿Qué debe incluir la resolución de revalidación parcial según el artículo 16?",
+                "¿La UDG detalla qué materias no se revalidaron?",
+                "¿Puedo saber por qué se rechazó una materia?",
+                "¿La resolución es un documento oficial?",
+                "¿Incluye recomendaciones para concluir estudios?"
+            ],
+            "responses": [
+                "📘 El artículo 16 exige que la resolución liste las unidades de aprendizaje revalidadas y las cursadas en la institución de origen.",
+                "🔹 No explícitamente, pero el artículo 20 requiere que la resolución justifique sus argumentos.",
+                "🎯 Sí, el artículo 20 obliga a fundamentar las decisiones.",
+                "📘 Sí, es un documento válido para trámites académicos en la UDG.",
+                "🔹 No, el artículo 16 solo menciona la relación de materias revalidadas."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 16",
+            "topic": "Contenido de la resolución"
+        },
+        {
+            "tag": "limites_porcentuales_revalidacion",
+            "patterns": [
+                "¿Qué porcentaje máximo se puede revalidar según el artículo 17?",
+                "¿Hay un mínimo de créditos para revalidación parcial?",
+                "¿Por qué hay límites en la revalidación?",
+                "¿Estos límites aplican para posgrados?",
+                "¿Puedo revalidar el 50% de mi carrera?"
+            ],
+            "responses": [
+                "📘 El artículo 17 establece un máximo del 40% y un mínimo del 10% del total de créditos del plan de estudios.",
+                "🔹 Sí, al menos el 10% según el artículo 17.",
+                "🎯 Para garantizar que el estudiante curse una parte significativa en la UDG (artículo 17).",
+                "📘 Sí, aplica para todos los niveles (medio superior y superior).",
+                "🔹 No, el límite es 40% según el artículo 17."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 17",
+            "topic": "Límites porcentuales para revalidación"
+        },
+        {
+            "tag": "relacion_no_univoca",
+            "patterns": [
+                "¿Qué significa 'relación no unívoca' en el artículo 18?",
+                "¿Pueden revalidar una materia con dos de la UDG?",
+                "¿La UDG es flexible al comparar asignaturas?",
+                "¿Cómo determinan la equivalencia entre materias distintas?",
+                "¿Esto aplica para posgrados?"
+            ],
+            "responses": [
+                "📘 El artículo 18 aclara que las materias revalidadas no necesitan coincidir exactamente (ejemplo: una materia extranjera puede equivaler a dos de la UDG).",
+                "🔹 Sí, el artículo 18 lo permite si hay igualdad académica.",
+                "🎯 Sí, según los criterios del artículo 15 (contenidos, créditos, etc.).",
+                "📘 Analizando objetivos, carga horaria y contenidos (artículo 15).",
+                "🔹 Sí, aplica para todos los niveles."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 18",
+            "topic": "Relación no unívoca entre materias"
+        },
+        {
+            "tag": "comunicacion_resultados",
+            "patterns": [
+                "¿Quién me notifica el resultado de mi revalidación según el artículo 19?",
+                "¿En qué plazo me dan la respuesta?",
+                "¿Dónde se registran las revalidaciones aprobadas?",
+                "¿La Secretaría General puede modificar el dictamen?",
+                "¿Qué efectos tiene la resolución?"
+            ],
+            "responses": [
+                "📘 La Secretaría Administrativa del Centro Universitario o SEMS (artículo 19).",
+                "🔹 5 días hábiles después de emitido el dictamen (artículo 19).",
+                "📘 En la Secretaría General de la UDG y en la Secretaría Administrativa del centro (artículo 19).",
+                "🎯 No, el artículo 19 solo menciona su registro.",
+                "🔹 Los especificados en la resolución (ejemplo: ingreso, acreditación parcial)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 19",
+            "topic": "Comunicación de resultados"
+        },
+        {
+            "tag": "fundamentacion_resoluciones",
+            "patterns": [
+                "¿Las resoluciones deben ser motivadas según el artículo 20?",
+                "¿Puedo impugnar una resolución de revalidación?",
+                "¿Qué argumentos debe incluir la UDG al negar una revalidación?",
+                "¿Este artículo aplica para equivalencias?",
+                "¿Dónde puedo consultar la resolución completa?"
+            ],
+            "responses": [
+                "📘 Sí, el artículo 20 exige que las resoluciones expresen los argumentos de la decisión.",
+                "🔹 El reglamento no lo menciona, pero al estar fundamentadas, puedes recurrir a instancias internas.",
+                "🎯 Debe citar los criterios del artículo 15 que no se cumplieron.",
+                "📘 Sí, aplica para todos los procedimientos del reglamento (revalidación, equivalencia, acreditación).",
+                "🔹 En la Secretaría Administrativa que tramitó tu solicitud (artículo 19)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 20",
+            "topic": "Fundamentación de resoluciones"
+        },
+        {
+            "tag": "definicion_equivalencias",
+            "patterns": [
+                "¿Qué son las equivalencias de estudios según el artículo 21?",
+                "¿En qué se diferencian las equivalencias de las revalidaciones?",
+                "¿Las equivalencias aplican para instituciones extranjeras?",
+                "¿Qué niveles educativos cubren las equivalencias?",
+                "¿La UDG puede establecer equivalencias con cualquier institución nacional?"
+            ],
+            "responses": [
+                "📘 El artículo 21 define equivalencias como la declaración de igualdad académica entre estudios de instituciones del Sistema Educativo Nacional y los de la UDG.",
+                "🔹 Las equivalencias son para instituciones nacionales (artículo 21), mientras que las revalidaciones son para instituciones extranjeras (artículo 3).",
+                "🎯 No, el artículo 21 especifica que solo aplica a instituciones del sistema educativo nacional.",
+                "📘 Cubren niveles medio superior y superior, igual que las revalidaciones (artículo 21 + artículo 1).",
+                "🔹 Solo si la institución está incorporada al Sistema Educativo Nacional y sus planes son comparables (artículo 21 + artículo 15)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 21",
+            "topic": "Definición de equivalencias"
+        },
+        {
+            "tag": "proposito_equivalencias",
+            "patterns": [
+                "¿Para qué sirven las equivalencias según el artículo 22?",
+                "¿Puedo usar equivalencias para ingresar a la UDG?",
+                "¿Las equivalencias permiten obtener un título directamente?",
+                "¿Qué ventaja tiene solicitar equivalencias?",
+                "¿Se pueden establecer equivalencias para posgrados?"
+            ],
+            "responses": [
+                "📘 El artículo 22 establece que el único propósito es permitir la conclusión de estudios de bachillerato, licenciatura o posgrado en la UDG.",
+                "🔹 No, el artículo 22 limita su uso a la conclusión de estudios, no al ingreso.",
+                "🎯 No, debes cursar el porcentaje no equivalente y cumplir todos los requisitos de titulación.",
+                "📘 Evita repetir materias ya cursadas en instituciones nacionales reconocidas.",
+                "🔹 Sí, el artículo 22 menciona expresamente que aplica para posgrado."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 22",
+            "topic": "Propósito de las equivalencias"
+        },
+        {
+            "tag": "solicitud_equivalencias",
+            "patterns": [
+                "¿Dónde se presentan las solicitudes de equivalencia según el artículo 23?",
+                "¿Puedo solicitar equivalencias antes de ser admitido?",
+                "¿Hay un plazo específico para solicitar equivalencias?",
+                "¿Las equivalencias se tramitan en el mismo lugar que las revalidaciones?",
+                "¿Qué pasa si cambio de carrera después de obtener equivalencias?"
+            ],
+            "responses": [
+                "📘 El artículo 23 indica que se presentan por escrito en la Secretaría Administrativa del Centro Universitario o del SEMS.",
+                "🔹 Sí, el artículo 23 permite solicitarlas antes o después de la admisión.",
+                "🎯 No se menciona un plazo, pero deben ajustarse a los calendarios académicos.",
+                "📘 Sí, en las mismas dependencias (artículo 23 vs. artículo 9).",
+                "🔹 Debes solicitar nueva acreditación según el artículo 34 (cambio de carrera)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 23",
+            "topic": "Solicitud de equivalencias"
+        },
+        {
+            "tag": "documentacion_equivalencias",
+            "patterns": [
+                "¿Qué documentos necesito para equivalencias de licenciatura según el artículo 24?",
+                "¿El certificado de estudios debe estar legalizado?",
+                "¿Los programas de estudio son obligatorios para equivalencias?",
+                "¿Necesito traducir documentos si vienen de otro estado?",
+                "¿Qué pasa si no tengo los temarios completos?"
+            ],
+            "responses": [
+                "📘 El artículo 24 exige: certificado de estudios legalizado, plan de estudios y programas/temarios de las materias.",
+                "🔹 Sí, el artículo 24-I especifica que debe estar legalizado.",
+                "🎯 Sí, el artículo 24-III los menciona como requisito.",
+                "📘 No, solo si están en idioma distinto al español (artículo 11 aplicable).",
+                "🔹 Puede afectar el dictamen, pues la Comisión evalúa contenidos (artículo 15 + 28)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 24",
+            "topic": "Documentación para equivalencias"
+        },
+        {
+            "tag": "revision_equivalencias",
+            "patterns": [
+                "¿Qué revisa la UDG en 5 días según el artículo 25?",
+                "¿Cómo verifican que mis estudios sean de nivel superior?",
+                "¿Pueden rechazar mi solicitud de equivalencia en esta etapa?",
+                "¿Quién decide si mi solicitud es procedente?",
+                "¿Qué pasa si falta un documento?"
+            ],
+            "responses": [
+                "📘 El artículo 25 detalla: autenticidad de documentos, nivel educativo y procedencia.",
+                "🔹 Mediante el plan de estudios y certificados presentados (artículo 25-II).",
+                "🎯 Sí, si no cumples los requisitos del artículo 25-III.",
+                "📘 La Secretaría Administrativa, a través de la Coordinación de Control Escolar (artículo 25).",
+                "🔹 Se declarará improcedente hasta que completes la documentación."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 25",
+            "topic": "Revisión de solicitudes de equivalencia"
+        },
+        {
+            "tag": "comision_dictamen_equivalencias",
+            "patterns": [
+                "¿Quién emite el dictamen de equivalencias según el artículo 26?",
+                "¿Es la misma Comisión que para revalidaciones?",
+                "¿Qué documentos se envían a la Comisión?",
+                "¿Puedo apelar si no estoy de acuerdo con el dictamen?",
+                "¿El Presidente del Consejo interviene en la decisión?"
+            ],
+            "responses": [
+                "📘 La Comisión de Revalidación de Estudios, Títulos y Grados (artículo 26).",
+                "🔹 Sí, es la misma Comisión (artículo 26 vs. artículo 13).",
+                "🎯 La solicitud y toda la documentación probatoria (artículo 26).",
+                "📘 El reglamento no lo especifica, pero las resoluciones son fundamentadas (artículo 20).",
+                "🔹 No, solo deriva la solicitud a la Comisión (artículo 26)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 26",
+            "topic": "Comisión para dictamen de equivalencias"
+        },
+        {
+            "tag": "plazo_dictamen_equivalencias",
+            "patterns": [
+                "¿Cuánto tarda la Comisión en emitir dictamen de equivalencias según el artículo 27?",
+                "¿El plazo de 20 días es igual que para revalidaciones?",
+                "¿Puede extenderse el plazo por complejidad del caso?",
+                "¿Qué pasa si la Comisión no responde en el plazo?",
+                "¿El dictamen de equivalencias es vinculante?"
+            ],
+            "responses": [
+                "📘 El artículo 27 establece un plazo máximo de 20 días hábiles.",
+                "🔹 Sí, es el mismo plazo que para revalidaciones (artículo 14).",
+                "🎯 El reglamento no prevé extensiones; el plazo es perentorio.",
+                "📘 Puedes solicitar información a la Secretaría Administrativa.",
+                "🔹 Sí, una vez emitido y notificado."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 27",
+            "topic": "Plazo para dictamen de equivalencias"
+        },
+        {
+            "tag": "criterios_equivalencias",
+            "patterns": [
+                "¿Qué criterios usa la Comisión para equivalencias según el artículo 28?",
+                "¿Son los mismos que para revalidaciones?",
+                "¿Cómo comparan las asignaturas de distintas instituciones?",
+                "¿La carga horaria es determinante?",
+                "¿Qué peso tiene la bibliografía?"
+            ],
+            "responses": [
+                "📘 El artículo 28 remite al artículo 15: objetivos, estructura, créditos, duración, contenidos, metodología, etc.",
+                "🔹 Sí, son idénticos (artículo 28).",
+                "🎯 Analizando contenidos, créditos y objetivos (artículo 15).",
+                "📘 Sí, el artículo 15-V considera el tiempo de dedicación teórica-práctica.",
+                "🔹 Es un factor relevante según el artículo 15-V."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 28",
+            "topic": "Criterios para equivalencias"
+        },
+        {
+            "tag": "contenido_resolucion_equivalencias",
+            "patterns": [
+                "¿Qué debe contener la resolución de equivalencias según el artículo 29?",
+                "¿La UDG detalla las materias no equivalentes?",
+                "¿Puedo saber por qué se rechazó una equivalencia?",
+                "¿La resolución incluye el porcentaje de créditos aceptados?",
+                "¿Es un documento oficial?"
+            ],
+            "responses": [
+                "📘 El artículo 29 exige la relación de unidades de aprendizaje declaradas equivalentes y las cursadas en la institución de origen.",
+                "🔹 No explícitamente, pero el artículo 20 obliga a fundamentar decisiones.",
+                "🎯 Sí, la resolución debe ser motivada (artículo 20).",
+                "📘 No directamente, pero puedes calcularlo con los créditos del plan de estudios.",
+                "🔹 Sí, es válido para trámites académicos en la UDG."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 29",
+            "topic": "Contenido de la resolución de equivalencias"
+        },
+        {
+            "tag": "limites_porcentuales_equivalencias",
+            "patterns": [
+                "¿Qué porcentaje máximo se puede equivaler según el artículo 30?",
+                "¿Hay un mínimo de créditos para equivalencias?",
+                "¿Por qué hay límites en las equivalencias?",
+                "¿Estos límites aplican para posgrados?",
+                "¿Puedo equivaler el 50% de mi carrera?"
+            ],
+            "responses": [
+                "📘 El artículo 30 establece un máximo del 40% y un mínimo del 10% del total de créditos.",
+                "🔹 Sí, al menos el 10% según el artículo 30.",
+                "🎯 Para garantizar que curses una parte significativa en la UDG (artículo 30).",
+                "📘 Sí, aplica para todos los niveles (artículo 30).",
+                "🔹 No, el límite es 40% (artículo 30)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 30",
+            "topic": "Límites porcentuales para equivalencias"
+        },
+        {
+            "tag": "relacion_no_univoca_equivalencias",
+            "patterns": [
+                "¿Qué significa 'relación no unívoca' en equivalencias según el artículo 31?",
+                "¿Puede una materia de otra universidad equivaler a dos de la UDG?",
+                "¿Cómo determinan la equivalencia entre asignaturas con nombres distintos?",
+                "¿Este criterio aplica para posgrados?",
+                "¿La UDG es flexible con las equivalencias?"
+            ],
+            "responses": [
+                "📘 El artículo 31 establece que las materias equivalentes no necesitan coincidir exactamente en nombre, sino en contenidos académicos.",
+                "🔹 Sí, si los contenidos de una materia externa cubren los de dos materias de la UDG (artículo 31 + artículo 15).",
+                "🎯 Comparando objetivos, carga horaria y contenidos (artículo 28 remite al artículo 15).",
+                "📘 Sí, aplica para todos los niveles educativos (artículo 31).",
+                "🔹 Sí, pero siempre que se cumplan los criterios del artículo 15."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 31",
+            "topic": "Relación no unívoca en equivalencias"
+        },
+        {
+            "tag": "registro_comunicacion_equivalencias",
+            "patterns": [
+                "¿Dónde se registran las equivalencias aprobadas según el artículo 32?",
+                "¿Quién me notifica el resultado de mi equivalencia?",
+                "¿En qué plazo me dan la respuesta después del dictamen?",
+                "¿La Secretaría General puede modificar el dictamen de equivalencias?",
+                "¿Qué debo hacer si no recibo comunicación en 5 días?"
+            ],
+            "responses": [
+                "📘 El artículo 32 indica que se registran en la Secretaría General de la UDG y en la Secretaría Administrativa del centro.",
+                "🔹 La Secretaría Administrativa del Centro Universitario o SEMS (artículo 32).",
+                "🎯 5 días hábiles después de emitido el dictamen (artículo 32).",
+                "📘 No, solo se encarga del registro oficial (artículo 32).",
+                "🔹 Debes acudir a la Secretaría Administrativa donde tramitaste tu solicitud."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 32",
+            "topic": "Registro y comunicación de equivalencias"
+        },
+        {
+            "tag": "definicion_acreditacion",
+            "patterns": [
+                "¿Qué es la acreditación de estudios según el artículo 33?",
+                "¿En qué se diferencia la acreditación de las equivalencias?",
+                "¿La acreditación aplica para estudios de otras universidades?",
+                "¿Qué niveles educativos cubre?",
+                "¿Puedo acreditar estudios incompletos?"
+            ],
+            "responses": [
+                "📘 El artículo 33 define acreditación como el reconocimiento de igualdad académica entre materias de distintos planes de la UDG.",
+                "🔹 La acreditación es para estudios internos de la UDG (artículo 33), mientras que equivalencias son para instituciones nacionales (artículo 21).",
+                "🎯 No, solo para planes de estudio de la propia UDG (artículo 33).",
+                "📘 Medio superior y superior, incluyendo posgrado (artículo 33 + 34).",
+                "🔹 Sí, si dejaste incompleto un plan de estudios (artículo 34)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 33",
+            "topic": "Definición de acreditación"
+        },
+        {
+            "tag": "sujetos_acreditacion",
+            "patterns": [
+                "¿Quiénes pueden solicitar acreditación según el artículo 34?",
+                "¿Puedo acreditar materias si cambio de carrera dentro de la UDG?",
+                "¿Los egresados pueden acreditar materias para segunda carrera?",
+                "¿Aplica para cambios de centro universitario?",
+                "¿Los alumnos de posgrado pueden acreditar materias?"
+            ],
+            "responses": [
+                "📘 El artículo 34 menciona: egresados que cursan segunda carrera, alumnos con estudios incompletos, quienes cambian de carrera o de centro universitario, y alumnos de posgrado.",
+                "🔹 Sí, es uno de los supuestos del artículo 34.",
+                "🎯 Sí, si inician una segunda carrera en la UDG (artículo 34).",
+                "📘 Sí, siempre que sea la misma carrera (artículo 34 + 35).",
+                "🔹 Sí, el artículo 34 lo establece expresamente."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 34",
+            "topic": "Sujetos de acreditación"
+        },
+        {
+            "tag": "acreditacion_cambio_escuela",
+            "patterns": [
+                "¿Qué necesito para acreditar materias al cambiar de escuela según el artículo 35?",
+                "¿La constancia de calificaciones debe estar certificada?",
+                "¿Quién legaliza los documentos en cambios de escuela?",
+                "¿Aplica solo para nivel medio superior?",
+                "¿Puedo acreditar materias si cambio a otra carrera?"
+            ],
+            "responses": [
+                "📘 El artículo 35 exige una constancia de calificaciones certificada por el Secretario de la Escuela y legalizada por la Secretaría del SEMS.",
+                "🔹 Sí, debe estar certificada por el Secretario de la Escuela de origen (artículo 35).",
+                "🎯 La Secretaría Administrativa del SEMS (artículo 35).",
+                "📘 Sí, específicamente para cambios dentro del mismo nivel medio superior.",
+                "🔹 No, para cambio de carrera aplica el artículo 34."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 35",
+            "topic": "Acreditación en cambios de escuela"
+        },
+        {
+            "tag": "solicitud_documentacion_acreditacion",
+            "patterns": [
+                "¿Dónde se presentan las solicitudes de acreditación según el artículo 36?",
+                "¿Qué documentos debo anexar?",
+                "¿Necesito plan de estudios para acreditación?",
+                "¿Las constancias de calificaciones deben ser originales?",
+                "¿Hay un formato oficial para la solicitud?"
+            ],
+            "responses": [
+                "📘 El artículo 36 indica que se presentan por escrito en la Secretaría Administrativa del Centro Universitario o del SEMS.",
+                "🔹 Constancias de calificaciones (artículo 36); para cambios de escuela, también certificación y legalización (artículo 35).",
+                "🎯 No se menciona en el artículo 36, pero la Comisión compara con el plan vigente (artículo 40).",
+                "📘 Sí, o copias certificadas.",
+                "🔹 El reglamento no especifica formatos, solo que debe ser por escrito."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 36",
+            "topic": "Solicitud y documentación para acreditación"
+        },
+        {
+            "tag": "revision_solicitud_acreditacion",
+            "patterns": [
+                "¿Qué revisa la UDG en 5 días según el artículo 37?",
+                "¿Pueden rechazar mi solicitud de acreditación en esta etapa?",
+                "¿Qué normatividad aplica para acreditación?",
+                "¿Quién decide si mi solicitud es procedente?",
+                "¿Qué pasa si falta documentación?"
+            ],
+            "responses": [
+                "📘 El artículo 37 menciona que se revisa el ajuste a la normatividad universitaria aplicable.",
+                "🔹 Sí, si no cumple los requisitos (artículo 37).",
+                "🎯 Reglamentos internos de la UDG sobre planes de estudio y movilidad académica.",
+                "📘 La Secretaría Administrativa del centro o SEMS (artículo 37).",
+                "🔹 Se declarará improcedente hasta que completes los requisitos."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 37",
+            "topic": "Revisión de solicitudes de acreditación"
+        },
+        {
+            "tag": "envio_comision_acreditacion",
+            "patterns": [
+                "¿A dónde se envían las solicitudes de acreditación procedentes según el artículo 38?",
+                "¿Es la misma Comisión que para revalidaciones?",
+                "¿Qué documentos se envían a la Comisión?",
+                "¿Puedo conocer a los integrantes de la Comisión?",
+                "¿El Presidente de la Comisión decide unilateralmente?"
+            ],
+            "responses": [
+                "📘 El artículo 38 indica que van al Presidente de la Comisión de Revalidación de Estudios, Títulos y Grados.",
+                "🔹 Sí, es la misma Comisión (artículo 38 vs. artículo 13).",
+                "🎯 La solicitud y las constancias de calificaciones (artículo 36 + 38).",
+                "📘 El reglamento no especifica su composición.",
+                "🔹 No, la Comisión emite dictamen colegiado (artículo 39)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 38",
+            "topic": "Envío a Comisión para acreditación"
+        },
+        {
+            "tag": "plazo_dictamen_acreditacion",
+            "patterns": [
+                "¿Cuánto tarda la Comisión en emitir dictamen de acreditación según el artículo 39?",
+                "¿Es menor el plazo que para revalidaciones?",
+                "¿Puede extenderse el plazo por complejidad del caso?",
+                "¿Qué pasa si no recibo respuesta en 10 días?",
+                "¿El dictamen de acreditación es definitivo?"
+            ],
+            "responses": [
+                "📘 El artículo 39 establece un plazo máximo de 10 días hábiles.",
+                "🔹 Sí, es menor (10 días vs. 20 días para revalidaciones, artículo 14).",
+                "🎯 El reglamento no prevé extensiones.",
+                "📘 Debes solicitar información a la Secretaría Administrativa.",
+                "🔹 Sí, salvo error manifiesto."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 39",
+            "topic": "Plazo para dictamen de acreditación"
+        },
+        {
+            "tag": "criterios_acreditacion",
+            "patterns": [
+                "¿Qué criterios usa la Comisión para acreditación según el artículo 40?",
+                "¿Son los mismos que para equivalencias?",
+                "¿Cómo comparan materias de distintos planes de la UDG?",
+                "¿La seriación de materias es relevante?",
+                "¿Qué peso tiene la carga horaria?"
+            ],
+            "responses": [
+                "📘 El artículo 40 remite al artículo 15: objetivos, estructura, créditos, duración, contenidos, metodología, etc.",
+                "🔹 Sí, son idénticos (artículo 40).",
+                "🎯 Analizando contenidos, créditos y objetivos (artículo 15).",
+                "📘 Sí, el artículo 15-VI considera la seriación.",
+                "🔹 Es un factor clave según el artículo 15-V."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 40",
+            "topic": "Criterios para acreditación"
+        },
+        {
+            "tag": "contenido_resolucion_acreditacion",
+            "patterns": [
+                "¿Qué debe contener la resolución de acreditación según el artículo 41?",
+                "¿La UDG detalla las materias no acreditadas?",
+                "¿Puedo saber por qué se rechazó acreditar una materia?",
+                "¿La resolución incluye los créditos acreditados?",
+                "¿Es un documento válido para trámites?"
+            ],
+            "responses": [
+                "📘 El artículo 41 exige la relación de unidades de aprendizaje acreditadas.",
+                "🔹 No explícitamente, pero el artículo 20 obliga a fundamentar decisiones.",
+                "🎯 Sí, la resolución debe ser motivada (artículo 20).",
+                "📘 Indirectamente, al listar las materias acreditadas.",
+                "🔹 Sí, para efectos académicos internos."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 41",
+            "topic": "Contenido de la resolución de acreditación"
+        },
+        {
+            "tag": "limites_porcentuales_acreditacion",
+            "patterns": [
+                "¿Qué porcentaje máximo se puede acreditar según el artículo 42?",
+                "¿Hay un mínimo de créditos para acreditación?",
+                "¿Por qué el límite es mayor que en equivalencias?",
+                "¿Aplica igual para posgrados?",
+                "¿Puedo acreditar el 80% de mi nueva carrera?"
+            ],
+            "responses": [
+                "📘 El artículo 42 permite acreditar hasta el 75% del total de créditos del plan de estudios.",
+                "🔹 No se establece mínimo, solo máximo.",
+                "🎯 Por tratarse de estudios internos de la UDG, hay mayor flexibilidad (artículo 42 vs. 30).",
+                "📘 Sí, aplica para todos los niveles (artículo 34).",
+                "🔹 No, el límite es 75% (artículo 42)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 42",
+            "topic": "Límites porcentuales para acreditación"
+        },
+        {
+            "tag": "relacion_no_univoca_acreditacion",
+            "patterns": [
+                "¿Qué significa que las materias acreditadas no tengan relación unívoca según el artículo 43?",
+                "¿Puedo acreditar una materia de mi carrera anterior con dos de la nueva?",
+                "¿Cómo determinan la equivalencia entre planes de estudio distintos?",
+                "¿Este criterio aplica para cambios de posgrado?",
+                "¿La UDG permite flexibilidad en acreditaciones?"
+            ],
+            "responses": [
+                "📘 El artículo 43 establece que las materias acreditadas no necesitan coincidir exactamente en nombre, sino en contenidos académicos.",
+                "🔹 Sí, si los contenidos de una materia previa cubren los de dos materias del nuevo plan (artículo 43 + artículo 15).",
+                "🎯 Comparando objetivos, créditos y contenidos (artículo 40 remite al artículo 15).",
+                "📘 Sí, aplica para todos los niveles educativos (artículo 34).",
+                "🔹 Sí, hasta un 75% de créditos (artículo 42), pero con criterios académicos rigurosos (artículo 40)."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 43",
+            "topic": "Relación no unívoca en acreditación"
+        },
+        {
+            "tag": "registro_comunicacion_acreditacion",
+            "patterns": [
+                "¿Dónde se registran las acreditaciones aprobadas según el artículo 44?",
+                "¿Quién me notifica el resultado de mi acreditación?",
+                "¿En qué plazo me comunican la resolución?",
+                "¿La Secretaría General puede modificar el dictamen?",
+                "¿Qué hago si no recibo respuesta en 5 días?"
+            ],
+            "responses": [
+                "📘 El artículo 44 indica que se registran en la Secretaría General de la UDG y en la Secretaría Administrativa del centro.",
+                "🔹 La Secretaría Administrativa del Centro Universitario o SEMS (artículo 44).",
+                "🎯 5 días hábiles después de emitido el dictamen (artículo 44).",
+                "📘 No, solo realiza el registro oficial (artículo 44).",
+                "🔹 Acude a la dependencia donde presentaste tu solicitud para seguimiento."
+            ],
+            "document": "Reglamento de Revalidaciones, Equivalencias y Acreditación de Estudios",
+            "article": "Artículo 44",
+            "topic": "Registro y comunicación de acreditaciones"
+        }
+
+    ]
+}

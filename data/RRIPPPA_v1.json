@@ -1,0 +1,627 @@
+{
+    "main_topic": "Reglamento de Ingreso, Promoción y Permanencia del Personal Académico (RIPPPA)",
+    "intents": [
+        {
+            "tag": "disposiciones_generales",
+            "patterns": [
+                "¿Qué establece el artículo 1 del RIPPPA?",
+                "¿Cómo se nombra al personal académico según el artículo 1?",
+                "¿Qué sistema se utiliza para nombrar al personal académico?",
+                "¿En qué artículo se menciona el sistema de oposición?",
+                "¿Qué ley respalda el artículo 1 del RIPPPA?"
+            ],
+            "responses": [
+                "📘 El artículo 1 establece que todo miembro del personal académico será nombrado bajo el sistema de oposición, de acuerdo con lo dispuesto por la Ley Orgánica de la Universidad de Guadalajara. 🏛️",
+                "🔹 Según el artículo 1, el personal académico se nombra mediante el sistema de oposición. ⚖️",
+                "🎯 El sistema utilizado para nombrar al personal académico es el de oposición, como lo establece el artículo 1. 📜",
+                "📘 El sistema de oposición se menciona en el artículo 1 del RIPPPA. ✅",
+                "🔹 El artículo 1 está respaldado por el artículo 17 de la Ley Orgánica de la Universidad de Guadalajara. 🎓"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 1",
+            "topic": "Disposiciones generales"
+        },
+        {
+            "tag": "requisitos_ingreso",
+            "patterns": [
+                "¿Cuáles son los requisitos para ingresar al personal académico según el artículo 2?",
+                "¿Pueden los extranjeros ser parte del personal académico?",
+                "¿Qué documentos deben presentar los extranjeros para ingresar?",
+                "¿A qué deben sujetarse los aspirantes al personal académico?",
+                "¿Quién debe legalizar los documentos de estudios en el extranjero?"
+            ],
+            "responses": [
+                "📘 El artículo 2 establece tres requisitos principales: nacionalidad mexicana (o estancia legal para extranjeros), demostrar que satisface los requisitos para la categoría y nivel, y sujetarse al procedimiento del reglamento. 📋",
+                "🔹 Sí, los extranjeros pueden ser parte del personal académico pero deben acreditar su legal estancia en el país. 🌍",
+                "🎯 Los extranjeros deben acompañar sus documentos académicos con traducción al español legalizados por autoridades diplomáticas mexicanas. 📄",
+                "📘 Los aspirantes deben sujetarse al procedimiento previsto por el RIPPPA y demás disposiciones de la legislación universitaria. ⚖️",
+                "🔹 Los documentos de estudios en el extranjero deben ser legalizados por las autoridades diplomáticas mexicanas. 🏢"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 2",
+            "topic": "Requisitos de ingreso"
+        },
+        {
+            "tag": "organos_intervinientes",
+            "patterns": [
+                "¿Qué órganos intervienen en los procedimientos de ingreso según el artículo 3?",
+                "¿Quién participa en los procesos de ingreso y promoción?",
+                "¿Qué comisiones menciona el artículo 3?",
+                "¿El Rector General participa en los procesos de ingreso?",
+                "¿Qué papel juegan las Comisiones Dictaminadoras?"
+            ],
+            "responses": [
+                "📘 El artículo 3 menciona cinco órganos que intervienen: Consejo General Universitario, Rector General, Consejo del Centro Universitario, Rector de Centro Universitario y las Comisiones Dictaminadoras. 🏛️",
+                "🔹 Participan el Consejo General Universitario, el Rector General, los Consejos de Centros Universitarios y las Comisiones Dictaminadoras. 🎓",
+                "🎯 El artículo 3 menciona la Comisión de Ingreso y Promoción del Personal Académico y las Comisiones Dictaminadoras. 📜",
+                "📘 Sí, el Rector General es uno de los órganos que interviene en los procesos de ingreso y promoción. ✅",
+                "🔹 Las Comisiones Dictaminadoras son responsables de evaluar y dictaminar sobre el ingreso y promoción del personal académico. ⚖️"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 3",
+            "topic": "Órganos intervinientes"
+        },
+        {
+            "tag": "comisiones_dictaminadoras",
+            "patterns": [
+                "¿Cómo se integran las Comisiones Dictaminadoras según el artículo 4?",
+                "¿Cuántos miembros tienen las comisiones en Centros Universitarios?",
+                "¿Quiénes no pueden ser miembros de comisiones dictaminadoras?",
+                "¿Qué requisitos deben cumplir los miembros de las comisiones?",
+                "¿Cómo se integra la comisión para personal huésped?"
+            ],
+            "responses": [
+                "📘 El artículo 4 establece diferentes composiciones según la dependencia: en Centros Universitarios son 9 miembros (3 docentes, 3 investigadores y 3 técnicos), en Educación Media Superior son 15, y en Universidad Virtual son 5. 🏛️",
+                "🔹 En Centros Universitarios las comisiones tienen 9 miembros: 3 docentes, 3 investigadores y 3 técnicos académicos. 📋",
+                "🎯 No pueden ser miembros: rectores, directores, secretarios, integrantes de otras comisiones ni quienes tengan cargos gremiales. 🚫",
+                "📘 Los miembros deben ser de categoría Titular con al menos 3 años de antigüedad. A falta de titulares, se pueden integrar los de más alta categoría. ✅",
+                "🔹 Para personal huésped se forma una comisión especial de 7 miembros: uno por cada Centro Universitario temático, uno del SEMS y uno designado por la Coordinación General Académica. 🌍"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 4",
+            "topic": "Comisiones Dictaminadoras"
+        },
+        {
+            "tag": "suplentes_comisiones",
+            "patterns": [
+                "¿Qué establece el artículo 5 sobre suplentes?",
+                "¿Cuántos suplentes tienen las comisiones dictaminadoras?",
+                "¿Cómo se reemplaza a un miembro ausente?",
+                "¿Cada cuánto se renuevan las comisiones?",
+                "¿Dónde sesionan las comisiones?"
+            ],
+            "responses": [
+                "📘 El artículo 5 establece que las comisiones tendrán 3 suplentes: un técnico, un docente y un investigador, designados por el Consejo Universitario. 🏛️",
+                "🔹 Cada comisión dictaminadora cuenta con tres suplentes que cubren ausencias según su especialidad. 📋",
+                "🎯 Los suplentes cubren ausencias según su perfil: el técnico suple técnicos, el docente a docentes, y el investigador a investigadores. 🔄",
+                "📘 Las comisiones se renuevan cada dos años durante la primera quincena de agosto. 📅",
+                "🔹 Generalmente sesionan en sus dependencias, excepto la de Administración General y la de Personal Huésped que sesionan en la Coordinación General Académica. 🏢"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 5",
+            "topic": "Suplentes en comisiones"
+        },
+        {
+            "tag": "atribuciones_rector_general",
+            "patterns": [
+                "¿Quién nombra al personal académico según el artículo 6?",
+                "¿Qué autoridad emite los nombramientos del personal académico?",
+                "¿A quién corresponde la facultad de nombrar al personal académico?",
+                "¿Qué establece el artículo 6 sobre los nombramientos?",
+                "¿Quién hace la propuesta para el nombramiento del personal académico?"
+            ],
+            "responses": [
+                "📘 El artículo 6 establece que el Rector General es quien nombra al personal académico, a propuesta de los Rectores de Centros Universitarios o del Director del SEMS. 🏛️",
+                "🔹 Los nombramientos los emite el Rector General, previo dictamen de la Comisión Dictaminadora respectiva. ⚖️",
+                "🎯 Corresponde al Rector General nombrar al personal académico, según lo dispuesto en el artículo 35 de la Ley Orgánica de la UdeG. 📜",
+                "📘 El artículo 6 indica que los nombramientos deben basarse en propuestas de los Rectores de Centros Universitarios y dictámenes de las Comisiones Dictaminadoras. ✅",
+                "🔹 Las propuestas las realizan los Rectores de Centros Universitarios, el Director del SEMS o los Coordinadores Generales. 🎓"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 6",
+            "topic": "Atribuciones del Rector General"
+        },
+        {
+            "tag": "organizacion_comisiones",
+            "patterns": [
+                "¿Cómo se organizan las Comisiones Dictaminadoras según el artículo 9?",
+                "¿Quién preside las Comisiones Dictaminadoras?",
+                "¿Cómo se elige al Secretario de Actas en las comisiones?",
+                "¿Las sesiones de las comisiones son públicas o privadas?",
+                "¿Cómo se toman los acuerdos en las comisiones?"
+            ],
+            "responses": [
+                "📘 El artículo 9 establece que las comisiones se organizan con un Presidente (miembro con mayor antigüedad), un Secretario de Actas elegido internamente, y sesionan de forma privada. 🏛️",
+                "🔹 La presidencia recae en el miembro con mayor antigüedad en la Universidad de Guadalajara. ⏳",
+                "🎯 Cada Comisión designa de entre sus miembros al Secretario de Actas y Acuerdos. 📋",
+                "📘 Las sesiones son privadas, garantizando la exclusión de personas ajenas a la Comisión (Art. 9-V). 🔒",
+                "🔹 Los acuerdos se toman por mayoría de votos de los presentes. En empate, el Presidente tiene voto de calidad (Art. 9-IX y X). ⚖️"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 9",
+            "topic": "Organización de Comisiones Dictaminadoras"
+        },
+        {
+            "tag": "excusas_comisiones",
+            "patterns": [
+                "¿Pueden excusarse los miembros de las comisiones según el artículo 10?",
+                "¿Qué dice el artículo 10 sobre la recusación de miembros?",
+                "¿Bajo qué condiciones un miembro puede excusarse de un concurso?",
+                "¿Se pueden recusar miembros de las comisiones dictaminadoras?",
+                "¿Qué establece el artículo 10 sobre la intervención en concursos?"
+            ],
+            "responses": [
+                "📘 El artículo 10 permite que los miembros se excusen con justa causa de intervenir en algún concurso, pero no pueden ser recusados bajo ninguna circunstancia. 🏛️",
+                "🔹 Establece que los miembros podrán excusarse pero no ser recusados, garantizando imparcialidad en los procesos. ⚖️",
+                "🎯 Pueden excusarse por causas justificadas que afecten su imparcialidad, según criterio interno de la Comisión. 🤔",
+                "📘 No, el artículo 10 es claro: los miembros 'bajo ninguna circunstancia podrán ser recusados'. 🚫",
+                "🔹 Garantiza que los miembros solo intervengan cuando no existan conflictos de interés, mediante el mecanismo de excusa voluntaria. ✅"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 10",
+            "topic": "Excusas y recusaciones"
+        },
+        {
+            "tag": "jurados_calificadores",
+            "patterns": [
+                "¿Qué establece el artículo 11 sobre los Jurados Calificadores?",
+                "¿Quiénes pueden integrar los Jurados Calificadores?",
+                "¿Cuántos miembros deben tener los Jurados Calificadores?",
+                "¿Pueden participar miembros externos en los Jurados?",
+                "¿Cómo se seleccionan los Jurados Calificadores?"
+            ],
+            "responses": [
+                "📘 El artículo 11 autoriza a las Comisiones Dictaminadoras a formar Jurados Calificadores de 3 a 5 miembros por especialidad, pudiendo incluir externos excepcionalmente. 🏛️",
+                "🔹 Pueden integrarse por académicos de la UdeG o, excepcionalmente, por especialistas externos. 🌍",
+                "🎯 Deben tener entre 3 y 5 miembros, según lo determine la Comisión Dictaminadora. 🔢",
+                "📘 Sí, por excepción pueden integrarse miembros externos a la UdeG cuando se requiera expertise específico. ✅",
+                "🔹 Se seleccionan de listas de académicos por área de conocimiento, que las comisiones elaboran previamente. 📋"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 11",
+            "topic": "Jurados Calificadores"
+        },
+        {
+            "tag": "objetivos_concurso",
+            "patterns": [
+                "¿Cuáles son los objetivos del concurso de oposición según el artículo 12?",
+                "¿Qué busca garantizar el sistema de concursos?",
+                "¿Cómo promueve la calidad el concurso de oposición?",
+                "¿Qué beneficios tiene el concurso de oposición para la universidad?",
+                "¿En qué artículo se mencionan los objetivos de los concursos?"
+            ],
+            "responses": [
+                "📘 El artículo 12 establece tres objetivos: garantizar permanencia y estabilidad laboral, fomentar reubicación por especialidad, y promover calidad académica. 🎯",
+                "🔹 Busca garantizar que los académicos sean seleccionados por méritos, asegurando equidad y excelencia institucional. ⚖️",
+                "🎯 Promueve la calidad mediante pruebas que evalúan preparación y capacidad académica de los aspirantes. 📊",
+                "📘 Beneficia a la UdeG al seleccionar al personal más apto mediante criterios transparentes y objetivos. ✅",
+                "🔹 Los objetivos se detallan en el artículo 12 del Capítulo II sobre reglas comunes a los concursos. 📜"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 12",
+            "topic": "Objetivos del concurso de oposición"
+        },
+        {
+            "tag": "definicion_concurso",
+            "patterns": [
+                "¿Cómo define el artículo 13 el concurso de oposición?",
+                "¿Qué elementos incluye el concurso de oposición?",
+                "¿En qué consiste el sistema de oposición?",
+                "¿Qué se evalúa en los concursos según el artículo 13?",
+                "¿Dónde se define el concepto de concurso de oposición?"
+            ],
+            "responses": [
+                "📘 El artículo 13 lo define como 'conjunto de pruebas, trabajos teóricos y prácticos tendientes a valorar la preparación y capacidad académica para seleccionar al más apto'. 🏛️",
+                "🔹 Incluye exámenes, demostraciones prácticas, evaluaciones escritas y otros mecanismos de medición objetiva. 📋",
+                "🎯 Consiste en competir por plazas mediante demostración pública de capacidades, no por antigüedad o recomendaciones. ⚖️",
+                "📘 Evalúa preparación académica, experiencia docente/investigadora, y aptitudes específicas para el puesto. 🎓",
+                "🔹 La definición legal está en el artículo 13 del Capítulo II del RIPPPA. 📜"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 13",
+            "topic": "Definición de concurso de oposición"
+        },
+        {
+            "tag": "pruebas_concurso",
+            "patterns": [
+                "¿Qué pruebas pueden aplicarse en los concursos según el artículo 20?",
+                "¿Qué tipo de exámenes incluye el concurso de oposición?",
+                "¿Cómo se evalúa a los técnicos académicos?",
+                "¿Qué prueba se usa para docentes según el artículo 20?",
+                "¿Se puede prescindir de pruebas en promoción?"
+            ],
+            "responses": [
+                "📘 El artículo 20 lista 12 tipos de pruebas: desde análisis de programas (I) hasta trabajos de apoyo académico (XII). Los candidatos deben aprobar al menos 3 afines a su categoría. 📋",
+                "🔹 Incluye pruebas escritas (I-II), orales (III-IV), didácticas (V), proyectos de investigación (VI), y pruebas técnicas específicas (VII-XII). ✍️",
+                "🎯 Los técnicos académicos realizan pruebas prácticas 'afines a su función' (VII), como desarrollo de equipos o manuales operativos. 🛠️",
+                "📘 Para docentes es obligatoria la 'prueba didáctica o simulacro de clase' (V), donde exponen un tema ante grupo con 48h de anticipación. 🎓",
+                "🔹 Sí, el artículo 14 permite que en promoción se use solo 'concurso de méritos' sin pruebas, si la Comisión Dictaminadora lo decide. ✅"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículos 14 y 20",
+            "topic": "Pruebas de concurso"
+        },
+        {
+            "tag": "criterios_evaluacion",
+            "patterns": [
+                "¿Qué criterios de evaluación establece el artículo 21?",
+                "¿Cómo se califica la experiencia docente?",
+                "¿Qué peso tiene la antigüedad en la evaluación?",
+                "¿Se considera la participación en formación de académicos?",
+                "¿Qué criterios son clave para investigación?"
+            ],
+            "responses": [
+                "📘 El artículo 21 enumera 10 criterios: formación académica (I), experiencia docente/investigadora (II-III), dirección académica (IV), formación de personal (V), antigüedad (VII), entre otros. 📊",
+                "🔹 La experiencia docente se califica por horas impartidas, niveles educativos (medio superior a posgrado), y materiales didácticos desarrollados. 🎓",
+                "🎯 La antigüedad en la UdeG es el séptimo criterio, pero no es determinante por sí sola; se combina con productividad. ⏳",
+                "📘 Sí, el criterio V valora específicamente la 'participación en formación del personal académico'. 👨‍🏫",
+                "🔹 Para investigación son clave: productos publicados (II), proyectos financiados (III), y citaciones de obra propia (IX). 🔬"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 21",
+            "topic": "Criterios de evaluación"
+        },
+        {
+            "tag": "tabla_puntos_ingreso",
+            "patterns": [
+                "¿Cómo se calculan los puntos por impartir cursos según la tabla de ingreso?",
+                "¿Cuántos puntos da dirigir una tesis de doctorado para ingreso?",
+                "¿Qué puntaje máximo se puede obtener por investigación en ingreso?",
+                "¿Cómo se evalúa la creación artística para el ingreso?",
+                "¿Cuántos puntos da un libro de texto para ingreso?"
+            ],
+            "responses": [
+                "📘 Los puntos por docencia se calculan multiplicando las horas del curso por el valor asignado (5 pts/hora para medio superior, 10 pts/hora para posgrado). Ej: 100h de posgrado = 1,000 pts. ⏳",
+                "🔹 Dirigir una tesis de doctorado otorga 2,000 puntos por cada tesis concluida, con tope de 30,000 pts (Art. 22, Subfactor 1.4.1.4). 🎓",
+                "🎯 La investigación tiene topes por subfactor: 5,000 pts por proyectos financiados, 60,000 pts por publicaciones internacionales. La suma de investigación + arte no debe superar 30,000 pts. 📊",
+                "📘 La creación artística (exposiciones, obras, publicaciones) da entre 200-5,000 pts por actividad, con tope conjunto de 30,000 pts con investigación (Nota 7, Art. 22). 🎨",
+                "🔹 Un libro de texto otorga entre 2,000-4,000 puntos (dependiendo si es individual/colectivo), con tope de 30,000 pts (Subfactor 1.3.8). 📚"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 22",
+            "topic": "Tabla de puntos para ingreso"
+        },
+        {
+            "tag": "tabla_puntos_promocion",
+            "patterns": [
+                "¿Cómo difiere la tabla de promoción de la de ingreso?",
+                "¿Qué puntos adicionales considera la promoción?",
+                "¿Cómo se evalúa el desempeño docente para promoción?",
+                "¿Cuántos puntos da una patente en promoción?",
+                "¿Cómo se calculan los puntos por formación académica en promoción?"
+            ],
+            "responses": [
+                "📘 La tabla de promoción (Art. 24) solo considera actividades realizadas desde la última promoción e incluye ítems adicionales como desempeño docente (1,000-2,000 pts/año). 🔄",
+                "🔹 Agrega ítems como: desempeño docente Excelente (2,000 pts/año), participación en planeación de investigación (200-400 pts), y puntos por escolaridad desde la última promoción. 📈",
+                "🎯 Requiere Carta de Desempeño Docente: 'Excelente' (2,000 pts) necesita 95% asistencia, 80% alumnos aprobados, y dirección de tesis en nivel superior (Art. 25, VI-VII). 📝",
+                "📘 Una patente otorga 1,000-2,000 puntos en promoción (igual que en ingreso), con tope de 8,000 pts (Subfactor 2.3.5). 💡",
+                "🔹 Se asignan puntos según avance educativo desde la última promoción. Ej: pasar de licenciatura a maestría da 6,600 pts (Art. 24, Aspecto C). 🎓"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 24",
+            "topic": "Tabla de puntos para promoción"
+        },
+        {
+            "tag": "aplicacion_tablas_puntos",
+            "patterns": [
+                "¿Qué actividades no se consideran en las tablas de puntos?",
+                "¿Cómo se comprueban las actividades para asignar puntos?",
+                "¿Las actividades colectivas cómo se califican?",
+                "¿Los cursos propedéuticos cuentan para puntaje?",
+                "¿Qué pasa si supero el tope de puntos en un área?"
+            ],
+            "responses": [
+                "📘 Solo cuentan actividades listadas explícitamente en las tablas (Art. 23-III). Actividades no mencionadas (ej: tutorías no curriculares) no se consideran. 🚫",
+                "🔹 Deben estar fehacientemente comprobadas: publicaciones aceptadas, proyectos avalados por jefes de departamento, diplomas de cursos, etc. (Art. 23-IV). 📋",
+                "🎯 Las actividades colectivas cuentan como una sola participación (ej: dirección conjunta de tesis = 1 vez, Art. 23-XI). 👥",
+                "📘 Sí, los cursos propedéuticos se valoran igual que los escolarizados (Art. 23-VIII). 🎒",
+                "🔹 Los puntos excedentes al tope no se acumulan, excepto en promoción donde el excedente puede aplicarse a la siguiente (Art. 25-III). ⏭️"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículos 23 y 25",
+            "topic": "Aplicación de tablas de puntos"
+        },
+        {
+            "tag": "preferencias_igualdad_circunstancias",
+            "patterns": [
+                "¿Qué establece el artículo 26 sobre igualdad de circunstancias?",
+                "¿A quiénes se prefiere cuando hay empate en puntuación?",
+                "¿Qué criterios de desempate establece el RIPPPA?",
+                "¿Tiene preferencia el personal formado en la UdeG?",
+                "¿En qué orden se aplican las preferencias del artículo 26?"
+            ],
+            "responses": [
+                "📘 El artículo 26 establece 6 criterios de preferencia cuando hay empate: 1) Mexicanos, 2) Mayor antigüedad, 3) Personal de la dependencia, 4) Formados en la UdeG, 5) Capacitados en programas institucionales, 6) Estudios afines al área. 🏛️",
+                "🔹 En empate, se prefiere: 1° mexicanos sobre extranjeros, 2° mayor antigüedad, 3° personal interno de la dependencia. ⚖️",
+                "🎯 Los criterios de desempate son: nacionalidad, antigüedad, adscripción actual, formación universitaria, capacitación institucional y pertinencia de estudios (Art. 26-I a VI). 📋",
+                "📘 Sí, los académicos formados en la UdeG tienen preferencia sobre externos (criterio IV), después de considerar nacionalidad, antigüedad y adscripción. 🎓",
+                "🔹 El orden es estricto: primero nacionalidad, si persiste empate antigüedad, luego adscripción, etc. Solo se pasa al siguiente criterio si el anterior no resuelve. 🔢"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 26",
+            "topic": "Preferencias en igualdad de circunstancias"
+        },
+        {
+            "tag": "requisitos_extranjeros",
+            "patterns": [
+                "¿Qué debe presentar un académico extranjero según el artículo 27?",
+                "¿Qué plazo tienen los extranjeros para presentar documentación migratoria?",
+                "¿Qué autorización necesitan los académicos extranjeros?",
+                "¿Ante qué dependencia se acredita la estancia legal?",
+                "¿Qué pasa si un extranjero no cumple con el artículo 27?"
+            ],
+            "responses": [
+                "📘 El artículo 27 exige a los extranjeros presentar autorización de la Secretaría de Gobernación dentro de los 60 días naturales posteriores a la publicación de resultados. 🏛️",
+                "🔹 Tienen 60 días naturales (no hábiles) contados desde la publicación de resultados para acreditar su estancia legal. ⏳",
+                "🎯 Deben obtener autorización de residencia temporal o permanente para actividades académicas, emitida por la SEGOB. 🛂",
+                "📘 La documentación migratoria (FM3, FM2, etc.) debe ser expedida por la Secretaría de Gobernación (SEGOB). 📜",
+                "🔹 Si no cumplen, pierden derecho al nombramiento, aplicándose lo dispuesto en la Ley de Migración y normativa universitaria. ⚠️"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 27",
+            "topic": "Requisitos para académicos extranjeros"
+        },
+        {
+            "tag": "procedimiento_ingreso",
+            "patterns": [
+                "¿Qué plazo tiene el procedimiento de ingreso según el artículo 28?",
+                "¿Cuántos días hay para presentar solicitudes de ingreso?",
+                "¿Qué debe contener la solicitud de ingreso?",
+                "¿Cómo se notifican los resultados del concurso?",
+                "¿Qué pasa si solo hay un concursante?"
+            ],
+            "responses": [
+                "📘 El artículo 28 establece que el procedimiento de ingreso debe concluir en máximo 30 días hábiles desde la publicación de la convocatoria. 🏛️",
+                "🔹 Hay 10 días hábiles para presentar solicitudes y documentación tras publicarse la convocatoria (Art. 28-I). 📅",
+                "🎯 Debe incluir: solicitud en formatos oficiales, documentos comprobatorios de requisitos, y pruebas técnicas si aplica (Art. 28-I y 19). 📋",
+                "📘 Los resultados se notifican mediante lista pública en lugares visibles de la dependencia donde resida la Comisión (Art. 28-VIII). 📢",
+                "🔹 Aún con un solo concursante, la Comisión debe emitir resolución válida sobre si cumple o no los requisitos (Art. 28-VII). ⚖️"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 28",
+            "topic": "Procedimiento para ingreso"
+        },
+        {
+            "tag": "derecho_definitividad",
+            "patterns": [
+                "¿Qué derecho tiene el personal académico a los 2 años de servicio según el artículo 29?",
+                "¿Cómo se solicita la definitividad en la UdeG?",
+                "¿Qué plazo debe cumplir el personal para acceder a definitividad?",
+                "¿El concurso de definitividad es obligatorio?",
+                "¿Puede participar en otros concursos mientras espera definitividad?"
+            ],
+            "responses": [
+                "📘 El artículo 29 otorga derecho a solicitar un concurso de definitividad tras 2 años de servicio ininterrumpido en misma categoría/nivel, sin perjuicio de participar en otros concursos. ⏳",
+                "🔹 Se inicia mediante solicitud ante la dependencia correspondiente, seguida de evaluación por la Comisión Dictaminadora. 📋",
+                "🎯 Requiere 2 años continuos en la misma plaza con nombramiento temporal (no aplica a interinos por menos tiempo). 📅",
+                "📘 Sí, la universidad debe abrirlo si el académico cumple los requisitos, pero no garantiza el resultado favorable. ⚖️",
+                "🔹 Sí, el artículo 29 aclara que este derecho no limita su participación en otros concursos de promoción o ingreso. 🔄"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 29",
+            "topic": "Derecho a definitividad"
+        },
+        {
+            "tag": "contratacion_interinos",
+            "patterns": [
+                "¿Cuándo se puede nombrar personal interino según el artículo 30?",
+                "¿Qué requisitos debe cumplir un académico interino?",
+                "¿Por cuánto tiempo se contrata a un interino?",
+                "¿Qué pasa con la plaza de un interino al terminar su contrato?",
+                "¿Quién autoriza los nombramientos interinos?"
+            ],
+            "responses": [
+                "📘 El artículo 30 permite nombrar interinos cuando: 1) No existe personal calificado en la dependencia, o 2) Se declara desierto un concurso. 🏛️",
+                "🔹 Debe cumplir los requisitos del Título Segundo del Estatuto del Personal Académico y comenzar labores inmediatamente. ✅",
+                "🎯 Máximo por un ciclo lectivo (6 meses en SEMS o 1 año en centros universitarios), según lo dispuesto en la convocatoria. 📅",
+                "📘 La plaza debe someterse a concurso en el siguiente período de oposición (Art. 30 párrafo final). 🔄",
+                "🔹 El Rector General, a propuesta del Rector de Centro Universitario o Director del SEMS (Art. 30). 🎓"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 30",
+            "topic": "Contratación de interinos"
+        },
+        {
+            "tag": "concursos_desiertos",
+            "patterns": [
+                "¿Qué procede cuando un concurso se declara desierto según el artículo 31?",
+                "¿Puede contratarse a alguien sin concurso si no hay aspirantes?",
+                "¿Quién declara desierta una plaza académica?",
+                "¿Qué mayoría se requiere para declarar insatisfactorios a los concursantes?",
+                "¿Qué artículo regula los concursos sin candidatos?"
+            ],
+            "responses": [
+                "📘 El artículo 31 establece que, declarado desierto el concurso, se aplica el artículo 30: nombrar interino por un ciclo lectivo. 🔄",
+                "🔹 Sí, mediante nombramiento interino excepcional por el plazo que señala el artículo 30. ⏳",
+                "🎯 La Comisión Dictaminadora correspondiente, cuando: 1) No hay candidatos, o 2) Ninguno cumple los requisitos (por mayoría de votos). ⚖️",
+                "📘 Se requiere mayoría simple de la Comisión Dictaminadora para determinar insatisfactorios a los concursantes. 📊",
+                "🔹 El artículo 31 del Capítulo III sobre concursos abiertos. 📜"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 31",
+            "topic": "Concursos desiertos"
+        },
+        {
+            "tag": "requisitos_promocion",
+            "patterns": [
+                "¿Qué exige el artículo 32 para participar en promoción?",
+                "¿Qué antigüedad se necesita para promoverse?",
+                "¿Puede promoverse un académico con plaza temporal?",
+                "¿Los programas especiales de promoción tienen requisitos diferentes?",
+                "¿Qué significa 'mismo tiempo de dedicación' en promoción?"
+            ],
+            "responses": [
+                "📘 El artículo 32 requiere: 1) Plaza definitiva o por tiempo indeterminado, 2) Mínimo 1 año ininterrumpido en misma categoría/nivel, y 3) Mismo tiempo de dedicación que la plaza concursada. 🏛️",
+                "🔹 1 año mínimo en la categoría/nivel actual (ej: Asociado B a Asociado C), computado desde el último nombramiento. 📅",
+                "🎯 No, solo personal con plaza definitiva o tiempo indeterminado puede participar (Art. 32-I). 🚫",
+                "📘 Sí, los programas especiales (último párrafo Art. 32) pueden establecer méritos específicos adicionales. 📋",
+                "🔹 Que si tienes media dedicación (20h), solo concursas plazas de media dedicación; tiempo completo (40h) a tiempo completo. ⏱️"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 32",
+            "topic": "Requisitos para promoción"
+        },
+        {
+            "tag": "procedimiento_promocion",
+            "patterns": [
+                "¿Cómo se solicita la promoción según el artículo 33?",
+                "¿Qué documentos se presentan para promoción?",
+                "¿Quién recibe la solicitud de promoción?",
+                "¿Qué plazo tiene la Comisión para revisar expedientes?",
+                "¿Cómo se aplican las pruebas en promoción?"
+            ],
+            "responses": [
+                "📘 El artículo 33-I indica que el académico debe presentar solicitud por escrito al Rector de Centro Universitario o Director del SEMS. 📋",
+                "🔹 Documentos que acrediten méritos académicos desde la última promoción, incluyendo Carta de Desempeño Docente para profesores (Art. 33-II). 📄",
+                "🎯 El Secretario Administrativo de la dependencia, quien deriva el expediente a la Comisión Dictaminadora (Art. 33-III). 🏢",
+                "📘 10 días hábiles para revisión inicial de expedientes (Art. 33-IV), más 5 días hábiles posteriores a pruebas si aplican (Art. 33-V). ⏳",
+                "🔹 La Comisión aplica pruebas del Artículo 20 si lo estima necesario, auxiliada por Jurados Calificadores (Art. 33-V y 11). ✍️"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 33",
+            "topic": "Procedimiento de promoción"
+        },
+        {
+            "tag": "contratacion_temporal",
+            "patterns": [
+                "¿Cuándo se puede contratar personal por tiempo determinado según el artículo 35?",
+                "¿Qué tipos de contratos permite el artículo 35?",
+                "¿Se necesita partida presupuestal para contrataciones temporales?",
+                "¿Puede contratarse sin concurso previo?",
+                "¿Qué artículo autoriza contratos por obra determinada?"
+            ],
+            "responses": [
+                "📘 El artículo 35 permite contratación temporal cuando: 1) Hay aumento de personal autorizado, 2) Existen partidas presupuestales, o 3) Se declara desierto un concurso. 🏛️",
+                "🔹 Contratos individuales de trabajo por tiempo determinado o civiles por obra determinada (Art. 36). 📜",
+                "🎯 Sí, debe existir disponibilidad presupuestal autorizada (Art. 35 párrafo primero). 💰",
+                "📘 Sí, pero solo para plazas temporales; las definitivas siempre requieren concurso (Art. 35 vs. Art. 1). ⚖️",
+                "🔹 El artículo 35 del Capítulo V sobre ingreso por contrato. 📌"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 35",
+            "topic": "Contratación temporal"
+        },
+        {
+            "tag": "requisitos_contratos",
+            "patterns": [
+                "¿Qué requisitos exige el artículo 36 para contratos?",
+                "¿Los contratos civiles requieren cumplir el Estatuto del Personal Académico?",
+                "¿Qué diferencia hay entre contrato laboral y civil según el artículo 36?",
+                "¿Puede contratarse a alguien sin título profesional?",
+                "¿Qué artículo regula los contratos de servicios profesionales?"
+            ],
+            "responses": [
+                "📘 El artículo 36 exige cumplir los requisitos de ingreso del Título Segundo del Estatuto del Personal Académico, salvo contratos civiles por obra. ✅",
+                "🔹 No necesariamente, los contratos civiles por obra o tiempo determinado son excepción (Art. 36 párrafo 2). ⚖️",
+                "🎯 Laborales: sujetos a la LFT y Estatuto Académico; Civiles: regulados por Código Civil, sin derechos laborales plenos. 📋",
+                "📘 No, salvo para puestos técnicos que solo requieran carrera técnica (según categoría concursada). 🎓",
+                "🔹 El artículo 36 del Capítulo V sobre modalidades de contratación. 📜"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 36",
+            "topic": "Requisitos para contratos"
+        },
+        {
+            "tag": "contratacion_personal_huesped",
+            "patterns": [
+                "¿Cómo se contrata al personal huésped según el artículo 37?",
+                "¿Quién autoriza las prórrogas para visitantes académicos?",
+                "¿Qué tipo de contratos aplican para académicos visitantes?",
+                "¿El Rector General puede negar una contratación huésped?",
+                "¿Qué artículo regula al personal académico visitante?"
+            ],
+            "responses": [
+                "📘 El artículo 37 establece que el Rector General contrata al personal huésped a propuesta de los Rectores de Centros o del Director del SEMS, previo dictamen de la Comisión Especial. 🏛️",
+                "🔹 Las prórrogas también las autoriza el Rector General, siguiendo el mismo procedimiento que la contratación inicial. 🔄",
+                "🎯 Aplican contratos civiles por obra o tiempo determinado, no relaciones laborales permanentes (Art. 36). 📜",
+                "📘 Sí, al ser facultad discrecional del Rector General, puede negar contrataciones que no cumplan los requisitos o necesidades institucionales. ⚖️",
+                "🔹 El artículo 37 del Capítulo V es la norma específica para personal huésped/visitante, complementado por el Art. 4-V sobre su Comisión Dictaminadora especial. 📌"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 37",
+            "topic": "Contratación de personal huésped"
+        },
+        {
+            "tag": "recurso_revision",
+            "patterns": [
+                "¿Qué recurso prevé el artículo 38 contra dictámenes?",
+                "¿Quién resuelve los recursos de revisión?",
+                "¿Pueden crearse comités de apoyo para recursos?",
+                "¿Qué artículo establece la instancia para impugnar dictámenes?",
+                "¿La Comisión de Ingreso puede delegar funciones?"
+            ],
+            "responses": [
+                "📘 El artículo 38 establece el recurso de revisión ante la Comisión de Ingreso y Promoción del H. Consejo General Universitario. ⚖️",
+                "🔹 La mencionada Comisión del H. Consejo General Universitario (Art. 38 párrafo 1). 🏛️",
+                "🎯 Sí, la Comisión puede integrar Comités de Apoyo para elaborar proyectos de dictamen (Art. 38 párrafo 2). 👥",
+                "📘 El artículo 38 del Capítulo VI sobre recursos. 📌",
+                "🔹 Sí, para análisis técnicos mediante comités, pero la resolución final es indelegable. ✅"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 38",
+            "topic": "Recurso de revisión"
+        },
+        {
+            "tag": "plazo_impugnacion",
+            "patterns": [
+                "¿Qué plazo hay para impugnar un dictamen según el artículo 39?",
+                "¿Cómo se cuenta el plazo para interponer recurso?",
+                "¿Qué motivos justifican un recurso de revisión?",
+                "¿Qué artículo establece el plazo para impugnar?",
+                "¿Se puede ampliar el plazo de 10 días?"
+            ],
+            "responses": [
+                "📘 10 días hábiles contados desde la notificación de resultados (Art. 39). ⏳",
+                "🔹 Días hábiles (excluyendo sábados, domingos y días inhábiles oficiales), desde el día siguiente a la notificación. 📅",
+                "🎯 Cualquier afectación a derechos derivada del dictamen: errores en evaluación, omisión de documentos, etc. (Art. 39). ⚖️",
+                "📘 El artículo 39 del Capítulo VI sobre recursos. 📜",
+                "🔹 No, es plazo fatal (Art. 41-IV-a por improcedencia). 🚫"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 39",
+            "topic": "Plazo para impugnación"
+        },
+        {
+            "tag": "notificacion_personal",
+            "patterns": [
+                "¿Cómo se notifican las resoluciones según el artículo 40?",
+                "¿Qué debe contener el acta de notificación?",
+                "¿Se puede notificar por correo electrónico?",
+                "¿Qué artículo exige notificación personal?",
+                "¿Qué pasa si el interesado no recibe la notificación?"
+            ],
+            "responses": [
+                "📘 El artículo 40 exige notificación personal con entrega física del dictamen/resolución, asentando día y hora de recepción. 📋",
+                "🔹 Debe incluir: identificación del notificado, copia del documento notificado, fecha/hora exacta, y firma de recibido. ✍️",
+                "🎯 No, el artículo 40 requiere notificación personal presencial, no medios electrónicos. 📧",
+                "📘 El artículo 40 del Capítulo VI sobre formalidades en notificaciones. 📌",
+                "🔹 Sin notificación válida, no corren plazos para impugnar; la autoridad debe garantizar cumplimiento del artículo 40. ⚠️"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 40",
+            "topic": "Notificación personal"
+        },
+        {
+            "tag": "procedimiento_recurso",
+            "patterns": [
+                "¿Qué pasos sigue el recurso de revisión según el artículo 41?",
+                "¿Dónde se presenta el escrito de recurso?",
+                "¿Qué plazo tiene la Comisión para resolver?",
+                "¿Cuándo se desecha un recurso?",
+                "¿Qué artículo regula el procedimiento de impugnación?"
+            ],
+            "responses": [
+                "📘 El artículo 41 establece: 1) Presentación por escrito fundado en 10 días hábiles, 2) Remisión del expediente en 48h, 3) Resolución en 30 días hábiles. ⚖️",
+                "🔹 Ante el Secretario Administrativo de la dependencia donde se emitió el dictamen impugnado (Art. 41-I). 🏢",
+                "🎯 30 días hábiles desde recepción del expediente (Art. 41-III). ⏳",
+                "📘 Por: 1) Fuera de plazo, 2) Falta de legitimación, o 3) Ausencia de conceptos de violación (Art. 41-IV). 🚫",
+                "🔹 El artículo 41 del Capítulo VI sobre procedimiento del recurso. 📜"
+            ],
+            "document": "RIPPPA",
+            "article": "Artículo 41",
+            "topic": "Procedimiento del recurso"
+        }
+
+
+    ]
+}

@@ -1,0 +1,887 @@
+{
+    "main_topic": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+    "intents": [
+        {
+            "tag": "disposiciones_generales_galardones",
+            "patterns": [
+                "¿Qué establece el artículo 1 sobre los reconocimientos?",
+                "¿Quiénes pueden recibir méritos según el artículo 1?",
+                "¿Qué tipo de reconocimientos menciona el artículo 1?",
+                "¿Cuál es el objetivo del artículo 1?",
+                "¿Qué se considera mérito universitario según el artículo 1?"
+            ],
+            "responses": [
+                "📜 El Artículo 1 establece que la UdeG reconocerá méritos y distinciones de personas acreedoras a tal honor. 🏆",
+                "🎓 Personas con acciones notorias y dignas de elogio pueden ser reconocidas, según el Art. 1. ✨",
+                "📌 El Art. 1 es la base general para todos los reconocimientos que se detallan luego en el reglamento. 📑",
+                "🎯 Objetivo: Normar el proceso para reconocer contribuciones excepcionales a la comunidad universitaria. 🌟",
+                "💡 Mérito Universitario = Acciones notorias que hacen a una persona digna de reconocimiento institucional. 👏"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 1",
+            "topic": "Disposiciones generales galardones"
+        },
+        {
+            "tag": "tipos_galardones",
+            "patterns": [
+                "¿Qué galardones menciona el artículo 2?",
+                "¿Cuáles son los títulos honoríficos de la UdeG?",
+                "¿El galardón por años de docencia sigue vigente?",
+                "¿Existe reconocimiento post-mortem?",
+                "¿Hay galardón para profesores honoríficos?"
+            ],
+            "responses": [
+                "🏅 Art. 2 lista: Doctor Honoris Causa 👨‍🎓, Maestro Emérito 🧑‍🏫, galardones por años de servicio ⏳, aportación social 🤝, universitario 🎓, post-mortem ⚰️ y Profesor Honorífico 👨‍🏫.",
+                "📜 Títulos honoríficos: Doctor Honoris Causa (máximo honor) y Maestro Emérito (para académicos ejemplares).",
+                "⚠️ ¡Ojo! El galardón por años de servicio en docencia fue derogado, pero existen otros por docencia+investigación. 📌",
+                "🕊️ Sí, el Art. 2 incluye reconocimiento post-mortem para honrar trayectorias destacadas. 🌹",
+                "👨‍🏫 ¡Sí! El Art. 2 menciona el nombramiento como Profesor Honorífico (nuevo en 2023). 🆕"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 2",
+            "topic": "Catálogo de galardones"
+        },
+        {
+            "tag": "definicion_merito",
+            "patterns": [
+                "¿Qué es mérito universitario según el artículo 3?",
+                "¿Cómo define el reglamento un mérito?",
+                "¿Qué acciones califican como mérito?",
+                "¿Bajo qué criterios se otorgan reconocimientos?",
+                "¿Toda contribución es mérito universitario?"
+            ],
+            "responses": [
+                "📚 Art. 3: Mérito Universitario = Acción notoria que hace a una persona digna de elogio. 🌟",
+                "⚖️ El reglamento define mérito como resultados destacados en cualquier ámbito universitario o social. 🏛️",
+                "🔍 Califican: Contribuciones excepcionales en docencia, investigación, arte, gestión o impacto social. 🎯",
+                "📝 Criterios: Relevancia, impacto institucional y ejemplaridad (según capítulos posteriores). 📌",
+                "🚨 No, solo acciones que destaquen notablemente sobre lo ordinario (Art. 3 es deliberadamente amplio). ✨"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 3",
+            "topic": "Definición de mérito"
+        },
+        {
+            "tag": "definicion_galardon",
+            "patterns": [
+                "¿Qué es un galardón según el artículo 4?",
+                "¿En qué consiste un reconocimiento honorífico?",
+                "¿Puede ser un galardón algo material?",
+                "¿Hay galardones simbólicos?",
+                "¿Ejemplos de galardones físicos?"
+            ],
+            "responses": [
+                "🏆 Art. 4: Galardón = Reconocimiento honorífico por mérito. Puede ser: constancia 📄, premio en libros 📚, medalla 🥇, leyenda oficial, monumento 🗿 o presea.",
+                "🎖️ Los reconocimientos honoríficos (Art. 4) son simbólicos pero pueden incluir elementos materiales como medallas.",
+                "💎 ¡Sí! Desde medallas hasta estatuillas (ej. Galardón 45+ años de servicio incluye estatuilla de Fray Alcalde). 🏛️",
+                "✨ Galardones simbólicos: Constancias, leyendas en documentos oficiales o denominación de espacios. 📜",
+                "📌 Ejemplos físicos: Medalla '12 de Octubre' (35 años), Estatuilla Fray Alcalde (45+ años), pergaminos. 🎨"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 4",
+            "topic": "Definición de galardón"
+        },
+        {
+            "tag": "consejo_general",
+            "patterns": [
+                "¿Quién otorga los galardones según el artículo 5?",
+                "¿Qué instancia aprueba los Doctorados Honoris Causa?",
+                "¿En qué artículos de la Ley Orgánica se sustenta esto?",
+                "¿El Rector puede otorgar galardones directamente?",
+                "¿Qué papel juega el Consejo General Universitario?"
+            ],
+            "responses": [
+                "⚖️ Art. 5: Solo el H. Consejo General Universitario otorga títulos y galardones, basado en los Art. 11° y 31° Fracc. X de la Ley Orgánica. 📜",
+                "👑 Doctorados Honoris Causa deben ser aprobados por el Consejo General Universitario (Art. 5 + Capítulo III). 👨‍⚖️",
+                "🔍 Se sustenta en los Artículos 11° y 31° Fracción X de la Ley Orgánica de la UdeG. 📚",
+                "🚫 No, el Rector preside ceremonias (Art. 13, 20) pero la aprobación es exclusiva del Consejo. 🏛️",
+                "💼 El Consejo es la máxima autoridad para: evaluar propuestas, emitir dictámenes y aprobar galardones. ✅"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 5",
+            "topic": "Autoridad otorgante"
+        },
+        {
+            "tag": "propuesta_galardones",
+            "patterns": [
+                "¿Quiénes pueden presentar propuestas según el artículo 6?",
+                "¿Dónde se presenta la solicitud para un galardón?",
+                "¿Qué comisiones dictaminan Doctorados Honoris Causa?",
+                "¿Hay diferencia en el proceso para Maestros Eméritos?",
+                "¿Quién recibe las propuestas iniciales?"
+            ],
+            "responses": [
+                "📨 Art. 6: Pueden proponer: Consejos de Centros Universitarios, SEMS, Universidad Virtual y la Administración General. 🏫",
+                "📮 La propuesta va al Presidente del Consejo General Universitario, luego a Comisión de Educación. 📑",
+                "🔍 Para Doctor Honoris Causa/Maestro Emérito: Dictaminan las Comisiones Conjuntas de Educación + Hacienda. ⚖️",
+                "⚠️ Sí: Maestros Eméritos requieren dictamen conjunto (Art. 6 párr. 2), otros galardones solo Comisión de Educación. 📌",
+                "👔 El Presidente del Consejo General Universitario recibe todas las propuestas iniciales (Art. 6). 🎩"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 6",
+            "topic": "Presentación de propuestas"
+        },
+        {
+            "tag": "requisitos_propuesta",
+            "patterns": [
+                "¿Qué debe incluir una propuesta según el artículo 7?",
+                "¿Necesito curriculum para solicitar un galardón?",
+                "¿Quién firma la solicitud inicial?",
+                "¿Qué documentos sustentan la propuesta?",
+                "¿Se requiere aprobación previa del Consejo?"
+            ],
+            "responses": [
+                "📄 Art. 7 exige: 1) Solicitud firmada por el presidente del Consejo respectivo, 2) Dictamen de aprobación, 3) CV + documentos probatorios, 4) Otras constancias. 📑",
+                "📝 ¡Sí! El CV del candidato es obligatorio (Art. 7 III) junto con evidencias de sus méritos. 🏆",
+                "✍️ La solicitud la firma el presidente del Consejo del Centro/Sistema (Art. 7 I). 🏛️",
+                "🔍 Además del CV: Publicaciones, reconocimientos, artículos periodísticos, etc. (Art. 7 IV + Art. 12 VIII). 📚",
+                "✅ Sí, debe incluirse dictamen donde el Consejo del Centro/Sistema aprueba la propuesta (Art. 7 II). ⚠️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 7",
+            "topic": "Contenido de la propuesta"
+        },
+        {
+            "tag": "articulo_8_derogado",
+            "patterns": [
+                "¿Qué decía el artículo 8?",
+                "¿Por qué está derogado el artículo 8?",
+                "¿Hay algún procedimiento eliminado?",
+                "¿Qué cambios hubo en 2009 que afectaron este artículo?",
+                "¿Dónde puedo ver el dictamen que lo derogó?"
+            ],
+            "responses": [
+                "🚫 Art. 8 fue derogado en 2009 por Dictamen IV/2009/204. Ya no aplica en el reglamento actual. 📌",
+                "🔍 Se eliminó para simplificar procesos (consultar Dictamen IV/2009/204 en Gaceta UdeG). 📜",
+                "⚠️ ¡Ojo! Todo el Art. 8 fue eliminado, no solo modificado. Ver fechas clave al final del reglamento. 🗓️",
+                "📅 En 2009 se reformó el proceso de propuestas (Art. 6-7), haciendo obsoleto el Art. 8. 🔄",
+                "🌐 Consulta: Dictamen IV/2009/204 en Gaceta UdeG (http://www.gaceta.udg.mx/). 💻"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 8",
+            "topic": "Artículo derogado"
+        },
+        {
+            "tag": "dictamen_comisiones",
+            "patterns": [
+                "¿Qué considera la Comisión de Educación al evaluar según el artículo 9?",
+                "¿Pueden pedir información adicional sobre el candidato?",
+                "¿Qué peso tiene el CV en la evaluación?",
+                "¿Se verifican los antecedentes académicos?",
+                "¿Quién proporciona datos sobre el candidato?"
+            ],
+            "responses": [
+                "📊 Art. 9: Comisiones evalúan 1) CV completo, 2) Antecedentes académicos, 3) Datos de la dependencia proponente u otras fuentes. 🔍",
+                "🔎 ¡Sí! Pueden solicitar información a cualquier dependencia universitaria (Art. 9 párr. 1). 📨",
+                "⭐ El CV es clave (Art. 9), especialmente para Doctor Honoris Causa (ver Art. 12). 🎓",
+                "✅ Sí, los antecedentes académicos son parte esencial de la evaluación (Art. 9). 📚",
+                "🏛️ La dependencia que propone al candidato debe proveer información inicial, pero otras pueden complementar (Art. 9). 🤝"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 9",
+            "topic": "Proceso de dictamen"
+        },
+        {
+            "tag": "notificacion_resultados",
+            "patterns": [
+                "¿Cómo se notifican los resultados según el artículo 10?",
+                "¿Quién informa al candidato sobre la decisión?",
+                "¿Hay plazo para notificar?",
+                "¿Se comunica directamente al candidato?",
+                "¿Qué pasa si el galardón es denegado?"
+            ],
+            "responses": [
+                "📨 Art. 10: El Presidente del Consejo General notifica a la dependencia proponente, quien informa al candidato. 🔄",
+                "👔 La notificación formal la hace el Consejo General Universitario a través de su Presidente (Art. 10). 🎩",
+                "⏳ No hay plazo específico en el reglamento, pero usualmente sigue al acuerdo del Consejo. 🗓️",
+                "🚫 No, primero va a la dependencia proponente (ej. Centro Universitario), luego al candidato. 📌",
+                "ℹ️ La dependencia debe informar al candidato, pero el reglamento no establece recurso de apelación. ⚠️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 10",
+            "topic": "Notificación de resultados"
+        },
+        {
+            "tag": "doctor_honoris_causa_definicion",
+            "patterns": [
+                "¿Qué es el Doctorado Honoris Causa según el artículo 11?",
+                "¿A quiénes se otorga el título Honoris Causa?",
+                "¿El Doctorado Honoris Causa es solo para académicos?",
+                "¿Puede darse a extranjeros el Honoris Causa?",
+                "¿Qué áreas considera el Honoris Causa?"
+            ],
+            "responses": [
+                "🎓 Art. 11: El Doctorado Honoris Causa es el máximo título honorífico para personalidades eminentes (mexicanas o extranjeras) con contribuciones excepcionales en cualquier campo del conocimiento, arte o causas nobles de la humanidad. 🌍",
+                "🌟 Se otorga a quienes destaquen por: 1) Contribuciones científicas/artísticas, 2) Obra de vida ejemplar, o 3) Impacto social trascendental (Art. 11). ✨",
+                "🔬 ¡No! Puede ser para científicos, artistas, humanistas o benefactores sociales (Art. 11 menciona 'cualquier campo'). 🎨",
+                "🌎 Sí, el Art. 11 especifica que puede concederse a mexicanos o extranjeros con méritos excepcionales. 🏅",
+                "📚 Áreas: Ciencias exactas, sociales, humanidades, artes, activismo social o cualquier disciplina (Art. 11 es amplio). ⚖️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 11",
+            "topic": "Definición de Doctor Honoris Causa"
+        },
+        {
+            "tag": "requisitos_honoris_causa",
+            "patterns": [
+                "¿Qué requisitos pide el artículo 12 para el Honoris Causa?",
+                "¿Cuántos años de experiencia se necesitan?",
+                "¿El Honoris Causa requiere publicaciones científicas?",
+                "¿Qué tipo de reconocimiento internacional se exige?",
+                "¿Hay requisitos éticos para el Honoris Causa?"
+            ],
+            "responses": [
+                "📜 Art. 12 exige: 1) Capacidad y honorabilidad, 2) 25+ años de labor (académicos), 3) Reconocimiento local/nacional/internacional, 4) Aportaciones sociales, 5) Trayectoria destacada, 6) Contribuciones científicas/artísticas, 7) Beneficio a la humanidad, 8) Publicaciones/referencias. 🏆",
+                "⏳ Para académicos: mínimo 25 años de labor profesional (Art. 12 II). Otros perfiles no tienen límite temporal. 📅",
+                "📚 Sí, el Art. 12 VIII menciona 'artículos, publicaciones y/o referencias periodísticas' como requisito. 🗞️",
+                "🌍 Debe tener reconocimiento en al menos dos niveles: local + nacional o internacional (Art. 12 III). 🏛️",
+                "⚖️ ¡Absolutos! El Art. 12 I exige 'reconocida capacidad y honorabilidad' como primer filtro. ✅"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 12",
+            "topic": "Requisitos para Doctor Honoris Causa"
+        },
+        {
+            "tag": "ceremonia_honoris_causa",
+            "patterns": [
+                "¿Qué recibe el galardonado según el artículo 13?",
+                "¿Quién preside la ceremonia del Honoris Causa?",
+                "¿El título Honoris Causa incluye medalla?",
+                "¿Es pública la entrega del Honoris Causa?",
+                "¿Hay algún beneficio económico con este título?"
+            ],
+            "responses": [
+                "🏅 Art. 13: El Doctor Honoris Causa recibe: 1) Título honorífico, 2) Medalla de oro alusiva, en ceremonia solemne y pública. 🎉",
+                "👑 La ceremonia es presidida por el Rector General de la UdeG (Art. 13). Es el acto protocolario más importante. 🎩",
+                "🥇 Sí, incluye medalla de oro diseñada especialmente para este galardón (Art. 13). 💎",
+                "📢 ¡Sí! El Art. 13 especifica que debe ser un acto público (no privado). 👥",
+                "💰 No, es puramente honorífico. No conlleva remuneración (contrario al Maestro Emérito que sí tiene estímulo económico). ⚠️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 13",
+            "topic": "Ceremonia de entrega"
+        },
+        {
+            "tag": "fecha_entrega_honoris",
+            "patterns": [
+                "¿Quién decide la fecha de entrega según el artículo 14?",
+                "¿Hay fechas fijas para ceremonias de Honoris Causa?",
+                "¿Puede posponerse la entrega del título?",
+                "¿Qué pasa si el homenajeado no puede asistir?",
+                "¿Se puede entregar el Honoris Causa en otro país?"
+            ],
+            "responses": [
+                "🗓️ Art. 14: La fecha se adapta a la agenda del homenajeado. ¡El reglamento prioriza su disponibilidad! ⏰",
+                "🚫 No hay calendario fijo. Depende de cada caso (Art. 14 es flexible). 📅",
+                "✅ Sí, el Art. 14 permite ajustes según la disponibilidad del galardonado. 🔄",
+                "🤝 Se coordina nueva fecha o, excepcionalmente, puede recibirlo un representante (no mencionado en Art. 14 pero sí en Art. 40 para casos post-mortem). 📌",
+                "🌍 El Art. 14 no lo prohíbe, pero tradicionalmente se hace en la UdeG. ¡Consultar con Protocolo! 🎓"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 14",
+            "topic": "Flexibilidad de fecha"
+        },
+        {
+            "tag": "equivalencia_honoris",
+            "patterns": [
+                "¿El Doctorado Honoris Causa equivale a un grado según el artículo 15?",
+                "¿Puedo usar el título Honoris Causa como grado académico?",
+                "¿Da derechos académicos el Honoris Causa?",
+                "¿Es lo mismo que un doctorado convencional?",
+                "¿Por qué aclara esto el reglamento?"
+            ],
+            "responses": [
+                "⚠️ Art. 15: El título Honoris Causa NO equivale a grado académico. Es puramente honorífico. 🎓 vs 🏅",
+                "🚫 No puede usarse para acreditar estudios o ejercer como doctor en el ámbito profesional (Art. 15). 📜",
+                "❌ No otorga derechos para: dar clases, dirigir tesis o participar en cuerpos académicos (Art. 15). ⚖️",
+                "🔍 Diferencias: 1) Honoris Causa reconoce trayectoria, 2) Doctorado convencional acredita formación investigativa. 📚",
+                "📌 El Art. 15 evita confusiones legales y protege el valor de los grados académicos regulares. ✅"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 15",
+            "topic": "Alcance del título"
+        },
+        {
+            "tag": "maestro_emerito_definicion",
+            "patterns": [
+                "¿Qué es un Maestro Emérito según el artículo 16?",
+                "¿Puede darse a no jubilados?",
+                "¿Qué excepciones menciona el artículo 16?",
+                "¿Es solo para profesores de la UdeG?",
+                "¿Qué diferencia hay con el Profesor Honorífico?"
+            ],
+            "responses": [
+                "👨‍🏫 Art. 16: Maestro Emérito = Título honorífico para académicos pensionados/jubilados de la UdeG con trayectoria ejemplar en docencia/investigación. 📚",
+                "🌟 ¡Excepcionalmente! El Consejo General puede otorgarlo a académicos activos si su trayectoria lo justifica (Art. 16 párr. 2). ✨",
+                "⚖️ La excepción aplica cuando: 1) El académico aún no se jubila, 2) El Consejo aprueba por unanimidad (Art. 16). ✅",
+                "🏛️ Sí, es exclusivo para quienes hayan servido en la UdeG (contrario al Honoris Causa que puede ser externo). 🔍",
+                "🔎 Diferencias: 1) Emérito = jubilados UdeG, 2) Honorífico = colaboradores externos (Art. 42Bis). 📌"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 16",
+            "topic": "Definición de Maestro Emérito"
+        },
+        {
+            "tag": "requisitos_maestro_emerito",
+            "patterns": [
+                "¿Qué requisitos exige el artículo 18 para ser Maestro Emérito?",
+                "¿Cuántos años de servicio se necesitan para el título de Maestro Emérito?",
+                "¿El reconocimiento académico debe ser internacional?",
+                "¿Puede obtenerse el título sin estar jubilado?",
+                "¿Qué pasa si no cumplo los 30 años de servicio pero tengo otros méritos?"
+            ],
+            "responses": [
+                "📜 Art. 18: Para Maestro Emérito se requiere: 1) 30+ años de servicio en la UdeG, 2) Reconocimiento en la comunidad académica (local/nacional/internacional). 🎓",
+                "⏳ Mínimo 30 años dedicados a la Universidad (Art. 18a). ¡Es el requisito clave! ⏱️",
+                "🌍 No necesariamente internacional, pero sí reconocimiento en al menos uno de los niveles: local, nacional O internacional (Art. 18b). 🏛️",
+                "⚠️ Excepcionalmente sí, si el Consejo General lo aprueba, pero debe cumplir los 30 años y reconocimiento (Art. 18 párr. 2). ✨",
+                "🚫 No aplica. Los 30 años son obligatorios (Art. 18a), aunque existan otros méritos. El Consejo no puede hacer excepciones a esto. 📌"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 18",
+            "topic": "Requisitos básicos Maestro Emérito"
+        },
+        {
+            "tag": "requisitos_adicionales_emerito",
+            "patterns": [
+                "¿Qué otros requisitos menciona el artículo 19?",
+                "¿Necesito título de licenciatura para ser Maestro Emérito?",
+                "¿Cómo se evalúa la formación de recursos humanos?",
+                "¿Qué proyectos innovadores son válidos?",
+                "¿Hay requisitos derogados que ya no aplican?"
+            ],
+            "responses": [
+                "📝 Art. 19 exige adicionalmente: 1) Título de licenciatura mínimo, 2) Dirección de proyectos docencia/investigación, 3) Formación de recursos humanos en áreas estratégicas, 4) Participación en proyectos innovadores. 🏆",
+                "🎓 Sí, es indispensable tener al menos licenciatura (Art. 19 II). Posgrados suman méritos pero no son obligatorios. 📚",
+                "👨‍🎓 Se valora: dirección de tesis, creación de programas académicos o mentorías que impacten en la institución (Art. 19 V). 🌟",
+                "💡 Proyectos con: 1) Enfoque interdisciplinario, 2) Uso de tecnologías emergentes, 3) Modelos educativos innovadores (Art. 19 VI). 🚀",
+                "❌ Sí, las fracciones I y III del Art. 19 fueron derogadas en 2019 (Dictamen IV/2019/119). Ver notas al pie. ⚠️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 19",
+            "topic": "Requisitos adicionales Maestro Emérito"
+        },
+        {
+            "tag": "beneficios_maestro_emerito",
+            "patterns": [
+                "¿Qué recibe un Maestro Emérito según el artículo 20?",
+                "¿Hay algún beneficio económico con este título?",
+                "¿Quién entrega el reconocimiento?",
+                "¿La medalla es diferente a la del Honoris Causa?",
+                "¿El estímulo económico es vitalicio?"
+            ],
+            "responses": [
+                "🏅 Art. 20: El Maestro Emérito recibe: 1) Título honorífico, 2) Medalla en ceremonia solemne presidida por el Rector General. 💰 Además, estímulo económico vitalicio equivalente a 250 UMA diarias.",
+                "💵 ¡Sí! Único galardón con beneficio económico: 250 veces el valor diario de la UMA, de por vida (Art. 20 párr. 2). 📈",
+                "👑 El Rector General preside la ceremonia de entrega (igual que en Honoris Causa, Art. 20). 🎩",
+                "🔍 Sí: 1) Honoris Causa = medalla de oro, 2) Emérito = diseño distinto (no especificado en reglamento). 🥇",
+                "♾️ Sí, el estímulo es vitalicio mientras viva el galardonado (Art. 20). No aplica para herederos. ⏳"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 20",
+            "topic": "Beneficios del Maestro Emérito"
+        },
+        {
+            "tag": "galardon_anos_servicio",
+            "patterns": [
+                "¿Qué establece el artículo 22 sobre el galardón por años de servicio?",
+                "¿Este reconocimiento sustituye a otros estímulos?",
+                "¿Qué áreas considera para el galardón?",
+                "¿Es compatible con el contrato colectivo?",
+                "¿Quiénes pueden recibirlo?"
+            ],
+            "responses": [
+                "⏳ Art. 22: Galardón por años de servicio reconoce trayectoria en docencia/investigación y obra de beneficio universitario. No confundir con el derogado - galardón por años en docencia - 📌",
+                "🔄 No, es acumulable con otros estímulos del Contrato Colectivo o normatividad (Art. 25). ✅",
+                "📚 Considera: 1) Tiempo efectivo de servicio, 2) Contribución cultural, 3) Impacto institucional (Art. 22). 🏛️",
+                "🤝 Sí, el Art. 25 especifica que no menoscaba derechos del contrato colectivo. ⚖️",
+                "👨‍🏫 Académicos en activo o jubilados que cumplan los años requeridos (20, 25, 30+, ver Art. 23). 🎓"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 22",
+            "topic": "Definición galardón por años"
+        },
+        {
+            "tag": "niveles_galardon_anos",
+            "patterns": [
+                "¿Qué reconocimientos hay por años de servicio según el artículo 23?",
+                "¿Qué se entrega a los 35 años de servicio?",
+                "¿Hay diferencia entre 40 y 45 años?",
+                "¿El escudo universitario es para qué años?",
+                "¿Quién es Fray Antonio Alcalde?"
+            ],
+            "responses": [
+                "🏆 Art. 23 establece 9 niveles: 1) 20-30 años = escudo universitario + reconocimiento, 2) 35+ años = medallas/estatuillas de Fray Antonio Alcalde. 📜",
+                "🎖️ A 35 años: Medalla conmemorativa del 12 de Octubre (fecha fundación UdeG) + reconocimiento (Art. 23 IV). 🏛️",
+                "💎 Sí: 40 años = medalla Alcalde, 45+ años = medalla + estatuilla del mismo personaje (Art. 23 V-VI). ✨",
+                "🛡️ Escudo universitario: solo para 20, 25 y 30 años de servicio (Art. 23 I-III). A partir de 35 años cambia a medallas. 🔄",
+                "👴 Fray Antonio Alcalde = fundador de la UdeG en 1792. Las preseas superiores (40+ años) llevan su nombre e imagen (Art. 23 V-IX). 📚"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 23",
+            "topic": "Niveles del galardón por años"
+        },
+        {
+            "tag": "compatibilidad_estimulos",
+            "patterns": [
+                "¿Qué establece el artículo 25 sobre otros estímulos?",
+                "¿Puedo recibir este galardón y también bonos por productividad?",
+                "¿Qué normatividad complementa este reconocimiento?",
+                "¿Hay doble remuneración por años de servicio?",
+                "¿Dónde se especifican los derechos adicionales?"
+            ],
+            "responses": [
+                "⚖️ Art. 25: El galardón por años es compatible con cualquier otro estímulo del Contrato Colectivo o normatividad universitaria. No es excluyente. ✅",
+                "💰 Sí, el Art. 25 permite acumularlo con bonos, primas o reconocimientos económicos contractuales. 📈",
+                "📑 Debe coordinarse con: 1) Contrato Colectivo de Trabajo, 2) Reglamentos internos de estímulos (Art. 25). 🔗",
+                "🔄 No es doble: este galardón es simbólico (medallas/escudos), los económicos vienen por otras vías contractuales. 💸",
+                "📌 Ver la sección de - estímulos - en el Contrato Colectivo aplicable a tu categoría (Art. 25 remite a ello). 🔍"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 25",
+            "topic": "Compatibilidad con otros estímulos"
+        },
+        {
+            "tag": "periodos_entrega_galardones",
+            "patterns": [
+                "¿Cuándo se entregan los galardones por años según el artículo 26?",
+                "¿Hay fechas fijas para la ceremonia?",
+                "¿Puede adelantarse la entrega?",
+                "¿Qué meses establece el reglamento?",
+                "¿Se puede recibir en otra fecha por emergencia?"
+            ],
+            "responses": [
+                "🗓️ Art. 26: Dos periodos anuales para entrega: 1) Mayo, 2) Octubre. Ceremonias centralizadas por la Rectoría. 🎉",
+                "📅 Sí: mayo y octubre son los meses obligatorios (Art. 26), pero no especifica día exacto. ⏳",
+                "🚫 No, salvo fuerza mayor. Los periodos son inamovibles para mantener uniformidad institucional. ⚠️",
+                "🌸🌰 Mayo (fin de ciclo escolar) y octubre (aniversario de fundación UdeG) - Art. 26. 🏛️",
+                "🆘 Casos excepcionales se resuelven individualmente, pero el Art. 26 no prevé modificaciones. 📌"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 26",
+            "topic": "Periodos de entrega"
+        },
+        {
+            "tag": "galardon_aportacion_social",
+            "patterns": [
+                "¿Qué es el Galardón José Guadalupe Zuno Hernández según el artículo 30?",
+                "¿A quiénes está dirigido este reconocimiento?",
+                "¿Qué áreas de contribución considera?",
+                "¿Es solo para universitarios?",
+                "¿En qué se diferencia del Doctor Honoris Causa?"
+            ],
+            "responses": [
+                "🏛️ Art. 30: Galardón 'José Guadalupe Zuno Hernández' = Reconocimiento a benefactores con contribuciones excepcionales al desarrollo de la UdeG y sociedad. 🌍",
+                "🌟 Dirigido a: 1) Personajes con impacto social trascendente, 2) Destacados en ciencia/tecnología/artes/educación, 3) Ejemplos de vida (Art. 30). ✨",
+                "📚 Áreas válidas: Ciencias, humanidades, tecnología, artes, educación o cualquier actividad ejemplar (Art. 30). 🎨",
+                "🚫 No, puede ser para externos (a diferencia del Galardón Universitario Enrique Díaz de León). 👥",
+                "🔍 Diferencias: 1) Zuno Hernández = enfoque en aportación social, 2) Honoris Causa = méritos académicos/globales (Art. 11 vs 30). ⚖️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 30",
+            "topic": "Galardón a la Aportación Social"
+        },
+        {
+            "tag": "requisitos_aportacion_social",
+            "patterns": [
+                "¿Qué requisitos exige el artículo 31 para este galardón?",
+                "¿Se necesita reconocimiento internacional?",
+                "¿Cómo se prueba la honorabilidad?",
+                "¿Qué se considera 'labor de gran valor'?",
+                "¿Hay algún requisito de edad o años de servicio?"
+            ],
+            "responses": [
+                "📜 Art. 31 requiere: 1) Capacidad y honorabilidad, 2) Reconocimiento local/nacional/internacional, 3) Excelencia en ciencias/artes, 4) Labor en beneficio de instituciones o humanidad. 🏆",
+                "🌎 No es obligatorio, pero suma méritos tener impacto en al menos dos niveles (local + nacional o internacional, Art. 31 II). 📌",
+                "⚖️ Se evalúa con: 1) Antecedentes públicos, 2) Cartas de recomendación, 3) Trayectoria intachable (Art. 31 I). ✅",
+                "💎 'Gran valor' = Contribuciones que transformen positivamente comunidades o instituciones (Art. 31 IV). Ej: Fundaciones, políticas públicas, obras artísticas monumentales. 🏗️",
+                "⏳ No hay límites de edad o años, a diferencia de otros galardones (Art. 31 es flexible en esto). 🔄"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 31",
+            "topic": "Requisitos para Galardón Social"
+        },
+        {
+            "tag": "ceremonia_aportacion_social",
+            "patterns": [
+                "¿Qué incluye el galardón según el artículo 32?",
+                "¿Quién preside la ceremonia?",
+                "¿La medalla es diferente a otros galardones?",
+                "¿Es un acto público o privado?",
+                "¿Hay algún beneficio económico asociado?"
+            ],
+            "responses": [
+                "🎖️ Art. 32: Incluye 1) Reconocimiento escrito, 2) Medalla alusiva a José Guadalupe Zuno Hernández, entregados en ceremonia solemne. 📜",
+                "👑 El Rector General preside la ceremonia (igual que en otros galardones, Art. 32). 🎩",
+                "🖼️ Sí, es única: lleva el nombre del exgobernador Zuno Hernández (benefactor histórico de la UdeG). 🏛️",
+                "📢 Es público, como todos los galardones honoríficos (Art. 32 no especifica excepciones). 👥",
+                "💰 No, es puramente simbólico (sin estímulo económico como el Maestro Emérito). ⚠️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 32",
+            "topic": "Entrega del Galardón Social"
+        },
+        {
+            "tag": "galardon_universitario",
+            "patterns": [
+                "¿Qué es el Galardón Enrique Díaz de León según el artículo 33?",
+                "¿Quiénes pueden recibirlo?",
+                "¿Qué funciones sustantivas considera?",
+                "¿Puede ser para personas externas?",
+                "¿Ejemplos de actividades reconocibles?"
+            ],
+            "responses": [
+                "🎓 Art. 33: Galardón 'Enrique Díaz de León' = Reconocimiento a universitarios con contribuciones excepcionales en funciones sustantivas: docencia, investigación, difusión cultural o gestión. 🏛️",
+                "👨‍🏫 Solo para: 1) Miembros activos de la comunidad UdeG, 2) Quienes destaquen en al menos un área del conocimiento (Art. 33). ✅",
+                "📌 Funciones sustantivas: 1) Docencia innovadora, 2) Investigación de impacto, 3) Proyectos culturales trascendentes, 4) Gestión institucional destacada (Art. 33). 🌟",
+                "🚫 No, es exclusivo para universitarios (contrario al Zuno Hernández o Honoris Causa). 👥",
+                "🏆 Ejemplos: 1) Creación de programas académicos, 2) Libros/textos fundamentales, 3) Exposiciones artísticas internacionales, 4) Modelos administrativos replicados (Art. 33). ✨"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 33",
+            "topic": "Galardón Universitario"
+        },
+        {
+            "tag": "requisitos_universitario",
+            "patterns": [
+                "¿Qué requisitos exige el artículo 34?",
+                "¿Qué significa 'orgullo universitario'?",
+                "¿Cómo se mide la excelencia profesional?",
+                "¿Hay que ser académico para recibirlo?",
+                "¿Qué documentos prueban estos requisitos?"
+            ],
+            "responses": [
+                "📜 Art. 34 pide: 1) Ser miembro de la comunidad UdeG, 2) Orgullo universitario, 3) Capacidad y honorabilidad, 4) Excelencia profesional, 5) Renombre universitario. 🏅",
+                "💙 'Orgullo universitario' = Identificación con valores UdeG + representación ejemplar de la institución (Art. 34 II). 🦅",
+                "📊 Se evalúa con: 1) Premios/reconocimientos, 2) Publicaciones indexadas, 3) Impacto de proyectos liderados (Art. 34 IV). 📈",
+                "👨‍💼 No, puede ser para administrativos, técnicos o funcionarios si cumplen los requisitos (Art. 34 I). 📌",
+                "📑 Válidos: 1) CV, 2) Cartas de recomendación, 3) Productos tangibles (libros, patentes, modelos), 4) Evaluaciones institucionales (Art. 34 + Art. 7). 🔍"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 34",
+            "topic": "Requisitos Galardón Universitario"
+        },
+        {
+            "tag": "premio_universitario",
+            "patterns": [
+                "¿Qué recibe el galardonado según el artículo 35?",
+                "¿La medalla tiene diseño especial?",
+                "¿Hay ceremonia específica para este galardón?",
+                "¿Se entrega junto a otros reconocimientos?",
+                "¿Qué representa Enrique Díaz de León?"
+            ],
+            "responses": [
+                "🏅 Art. 35: El galardonado recibe 1) Reconocimiento escrito, 2) Medalla 'Universitario Distinguido, Enrique Díaz de León'. 📜",
+                "🎨 Sí, la medalla lleva el nombre del primer rector de la UdeG moderna (1925) y símbolos universitarios. 🖼️",
+                "🎉 Ceremonia solemne presidida por el Rector, independiente de otros galardones (Art. 35). 🎩",
+                "⚠️ No, suele ser evento exclusivo para destacar su naturaleza interna (Art. 33-35). 📅",
+                "📌 Díaz de León = Primer rector de la UdeG reorganizada en 1925. El galardón honra su legado en la construcción universitaria. 🏛️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 35",
+            "topic": "Premio Universitario"
+        },
+        {
+            "tag": "reconocimiento_post_mortem",
+            "patterns": [
+                "¿Qué establece el artículo 36 sobre reconocimientos post-mortem?",
+                "¿Quiénes pueden ser candidatos?",
+                "¿Cómo se entrega este reconocimiento?",
+                "¿Puede ser para no universitarios?",
+                "¿Qué diferencia hay con otros galardones?"
+            ],
+            "responses": [
+                "🕊️ Art. 36: Reconocimiento post-mortem = Homenaje a fallecidos con trayectorias destacadas en beneficio de la UdeG o sociedad, entregado a sus seres queridos. 🌹",
+                "📌 Candidatos: 1) Exuniversitarios, 2) Benefactores, 3) Personalidades con aportaciones notables (Art. 36). ✨",
+                "🤝 Se entrega a familiares o representantes legales en ceremonia simbólica (Art. 36 + 38). 🎗️",
+                "✅ Sí, si su labor impactó positivamente a la universidad o comunidad (Art. 36). 🌍",
+                "⚖️ Diferencias: 1) No requiere proceso activo del candidato, 2) Se enfoca en legado (no logros puntuales), 3) Modalidades especiales (Art. 37). 📜"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 36",
+            "topic": "Reconocimiento Post-Mortem"
+        },
+        {
+            "tag": "modalidades_post_mortem",
+            "patterns": [
+                "¿Qué modalidades incluye el artículo 37?",
+                "¿El Doctorado Honoris Causa puede ser post-mortem?",
+                "¿Qué es la develación de monumento?",
+                "¿Cómo se solicita el traslado a la Rotonda?",
+                "¿Puede una dependencia llevar el nombre del homenajeado?"
+            ],
+            "responses": [
+                "📜 Art. 37 prevé 5 modalidades: 1) Reconocimiento público, 2) Develación monumento/busto, 3) Doctor Honoris Causa, 4) Traslado a Rotonda de Jaliscienses Ilustres, 5) Denominación de dependencia. 🏛️",
+                "🎓 Sí, bajo los mismos lineamientos del Capítulo III (Art. 40), entregado a familiares. ⚰️",
+                "🗿 Es la instalación de una escultura o placa conmemorativa en espacios universitarios (Art. 39). Propuesta por dependencias/asociaciones. 🖼️",
+                "📝 1) Consejo General Universitario aprueba, 2) Se presenta al Congreso de Jalisco (cumpliendo Ley de Beneméritos, Art. 41). ⚖️",
+                "🏢 Sí, con develación de placa alusiva previa aprobación del Consejo General (Art. 42). Ej: 'Biblioteca Juan José Arreola'. 📚"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 37",
+            "topic": "Modalidades Post-Mortem"
+        },
+        {
+            "tag": "reconocimiento_publico",
+            "patterns": [
+                "¿En qué consiste el reconocimiento público según el artículo 38?",
+                "¿Quiénes pueden solicitar este homenaje?",
+                "¿Qué documentos se entregan a la familia?",
+                "¿Dónde se realiza la ceremonia?",
+                "¿Hay algún ejemplo reciente?"
+            ],
+            "responses": [
+                "🎗️ Art. 38: Reconocimiento público = Ceremonia solemne donde se entrega a familiares: 1) Pergamino, 2) Medalla alusiva, por aportaciones en ciencias/artes. 📜",
+                "🏛️ Pueden solicitarlo: 1) Dependencias UdeG, 2) Asociaciones civiles, 3) Instituciones educativas (Art. 38). ✍️",
+                "🏆 Documentos: 1) Pergamino firmado por autoridades, 2) Medalla conmemorativa (diseño único por caso, Art. 38). 🎨",
+                "📍 Usualmente en Paraninfo Enrique Díaz de León, pero puede ser en espacios vinculados al homenajeado (Art. 38). 🏛️",
+                "📌 Ejemplo 2022: Homenaje post-mortem al Dr. Raúl Padilla López (exrector), con develación de placa en CUCSH. 🌟"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 38",
+            "topic": "Reconocimiento Público"
+        },
+        {
+            "tag": "develacion_monumento",
+            "patterns": [
+                "¿Qué es la develación de monumento según el artículo 39?",
+                "¿Quién puede proponer un busto conmemorativo?",
+                "¿Dónde se instalan estos monumentos?",
+                "¿Hay algún criterio para el diseño?",
+                "¿Qué diferencia hay con la denominación de dependencia?"
+            ],
+            "responses": [
+                "🗿 Art. 39: Develación de monumento/busto = Reconocimiento físico permanente a benefactores con aportaciones excepcionales a la UdeG. 🏛️",
+                "📌 Proponen: 1) Dependencias universitarias, 2) Asociaciones de egresados, 3) Grupos académicos (Art. 39). ✍️",
+                "📍 En espacios relevantes: 1) Campus del área del homenajeado, 2) Sitios históricos UdeG, 3) Rotondas honoríficas (Art. 39). 🌳",
+                "🎨 El diseño debe: 1) Ser aprobado por el Consejo General, 2) Incluir placa explicativa, 3) Respetar estética universitaria (Art. 39). ✨",
+                "🔍 Diferencias: 1) Monumento = obra artística en espacio público, 2) Denominación = nombre en dependencia + placa (Art. 39 vs 42). ⚖️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 39",
+            "topic": "Develación de Monumento"
+        },
+        {
+            "tag": "honoris_causa_post_mortem",
+            "patterns": [
+                "¿Cómo se otorga el Doctorado Honoris Causa post-mortem según el artículo 40?",
+                "¿Quién recibe el título?",
+                "¿Los requisitos son iguales que en vida?",
+                "¿Hay ceremonia especial?",
+                "¿Ejemplos notables?"
+            ],
+            "responses": [
+                "⚰️ Art. 40: Doctorado Honoris Causa post-mortem sigue los mismos lineamientos del Capítulo III, pero se entrega a familiares/representantes. 📜",
+                "👪 Lo recibe: 1) Cónyuge/hijos, 2) Familiares directos, 3) Representantes legales designados (Art. 40). 🤝",
+                "✅ Sí, debe cumplir todos los requisitos del Art. 12 (honorabilidad, trayectoria, etc.) como si viviera. ⚖️",
+                "🎗️ Ceremonia similar a la ordinaria, pero con componente memorial (discurso sobre legado, por ejemplo). 🕯️",
+                "📌 Ejemplo: Dr. Juan José Arreola (2018), reconocido por su contribución a las letras mexicanas. ✍️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 40",
+            "topic": "Honoris Causa Post-Mortem"
+        },
+        {
+            "tag": "traslado_rotonda",
+            "patterns": [
+                "¿Qué establece el artículo 41 sobre el traslado a la Rotonda de Jaliscienses Ilustres?",
+                "¿Quién debe aprobar el traslado de restos?",
+                "¿Qué ley regula este proceso?",
+                "¿La UdeG puede decidirlo unilateralmente?",
+                "¿Qué requisitos debe cumplir el candidato?"
+            ],
+            "responses": [
+                "⚖️ Art. 41: El traslado de restos a la Rotonda requiere 1) Aprobación del Consejo General Universitario, 2) Validación por el Congreso de Jalisco bajo la Ley de Beneméritos del Estado. 🏛️",
+                "📜 Dos instancias: 1) Consejo General Universitario (propuesta inicial), 2) Congreso de Jalisco (decisión final). 👥",
+                "📌 Se rige por: 1) Ley de Beneméritos de Jalisco, 2) Reglamento de la Rotonda, 3) Art. 41 de este reglamento. ⚖️",
+                "🚫 No, es un proceso conjunto UdeG + Estado (Art. 41 párr. 2). La universidad solo puede iniciar la propuesta. ✍️",
+                "🎯 Candidatos deben: 1) Ser jaliscienses, 2) Tener servicios eminentes a la nación/estado (Art. 41 + Ley de Beneméritos). 🌟"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 41",
+            "topic": "Traslado a Rotonda"
+        },
+        {
+            "tag": "denominacion_dependencia",
+            "patterns": [
+                "¿Cómo se denomina una dependencia según el artículo 42?",
+                "¿Quiénes pueden proponer el nombre?",
+                "¿Qué incluye la ceremonia de denominación?",
+                "¿Hay algún formato para la placa alusiva?",
+                "¿Puede ser cualquier personalidad?"
+            ],
+            "responses": [
+                "🏢 Art. 42: Para nombrar una dependencia se requiere 1) Propuesta formal (como solicitud de Doctor Honoris Causa), 2) Aprobación del Consejo General, 3) Develación de placa en ceremonia solemne. 📜",
+                "📌 Proponen: 1) La dependencia interesada, 2) Consejos académicos, 3) Grupos colegiados de la UdeG (Art. 42). ✍️",
+                "🎉 Ceremonia incluye: 1) Develación de placa, 2) Discurso sobre legado del homenajeado, 3) Evento en la dependencia renombrada (Art. 42). 🏛️",
+                "🖼️ La placa debe: 1) Usar tipografía institucional, 2) Incluir fechas relevantes, 3) Ser aprobada por Protocolo de la UdeG. 🎨",
+                "✅ Sí, si cumplió: 1) Trayectoria excepcional, 2) Vinculo con la dependencia, 3) Aprobación del Consejo (Art. 42 + 45). ✨"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 42",
+            "topic": "Denominación de Dependencia"
+        },
+        {
+            "tag": "profesor_honorifico_definicion",
+            "patterns": [
+                "¿Qué es un Profesor Honorífico según el artículo 42Bis1?",
+                "¿Pueden ser personas activas en la UdeG?",
+                "¿Qué tipo de colaboración realizan?",
+                "¿Es un puesto remunerado?",
+                "¿En qué se diferencia del Maestro Emérito?"
+            ],
+            "responses": [
+                "👨‍🏫 Art. 42Bis1: Profesor Honorífico = Reconocimiento a externos o jubilados UdeG con prestigio profesional, invitados a colaborar en actividades académicas sin remuneración. 📚",
+                "🚫 No, excluye expresamente a: 1) Personal activo UdeG, 2) Quienes reciban remuneración de la universidad (Art. 42Bis2 I). ⚠️",
+                "🤝 Colaboran en: 1) Docencia (clases invitadas), 2) Investigación, 3) Difusión cultural (Art. 42Bis1 y 42Bis3). 🌟",
+                "💰 No, es ad honorem (Art. 42Bis6). Solo acceso a instalaciones y recursos para sus actividades (Art. 42Bis9). 🏛️",
+                "🔍 Diferencias: 1) Honorífico = colaboradores externos, 2) Emérito = jubilados UdeG con estímulo económico (Art. 16 vs 42Bis). ⚖️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 42Bis1",
+            "topic": "Definición Profesor Honorífico"
+        },
+        {
+            "tag": "requisitos_profesor_honorifico",
+            "patterns": [
+                "¿Qué requisitos exige el artículo 42Bis2?",
+                "¿Se puede exentar el título de posgrado?",
+                "¿Hay límite de nombramientos en otras universidades?",
+                "¿Qué significa 'aportaciones trascendentes'?",
+                "¿Cómo se prueba la disposición para colaborar?"
+            ],
+            "responses": [
+                "📜 Art. 42Bis2 requiere: 1) No tener relación laboral con UdeG, 2) Posgrado (con excepciones), 3) Prestigio profesional, 4) Experiencia en docencia/investigación, 5) Máximo 3 títulos similares en otras universidades, 6) Disposición para actividades flexibles. 🎓",
+                "✅ Sí, si la propuesta incluye justificación (ej: artista sin posgrado pero con trayectoria excepcional, Art. 42Bis2 párr. 2). ✨",
+                "🔢 Máximo 3 nombramientos vigentes en otras instituciones al momento de la solicitud (Art. 42Bis2 V). ⚠️",
+                "🌟 'Aportaciones trascendentes' = Impacto medible en su campo (ej: teoría innovadora, obra artística reconocida, solución a problemas sociales, Art. 42Bis2 III). 🌍",
+                "✍️ Con: 1) Carta de intención, 2) Plan de trabajo propuesto, 3) Aval del departamento que lo invita (Art. 42Bis2 VI). 📄"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 42Bis2",
+            "topic": "Requisitos Profesor Honorífico"
+        },
+        {
+            "tag": "actividades_profesor_honorifico",
+            "patterns": [
+                "¿Qué actividades puede realizar un Profesor Honorífico según el artículo 42Bis3?",
+                "¿Puede ser titular de asignaturas?",
+                "¿Hay límite de horas de docencia?",
+                "¿Puede dirigir tesis?",
+                "¿Qué son 'eventos universitarios' válidos?"
+            ],
+            "responses": [
+                "📚 Art. 42Bis3 permite: 1) Impartir clases como invitado, 2) Participar en investigación, 3) Diseñar proyectos culturales, 4) Dar conferencias/talleres, 5) Otras en convenio. 🎯",
+                "🚫 No, explícitamente prohibido (Art. 42Bis3 párr. 2). Solo coadyuva con académicos titulares. 👨‍🏫",
+                "⏰ No hay límite, pero deben ser actividades esporádicas (no carga académica formal, Art. 42Bis3). 📅",
+                "✅ Sí, si se establece en el convenio y tiene perfil adecuado (Art. 42Bis3 II + 42Bis7). 📜",
+                "🎤 Eventos válidos: Seminarios, coloquios, presentaciones de libros, talleres prácticos (Art. 42Bis3 IV). ✨"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 42Bis3",
+            "topic": "Actividades Profesor Honorífico"
+        },
+        {
+            "tag": "proceso_nombramiento_honorifico",
+            "patterns": [
+                "¿Quién aprueba el nombramiento según el artículo 42Bis4?",
+                "¿Quiénes pueden presentar propuestas?",
+                "¿Se requiere dictamen previo?",
+                "¿Qué comisión es responsable?",
+                "¿La Rectoría puede proponer directamente?"
+            ],
+            "responses": [
+                "⚖️ Art. 42Bis4: La Comisión Permanente de Educación del Consejo General Universitario emite el dictamen final de aprobación. ✅",
+                "📌 Proponen: 1) Comisiones de Educación de Centros/Sistemas, 2) El Rector General (Art. 42Bis4 párr. 2). ✍️",
+                "📝 Sí, debe incluir: 1) Dictamen de la dependencia proponente, 2) Opinión de Recursos Humanos y Vicerrectoría Ejecutiva (Art. 42Bis5). ⚠️",
+                "🏛️ Comisión Permanente de Educación del Consejo General (Art. 42Bis4). No confundir con comisiones locales. 🔍",
+                "👔 Sí, la Rectoría puede presentar propuestas sin intermediarios (Art. 42Bis4 párr. 2). 🎩"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 42Bis4",
+            "topic": "Proceso de Nombramiento"
+        },
+        {
+            "tag": "coordinacion_profesor_honorifico",
+            "patterns": [
+                "¿Qué papel juega la Vicerrectoría Ejecutiva según el artículo 42Bis5?",
+                "¿Por qué opina Recursos Humanos?",
+                "¿Qué dependencias coordinan el proceso?",
+                "¿Hay un formato oficial para las propuestas?",
+                "¿Qué información debe contener la opinión favorable?"
+            ],
+            "responses": [
+                "🔄 Art. 42Bis5: La Vicerrectoría Ejecutiva coordina los procesos académicos y administrativos de los Profesores Honoríficos. 📋",
+                "👥 RR.HH. verifica: 1) Que no tenga relación laboral vigente, 2) Compatibilidad con normatividad (Art. 42Bis5 I). ⚖️",
+                "🏛️ Dependencias designadas por la Vicerrectoría Ejecutiva, usualmente: 1) Dirección General de Personal, 2) Oficina de Abogacía General. 📌",
+                "📄 Sí, está disponible en la Vicerrectoría Ejecutiva (Art. 42Bis5 no lo detalla pero es práctica institucional). ✍️",
+                "✅ Debe confirmar: 1) Cumplimiento de requisitos, 2) Viabilidad presupuestal (aunque no haya salario), 3) Adecuación al plan de trabajo. 📑"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 42Bis5",
+            "topic": "Coordinación del Nombramiento"
+        },
+        {
+            "tag": "duracion_nombramiento",
+            "patterns": [
+                "¿Cuánto dura el nombramiento según el artículo 42Bis6?",
+                "¿Se puede renovar?",
+                "¿Qué se requiere para la renovación?",
+                "¿El informe de actividades es obligatorio?",
+                "¿Puede terminarse anticipadamente?"
+            ],
+            "responses": [
+                "⏳ Art. 42Bis6: Dura hasta 3 años, según lo establecido en el convenio individual. 📅",
+                "🔄 Sí, por períodos sucesivos de igual duración (Art. 42Bis6 párr. 2). ✨",
+                "📝 Requisitos: 1) Informe de actividades, 2) Carta de intención del profesor, 3) Dictamen favorable de la Comisión (Art. 42Bis6). ✅",
+                "📌 Sí, es esencial para evaluar continuidad (Art. 42Bis6 párr. 2). Debe incluir logros y participación real. 📊",
+                "⚠️ Sí, por: 1) Incumplimiento, 2) Conductas contrarias a normatividad (Art. 42Bis11). ⚖️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 42Bis6",
+            "topic": "Duración del Nombramiento"
+        },
+        {
+            "tag": "convenio_colaboracion",
+            "patterns": [
+                "¿Qué establece el artículo 42Bis7 sobre el convenio?",
+                "¿Qué debe incluir el convenio?",
+                "¿Quién firma el documento?",
+                "¿Hay cláusulas obligatorias?",
+                "¿Dónde se registra el convenio?"
+            ],
+            "responses": [
+                "📜 Art. 42Bis7: El nombramiento se formaliza mediante convenio de colaboración que especifica actividades, derechos y obligaciones. ⚖️",
+                "📌 Debe contener: 1) Actividades concretas, 2) Duración, 3) Derechos (acceso a instalaciones), 4) Obligaciones (entregar informes), 5) Causales de terminación (Art. 42Bis7). ✍️",
+                "🏛️ Firman: 1) El Rector General o su delegado, 2) El Profesor Honorífico, 3) Testigos de la UdeG (Art. 42Bis7 + 42Bis8). ✒️",
+                "✅ Sí: 1) No relación laboral, 2) Confidencialidad, 3) Entrega de productos, 4) Observancia del Código de Ética (Art. 42Bis7 + 42Bis11). ⚠️",
+                "📚 Se registra en: 1) Vicerrectoría Ejecutiva, 2) Dirección Jurídica, 3) Dependencia que lo propuso (Art. 42Bis7). 🏢"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 42Bis7",
+            "topic": "Convenio de Colaboración"
+        },
+        {
+            "tag": "otros_reconocimientos",
+            "patterns": [
+                "¿Qué otros reconocimientos permite el artículo 43?",
+                "¿Qué es una 'imposición oficial de leyenda'?",
+                "¿La denominación de dependencia es un reconocimiento?",
+                "¿Quiénes pueden recibir estos reconocimientos?",
+                "¿Ejemplos de leyendas usadas?"
+            ],
+            "responses": [
+                "🎖️ Art. 43: La UdeG puede otorgar: 1) Imposición de leyenda en documentos oficiales, 2) Denominación de dependencias con nombres de personajes ilustres. 📜",
+                "📌 Consiste en añadir una frase conmemorativa (ej: '2023: Año del Centenario de la Autonomía') bajo el lema universitario en toda documentación oficial por un año (Art. 44). ✨",
+                "🏢 Sí, es un reconocimiento permanente (Art. 43 II + 45). Ej: 'Centro Cultural Juan Rulfo'. 📚",
+                "👥 Para leyendas: hechos/eventos relevantes. Para denominaciones: personas fallecidas con trayectoria vinculada a la dependencia (Art. 44-45). 🌟",
+                "📜 Ejemplos históricos: 1) '2019: Año de la Transparencia', 2) '2020: Por una Universidad Resiliente'. 🗓️"
+            ],
+            "document": "Reglamento para Otorgar Galardones y Méritos Universitarios 2023",
+            "article": "Artículo 43",
+            "topic": "Otros Reconocimientos"
+        }
+      
+
+    ]
+}

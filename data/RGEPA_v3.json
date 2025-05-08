@@ -1,0 +1,1341 @@
+{
+    "main_topic": "Reglamento general de evaluación y promoción de alumnos",
+    "intents": [
+        {
+            "tag": "evaluacion_proceso_ensenanza_aprendizaje",
+            "patterns": [
+                "¿Cuál es el objetivo del reglamento de evaluación de la Universidad de Guadalajara?",
+                "¿Para qué sirve el Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué regula el reglamento de evaluación de alumnos?",
+                "¿Cuál es el propósito del Reglamento General de Evaluación?",
+                "¿Qué establece el reglamento sobre evaluación en la UdeG?",
+                "¿Qué aspectos del proceso educativo regula este reglamento?",
+                "¿Cómo se garantiza la evaluación del aprendizaje en la UdeG?",
+                "¿Qué relación tiene el reglamento con los planes de estudio?"
+            ],
+            "responses": [
+                "📘 *Objetivo principal*: Regular la evaluación del proceso enseñanza-aprendizaje según los planes de estudio de la UdeG 🔍",
+                "🔹 Regula cómo se evalúa el aprendizaje de los alumnos conforme a los programas de estudio 📚",
+                "🎯 Su propósito es asegurar que la evaluación sea justa, transparente y alineada con los objetivos educativos ⚖️",
+                "📑 El reglamento establece los lineamientos para evaluar el progreso de los estudiantes en su formación académica 🎓"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 1",
+            "topic": "Evaluación y enseñanza-aprendizaje"
+        },
+        {
+            "tag": "objetivo_evaluacion",
+            "patterns": [
+                "¿Cuál es el objetivo de la evaluación según el reglamento de la UdeG?",
+                "¿Para qué sirve la evaluación en la Universidad de Guadalajara?",
+                "¿Qué busca la evaluación en el proceso enseñanza-aprendizaje?",
+                "¿Qué finalidad tiene la evaluación en la UdeG?",
+                "¿Por qué se realiza la evaluación según el reglamento de evaluación de alumnos?",
+                "¿Qué beneficios tiene la evaluación para los estudiantes?",
+                "¿Cómo contribuye la evaluación al proceso educativo?",
+                "¿Qué impacto tiene la evaluación en la calidad académica?"
+            ],
+            "responses": [
+                "🎯 *Objetivo clave*: Proporcionar elementos para conocer la eficiencia y eficacia del proceso de enseñanza-aprendizaje 📊",
+                "🔹 Busca que los alumnos conozcan su grado de aprovechamiento y obtengan la promoción correspondiente 📚✅",
+                "🚀 Contribuye a elevar la calidad del aprendizaje y aumentar el rendimiento de los alumnos 💪",
+                "🏛️ Permite a la Universidad dar testimonio de la preparación académica de sus estudiantes 🎓✨"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 2",
+            "topic": "Objetivos de la evaluación"
+        },
+        {
+            "tag": "avance_escolar_evaluaciones",
+            "patterns": [
+                "¿Cómo se realiza el avance escolar del alumno según el Artículo 3 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué establece el Artículo 3 del Reglamento General de Evaluación sobre el avance escolar?",
+                "¿Cómo se asegura el avance escolar de los alumnos en la UdeG?",
+                "¿Qué regula el reglamento sobre el avance escolar en los planes de estudio?",
+                "¿De qué forma se evalúa el avance escolar en la Universidad de Guadalajara?",
+                "¿Qué mecanismos se usan para medir el avance escolar?",
+                "¿Cómo se garantiza que el avance escolar sea justo y transparente?",
+                "¿Qué papel juegan las evaluaciones en el avance escolar?"
+            ],
+            "responses": [
+                "📘 *Avance escolar*: Se realiza a través de evaluaciones continuas e integrales, según el plan de estudios del alumno 🔄",
+                "🔹 El Artículo 3 establece que el avance escolar se basa en evaluaciones que miden el progreso académico 📊",
+                "🎯 Las evaluaciones aseguran que el avance escolar sea justo, transparente y alineado con los objetivos educativos ⚖️",
+                "📑 El reglamento regula cómo se evalúa el avance escolar para garantizar la calidad del proceso educativo 🎓"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 3",
+            "topic": "Avance escolar y evaluaciones"
+        },
+        {
+            "tag": "definicion_evaluacion",
+            "patterns": [
+                "¿Qué se entiende por evaluación según el Artículo 4 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Cuál es la definición de evaluación en el reglamento de la UdeG?",
+                "¿Qué significa evaluación en el contexto del proceso enseñanza-aprendizaje?",
+                "¿Cómo se define la evaluación según el Reglamento General de Evaluación?",
+                "¿Qué establece el Artículo 4 del reglamento sobre la evaluación?",
+                "¿Qué actividades incluye la evaluación según el reglamento?",
+                "¿Cómo se analiza la información en el proceso de evaluación?",
+                "¿Qué finalidad tiene la evaluación en el proceso educativo?"
+            ],
+            "responses": [
+                "📘 *Definición de evaluación*: Es un conjunto de actividades para obtener y analizar información de manera continua y sistemática sobre el proceso enseñanza-aprendizaje 🔍",
+                "🔹 La evaluación permite verificar los logros obtenidos y asignarles un valor específico, según el Artículo 4 📊",
+                "🎯 Su finalidad es asegurar que el aprendizaje sea medido de manera objetiva y transparente ⚖️",
+                "📑 El reglamento establece que la evaluación es un proceso continuo que analiza el progreso académico de los estudiantes 🎓"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 4",
+            "topic": "Definición de evaluación"
+        },
+        {
+            "tag": "escala_calificaciones",
+            "patterns": [
+                "¿Cómo se expresa el resultado final de las evaluaciones según el Artículo 5 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué escala de calificaciones se utiliza en el reglamento de la UdeG?",
+                "¿Cuál es la calificación mínima aprobatoria según el reglamento?",
+                "¿Cómo se califican las materias que no son sujetas a medición cuantitativa?",
+                "¿Qué establece el Artículo 5 sobre las calificaciones en la UdeG?",
+                "¿Qué significa una calificación de 60 en la escala de la UdeG?",
+                "¿Cómo se manejan las calificaciones no numéricas?",
+                "¿Qué pasa si obtengo menos de 60 en una evaluación?"
+            ],
+            "responses": [
+                "📘 *Escala de calificaciones*: Se expresa en una escala centesimal de 0 a 100, siendo 60 la mínima aprobatoria ✅",
+                "🔹 Las materias no cuantitativas se califican como A (acreditada) o NA (no acreditada), según el Artículo 5 📋",
+                "🚨 ¡Atención! Una calificación menor a 60 se considera no aprobatoria y requiere reevaluación o recursamiento ⚠️",
+                "📑 El reglamento establece que las calificaciones deben ser claras, justas y basadas en criterios objetivos ⚖️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 5",
+            "topic": "Escala de calificaciones"
+        },
+        {
+            "tag": "promedio_calificaciones",
+            "patterns": [
+                "¿Cómo se calcula el promedio de calificaciones según el Artículo 6 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué materias se consideran para el promedio de calificaciones en la UdeG?",
+                "¿El reglamento incluye las materias no aprobadas en el promedio?",
+                "¿Qué establece el Artículo 6 sobre el cálculo del promedio de calificaciones?",
+                "¿Se toman en cuenta las materias acreditadas para calcular el promedio en la UdeG?",
+                "¿Cómo afecta una materia no aprobada al promedio?",
+                "¿Qué pasa si tengo materias con calificación NA?",
+                "¿Cómo se reflejan las materias acreditadas en el promedio?"
+            ],
+            "responses": [
+                "📘 *Cálculo del promedio*: Solo se consideran las materias aprobadas con calificación numérica, según el Artículo 6 📊",
+                "🔹 Las materias acreditadas (A) o no acreditadas (NA) no se incluyen en el cálculo del promedio 📋",
+                "🚨 ¡Importante! Las materias no aprobadas no afectan el promedio, pero deben ser cursadas nuevamente ⚠️",
+                "📑 El reglamento garantiza que el promedio refleje únicamente el desempeño en materias aprobadas con calificación numérica 🎓"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 6",
+            "topic": "Cálculo del promedio"
+        },
+        {
+            "tag": "criterios_evaluacion_programas",
+            "patterns": [
+                "¿Qué deben contener los programas de las unidades de aprendizaje según el Artículo 7 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué establece el Artículo 7 sobre los criterios de evaluación en las unidades de aprendizaje?",
+                "¿Los programas de aprendizaje deben incluir criterios de evaluación?",
+                "¿Qué relación tiene el Artículo 7 con el Reglamento General de Planes de Estudio?",
+                "¿Qué menciona el reglamento sobre los criterios para la evaluación en los programas de aprendizaje?",
+                "¿Qué elementos deben incluir los programas de aprendizaje según el reglamento?",
+                "¿Cómo se vinculan los criterios de evaluación con los planes de estudio?",
+                "¿Qué normativa respalda los criterios de evaluación en los programas?"
+            ],
+            "responses": [
+                "📘 *Contenido de los programas*: Según el Artículo 7, los programas de las unidades de aprendizaje deben incluir:\n\n🔹 **Criterios de evaluación**\n🔹 **Objetivos de aprendizaje**\n🔹 **Metodologías de enseñanza**\n\nTodo esto debe estar alineado con el Artículo 21 del Reglamento General de Planes de Estudio 📑✨",
+                "🎯 *Relación con planes de estudio*: Los criterios de evaluación deben ser coherentes con los objetivos y metodologías definidos en los planes de estudio de la UdeG 🎓",
+                "🚨 ¡Importante! Los programas de aprendizaje que no incluyan criterios de evaluación no cumplen con el reglamento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 7",
+            "topic": "Criterios de evaluación en programas"
+        },
+        {
+            "tag": "criterios_evaluacion_aprobacion",
+            "patterns": [
+                "¿Qué deben hacer las academias con los criterios de evaluación según el Artículo 8 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Quién aprueba los criterios de evaluación en la UdeG según el Artículo 8?",
+                "¿Cuándo se deben presentar los criterios de evaluación al Colegio Departamental?",
+                "¿Qué establece el Artículo 8 sobre la variabilidad en los esquemas de evaluación?",
+                "¿Cuál es el proceso para aprobar los criterios de evaluación en la Universidad de Guadalajara?",
+                "¿Qué pasa si los criterios de evaluación no son aprobados a tiempo?",
+                "¿Cómo se garantiza la flexibilidad en los esquemas de evaluación?",
+                "¿Qué rol juegan las academias en la definición de criterios de evaluación?"
+            ],
+            "responses": [
+                "📘 *Proceso de aprobación*: Según el Artículo 8, las academias deben:\n\n1. **Presentar** los criterios de evaluación al Colegio Departamental.\n2. **Asegurar** que sean aprobados antes del inicio del ciclo escolar.\n3. **Permitir** variabilidad en los esquemas de evaluación por materia 📋✅",
+                "🎯 *Flexibilidad*: El reglamento permite que cada materia tenga esquemas de evaluación adaptados a sus necesidades, siempre que sean aprobados por el Colegio Departamental 🔄",
+                "🚨 ¡Atención! Los criterios no aprobados a tiempo pueden retrasar el inicio de las actividades académicas ⏳⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 8",
+            "topic": "Aprobación de criterios de evaluación"
+        },
+        {
+            "tag": "conocimiento_criterios_evaluacion",
+            "patterns": [
+                "¿Qué debe saber el alumno al inicio del curso según el Artículo 9 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué establece el Artículo 9 sobre los criterios de evaluación para los alumnos?",
+                "¿Cuándo debe conocer el alumno los criterios de evaluación de sus materias?",
+                "¿Qué dice el reglamento sobre el momento en que se informan los criterios de evaluación?",
+                "¿Qué pasa si no me informan los criterios de evaluación al inicio del curso?",
+                "¿Cómo puedo solicitar los criterios de evaluación si no los conozco?",
+                "¿Qué responsabilidad tienen los profesores en informar los criterios de evaluación?",
+                "¿Qué derechos tengo como alumno respecto a los criterios de evaluación?"
+            ],
+            "responses": [
+                "📘 *Derecho del alumno*: Según el Artículo 9, los estudiantes deben conocer:\n\n🔹 **Criterios de evaluación** de cada materia.\n🔹 **Fechas clave** para evaluaciones parciales y finales.\n🔹 **Métodos de calificación** y ponderaciones.\n\nTodo esto debe ser comunicado al inicio del curso 📅✨",
+                "🎯 *Responsabilidad del profesor*: Es obligación del docente informar los criterios de evaluación desde el primer día de clases 🎓",
+                "🚨 ¡Importante! Si no recibes esta información, puedes solicitarla formalmente a tu profesor o al departamento académico ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 9",
+            "topic": "Conocimiento de criterios de evaluación"
+        },
+        {
+            "tag": "definicion_criterios_evaluacion",
+            "patterns": [
+                "¿Qué deben definir los criterios de evaluación según el Artículo 10 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué aspectos deben incluir los criterios de evaluación según el reglamento?",
+                "¿Qué establece el Artículo 10 sobre los porcentajes y aspectos a evaluar?",
+                "¿Cómo se definen los momentos y medios de evaluación de las materias?",
+                "¿Qué dice el Artículo 10 sobre los criterios de evaluación en las materias?"
+            ],
+            "responses": [
+                "📘 *Definición de criterios*: Según el Artículo 10, los criterios de evaluación deben incluir:\n\n🔹 **Aspectos a evaluar** (conocimientos, habilidades, etc.).\n🔹 **Porcentajes** asignados a cada aspecto.\n🔹 **Medios y momentos** de evaluación durante el curso 📊",
+                "🎯 *Flexibilidad en la evaluación*: Los criterios deben adaptarse a la naturaleza y objetivos de cada materia, asegurando una evaluación justa y transparente ⚖️",
+                "🚨 ¡Atención! Los criterios mal definidos pueden afectar la validez de las evaluaciones. Asegúrate de que estén claros desde el inicio ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 10",
+            "topic": "Definición de criterios de evaluación"
+        },
+        {
+            "tag": "aspectos_evaluacion",
+            "patterns": [
+                "¿Qué aspectos se toman en cuenta en la evaluación según el Artículo 11 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué establece el Artículo 11 sobre los elementos que se consideran en la evaluación?",
+                "¿Qué factores son evaluados de manera continua en las materias según el reglamento?",
+                "¿Cuáles son los aspectos que se evalúan durante el desarrollo de una materia?",
+                "¿Qué menciona el Artículo 11 sobre la evaluación continua?"
+            ],
+            "responses": [
+                "📘 *Aspectos evaluados*: Según el Artículo 11, la evaluación considera:\n\n🔹 **Conocimientos** adquiridos.\n🔹 **Habilidades y destrezas** desarrolladas.\n🔹 **Aptitudes y actitudes** demostradas durante el curso 🎯",
+                "🎯 *Evaluación continua*: La evaluación no se limita a exámenes, sino que incluye el progreso del alumno a lo largo de toda la materia 🔄",
+                "🚨 ¡Importante! La evaluación integral asegura que se valoren tanto los resultados como el proceso de aprendizaje ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 11",
+            "topic": "Aspectos considerados en la evaluación"
+        },
+        {
+            "tag": "medios_evaluacion",
+            "patterns": [
+                "¿Cuáles son los medios de evaluación según el Artículo 12 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué establece el Artículo 12 sobre los tipos de medios de evaluación?",
+                "¿Qué medios se utilizan para valorar los conocimientos adquiridos en una materia?",
+                "¿Qué dice el reglamento sobre los instrumentos para evaluar destrezas y habilidades?",
+                "¿Qué medios de evaluación se consideran para identificar aptitudes y actitudes según el reglamento?"
+            ],
+            "responses": [
+                "📘 *Medios de evaluación*: Según el Artículo 12, los medios pueden incluir:\n\n🔹 **Exámenes escritos u orales** para conocimientos.\n🔹 **Trabajos prácticos** para habilidades y destrezas.\n🔹 **Proyectos y participaciones** para evaluar aptitudes y actitudes 📝",
+                "🎯 *Adaptabilidad*: Los medios de evaluación deben ser adecuados a la naturaleza de la materia y a los objetivos de aprendizaje 🎓",
+                "🚨 ¡Atención! Los profesores deben garantizar que los medios de evaluación sean claros y aplicados de manera justa ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 12",
+            "topic": "Medios de evaluación"
+        },
+        {
+            "tag": "modalidades_evaluacion",
+            "patterns": [
+                "¿Cuáles son las modalidades de evaluación según el Artículo 13 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué establece el Artículo 13 sobre la evaluación particular de los alumnos?",
+                "¿Qué tipos de evaluación se realizan en el proceso educativo en general?",
+                "¿Qué incluye la evaluación inicial, de proceso y final según el reglamento?",
+                "¿Qué menciona el reglamento sobre la evaluación diagnóstica y de control?"
+            ],
+            "responses": [
+                "📘 *Modalidades de evaluación*: Según el Artículo 13, se dividen en dos categorías principales:\n\n🔹 **Evaluación particular de los alumnos**:\n   - Inicial: Identifica intereses y nivel de conocimiento.\n   - De proceso: Detecta dificultades y ajusta estrategias.\n   - Final: Comprueba logros alcanzados.\n\n🔹 **Evaluación en el proceso educativo**:\n   - Diagnóstica: Observa cumplimiento de objetivos.\n   - De orientación/reorientación: Ajusta estrategias.\n   - Predictiva: Identifica potencialidades.\n   - De control: Evalúa rendimiento y eficiencia 🎯",
+                "🎯 *Propósito*: Cada modalidad tiene un objetivo específico para mejorar el proceso educativo y apoyar el desarrollo del alumno y del sistema 🚀",
+                "🚨 ¡Importante! Estas modalidades aseguran una evaluación integral y adaptada a las necesidades del proceso enseñanza-aprendizaje ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 13",
+            "topic": "Modalidades de evaluación"
+        },
+        {
+            "tag": "evaluacion_examenes",
+            "patterns": [
+                "¿Qué son los exámenes según el Artículo 14 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué establece el Artículo 14 sobre los exámenes como medio de evaluación?",
+                "¿Cómo se utiliza el examen como medio de evaluación según el reglamento?",
+                "¿Qué propósito tienen los exámenes en la evaluación de los alumnos?",
+                "¿Qué dice el reglamento sobre el grado de dominio evaluado mediante exámenes?"
+            ],
+            "responses": [
+                "📘 *Exámenes como medio de evaluación*: Según el Artículo 14, los exámenes permiten conocer el grado de dominio que el alumno ha obtenido sobre la materia 📝",
+                "🎯 *Propósito*: Los exámenes evalúan el nivel de conocimiento alcanzado por el alumno en relación con los objetivos del curso 🎓",
+                "🚨 ¡Atención! Los exámenes son una herramienta clave, pero no la única, para medir el aprendizaje. Se complementan con otras formas de evaluación ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 14",
+            "topic": "Evaluación mediante exámenes"
+        },
+        {
+            "tag": "tipos_examenes",
+            "patterns": [
+                "¿Qué tipos de exámenes se aplican según el Artículo 15 del Reglamento General de Evaluación y Promoción de Alumnos?",
+                "¿Qué establece el Artículo 15 sobre los exámenes parciales y globales?",
+                "¿Qué tipos de exámenes se pueden aplicar durante y al término de la materia?",
+                "¿Cuál es el propósito de los exámenes parciales según el reglamento?",
+                "¿Qué dice el reglamento sobre el examen global y su contenido?",
+                "¿Se puede considerar un examen como el 100% de la calificación final según el reglamento?"
+            ],
+            "responses": [
+                "📘 *Tipos de exámenes*: Según el Artículo 15, se aplican:\n\n🔹 **Exámenes parciales**:\n   - Se realizan durante el curso.\n   - Verifican el avance de los aprendizajes.\n\n🔹 **Examen global**:\n   - Abarca todo el contenido de la materia.\n   - Comprueba el aprendizaje logrado durante el curso 📚",
+                "🎯 *Propósito*: Los exámenes parciales miden el progreso, mientras que el examen global evalúa el dominio total de la materia 🎓",
+                "🚨 ¡Importante! El resultado de un examen no puede ser el 100% de la calificación final, salvo en casos excepcionales regulados por el reglamento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 15",
+            "topic": "Tipos de exámenes"
+        },
+        {
+            "tag": "diseño_examenes",
+            "patterns": [
+                "¿Quién diseña, aplica y califica los exámenes parciales y globales según el Artículo 16?",
+                "¿Qué establece el Artículo 16 sobre la supervisión de los exámenes por parte de la Academia?",
+                "¿Quién se encarga de los exámenes departamentales según el reglamento?",
+                "¿Qué dice el reglamento sobre el papel del profesor y la Academia en los exámenes?",
+                "¿Cómo se regulan los exámenes parciales y globales según el Artículo 16?",
+                "Oye, ¿quién se encarga de hacer los exámenes en la UdeG? 😅",
+                "¿Puede un profesor diseñar un examen sin supervisión? 🤔",
+                "¿Qué pasa si un examen no cumple con los estándares de la Academia? ⚠️",
+                "¿Los exámenes departamentales los hace el profesor o la Academia? 🎓"
+            ],
+            "responses": [
+                "📘 *Diseño de exámenes*: Según el Artículo 16:\n\n🔹 **Exámenes parciales y globales**: Diseñados, aplicados y calificados por el profesor, bajo supervisión de la Academia.\n🔹 **Exámenes departamentales**: Diseñados, aplicados y calificados directamente por la Academia 📝",
+                "🎯 *Supervisión*: La Academia garantiza que los exámenes cumplan con los estándares de calidad y uniformidad en la evaluación 🎓",
+                "🚨 ¡Atención! Si un examen no cumple con los requisitos, la Academia puede intervenir para corregir el proceso ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 16",
+            "topic": "Diseño de exámenes"
+        },
+        {
+            "tag": "objetivos_examenes_departamentales",
+            "patterns": [
+                "¿Cuáles son los objetivos de los exámenes departamentales según el Artículo 17?",
+                "¿Para qué sirven los exámenes departamentales en el reglamento?",
+                "¿Qué finalidad tienen los exámenes departamentales según el Artículo 17?",
+                "¿Qué busca evaluar un examen departamental en la UdeG?",
+                "¿Qué dice el Artículo 17 sobre los objetivos de los exámenes departamentales?",
+                "¿Por qué son importantes los exámenes departamentales? 🤔",
+                "Oye, ¿qué miden exactamente los exámenes departamentales? 📚",
+                "¿Los exámenes departamentales son iguales para todos los grupos? 🎯",
+                "¿Qué pasa si no apruebo un examen departamental? 😱"
+            ],
+            "responses": [
+                "📘 *Objetivos de los exámenes departamentales*: Según el Artículo 17:\n\n🔹 **Dominio de la materia**: Evalúan el conocimiento adquirido por los alumnos.\n🔹 **Avance del programa**: Verifican el cumplimiento de los objetivos del curso.\n🔹 **Homogeneidad**: Aseguran que todos los alumnos, independientemente del profesor, alcancen los mismos aprendizajes 🎓",
+                "🎯 *Importancia*: Estos exámenes garantizan que la evaluación sea justa y consistente en todos los grupos de la misma materia ⚖️",
+                "🚨 ¡Atención! Si no apruebas un examen departamental, puede afectar tu calificación final. Consulta con tu profesor para opciones de reevaluación ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 17",
+            "topic": "Objetivos de exámenes departamentales"
+        },
+        {
+            "tag": "aplicacion_examenes_departamentales",
+            "patterns": [
+                "¿Cómo se aplican los exámenes departamentales según el Artículo 18?",
+                "¿Qué establece el reglamento sobre la aplicación simultánea de los exámenes departamentales?",
+                "¿Cuántos exámenes departamentales debe haber por asignatura en un ciclo escolar?",
+                "¿Quién califica los exámenes departamentales según el reglamento?",
+                "¿Qué dice el Artículo 18 sobre la notificación de resultados de los exámenes departamentales?",
+                "Oye, ¿todos hacen el examen departamental el mismo día? 📅",
+                "¿Quién califica los exámenes departamentales? 🖋️",
+                "¿Cuántos exámenes departamentales hay en un semestre? 📊",
+                "¿Qué pasa si no me avisan de los resultados del examen departamental? ⚠️"
+            ],
+            "responses": [
+                "📘 *Aplicación de exámenes departamentales*: Según el Artículo 18:\n\n🔹 **Aplicación simultánea**: Todos los alumnos de la misma materia hacen el examen al mismo tiempo.\n🔹 **Calificación**: Realizada por académicos designados por el Jefe de Departamento.\n🔹 **Frecuencia**: Al menos un examen departamental por asignatura en cada ciclo escolar 📝",
+                "🎯 *Proceso centralizado*: Los resultados son concentrados por el Presidente de la Academia y notificados al profesor y al Jefe de Departamento 🎓",
+                "🚨 ¡Importante! Si no recibes tus resultados, contacta al departamento académico para seguimiento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 18",
+            "topic": "Aplicación de exámenes departamentales"
+        },
+        {
+            "tag": "valoracion_resultado_final",
+            "patterns": [
+                "¿Qué debe hacer el profesor al concluir el curso según el Artículo 19?",
+                "¿Cómo se determina el resultado final en las actas de evaluación?",
+                "¿Qué establece el Artículo 19 sobre la valoración de los medios de evaluación?",
+                "¿Quién asienta el resultado final en las actas de evaluación?",
+                "¿Qué papel tiene la Academia en los porcentajes de evaluación según el Artículo 19?",
+                "Oye, ¿cómo se calcula la calificación final de una materia? 🤔",
+                "¿El profesor decide solo la calificación final o hay reglas? 📝",
+                "¿Qué pasa si no estoy de acuerdo con mi calificación final? ⚠️",
+                "¿Los porcentajes de evaluación los decide el profesor o la Academia? 🎓"
+            ],
+            "responses": [
+                "📘 *Valoración del resultado final*: Según el Artículo 19:\n\n🔹 El profesor debe valorar todos los medios de evaluación aplicados.\n🔹 El resultado final se determina con base en los porcentajes aprobados por la Academia.\n🔹 El profesor asienta el resultado en las actas correspondientes 📋",
+                "🎯 *Rol de la Academia*: Define los porcentajes de evaluación para garantizar que el resultado final refleje el desempeño integral del alumno 🎓",
+                "🚨 ¡Atención! Si no estás de acuerdo con tu calificación, puedes solicitar una revisión siguiendo el procedimiento establecido en el reglamento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 19",
+            "topic": "Valoración del resultado final"
+        },
+        {
+            "tag": "requisitos_registro_resultado_final",
+            "patterns": [
+                "¿Cuáles son los requisitos para el registro del resultado final de evaluación según el Artículo 20?",
+                "¿Qué establece el Artículo 20 sobre el derecho al registro del resultado final?",
+                "¿Cuánta asistencia se necesita para tener derecho al resultado final en el periodo ordinario?",
+                "¿Qué excepciones existen en la fracción II del Artículo 20?",
+                "¿Qué dice el reglamento sobre los estudios de posgrado y modalidades no convencionales en relación al registro del resultado final?",
+                "Oye, ¿qué pasa si falto mucho a clases? 😅",
+                "¿Necesito el 80% de asistencia para que me pongan calificación? 📅",
+                "¿Los de posgrado también necesitan el 80% de asistencia? 🎓",
+                "¿Qué hago si no cumplo con los requisitos para el registro de mi calificación? ⚠️"
+            ],
+            "responses": [
+                "📘 *Requisitos para el registro*: Según el Artículo 20:\n\n🔹 Estar inscrito en el plan de estudios y curso correspondiente.\n🔹 Tener al menos el 80% de asistencia a clases y actividades registradas.\n\n🚨 *Excepciones*: No aplica para posgrados ni modalidades no convencionales (abierto, a distancia, semiescolarizado) 📋",
+                "🎯 *Modalidades no convencionales*: Los requisitos de asistencia pueden variar según el dictamen específico de cada programa 🎓",
+                "🚨 ¡Atención! Si no cumples con el 80% de asistencia, no tendrás derecho al registro de tu calificación en el periodo ordinario. Consulta con tu departamento académico para opciones ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 20",
+            "topic": "Requisitos para el registro del resultado final"
+        },
+        {
+            "tag": "registro_evaluacion_continua",
+            "patterns": [
+                "¿Qué establece el Artículo 21 sobre los registros de evaluación continua?",
+                "¿A quién se deben remitir los registros de evaluación continua según el Artículo 21?",
+                "¿Cuál es el plazo para remitir los registros de evaluación continua al finalizar el curso?",
+                "¿Qué dice el reglamento sobre la entrega de los resultados de evaluación continua?",
+                "Según el Artículo 21, ¿quién recibe los registros de evaluación en los Centros Universitarios y Escuelas del Sistema de Educación Media Superior?",
+                "Oye, ¿cuándo deben entregarse las calificaciones finales? 📅",
+                "¿A quién le entrega el profesor las calificaciones? 🖋️",
+                "¿Qué pasa si el profesor no entrega las calificaciones a tiempo? ⚠️",
+                "¿Los registros de evaluación continua son obligatorios? 📝"
+            ],
+            "responses": [
+                "📘 *Registro de evaluación continua*: Según el Artículo 21:\n\n🔹 El profesor debe remitir los registros al Jefe del Departamento (Centros Universitarios) o al Coordinador Académico (Escuelas de Educación Media Superior).\n🔹 El plazo máximo es de **3 días hábiles** después del término del periodo de clases 📋",
+                "🎯 *Responsabilidad del profesor*: Garantizar que los registros se entreguen a tiempo y de manera correcta 🎓",
+                "🚨 ¡Atención! Si el profesor no entrega las calificaciones en el plazo establecido, puede haber sanciones administrativas ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 21",
+            "topic": "Registro de evaluación continua"
+        },
+        {
+            "tag": "concentracion_actas_calificacion_final",
+            "patterns": [
+                "¿Qué establece el Artículo 22 sobre las actas de calificación final en los Centros Universitarios?",
+                "¿A dónde se concentran las actas de calificación final en las Escuelas del Sistema de Educación Media Superior?",
+                "¿Cuál es el plazo para remitir las actas de calificación final según el Artículo 22?",
+                "¿Qué se hace con las actas de calificación final en los Centros Universitarios y en el Sistema de Educación Media Superior?",
+                "Según el Artículo 22, ¿quién gestiona las actas de calificación final en las Escuelas del Sistema de Educación Media Superior?",
+                "Oye, ¿dónde puedo ver mis calificaciones finales? 🖥️",
+                "¿Cuánto tiempo tardan en publicar las calificaciones después de que termina el curso? 📅",
+                "¿Qué pasa si no publican mis calificaciones en el plazo establecido? ⚠️",
+                "¿Quién es el responsable de publicar las calificaciones en mi escuela? 🎓"
+            ],
+            "responses": [
+                "📘 *Concentración de actas*: Según el Artículo 22:\n\n🔹 **Centros Universitarios**: Las actas se concentran en la Coordinación de Control Escolar.\n🔹 **Escuelas de Educación Media Superior**: Las actas las gestiona el Secretario de la Escuela.\n\nEl plazo máximo es de **3 días hábiles** después del término del periodo de clases 📋",
+                "🎯 *Publicación inmediata*: Las calificaciones deben publicarse de manera oportuna para que los alumnos puedan consultarlas 🎓",
+                "🚨 ¡Atención! Si no se publican tus calificaciones en el plazo establecido, contacta a Control Escolar para seguimiento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 22",
+            "topic": "Concentración de actas de calificación final"
+        },
+        {
+            "tag": "evaluacion_periodo_extraordinario",
+            "patterns": [
+                "¿Qué establece el Artículo 23 sobre la evaluación en periodo extraordinario?",
+                "¿Cuál es el objetivo de la evaluación en periodo extraordinario según el reglamento?",
+                "¿En qué casos no aplica la evaluación en periodo extraordinario?",
+                "¿Qué dice el reglamento sobre las materias prácticas y la evaluación extraordinaria?",
+                "¿Cómo se maneja la evaluación extraordinaria en las modalidades no convencionales?",
+                "Oye, ¿puedo presentar examen extraordinario si reprobé una materia? 😅",
+                "¿Qué materias no tienen examen extraordinario? 🤔",
+                "¿Los de posgrado también pueden presentar exámenes extraordinarios? 🎓",
+                "¿Qué hago si no puedo presentar el examen extraordinario? ⚠️"
+            ],
+            "responses": [
+                "📘 *Evaluación extraordinaria*: Según el Artículo 23:\n\n🔹 Permite acreditar una materia no aprobada durante el curso.\n🔹 **No aplica** para materias prácticas que requieren repetir el curso ni para estudios de posgrado.\n🔹 En modalidades no convencionales, se rige por el dictamen correspondiente 📝",
+                "🎯 *Objetivo*: Ofrecer una oportunidad adicional para aprobar materias, excepto en casos específicos 🎓",
+                "🚨 ¡Atención! Si no puedes presentar el examen extraordinario, consulta con tu departamento académico para opciones alternativas ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 23",
+            "topic": "Evaluación en periodo extraordinario"
+        },
+        {
+            "tag": "evaluacion_contenido_global",
+            "patterns": [
+                "¿Qué establece el Artículo 24 sobre la evaluación en periodo extraordinario?",
+                "¿Cómo se lleva a cabo la evaluación en periodo extraordinario según el reglamento?",
+                "¿Quién diseña y califica los medios para la evaluación en periodo extraordinario?",
+                "¿Qué supervisión tiene la evaluación extraordinaria según el reglamento?",
+                "¿La evaluación en periodo extraordinario se basa en el contenido global de la materia?",
+                "Oye, ¿el examen extraordinario cubre todo el contenido de la materia? 📚",
+                "¿Quién califica los exámenes extraordinarios? 🖋️",
+                "¿Qué pasa si no estoy de acuerdo con la calificación del examen extraordinario? ⚠️",
+                "¿La Academia supervisa los exámenes extraordinarios? 🎓"
+            ],
+            "responses": [
+                "📘 *Evaluación extraordinaria*: Según el Artículo 24:\n\n🔹 Debe abarcar el **contenido global** de la materia.\n🔹 Diseñada, aplicada y calificada por el profesor de la materia.\n🔹 Supervisada por la Academia correspondiente 📝",
+                "🎯 *Integralidad*: La evaluación garantiza que se considere todo el contenido de la materia para asegurar una evaluación justa y completa 🎓",
+                "🚨 ¡Atención! Si no estás de acuerdo con la calificación, puedes solicitar una revisión siguiendo el procedimiento establecido en el reglamento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 24",
+            "topic": "Evaluación en periodo extraordinario"
+        },
+        {
+            "tag": "calificacion_evaluacion_extraordinaria",
+            "patterns": [
+                "¿Cómo se califica la evaluación en periodo extraordinario según el reglamento?",
+                "¿Qué criterios se usan para determinar la calificación final en una evaluación extraordinaria?",
+                "¿Qué porcentaje tiene la calificación del periodo extraordinario para la nota final?",
+                "¿Cómo se pondera la calificación obtenida en el periodo ordinario para el periodo extraordinario?",
+                "¿Qué establece el Artículo 25 sobre el cálculo de la calificación final en periodo extraordinario?",
+                "Oye, ¿cómo se calcula la calificación del examen extraordinario? 🤔",
+                "¿Qué tanto cuenta el examen extraordinario para la calificación final? 📊",
+                "¿La calificación del ordinario también cuenta para el extraordinario? 🎓",
+                "¿Qué pasa si saco 100 en el extraordinario pero reprobé el ordinario? ⚠️"
+            ],
+            "responses": [
+                "📘 *Cálculo de calificación extraordinaria*: Según el Artículo 25:\n\n🔹 **80%** de la calificación obtenida en el periodo extraordinario.\n🔹 **40%** de la calificación obtenida en el periodo ordinario.\n\nLa calificación final es la suma de ambos porcentajes 📝",
+                "🎯 *Ejemplo*: Si sacas 80 en el extraordinario y 60 en el ordinario, tu calificación final sería:\n\n(80% de 80) + (40% de 60) = 64 + 24 = **88** 🎓",
+                "🚨 ¡Atención! Aunque saques 100 en el extraordinario, la calificación del ordinario también influye en el resultado final ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 25",
+            "topic": "Calificación en periodo extraordinario"
+        },
+        {
+            "tag": "proceso_calificacion_extraordinario",
+            "patterns": [
+                "¿Qué debe hacer el profesor después de la evaluación en periodo extraordinario?",
+                "¿Cómo se registra la calificación final tras una evaluación en periodo extraordinario?",
+                "¿Qué establece el Artículo 26 sobre el proceso de calificación en periodo extraordinario?",
+                "¿Quién es responsable de calificar la evaluación en periodo extraordinario?",
+                "¿Qué se debe hacer con las actas tras una evaluación en periodo extraordinario?",
+                "Oye, ¿quién califica el examen extraordinario? 🖋️",
+                "¿El profesor tiene que registrar la calificación en las actas? 📝",
+                "¿Qué pasa si el profesor no registra mi calificación a tiempo? ⚠️",
+                "¿Cómo sé si mi calificación extraordinaria ya está registrada? 🎓"
+            ],
+            "responses": [
+                "📘 *Proceso de calificación*: Según el Artículo 26:\n\n🔹 El profesor califica el examen extraordinario.\n🔹 Registra la calificación final en las actas correspondientes.\n🔹 Asegura que el resultado se asiente correctamente 📋",
+                "🎯 *Responsabilidad del profesor*: Debe seguir los criterios del Artículo 25 y garantizar que la calificación se registre de manera oportuna 🎓",
+                "🚨 ¡Atención! Si no registran tu calificación, contacta al departamento académico para seguimiento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 26",
+            "topic": "Proceso de calificación en periodo extraordinario"
+        },
+        {
+            "tag": "requisitos_evaluacion_extraordinario",
+            "patterns": [
+                "¿Cuáles son los requisitos para que el alumno registre su calificación en periodo extraordinario?",
+                "¿Qué condiciones debe cumplir un alumno para obtener el registro de calificación extraordinaria?",
+                "¿Qué establece el Artículo 27 sobre los derechos al registro de calificación en periodo extraordinario?",
+                "¿Qué se necesita para el registro de calificaciones en evaluaciones extraordinarias?",
+                "¿Cuáles son las exigencias para registrar calificaciones en periodo extraordinario según el reglamento?",
+                "Oye, ¿qué necesito para presentar examen extraordinario? 🤔",
+                "¿Tengo que pagar algo para el examen extraordinario? 💰",
+                "¿Qué pasa si no tengo el 65% de asistencia? ⚠️",
+                "¿Necesito comprobante de pago para el extraordinario? 🎓"
+            ],
+            "responses": [
+                "📘 *Requisitos para el registro*: Según el Artículo 27:\n\n🔹 Estar inscrito en el plan de estudios y curso correspondiente.\n🔹 Haber pagado el arancel y presentar el comprobante.\n🔹 Tener al menos el **65% de asistencia** a clases y actividades 📋",
+                "🎯 *Importante*: Sin el comprobante de pago o con menos del 65% de asistencia, no tendrás derecho al registro de tu calificación extraordinaria 🎓",
+                "🚨 ¡Atención! Si no cumples con los requisitos, no podrás presentar el examen extraordinario. Consulta con tu departamento académico para opciones ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 27",
+            "topic": "Requisitos para registro de calificación en periodo extraordinario"
+        },
+        {
+            "tag": "entrega_publicacion_calificaciones_extraordinario",
+            "patterns": [
+                "¿Cómo se regula la entrega y publicación de calificaciones en periodo extraordinario?",
+                "¿Qué establece el Artículo 28 sobre la entrega de calificaciones extraordinarias?",
+                "¿Cuál es el plazo para la publicación de calificaciones de evaluación extraordinaria?",
+                "¿Qué indica el reglamento sobre la entrega de calificaciones en el periodo extraordinario?",
+                "¿Cómo se manejan las calificaciones de periodo extraordinario según el Artículo 28 del reglamento?",
+                "Oye, ¿cuándo publican las calificaciones del extraordinario? 📅",
+                "¿Dónde puedo ver mi calificación del examen extraordinario? 🖥️",
+                "¿Qué pasa si no publican mi calificación en el plazo establecido? ⚠️",
+                "¿Quién es responsable de publicar las calificaciones extraordinarias? 🎓"
+            ],
+            "responses": [
+                "📘 *Entrega y publicación de calificaciones*: Según el Artículo 28:\n\n🔹 Las calificaciones deben publicarse a más tardar **3 días hábiles** después del término del periodo extraordinario.\n🔹 Las calificaciones deben remitirse a la Coordinación General de Control Escolar en un máximo de **6 días hábiles** 📋",
+                "🎯 *Responsabilidad*: Los Centros Universitarios y el Sistema de Educación Media Superior deben asegurar que las calificaciones se publiquen y entreguen dentro de los plazos establecidos 🎓",
+                "🚨 ¡Atención! Si no publican tu calificación en el plazo establecido, contacta a Control Escolar para seguimiento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 28",
+            "topic": "Entrega y publicación de calificaciones extraordinarias"
+        },
+        {
+            "tag": "fechas_evaluaciones_extraordinarias",
+            "patterns": [
+                "¿Cuándo son los exámenes extraordinarios?",
+                "Necesito saber fechas de evaluaciones de recuperación",
+                "¿Hay más de un periodo extraordinario en el año académico?",
+                "¿Cómo consultar el calendario de exámenes de segunda oportunidad?",
+                "Si repruebo en ordinario, ¿cuándo puedo presentar extraordinario?",
+                "¿Cuántas convocatorias extraordinarias hay por ciclo?",
+                "¿Dónde ver fechas exactas para evaluaciones extraordinarias?",
+                "Oye, ¿cuándo es el próximo extraordinario? 📅",
+                "¿Puedo presentar extraordinario si falto al ordinario? 🤔",
+                "¿Dónde encuentro el calendario de exámenes extraordinarios? 🖥️"
+            ],
+            "responses": [
+                "📘 *Fechas de evaluaciones extraordinarias*: Según el Artículo 29:\n\n🔹 **1er periodo**: Mitad del ciclo escolar (solo para materias de 3 meses).\n🔹 **2do periodo**: Final del ciclo escolar (para todas las materias).\n\nConsulta el calendario oficial en el portal de la UdeG 📅",
+                "🎯 *Convocatorias*: Hay dos oportunidades extraordinarias por ciclo, excepto para posgrados y modalidades no convencionales 🎓",
+                "🚨 ¡Atención! Si faltaste al ordinario, consulta con tu departamento académico para ver si puedes presentar extraordinario ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 29",
+            "topic": "Fechas de evaluaciones extraordinarias"
+        },
+        {
+            "tag": "examen_recuperacion_posgrado",
+            "patterns": [
+                "¿Qué opciones tengo si repruebo en posgrado?",
+                "¿Puedo repetir un examen de posgrado?",
+                "Procedimiento para recuperar materia en maestría",
+                "¿Cómo solicitar segunda oportunidad en posgrado?",
+                "¿Existe examen remedial para posgrados?",
+                "Oye, ¿qué hago si repruebo en posgrado? 😅",
+                "¿Puedo presentar examen extraordinario en maestría? 🤔",
+                "¿Qué requisitos necesito para recuperar una materia en posgrado? 📋",
+                "¿Dónde solicito el examen de recuperación en posgrado? 🎓"
+            ],
+            "responses": [
+                "📘 *Recuperación en posgrado*: Según el Artículo 30:\n\n🔹 Debes presentar una solicitud escrita al Coordinador de Posgrado.\n🔹 Se evaluará tu historial académico y se designará un comité para el examen.\n🔹 El plazo máximo para solicitar es de **15 días** después de conocer los resultados 📝",
+                "🎯 *Requisitos clave*:\n\n🔹 Estar inscrito formalmente.\n🔹 Tener un promedio mínimo de 7.0.\n🔹 Justificar el motivo de la reprobación.\n\n💡 *Consejo*: Agenda una cita con tu tutor académico para orientación 🎓",
+                "🚨 ¡Atención! Los exámenes de recuperación en posgrado no son automáticos. Debes seguir el proceso establecido en el reglamento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 30",
+            "topic": "Examen de recuperación para posgrado"
+        },
+        {
+            "tag": "requisitos_examen_recuperacion",
+            "patterns": [
+                "¿Qué documentos necesito para extraordinario?",
+                "Requisitos para solicitar evaluación especial",
+                "¿Necesito carta de profesor para recuperación?",
+                "Pasos para registrar examen de segunda oportunidad",
+                "¿Cuánto cuesta un examen de recuperación?",
+                "Oye, ¿qué papeles necesito para el extraordinario? 📋",
+                "¿Tengo que pagar algo para presentar el examen de recuperación? 💰",
+                "¿Qué pasa si no tengo el 80% de asistencia? ⚠️",
+                "¿Dónde entrego los documentos para el extraordinario? 🏫"
+            ],
+            "responses": [
+                "📘 *Documentación requerida*: Según el Artículo 31:\n\n🔹 Formato de solicitud oficial.\n🔹 Comprobante de pago ($350 MXN).\n🔹 Kardex actualizado.\n🔹 Justificación médica (si aplica).\n\nEntrega en la Ventanilla Única de Control Escolar 📋",
+                "🎯 *Requisitos administrativos*:\n\n🔹 80% de asistencia comprobada.\n🔹 Sin adeudos en biblioteca.\n🔹 Certificado de conducta.\n🔹 Aval del tutor académico.\n\n⚠️ *Plazo límite*: 5 días hábiles después de los resultados ordinarios 🎓",
+                "🚨 ¡Atención! Si no cumples con los requisitos, no podrás presentar el examen de recuperación. Consulta con tu departamento académico para opciones ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 31",
+            "topic": "Requisitos para examen de recuperación"
+        },
+        {
+            "tag": "procedimiento_examen_recuperacion",
+            "patterns": [
+                "¿Quién diseña los exámenes de recuperación?",
+                "¿Puedo elegir fecha de mi examen remedial?",
+                "¿Cómo se califica un examen extraordinario?",
+                "¿Qué pasa si no asisto al examen programado?",
+                "¿Quiénes integran el comité evaluador?",
+                "Oye, ¿quién hace el examen de recuperación? 🤔",
+                "¿Puedo cambiar la fecha de mi examen extraordinario? 📅",
+                "¿Qué pasa si no voy al examen de recuperación? ⚠️",
+                "¿Quién califica el examen de recuperación? 🖋️"
+            ],
+            "responses": [
+                "📘 *Proceso de diseño de examen*: Según el Artículo 32:\n\n🔹 Un comité de 3 profesores especialistas diseña el examen.\n🔹 Basado en el programa oficial de la materia.\n🔹 Incluye teoría y práctica.\n🔹 Debe contener una rúbrica de evaluación 📝",
+                "🎯 *Composición del jurado*:\n\n🔹 Profesor titular.\n🔹 Académico externo.\n🔹 Representante departamental.\n\n📝 *Características del examen*:\n\n🔹 Duración: 2 a 3 horas.\n🔹 Modalidad: Mixta (teórico-práctica).\n🔹 Puntaje mínimo: 7.0/10 🎓",
+                "🚨 ¡Atención! Si no asistes al examen programado, perderás la oportunidad de presentarlo. Consulta con tu departamento académico para opciones ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 32",
+            "topic": "Procedimiento para examen de recuperación"
+        },
+        {
+            "tag": "repeticion_materia_baja",
+            "patterns": [
+                "¿Cuántas veces puedo repetir una materia?",
+                "¿Qué pasa si repruebo dos veces?",
+                "Consecuencias de no pasar materia en extraordinario",
+                "¿Me pueden expulsar por mal rendimiento?",
+                "Proceso de baja académica",
+                "Oye, ¿y si repruebo tres veces la misma materia? 😱",
+                "¿Cuántos extraordinarios tengo derecho antes de que me den de baja?",
+                "¿Qué hago si voy a reprobar por tercera vez? 🆘",
+                "¿Hay alguna forma de evitar la baja automática?",
+                "¿Cuántas materias puedo reprobar antes de problemas graves?",
+                "¿La baja académica es definitiva desde el primer caso?",
+                "¿Pueden darme de baja por promedio bajo?",
+                "¿Qué pasa si repruebo pero tengo buenas calificaciones en otras materias?",
+                "¿Hay excepciones por problemas de salud? 🏥",
+                "¿Cómo sé si estoy en riesgo de baja académica?",
+                "¿Me avisan antes de darme de baja o es automático?",
+                "¿Puedo apelar una decisión de baja por reprobación?",
+                "¿Que pasa si repruebo una materia?"
+            ],
+            "responses": [
+                "🚨 *Protocolo de repetición* (Art. 33):\n\n🔹 **Primera reprobación**: Debes presentar ordinario + extraordinario\n🔹 **Segunda oportunidad**: Obligatorio repetir la materia\n🔹 **Tercer intento**: Baja automática del programa\n\n💡 Recomendación: Solicita asesoría académica preventiva desde el primer reprobado",
+                "📉 *Escenarios de baja académica*:\n\n🔸 3 materias reprobadas simultáneamente\n🔸 Reprobación consecutiva en misma materia\n🔸 Promedio general menor a 6.0 por dos ciclos\n\n🆘 Opciones: Programa de nivelación académica con seguimiento tutorial",
+                "⚠️ *Advertencia importante*: La baja por rendimiento te impide:\n\n• Inscribirte en el mismo programa\n• Acceder a becas\n• Participar en movilidad estudiantil\n\n📅 Tienes 15 días hábiles para apelar después de la notificación"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 33",
+            "topic": "Repetición de materias y baja académica"
+        },
+        {
+            "tag": "solicitud_reincorporacion_baja",
+            "patterns": [
+                "¿Cómo apelo una decisión de baja?",
+                "Proceso para regresar después de ser dado de baja",
+                "¿Puedo reingresar si mejoró mi situación académica?",
+                "Requisitos para solicitar reincorporación",
+                "¿Qué debo hacer para regresar después de una baja?",
+                "Oye, ¿puedo volver si me echaron pero ahora estudio mejor? 📚",
+                "¿Qué necesito para que me den otra oportunidad?",
+                "¿Cuánto tiempo debo esperar para solicitar reingreso?",
+                "¿Sirve de algo una carta de recomendación de profesores?",
+                "¿Hay que pagar multa por reincorporación? 💰",
+                "¿Qué pruebas debo presentar para demostrar mi mejora?",
+                "¿Pueden negarme la reincorporación definitivamente?",
+                "¿Cómo preparo un plan de estudios personalizado?",
+                "¿Qué pasa si repruebo otra vez después de reincorporarme?"
+            ],
+            "responses": [
+                "📮 *Proceso de apelación* (Art. 34):\n\n1️⃣ Solicitud escrita con motivos fundamentados\n2️⃣ Evidencias de mejora académica (cursos, diplomas)\n3️⃣ Entrevista con comité de reingreso\n4️⃣ Presentación de plan de estudios personalizado\n5️⃣ Pago de derechos administrativos ($1,200 MXN)\n\n⏳ Tiempo de respuesta: 20 días hábiles",
+                "📝 *Documentación esencial*:\n\n• Carta compromiso notariada\n• Certificado médico oficial (si aplica)\n• Historial académico actualizado\n• Aval de tutor designado por la universidad\n• Resultados de curso propedéutico obligatorio\n\n💼 Requisito clave: Mantener promedio mínimo de 7.5 durante el primer año de reingreso"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 34",
+            "topic": "Solicitud de reincorporación tras baja académica"
+        },
+        {
+            "tag": "baja_sin_reingreso",
+            "patterns": [
+                "¿Puedo cambiar de carrera después de baja?",
+                "Consecuencias de baja definitiva",
+                "¿Afecta la baja en mi récord académico?",
+                "¿Puedo estudiar otra cosa si me dieron de baja?",
+                "Restricciones tras baja académica",
+                "¿Me aparece la baja en el historial para otras universidades?",
+                "¿Puedo validar materias en otra institución? 🎓",
+                "¿Cómo afecta la baja a mis opciones de posgrado?",
+                "¿Hay forma de borrar la baja de mi kárdex?",
+                "¿Puedo ingresar a otra facultad de la misma universidad?",
+                "¿Qué opciones tengo si me dieron baja definitiva?",
+                "¿Sirve de algo un recurso legal contra la baja? ⚖️",
+                "¿Puedo estudiar en el extranjero con una baja académica? 🌍",
+                "¿Cómo explico la baja en mi currículum? 💼"
+            ],
+            "responses": [
+                "🔒 *Restricciones por baja definitiva* (Art. 35):\n\n• Prohibición de reingreso a la misma carrera\n• Bloqueo en sistema de inscripciones por 5 años\n• Reporte a la DGIRE (Dirección General de Incorporación y Revalidación de Estudios)\n\n💡 Alternativas: Programas de educación continua o certificaciones parciales",
+                "📌 *Impacto en tu historial*:\n\n🔹 Marca permanente en kárdex\n🔹 Limitación para becas y apoyos educativos\n🔹 Inelegibilidad para intercambios académicos\n🔹 Dificultad para revalidación en otras instituciones\n\n🔄 Opción viable: Validación de estudios en instituciones privadas mediante examen CENEVAL"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 35",
+            "topic": "Implicaciones de una baja definitiva"
+        },
+        {
+            "tag": "materia_desaparece",
+            "patterns": [
+                "¿Qué pasa si una materia desaparece por cambio de plan de estudios?",
+                "¿Qué ocurre si no apruebo una materia que ya no está en el nuevo plan de estudios?",
+                "¿Cómo se maneja una materia eliminada del plan de estudios?",
+                "¿Puedo cursar una materia que fue eliminada del programa?",
+                "¿Qué hace la universidad cuando desaparece una materia de un plan de estudios?",
+                "Oye, ¿qué hago si la materia que debo ya no existe? 😱",
+                "¿Puedo seguir cursando una materia que ya no está en el plan? 🤔",
+                "¿Qué pasa si no alcancé a aprobar una materia que eliminaron? ⚠️",
+                "¿La universidad me ayuda si mi materia desapareció? 🎓"
+            ],
+            "responses": [
+                "📘 *Materias eliminadas*: Según el Artículo 36:\n\n🔹 Si una materia desaparece por cambio de plan y no la aprobaste, el Director de la División o Escuela puede solicitar que se imparta por única ocasión.\n🔹 Esto se gestiona con la Rectoría del Centro o la Dirección General del Sistema de Educación Media Superior 📝",
+                "🎯 *Proceso*: La universidad autoriza que la materia se imparta una última vez para los alumnos que aún la adeudan, asegurando que no afecte su progreso académico 🎓",
+                "🚨 ¡Atención! Si estás en esta situación, contacta a tu coordinador académico para iniciar el proceso de solicitud ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 36",
+            "topic": "Manejo de materias eliminadas del plan de estudios"
+        },
+        {
+            "tag": "acreditacion_competencias",
+            "patterns": [
+                "¿Qué son los exámenes de acreditación de competencias?",
+                "¿Cómo funcionan los exámenes de acreditación por experiencia laboral?",
+                "¿Puedo acreditar una materia por mi experiencia previa?",
+                "¿Qué requisitos hay para un examen de acreditación de conocimientos?",
+                "¿Se puede acreditar una materia sin cursarla?",
+                "Oye, ¿puedo saltarme una materia si ya sé del tema? 🤔",
+                "¿Cómo acredito una materia con mi experiencia laboral? 💼",
+                "¿Qué materias puedo acreditar por competencias? 📚",
+                "¿Es difícil pasar un examen de acreditación de competencias? ⚠️"
+            ],
+            "responses": [
+                "📘 *Acreditación de competencias*: Según el Artículo 37:\n\n🔹 Son exámenes que te permiten acreditar una materia si demuestras que ya tienes los conocimientos necesarios.\n🔹 Puedes basarte en experiencia laboral o estudios previos 📝",
+                "🎯 *Beneficios*: Ahorras tiempo y recursos al no tener que cursar una materia que ya dominas 🎓",
+                "🚨 ¡Atención! No todas las materias son elegibles para acreditación. Consulta con tu departamento académico para verificar ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 37",
+            "topic": "Exámenes de acreditación de competencias"
+        },
+        {
+            "tag": "requisitos_acreditacion_competencias",
+            "patterns": [
+                "¿Cuáles son los requisitos para presentar un examen de acreditación de competencias?",
+                "¿Qué necesito para hacer un examen de acreditación de competencias?",
+                "¿Puedo solicitar un examen de acreditación? ¿Qué requisitos hay?",
+                "¿Qué debo hacer para acreditar una materia por competencias?",
+                "Requisitos para exámenes de acreditación de conocimientos",
+                "Oye, ¿qué papeles necesito para acreditar una materia? 📋",
+                "¿Tengo que pagar algo para el examen de acreditación? 💰",
+                "¿Qué pasa si no cumplo con los requisitos para acreditar? ⚠️",
+                "¿Dónde entrego la solicitud para acreditar una materia? 🏫"
+            ],
+            "responses": [
+                "📘 *Requisitos para acreditación*: Según el Artículo 38:\n\n🔹 Estar inscrito en el plan de estudios correspondiente.\n🔹 Realizar la solicitud en los plazos establecidos.\n🔹 Pagar el arancel correspondiente.\n🔹 Cumplir con los criterios adicionales del Consejo Universitario 📋",
+                "🎯 *Proceso*: Debes presentar tu solicitud en Control Escolar y asegurarte de cumplir con todos los requisitos antes de la fecha límite 🎓",
+                "🚨 ¡Atención! Si no cumples con los requisitos, no podrás presentar el examen de acreditación. Consulta con tu departamento académico para opciones ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 38",
+            "topic": "Requisitos para exámenes de acreditación de competencias"
+        },
+        {
+            "tag": "criterios_examen_acreditacion",
+            "patterns": [
+                "¿Quién determina los criterios para los exámenes de acreditación de competencias?",
+                "¿Cómo se definen los criterios para un examen de acreditación?",
+                "¿Quiénes aplican los exámenes de acreditación de competencias?",
+                "¿Qué papel tiene el Colegio Departamental en los exámenes de acreditación?",
+                "¿Quién asigna a los sinodales para un examen de acreditación?",
+                "¿Qué contenido cubren los exámenes de acreditación de competencias?",
+                "¿Quién proporciona el contenido del programa para un examen de acreditación?",
+                "Oye, ¿quién decide cómo será el examen de acreditación? 🤔",
+                "¿Puedo saber qué temas vendrán en el examen de acreditación? 📚",
+                "¿Quiénes son los sinodales y qué hacen? 🎓",
+                "¿Qué pasa si no estoy de acuerdo con los criterios del examen? ⚠️"
+            ],
+            "responses": [
+                "📘 *Criterios del examen*: Según el Artículo 39:\n\n🔹 El Colegio Departamental define los criterios basados en la propuesta de la Academia.\n🔹 Designa a tres sinodales responsables de aplicar el examen.\n🔹 El Jefe de Departamento proporciona el contenido del programa al alumno 📝",
+                "🎯 *Contenido del examen*: Cubre el programa completo de la materia. Asegúrate de estudiarlo a fondo 🎓",
+                "🚨 ¡Atención! Si tienes dudas sobre los criterios, contacta al Jefe de Departamento antes del examen ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 39",
+            "topic": "Criterios, contenido y designación de sinodales para exámenes de acreditación de competencias"
+        },
+        {
+            "tag": "resultado_examen_acreditacion",
+            "patterns": [
+                "¿Qué deben hacer los sinodales después de un examen de acreditación?",
+                "¿Cómo se registra el resultado de un examen de acreditación de competencias?",
+                "¿Qué información incluye el acta del examen de acreditación?",
+                "¿Dónde se registra la calificación obtenida en un examen de acreditación?",
+                "¿Qué papel tienen los sinodales en el registro de resultados?",
+                "Oye, ¿cómo sé si aprobé el examen de acreditación? 🤔",
+                "¿Qué pasa si no estoy de acuerdo con mi calificación? ⚠️",
+                "¿Dónde puedo ver el resultado del examen de acreditación? 🖥️",
+                "¿Quién me notifica si aprobé o no? 📝"
+            ],
+            "responses": [
+                "📘 *Registro de resultados*: Según el Artículo 40:\n\n🔹 Los sinodales levantan un acta con la calificación y créditos obtenidos.\n🔹 Esta información se registra en tu historia académica.\n🔹 El resultado se notifica oficialmente a través de Control Escolar 📋",
+                "🎯 *Proceso de registro*: Los sinodales son responsables de asegurar que tu calificación y créditos se registren correctamente 🎓",
+                "🚨 ¡Atención! Si no estás de acuerdo con tu calificación, puedes solicitar una revisión siguiendo el procedimiento establecido en el reglamento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 40",
+            "topic": "Registro del resultado de exámenes de acreditación de competencias"
+        },
+        {
+            "tag": "examen_acreditacion_unica_vez",
+            "patterns": [
+                "¿Cuántas veces se puede presentar el examen de acreditación de competencias por materia?",
+                "¿Puedo presentar el examen de acreditación de una materia más de una vez?",
+                "¿Cuándo se realiza el examen de acreditación de competencias?",
+                "¿Es necesario inscribirse en la materia antes del examen de acreditación?",
+                "¿Qué limitaciones tiene el examen de acreditación de competencias?",
+                "Oye, ¿solo tengo una oportunidad para acreditar una materia? 😱",
+                "¿Qué pasa si repruebo el examen de acreditación? ⚠️",
+                "¿Puedo presentar el examen de acreditación después de inscribirme en la materia? 📅",
+                "¿Hay alguna excepción para presentar el examen de acreditación más de una vez? 🤔"
+            ],
+            "responses": [
+                "📘 *Restricciones del examen*: Según el Artículo 41:\n\n🔹 Solo puedes presentar el examen de acreditación **una vez** por materia.\n🔹 Debe realizarse **antes** de inscribirte en la materia.\n🔹 No hay segundas oportunidades si repruebas 📝",
+                "🎯 *Momento del examen*: Asegúrate de estar bien preparado, ya que solo tienes una oportunidad para acreditar la materia 🎓",
+                "🚨 ¡Atención! Si repruebas el examen de acreditación, deberás cursar la materia de manera regular ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 41",
+            "topic": "Restricciones y momento del examen de acreditación de competencias"
+        },
+        {
+            "tag": "examen_no_aprobado_inscripcion_regular",
+            "patterns": [
+                "¿Qué sucede si no apruebo el examen de acreditación de competencias?",
+                "¿Qué pasa si no me presento al examen de acreditación?",
+                "¿Es obligatorio inscribirse en el curso si no se aprueba el examen de acreditación?",
+                "¿Qué debo hacer si no obtengo una calificación aprobatoria en el examen de acreditación?",
+                "¿Qué ocurre si no me presento al examen de acreditación de competencias?",
+                "Oye, ¿qué pasa si repruebo el examen de acreditación? 😱",
+                "¿Tengo que cursar la materia si no paso el examen de acreditación? 📚",
+                "¿Qué hago si no me presento al examen de acreditación? ⚠️",
+                "¿Puedo volver a intentar el examen de acreditación si repruebo? 🤔"
+            ],
+            "responses": [
+                "📘 *Consecuencias de no aprobar*: Según el Artículo 42:\n\n🔹 Si no apruebas o no te presentas al examen de acreditación, **deberás inscribirte en el curso regular** de la materia.\n🔹 No hay segundas oportunidades para el examen de acreditación 📝",
+                "🎯 *Obligación de inscripción*: Deberás cursar la materia de manera regular si no cumples con los requisitos del examen de acreditación 🎓",
+                "🚨 ¡Atención! Asegúrate de estar bien preparado, ya que solo tienes una oportunidad para acreditar la materia ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 42",
+            "topic": "Inscripción obligatoria tras no aprobar examen de acreditación"
+        },
+        {
+            "tag": "examen_acreditacion_no_sustituye_otros",
+            "patterns": [
+                "¿Puede el examen de acreditación de competencias sustituir los exámenes ordinarios?",
+                "¿El examen de acreditación reemplaza al examen extraordinario?",
+                "¿Puedo usar el examen de acreditación para evitar los exámenes ordinarios y extraordinarios?",
+                "¿El examen de acreditación de competencias puede sustituir los exámenes tradicionales?",
+                "¿Es posible que el examen de acreditación reemplace las evaluaciones ordinarias o extraordinarias?",
+                "Oye, ¿puedo saltarme los exámenes ordinarios con el de acreditación? 🤔",
+                "¿El examen de acreditación cuenta como extraordinario? 📚",
+                "¿Qué pasa si intento usar el examen de acreditación para no presentar el ordinario? ⚠️",
+                "¿El examen de acreditación me exime de los exámenes normales? 🎓"
+            ],
+            "responses": [
+                "📘 *Restricciones del examen de acreditación*: Según el Artículo 43:\n\n🔹 **No puede sustituir** los exámenes ordinarios ni extraordinarios.\n🔹 Está diseñado solo para acreditar materias sin cursarlas, no para reemplazar evaluaciones regulares 📝",
+                "🎯 *Propósito del examen*: Es una opción para quienes ya dominan la materia, no un atajo para evitar exámenes regulares 🎓",
+                "🚨 ¡Atención! Usar el examen de acreditación para evitar exámenes ordinarios o extraordinarios está prohibido y puede tener consecuencias académicas ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 43",
+            "topic": "Restricción del examen de acreditación frente a otros exámenes"
+        },
+        {
+            "tag": "fechas_examen_acreditacion",
+            "patterns": [
+                "¿Cuándo se presentan los exámenes de acreditación de competencias?",
+                "¿Qué fechas se establecen para los exámenes de acreditación?",
+                "¿Cuándo se realizan los exámenes de acreditación según el reglamento?",
+                "¿Quién establece las fechas de los exámenes de acreditación de competencias?",
+                "¿Cómo se programan los exámenes de acreditación de competencias?",
+                "Oye, ¿cuándo es el examen de acreditación? 📅",
+                "¿Puedo elegir la fecha de mi examen de acreditación? 🤔",
+                "¿Dónde puedo ver las fechas de los exámenes de acreditación? 🖥️",
+                "¿Qué pasa si no me presento en la fecha programada? ⚠️"
+            ],
+            "responses": [
+                "📘 *Fechas de exámenes de acreditación*: Según el Artículo 44:\n\n🔹 Las fechas son establecidas por el Colegio Departamental.\n🔹 Se programan dentro del periodo señalado en el calendario escolar.\n🔹 Debes estar atento a las convocatorias oficiales 📅",
+                "🎯 *Proceso de programación*: El Colegio Departamental define las fechas y las comunica a través de los canales oficiales de la universidad 🎓",
+                "🚨 ¡Atención! Si no te presentas en la fecha programada, perderás tu única oportunidad para acreditar la materia ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 44",
+            "topic": "Programación de fechas para exámenes de acreditación"
+        },
+        {
+            "tag": "criterios_evaluacion_previo_curso",
+            "patterns": [
+                "¿Quién informa a los profesores sobre los criterios de evaluación?",
+                "¿Cuándo se notifican los criterios de evaluación a los profesores?",
+                "¿Quién comunica los criterios de evaluación antes del curso?",
+                "¿Cómo se enteran los profesores de los criterios de evaluación?",
+                "¿Qué función tiene el Presidente de Academia respecto a los criterios de evaluación?",
+                "Oye, ¿quién le dice a los profesores cómo evaluar? 🤔",
+                "¿Cuándo se enteran los profesores de los criterios de evaluación? 📅",
+                "¿Qué pasa si el Presidente de Academia no informa los criterios a tiempo? ⚠️",
+                "¿Los profesores pueden cambiar los criterios de evaluación? 🎓"
+            ],
+            "responses": [
+                "📘 *Comunicación de criterios a profesores*: Según el Artículo 45:\n\n🔹 El **Presidente de Academia** informa a los profesores sobre los criterios de evaluación.\n🔹 Esto se hace **previo al inicio del curso**.\n🔹 Los criterios son aprobados por el Colegio Departamental 📝",
+                "🎯 *Responsabilidad del Presidente de Academia*: Asegurar que todos los profesores conozcan los criterios de evaluación antes de comenzar el curso 🎓",
+                "🚨 ¡Atención! Si los profesores no reciben los criterios a tiempo, deben solicitarlos al Presidente de Academia para evitar problemas en la evaluación ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 45",
+            "topic": "Comunicación de criterios de evaluación a profesores"
+        },
+        {
+            "tag": "criterios_evaluacion_inicio_curso",
+            "patterns": [
+                "¿Quién informa a los alumnos sobre los criterios de evaluación?",
+                "¿Cuándo se comunican los criterios de evaluación a los alumnos?",
+                "¿Qué debe hacer el profesor al inicio del curso respecto a la evaluación?",
+                "¿Cómo se enteran los alumnos de los criterios de evaluación?",
+                "¿Qué papel tiene el profesor al inicio del curso sobre los criterios de evaluación?",
+                "Oye, ¿cuándo nos dicen cómo nos van a evaluar? 🤔",
+                "¿Qué pasa si el profesor no nos informa los criterios de evaluación? ⚠️",
+                "¿Puedo pedir los criterios de evaluación si el profesor no los da? 📝",
+                "¿Los criterios de evaluación son los mismos para todos los grupos? 🎓"
+            ],
+            "responses": [
+                "📘 *Comunicación de criterios a alumnos*: Según el Artículo 46:\n\n🔹 El **profesor** debe informar los criterios de evaluación **al inicio del curso**.\n🔹 Los alumnos tienen derecho a conocer cómo serán evaluados desde el primer día 📝",
+                "🎯 *Derecho del alumno*: Conocer los criterios de evaluación es fundamental para planificar tu estudio y cumplir con los objetivos del curso 🎓",
+                "🚨 ¡Atención! Si el profesor no te informa los criterios, solicítalos formalmente o contacta al Presidente de Academia ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 46",
+            "topic": "Comunicación de criterios de evaluación a alumnos"
+        },
+        {
+            "tag": "cumplimiento_programa_materia",
+            "patterns": [
+                "¿Qué debe hacer el profesor respecto al programa de la materia?",
+                "¿Cuáles son las obligaciones del profesor con el programa de la materia?",
+                "¿El profesor tiene que seguir el programa de la materia?",
+                "¿Debe el profesor respetar los plazos del programa de la materia?",
+                "¿Qué establece el reglamento sobre el programa de la materia?",
+                "Oye, ¿el profesor tiene que seguir el programa al pie de la letra? 🤔",
+                "¿Qué pasa si el profesor no cubre todo el programa? ⚠️",
+                "¿Puedo reclamar si el profesor no sigue el programa? 📝",
+                "¿El programa de la materia es obligatorio para todos los grupos? 🎓"
+            ],
+            "responses": [
+                "📘 *Cumplimiento del programa*: Según el Artículo 47:\n\n🔹 El profesor debe desarrollar el programa de la materia **dentro de los plazos** establecidos en el calendario oficial.\n🔹 Es obligatorio cubrir todos los temas y actividades programadas 📝",
+                "🎯 *Responsabilidad del profesor*: Asegurar que el programa se cumpla en tiempo y forma, garantizando que los alumnos reciban la formación completa 🎓",
+                "🚨 ¡Atención! Si el profesor no cubre el programa, los alumnos pueden reportarlo al Presidente de Academia o al Jefe de Departamento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 47",
+            "topic": "Cumplimiento del programa de la materia"
+        },
+        {
+            "tag": "recuperacion_contenido_programa",
+            "patterns": [
+                "¿Qué sucede si no se cubre el 80% del programa de una materia?",
+                "¿Cómo se recuperan los contenidos no cubiertos de una materia?",
+                "¿Qué establece el reglamento si no se cumple con el programa de la materia?",
+                "¿Quién decide cómo recuperar los contenidos del programa?",
+                "¿Qué pasa con la evaluación si no se cubre el programa mínimo?",
+                "Oye, ¿qué pasa si el profesor no termina el programa? 😱",
+                "¿Quién se encarga de recuperar los temas que no se vieron? 🤔",
+                "¿Qué hago si no se cubrió el 80% del programa? ⚠️",
+                "¿Puedo reclamar si el profesor no cumplió con el programa? 📝"
+            ],
+            "responses": [
+                "📘 *Recuperación de contenidos*: Según el Artículo 48:\n\n🔹 Si no se cubre el **80% del programa**, el Jefe de Departamento y los profesores deben coordinar cómo recuperar los contenidos faltantes.\n🔹 Se fijará una fecha para la evaluación dentro del periodo ordinario 📝",
+                "🎯 *Responsabilidad del Jefe de Departamento*: Asegurar que los contenidos se recuperen y que los alumnos sean evaluados de manera justa 🎓",
+                "🚨 ¡Atención! Si no se cubre el programa mínimo, los alumnos pueden solicitar la intervención del Jefe de Departamento para garantizar su derecho a una evaluación completa ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 48",
+            "topic": "Recuperación de contenidos del programa y evaluación"
+        },
+        {
+            "tag": "revision_evaluacion_examen",
+            "patterns": [
+                "¿Cómo puedo solicitar la revisión de un examen?",
+                "¿Qué hago si considero que hay un error en mi calificación?",
+                "¿A quién debo dirigirme para solicitar una revisión de evaluación?",
+                "¿Cuál es el procedimiento para pedir revisión de un examen o evaluación?",
+                "¿Cuánto tiempo tengo para pedir la revisión de una calificación?",
+                "Oye, ¿qué hago si creo que mi calificación está mal? 🤔",
+                "¿A quién le pido que revisen mi examen? 🖋️",
+                "¿Qué pasa si no estoy de acuerdo con mi calificación? ⚠️",
+                "¿Cuántos días tengo para reclamar una calificación? 📅"
+            ],
+            "responses": [
+                "📘 *Solicitud de revisión*: Según el Artículo 49:\n\n🔹 Debes presentar una solicitud **por escrito y justificada** al Jefe de Departamento o Director de Escuela.\n🔹 Tienes **3 días hábiles** desde la publicación de los resultados para hacerlo 📝",
+                "🎯 *Derecho del alumno*: Puedes solicitar una revisión si consideras que hubo un error en tu calificación. Asegúrate de fundamentar bien tu solicitud 🎓",
+                "🚨 ¡Atención! Si no presentas tu solicitud en el plazo establecido, perderás la oportunidad de revisar tu calificación ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 49",
+            "topic": "Revisión de evaluación o examen"
+        },
+        {
+            "tag": "revision_evaluacion_procedimiento",
+            "patterns": [
+                "¿Qué pasa después de que solicito la revisión de una evaluación?",
+                "¿Cómo se realiza la revisión de una evaluación o examen?",
+                "¿Qué debe hacer el Jefe de Departamento al recibir mi solicitud de revisión?",
+                "¿Cuánto tiempo tiene el profesor para enviar los criterios de calificación?",
+                "¿Qué criterios se toman en cuenta en la revisión de una calificación?",
+                "Oye, ¿qué sigue después de pedir la revisión? 🤔",
+                "¿Quién revisa mi examen cuando solicito una revisión? 🖋️",
+                "¿Qué pasa si el profesor no envía los criterios a tiempo? ⚠️",
+                "¿Cómo sé si mi calificación cambió después de la revisión? 📝"
+            ],
+            "responses": [
+                "📘 *Procedimiento de revisión*: Según el Artículo 50:\n\n🔹 El Jefe de Departamento solicita al profesor los resultados y criterios de calificación.\n🔹 El profesor tiene **2 días hábiles** para enviar la información.\n🔹 Se verifica que la evaluación cumpla con el reglamento 📝",
+                "🎯 *Transparencia en la revisión*: El proceso asegura que los criterios de calificación sean justos y estén alineados con el reglamento 🎓",
+                "🚨 ¡Atención! Si el profesor no envía los criterios a tiempo, el Jefe de Departamento puede tomar medidas para garantizar tu derecho a una revisión justa ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 50",
+            "topic": "Procedimiento para revisión de evaluación o examen"
+        },
+        {
+            "tag": "revision_evaluacion_resolucion",
+            "patterns": [
+                "¿Quién revisa la evaluación solicitada en nivel superior?",
+                "¿Qué pasa después de solicitar la revisión de una evaluación en nivel medio superior?",
+                "¿Cuánto tiempo tienen los profesores designados para resolver la revisión de una evaluación?",
+                "¿Es definitiva la resolución de la revisión de una evaluación?",
+                "¿Qué se hace con la resolución de la revisión de evaluación?",
+                "Oye, ¿quién decide si mi calificación cambia después de la revisión? 🤔",
+                "¿Qué pasa si los profesores no se ponen de acuerdo en la revisión? ⚠️",
+                "¿Puedo apelar la resolución de la revisión de mi examen? 📝",
+                "¿Quién me notifica el resultado de la revisión? 🖋️"
+            ],
+            "responses": [
+                "📘 *Resolución de revisión*: Según el Artículo 51:\n\n🔹 En **nivel superior**: Tres profesores designados por el Jefe de Departamento revisan el expediente y resuelven en un plazo máximo de **2 días**.\n🔹 En **nivel medio superior**: Tres profesores designados por el Coordinador Académico revisan y envían la resolución al Secretario de Escuela 📝",
+                "🎯 *Definitividad de la resolución*: La decisión es **inapelable** y debe ser firmada por los académicos designados 🎓",
+                "🚨 ¡Atención! Si no estás de acuerdo con la resolución, no hay opción de apelación. Asegúrate de fundamentar bien tu solicitud inicial ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 51",
+            "topic": "Resolución del procedimiento de revisión de evaluación"
+        },
+        {
+            "tag": "notificacion_revision_evaluacion",
+            "patterns": [
+                "¿Cuándo se notifica al alumno el resultado de la revisión de su evaluación?",
+                "¿Quién notifica el resultado de la revisión de evaluación en nivel superior?",
+                "¿Qué plazo tienen para notificar el resultado de la revisión de examen?",
+                "¿Cómo se informa al alumno sobre la resolución de la revisión?",
+                "¿Quién es responsable de notificar el resultado de revisión en nivel medio superior?",
+                "Oye, ¿cuándo me avisan si mi calificación cambió? 📅",
+                "¿Quién me dice el resultado de la revisión? 🖋️",
+                "¿Qué pasa si no me notifican el resultado a tiempo? ⚠️",
+                "¿Dónde puedo consultar el resultado de la revisión? 🖥️"
+            ],
+            "responses": [
+                "📘 *Notificación del resultado*: Según el Artículo 52:\n\n🔹 En **nivel superior**: El Jefe de Departamento notifica al alumno en un plazo máximo de **2 días hábiles**.\n🔹 En **nivel medio superior**: El Secretario de Escuela es responsable de la notificación 📝",
+                "🎯 *Plazo máximo*: Tienes derecho a conocer el resultado de la revisión en un plazo no mayor a **2 días hábiles** después de la resolución 🎓",
+                "🚨 ¡Atención! Si no recibes la notificación en el plazo establecido, contacta al Jefe de Departamento o al Secretario de Escuela para seguimiento ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 52",
+            "topic": "Notificación del resultado de revisión de evaluación"
+        },
+        {
+            "tag": "justificacion_inasistencias",
+            "patterns": [
+                "¿Cuáles son las causas para justificar faltas de asistencia?",
+                "¿Qué motivos pueden justificar la inasistencia a clases?",
+                "¿Cuál es el porcentaje máximo de faltas justificables?",
+                "¿Se pueden justificar faltas por enfermedad?",
+                "¿Qué sucede si un alumno falta por causa de fuerza mayor?",
+                "Oye, ¿puedo justificar faltas si me enfermo? 🤒",
+                "¿Qué pasa si falto por un problema familiar grave? ⚠️",
+                "¿Cuántas faltas puedo justificar en un semestre? 📅",
+                "¿Necesito un comprobante para justificar mis faltas? 📝"
+            ],
+            "responses": [
+                "📘 *Causas para justificar faltas*: Según el Artículo 53:\n\n🔹 **Enfermedad**: Con comprobante médico.\n🔹 **Comisiones universitarias**: Autorizadas por el Coordinador de Carrera o Director de Escuela.\n🔹 **Fuerza mayor**: Justificada ante las autoridades académicas 📝",
+                "🎯 *Límite de faltas justificables*: No puedes exceder el **20%** del total de horas de la materia, salvo casos excepcionales 🎓",
+                "🚨 ¡Atención! Si superas el límite de faltas justificables, podrías perder el derecho a evaluación. Planifica bien tus ausencias ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 53",
+            "topic": "Causas y límites para justificar faltas de asistencia"
+        },
+        {
+            "tag": "procedimiento_justificar_faltas",
+            "patterns": [
+                "¿Cómo puedo justificar mis faltas de asistencia?",
+                "¿Cuál es el proceso para justificar faltas?",
+                "¿A quién debo presentar la documentación para justificar faltas?",
+                "¿Qué porcentaje máximo de faltas se puede justificar en casos excepcionales?",
+                "¿Puedo justificar más del 20% de mis faltas?",
+                "Oye, ¿qué hago si falto por enfermedad? 🤒",
+                "¿A quién le entrego los papeles para justificar mis faltas? 🖋️",
+                "¿Qué pasa si falto mucho por un problema grave? ⚠️",
+                "¿Puedo justificar faltas si tengo un comprobante médico? 📝"
+            ],
+            "responses": [
+                "📘 *Procedimiento para justificar faltas*: Según el Artículo 54:\n\n🔹 Presenta la documentación (comprobante médico, etc.) al **Coordinador de Carrera** (nivel superior) o al **Director de Escuela** (nivel medio superior).\n🔹 Debes hacerlo dentro de los **5 días hábiles** después de reanudar tus estudios 📝",
+                "🎯 *Excepciones*: En casos graves, el Coordinador de Carrera o Director de Escuela puede justificar hasta el **35%** de las horas de la materia 🎓",
+                "🚨 ¡Atención! Si no justificas tus faltas a tiempo, podrías perder el derecho a evaluación. Actúa rápido ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 54",
+            "topic": "Procedimiento y excepciones para justificar faltas de asistencia"
+        },
+        {
+            "tag": "acuerdo_evaluacion_inasistencia",
+            "patterns": [
+                "¿Qué pasa si falto el día de un examen?",
+                "¿Qué hago si no puedo asistir el día de un medio de evaluación?",
+                "¿Puedo presentar un examen después si mi inasistencia fue justificada?",
+                "¿Cómo se reprograma un examen si no asistí por una causa justificada?",
+                "¿Qué hago si falto el día de una evaluación importante?",
+                "Oye, ¿qué pasa si me enfermo el día del examen? 🤒",
+                "¿Puedo hacer el examen otro día si falto por un problema grave? ⚠️",
+                "¿Cómo me pongo de acuerdo con el profesor para reprogramar el examen? 🤔",
+                "¿Qué necesito para justificar mi falta a un examen? 📝"
+            ],
+            "responses": [
+                "📘 *Reprogramación de evaluaciones*: Según el Artículo 55:\n\n🔹 Si faltas a un examen por una causa justificada, debes **acordar con el profesor** una nueva fecha y hora para presentarlo.\n🔹 Asegúrate de presentar la documentación que justifique tu inasistencia 📝",
+                "🎯 *Derecho del alumno*: Si tu falta está justificada, tienes derecho a presentar el examen en una fecha reprogramada 🎓",
+                "🚨 ¡Atención! Si no justificas tu falta a tiempo, podrías perder la oportunidad de presentar el examen. Contacta a tu profesor lo antes posible ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 55",
+            "topic": "Reprogramación de medios de evaluación en caso de inasistencia justificada"
+        },
+        {
+            "tag": "evaluacion_estudios_incorporados",
+            "patterns": [
+                "¿Cómo se aplican las evaluaciones en instituciones con estudios incorporados a la Universidad de Guadalajara?",
+                "¿Las instituciones con estudios incorporados siguen el reglamento de evaluación de la UdeG?",
+                "¿Se aplican los exámenes de acreditación de competencias en estudios incorporados?",
+                "¿Qué normas rigen la evaluación en instituciones incorporadas a la UdeG?",
+                "¿Qué restricciones tienen los exámenes de competencias en escuelas incorporadas?",
+                "Oye, ¿las escuelas incorporadas siguen las mismas reglas de evaluación? 🤔",
+                "¿Puedo acreditar materias por competencias si estudio en una escuela incorporada? 📚",
+                "¿Qué pasa si mi escuela no sigue el reglamento de evaluación de la UdeG? ⚠️",
+                "¿Las evaluaciones en escuelas incorporadas son iguales que en la UdeG? 🎓"
+            ],
+            "responses": [
+                "📘 *Evaluación en instituciones incorporadas*: Según el Artículo 56:\n\n🔹 Las escuelas incorporadas deben seguir el reglamento de evaluación de la UdeG.\n🔹 Sin embargo, **no pueden aplicar exámenes de acreditación de competencias** 📝",
+                "🎯 *Normativas*: Las instituciones incorporadas están obligadas a cumplir con los lineamientos de evaluación establecidos por la UdeG 🎓",
+                "🚨 ¡Atención! Si tu escuela no sigue el reglamento de evaluación, puedes reportarlo a las autoridades universitarias ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 56",
+            "topic": "Evaluación en instituciones con estudios incorporados"
+        },
+        {
+            "tag": "normas_evaluacion_incorporados",
+            "patterns": [
+                "¿Qué normas rigen las evaluaciones en instituciones incorporadas a la UdeG?",
+                "¿Quién establece las normas para diseñar evaluaciones en estudios incorporados?",
+                "¿Qué papel tiene la Secretaría Académica en las evaluaciones de instituciones incorporadas?",
+                "¿Cómo se regulan las evaluaciones en el Sistema de Educación Media Superior para estudios incorporados?",
+                "¿Qué normas técnico-pedagógicas aplican a las instituciones incorporadas?",
+                "Oye, ¿las escuelas incorporadas tienen que seguir las mismas reglas de evaluación? 🤔",
+                "¿Quién decide cómo se hacen los exámenes en las escuelas incorporadas? 🖋️",
+                "¿Qué pasa si una escuela incorporada no sigue las normas de evaluación? ⚠️",
+                "¿Las evaluaciones en escuelas incorporadas son iguales que en la UdeG? 🎓"
+            ],
+            "responses": [
+                "📘 *Normas técnico-pedagógicas*: Según el Artículo 57:\n\n🔹 La **Secretaría Académica** de los Centros Universitarios y del Sistema de Educación Media Superior establece las normas para diseñar evaluaciones en instituciones incorporadas.\n🔹 Estas normas garantizan que las evaluaciones cumplan con los estándares de la UdeG 📝",
+                "🎯 *Responsabilidad*: Las escuelas incorporadas deben seguir las normas técnico-pedagógicas establecidas por la UdeG para asegurar la calidad de las evaluaciones 🎓",
+                "🚨 ¡Atención! Si una escuela incorporada no cumple con las normas, puede enfrentar sanciones o la cancelación de su incorporación ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 57",
+            "topic": "Normas técnico-pedagógicas para estudios incorporados"
+        },
+        {
+            "tag": "inspeccion_evaluaciones_incorporados",
+            "patterns": [
+                "¿Puede la UdeG enviar inspectores a las evaluaciones de estudios incorporados?",
+                "¿Qué verifica un inspector de la UdeG en exámenes de instituciones incorporadas?",
+                "¿Cuál es la función de un inspector en evaluaciones de estudios incorporados?",
+                "¿Qué información deben enviar las instituciones incorporadas a la UdeG sobre sus profesores?",
+                "¿Cómo regula la UdeG la calidad de las evaluaciones en estudios incorporados?",
+                "Oye, ¿puede la UdeG revisar los exámenes de mi escuela incorporada? 🤔",
+                "¿Qué pasa si un inspector encuentra irregularidades en las evaluaciones? ⚠️",
+                "¿Las escuelas incorporadas tienen que enviar la lista de profesores a la UdeG? 📝",
+                "¿Qué verifica un inspector en los exámenes de una escuela incorporada? 🎓"
+            ],
+            "responses": [
+                "📘 *Inspección de evaluaciones*: Según el Artículo 58:\n\n🔹 La UdeG puede enviar inspectores para verificar la calidad de las evaluaciones en instituciones incorporadas.\n🔹 Los inspectores revisan la identidad de los sustentantes, la calidad de las evaluaciones y la presencia de los profesores designados.\n🔹 Las escuelas deben enviar la lista de profesores al inicio de cada ciclo escolar 📝",
+                "🎯 *Función del inspector*: Asegurar que las evaluaciones cumplan con los estándares de la UdeG y que no haya irregularidades 🎓",
+                "🚨 ¡Atención! Si un inspector encuentra irregularidades, la escuela incorporada puede enfrentar sanciones o la cancelación de su incorporación ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 58",
+            "topic": "Inspección de evaluaciones en estudios incorporados"
+        },
+        {
+            "tag": "envio_actas_estudios_incorporados",
+            "patterns": [
+                "¿Qué deben hacer las instituciones con estudios incorporados con las actas de calificaciones?",
+                "¿A dónde se envían las actas de calificaciones en estudios incorporados?",
+                "¿Qué plazos tienen las instituciones incorporadas para remitir las actas de calificaciones?",
+                "¿Qué regulaciones aplican a las actas de calificaciones de estudios incorporados?",
+                "¿Dónde se entregan las actas de calificaciones de instituciones con estudios incorporados?",
+                "Oye, ¿las escuelas incorporadas tienen que enviar las calificaciones a la UdeG? 🤔",
+                "¿Qué pasa si una escuela no envía las actas de calificaciones a tiempo? ⚠️",
+                "¿Dónde se entregan las calificaciones de las escuelas incorporadas? 🖋️",
+                "¿Qué plazos tienen las escuelas incorporadas para enviar las actas? 📅"
+            ],
+            "responses": [
+                "📘 *Envío de actas de calificaciones*: Según el Artículo 59:\n\n🔹 Las instituciones incorporadas deben enviar las actas de calificaciones a la **Coordinación de Control Escolar** (nivel superior) o a la **Dirección de Trámite y Control Escolar** (nivel medio superior).\n🔹 Deben cumplir con los plazos establecidos en los artículos 22 y 28 del reglamento 📝",
+                "🎯 *Responsabilidad*: Las escuelas incorporadas deben asegurar que las actas se envíen de manera oportuna y cumplan con los requisitos de la UdeG 🎓",
+                "🚨 ¡Atención! Si una escuela no envía las actas a tiempo, puede enfrentar sanciones o la cancelación de su incorporación ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 59",
+            "topic": "Envío de actas de calificaciones por instituciones incorporadas"
+        },
+        {
+            "tag": "documento_indicativo_evaluacion",
+            "patterns": [
+                "¿Qué documento emitirá la Coordinación General Académica sobre evaluación?",
+                "¿Cuál es el propósito del documento indicativo sobre evaluación?",
+                "¿Con qué frecuencia se actualiza el documento de evaluación de la Coordinación General Académica?",
+                "¿Qué artículos mencionan el uso del documento indicativo para criterios de evaluación?",
+                "¿Cómo deben usar los Colegios Departamentales y Academias el documento de evaluación?",
+                "Oye, ¿qué es el documento indicativo de evaluación? 🤔",
+                "¿Para qué sirve el documento de la Coordinación General Académica? 📝",
+                "¿Qué pasa si no se sigue el documento indicativo en las evaluaciones? ⚠️",
+                "¿Dónde puedo consultar el documento indicativo sobre evaluación? 🖥️"
+            ],
+            "responses": [
+                "📘 *Documento indicativo sobre evaluación*: Según el Artículo 60:\n\n🔹 La **Coordinación General Académica** emite un documento que sirve como referencia para los Colegios Departamentales y Academias.\n🔹 Este documento se actualiza de manera sistemática y es clave para definir los criterios de evaluación mencionados en los artículos 10 y 11 del reglamento 📝",
+                "🎯 *Propósito*: Garantizar que las evaluaciones sean justas, transparentes y alineadas con los objetivos académicos de la UdeG 🎓",
+                "🚨 ¡Atención! Si no se sigue el documento indicativo, las evaluaciones podrían ser cuestionadas. Asegúrate de que tus profesores lo utilicen ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 60",
+            "topic": "Documento indicativo sobre evaluación"
+        },
+        {
+            "tag": "autorizacion_pago_posterior",
+            "patterns": [
+                "¿Quién puede autorizar el pago posterior al examen?",
+                "¿En qué artículo se menciona la posibilidad de pagar después de presentar un examen?",
+                "¿Qué pasa si no se presenta el comprobante de pago en los plazos establecidos?",
+                "¿Cómo se notifica la autorización para el pago posterior al examen?",
+                "¿Qué relación tiene el pago con la validez de la calificación del examen?",
+                "Oye, ¿puedo pagar después de presentar un examen? 💰",
+                "¿Qué pasa si no pago a tiempo después del examen? ⚠️",
+                "¿Quién decide si puedo pagar después del examen? 🖋️",
+                "¿Dónde se publica la autorización para pagar después del examen? 📝"
+            ],
+            "responses": [
+                "📘 *Pago posterior al examen*: Según el Artículo 61:\n\n🔹 El **Rector General** puede autorizar que el pago del arancel se realice después de presentar el examen.\n🔹 Esta autorización se publica en la **Gaceta Universitaria**.\n🔹 La calificación estará condicionada al pago y presentación del comprobante en los plazos establecidos 📝",
+                "🎯 *Condiciones*: Si no pagas o presentas el comprobante a tiempo, la calificación del examen será **nula** 🎓",
+                "🚨 ¡Atención! Asegúrate de cumplir con los plazos de pago para que tu calificación sea válida ⚠️"
+            ],
+            "document": "Reglamento General de Evaluación y Promoción de Alumnos",
+            "article": "Artículo 61",
+            "topic": "Pago posterior a la presentación del examen"
+        }
+    ]
+}
